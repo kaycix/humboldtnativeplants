@@ -1,0 +1,55 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+html {
+	font-size: 15px;
+	background-color: #f2f3f3;
+	color: #000;
+}
+
+html h1, h2, h3, h4, h5, h6 {
+	color: #6e6e73;
+}
+
+html .masthead #site-title {
+	font-weight: 400;
+}
+
+html h1#page-title {
+	margin: 15px 0;
+	font-weight: 600;
+	text-align: center;
+	color: RGB(24, 136, 136);
+	font-size: 2em;
+}
+
+html h6 {
+	font-weight: 500;
+	text-transform: uppercase; 
+}
+
+html body {
+	color: #444;
+}
+
+html body .site-title {
+	font-weight: 500;
+}
+
+html .masthead {
+	background-color:#FFF;
+}
+
+html .masthead .site-title-wrapper {
+	min-width: 150px;
+}
+
+html .masthead .visible-links {
+	overflow: visible;
+}
