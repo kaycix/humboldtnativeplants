@@ -4,7 +4,10 @@ top_level_category: "Sun-loving Perennials"
 permalink: /plants/erigeron_glaucus
 title: ""
 common_name: "Seaside Daisy"
-sun_requirements: "Full Sun"
-calscape_link: "https://calscape.org/Achillea-millefolium-(Common-Yarrow)"
+scientific_name: "Erigeron Glaucus"
+sun_requirements:
+  - "Full Sun"
+  - "Part Shade"
+calscape_link: "https://calscape.org/loc-California/Seaside%20Daisy%20(Erigeron%20glaucus)"
 ---
 

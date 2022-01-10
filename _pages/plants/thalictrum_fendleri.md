@@ -4,7 +4,10 @@ top_level_category: "Shade-loving Perennials"
 permalink: /plants/thalictrum_fendleri
 title: ""
 common_name: "Foothill Meadow Rue"
-sun_requirements: "Full Sun"
-calscape_link: "https://calscape.org/Achillea-millefolium-(Common-Yarrow)"
+scientific_name: "Thalictrum fendleri"
+sun_requirements:
+  - "Shade"
+  - "Part Shade"
+calscape_link: "https://calscape.org/loc-California/thalictrum%20fendleri(%20)"
 ---
 

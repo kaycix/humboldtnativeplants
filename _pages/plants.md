@@ -12,7 +12,10 @@ title: ""
    <h6> {{ category.name }} </h6>
    <ul>
       {% for item in category.items %}
-         <li><a href="{{ item.permalink }}" target="_blank">{{item.common_name}}</a></li>
+      	<li>
+		<a href="{{ item.permalink }}" target="_blank">{{item.common_name}}</a>
+		<span class="scientific_name">({{item.scientific_name}})</span>
+	</li>
       {% endfor %}
    </ul>
 {% endfor %}

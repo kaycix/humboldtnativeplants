@@ -4,7 +4,9 @@ top_level_category: "Shade-loving Perennials"
 permalink: /plants/boykinia_occidentalis
 title: ""
 common_name: "Western Boykinia"
-sun_requirements: "Full Sun"
-calscape_link: "https://calscape.org/Achillea-millefolium-(Common-Yarrow)"
+scientific_name: "Boykinia Occidentalis"
+sun_requirements:
+  - "Part Shade"
+calscape_link: "https://calscape.org/Boykinia-occidentalis-()"
 ---
 

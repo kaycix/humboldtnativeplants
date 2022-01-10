@@ -1,11 +1,12 @@
 ---
 layout: archive
 ---
-<h6>Plant detail page</h6>
-Name:{{page.common_name}}
+<div class="plant_header" style="margin-bottom:10px">
+	<h6>{{page.common_name}}</h6>
+	{{page.scientific_name}}
+</div>
+Sun requirements: {{page.sun_requirements | join: ", "}}
 <br/>
-Sun requirements: {{page.sun_requirements}}
-<br/>
-Calscape link: <a href="{{page.calscape_link}}" target="_blank">here</a>
+View on <a href="{{page.calscape_link}}" target="_blank">Calscape</a>.
 {{ content }}
 

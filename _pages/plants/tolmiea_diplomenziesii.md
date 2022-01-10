@@ -4,8 +4,12 @@ top_level_category: "Shade-loving Perennials"
 permalink: /plants/tolmiea_diplomenziesii
 title: ""
 common_name: "Piggyback Plant"
-sun_requirements: "Full Sun"
-calscape_link: "https://calscape.org/Achillea-millefolium-(Common-Yarrow)"
+scientific_name: "Tolmiea Diplomenziesii"
+# very little info on this plant, not sure on sun requirements
+sun_requirements:
+  - "Full Shade"
+  - "Part Shade"
+calscape_link: "https://calscape.org/loc-California/Tolmiea%20diplomenziesii(%20)"
 ---
 
 

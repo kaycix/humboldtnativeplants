@@ -4,8 +4,11 @@ top_level_category: "Shade-loving Perennials"
 permalink: /plants/tiarella_trifoliata
 title: ""
 common_name: "Sugar Scoop"
-sun_requirements: "Full Sun"
-calscape_link: "https://calscape.org/Achillea-millefolium-(Common-Yarrow)"
+scientific_name: "Tiarella trifoliata"
+sun_requirements:
+  - "Shade"
+  - "Part Shade"
+calscape_link: "https://calscape.org/loc-California/Sugar%20Scoop%20(Tiarella%20trifoliata)"
 ---
 
 

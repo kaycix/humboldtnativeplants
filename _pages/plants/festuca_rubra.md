@@ -5,7 +5,10 @@ top_level_category: "Grasses"
 permalink: /plants/festuca_rubra
 title: ""
 common_name: "Red Fescue"
-sun_requirements: "Full Sun"
-calscape_link: "https://calscape.org/Festuca-californica-(California-Fescue)"
+scientific_name: "Festuca rubra"
+sun_requirements:
+  - "Full Sun"
+  - "Part Shade"
+calscape_link: "https://calscape.org/loc-California/Festuca%20rubra%20(Red%20Fescue)"
 ---
 
