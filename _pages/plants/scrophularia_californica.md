@@ -1,0 +1,14 @@
+---
+layout: plant                                                              
+top_level_category: "Sun-loving Perennials"
+permalink: /plants/scrophularia_californica
+title: ""
+common_name: "California Bee Plant"
+scientific_name: "Scrophularia californica"
+# cal scape says part shade only
+sun_requirements:
+  - "Full Sun"
+  - "Part Shade"
+calscape_link: "https://calscape.org/loc-California/Scrophularia%20californica%20(Bee%20Plant)"
+---
+

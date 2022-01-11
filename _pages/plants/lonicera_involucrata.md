@@ -1,0 +1,13 @@
+---
+layout: plant                                                              
+top_level_category: "Shrubs & Trees"
+permalink: /plants/lonicera_involucrata
+title: ""
+common_name: "Twinberry"
+scientific_name: "Lonicera Involucrata"
+sun_requirements:
+  - "Full Sun"
+  - "Part Shade"
+calscape_link: "https://calscape.org/loc-California/Lonicera%20involucrata(%20)"
+---
+
