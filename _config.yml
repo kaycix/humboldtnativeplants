@@ -6,5 +6,5 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 title                    : "Humboldt County Native Plants"
 name                     : "Humboldt County Native Plants"
-
-include: ["_pages"]
+baseurl                  : /humboldtnativeplants
+include                  : ["_pages"]
