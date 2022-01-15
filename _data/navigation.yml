@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /
-  - title: "Plants"
-    url: /plants
-  - title: "Plant Care"
-    url: /plant_care
+  - title: "Contribute"
+    url: /contribute
+  - title: "Contact"
+    url: /contact
