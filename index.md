@@ -12,6 +12,14 @@ title: ""
 				Where to Purchase Native Plants
 			</a>
 		</li>
+		<li>
+			<a href="{{"/conservation/eco-anxiety" | prepend:site.baseurl }}">
+			How to Manage Eco-Anxiety
+			</a>
+		</li>
+		<li>	
+			Take Action Today
+		</li>
 		<li>How to be a Native Plant Advocate</li>
 	</ul>		
 </div>
