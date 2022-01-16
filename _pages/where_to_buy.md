@@ -6,17 +6,30 @@ title: "Where to Purchase Native Plants"
 <div class="nurseries">
 	<h3>Where to Purchase Native Plants</h3>
 
-	{% assign nurseries_folder = site.pages | where_exp: "item" , "item.path contains '/nurseries/'" %}
-	{% assign nurseries_map = nurseries_folder | sort:"name" %}
+	{% include nursery.html 
+		business_name= "Lost Foods Nursery"
+		address= "3750 Harris Street, Gate 3. Eureka, CA 95503." 
+		link= ""
+	%}
+	
+	{% include nursery.html 
+		business_name= "Mattole Restoration Council Native Plant Nursery"
+		address= "Located on the corner of Old Coast Wagon Road and the Mattole road between the Mattole river and downtown Petrolia." 
+		link= ""
+	%}
 
-	<ul>
-	{% for nursery in nurseries_map %}
-	<li>{{nursery.business_name}}
-	<br/>
-	{{nursery.address}}
-	</li>
-	{% endfor %}
-	</ul>
+	
+	{% include nursery.html 
+		business_name= "California Native Plant Society (CNPS) North Coast Chapter Nursery"
+		address= "5851 Mrytle Ave, Eureka, CA 95503"
+		link= ""
+	%}
+	
+	{% include nursery.html 
+		business_name= "Samara Restoration"
+		address= "5260 Dows Prairie Road, McKinleyville, CA 95519"
+		link= ""
+	%}
 </div>
 
 <div class="nurseries">
