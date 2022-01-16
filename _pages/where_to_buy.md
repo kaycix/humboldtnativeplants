@@ -34,16 +34,14 @@ title: "Where to Purchase Native Plants"
 
 <div class="nurseries">
 	<h3>Where to Purchase Seeds</h3>
-
-	{% assign seeds_folder = site.pages | where_exp: "item" , "item.path contains '/seed_sources/'" %}
-	{% assign seeds_map = seeds_folder | sort:"name" %}
-
-	<ul>
-	{% for seeds in seeds_map %}
-	<li>{{seeds.business_name}}
-	<br/>
-	<a href="{{seeds.website}}" target="_blank">{{seeds.website}}</a>
-	</li>
-	{% endfor %}
-	</ul>
+	
+	{% include seed_source.html 
+		business_name= "Klamath Siskiyou Seeds"
+		link= "https://klamathsiskiyouseeds.com"
+	%}
+	
+	{% include seed_source.html 
+		business_name= "Larner Seeds"
+		link= "https://larnerseeds.com"
+	%}
 </div>
