@@ -1,5 +1,11 @@
-<p class="seed_source">
-{{include.business_name}}
-<br/>{{include.link}}
-</p>
+<div class="seed_source">
+	<img src=
+		"{{include.image | prepend:site.baseurl }}"
+	/>
+	<h3>{{include.business_name}}</h3>
+	<address>{{include.address}}</address>
+	<div class="business_link">
+		<a href="{{include.link}}" target="_blank">View Website</a>
+	</div>
+</div>
 

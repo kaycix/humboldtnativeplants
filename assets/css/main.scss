@@ -55,20 +55,14 @@ html .masthead .visible-links {
 }
 
 
-.nursery-container .nursery {
+.nursery-container .nursery,
+.seed-container .seed_source {
 	background-color: white;
-	margin-bottom: 10px;
-	min-height: 250px;
-	padding: 20px 30px;
-}
-
-.seed-container {
-	background-color: white;
-	padding: 20px 30px;
-}
-
-.nursery-container .nursery {
 	float: left;
+	margin-bottom: 10px;
 	margin-right: 30px;
+	min-height: 350px;
+	padding: 20px 30px;
 	width: 300px;
 }
+
