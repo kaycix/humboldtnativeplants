@@ -27,7 +27,11 @@ title: ""
 <div>
 	<h1><a href="{{"/connection" | prepend:site.baseurl }}">Connection</a></h1>
 	<ul>
-		<li>Volunteer Opportunities</li>
+		<li>
+			<a href="{{"/connection/volunteer" | prepend:site.baseurl }}">
+			Volunteer Opportunities
+			</a>
+		</li>
 		<li>Walks</li>
 		<li>Share Your Native Plant Knowledge</li>
 	</ul>

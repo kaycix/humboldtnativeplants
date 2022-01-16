@@ -10,7 +10,9 @@ title: ""
 	
 
 $(document).ready(function() {
-	$('.test_table').DataTable();
+	$('.plant_table').DataTable({
+		"pageLength" : 50
+	});
 } );
 
 </script>
@@ -20,12 +22,13 @@ $(document).ready(function() {
 {% assign plants_folder = site.pages | where_exp: "item" , "item.path contains '/plants/'" %}
 
 {% assign plants_map = plants_folder | group_by:"top_level_category" | sort:"name" %}
-<table class="test_table" style="width:100%">
+<table class="plant_table" style="width:100%">
 	<thead>
 		<tr>
 			<th>Common Name</th>
 			<th>Scientific Name</th>
-			<th>Type</th>
+			<th>Category</th>
+			<th>Calscape</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -39,6 +42,7 @@ $(document).ready(function() {
 		<span class="scientific_name">{{item.scientific_name}}</span>
 		</td>
 		<td>{{category.name}}</td>
+		<td><a href="{{item.calscape_link}}" target="_blank">View on Calscape</a></td>
 	</tr>
       {% endfor %}
 {% endfor %}

@@ -53,3 +53,22 @@ html .masthead .site-title-wrapper {
 html .masthead .visible-links {
 	overflow: visible;
 }
+
+
+.nursery-container .nursery {
+	background-color: white;
+	margin-bottom: 10px;
+	min-height: 250px;
+	padding: 20px 30px;
+}
+
+.seed-container {
+	background-color: white;
+	padding: 20px 30px;
+}
+
+.nursery-container .nursery {
+	float: left;
+	margin-right: 30px;
+	width: 300px;
+}

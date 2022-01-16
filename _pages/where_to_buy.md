@@ -1,11 +1,10 @@
 ---
 layout: home                                                            
 permalink: /where_to_buy
-title: "Where to Purchase Native Plants"
+title: ""
 ---
-<div class="nurseries">
-	<h3>Where to Purchase Native Plants</h3>
-
+<h2>Where to Purchase Native Plants</h2>
+<div class="nursery-container">
 	{% include nursery.html 
 		business_name= "Lost Foods Nursery"
 		address= "3750 Harris Street, Gate 3. Eureka, CA 95503." 
@@ -30,10 +29,11 @@ title: "Where to Purchase Native Plants"
 		address= "5260 Dows Prairie Road, McKinleyville, CA 95519"
 		link= ""
 	%}
+	<div style="clear:both"></div>
 </div>
 
-<div class="nurseries">
-	<h3>Where to Purchase Seeds</h3>
+<h2>Where to Purchase Seeds Online</h2>
+<div class="seed-container">
 	
 	{% include seed_source.html 
 		business_name= "Klamath Siskiyou Seeds"
