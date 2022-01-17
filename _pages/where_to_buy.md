@@ -5,12 +5,12 @@ title: ""
 ---
 <h2>Where to Purchase Native Plants</h2>
 <p>
-These native plant nurseries are dedicated to preserving and spreading the unique and beautiful  native plants of Humboldt County. They are also wonderful resources for all things native plant-related and often extremeley helpful in selecting the right plants for your location.
+These native plant nurseries are dedicated to preserving and spreading the unique and beautiful  native plants of Humboldt County. Their employees and volunteers are also valuable resources for helping you select the right plants for your specific landscape. 
 </p>
 <div class="nursery-container">
 	
 	{% include nursery.html 
-		business_name= "California Native Plant Society (CNPS) North Coast Chapter Nursery"
+		business_name= "California Native Plant Society, North Coast Chapter Nursery"
 		image= "/assets/images/cnps_northcoast_nursery.jpg" 
 		address= "5851 Mrytle Ave, Eureka, CA 95503"
 		link= "https://northcoastcnps.org/index.php/nursery"
@@ -40,7 +40,7 @@ These native plant nurseries are dedicated to preserving and spreading the uniqu
 	<div style="clear:both"></div>
 </div>
 <p>
-Other local nurseries sometimes carry native plants but may not distinguish between California Native Plants and Humboldt County Native Plants. However, it doesn't hurt to ask - asking may prompt them to take some interest in promoting native plants.
+Other local nurseries may carry native plants but often don't distinguish between California Native Plants and Humboldt County Native Plants. However, it doesn't hurt to ask - asking may prompt them to take some interest in promoting native plants.
 </p>
 
 <h2>Where to Purchase Seeds Online</h2>
