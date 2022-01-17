@@ -13,7 +13,7 @@ title: "Volunteer Opportunities"
 
 {% include volunteer_opportunity.html 
 	business_name= "CNPS North Coast"
-	image= "/assets/images/cnps_northcoast.png"
+	image= "/assets/images/cnps_northcoast.jpg"
 	description= "Help to spread critically important native plants by volunteering in our nursery. Nursery work involves all aspects of growing the plants that we offer at our plant sales as well as maintaining our demonstration garden/living seed bank."
 	link= "https://northcoastcnps.org/index.php/get-involved/volunteer-at-the-nursery"
 %}
