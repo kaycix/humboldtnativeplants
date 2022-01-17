@@ -3,39 +3,51 @@ layout: home
 permalink: /connection/volunteer
 title: "Volunteer Opportunities"
 ---
+These organizations could use your help in conservation and restoration work. Most volunteer positions are extremely beginner-friendly and provide any tools and training.Contact them for more information today. ` 
 
 {% include volunteer_opportunity.html 
 	business_name= "CA Dept of Parks and Recreation"
 	image= "/assets/images/ca_department_of_parks_and_recreation.png" 
-	description= "Whether it’s native plant management to invasive ivy removal, monitoring, and trail cleanups, natural resource volunteers support the health of our State Parks and gain valuable professional experience." 
+	description= "Volunteer Opportunities include native plant management, invasive ivy removal, monitoring trails, trail cleanup, and more."
 	link= "https://www.parks.ca.gov/?page_id=30532"
 %}
 
 {% include volunteer_opportunity.html 
-	business_name= "CNPS North Coast"
+	business_name= "California Native Plant Society, North Coast Chapter"
+	location= "Freshwater Farms Reserve, Eureka, CA"
 	image= "/assets/images/cnps_northcoast.jpg"
-	description= "Help to spread critically important native plants by volunteering in our nursery. Nursery work involves all aspects of growing the plants that we offer at our plant sales as well as maintaining our demonstration garden/living seed bank."
+	description= "Volunteer Opportunities include joining the Nursery Committee, growing native plants and maintaining the native plant living seed bank."
 	link= "https://northcoastcnps.org/index.php/get-involved/volunteer-at-the-nursery"
 %}
 
 {% include volunteer_opportunity.html 
 	business_name= "Friends of the Dunes"
 	image= "/assets/images/friends_of_the_dunes.jpg" 
-	description= "Volunteer opportunities encompass becoming an Environmental Educator, joining the Dune Ecosystem Restoration Team and Drop-In Native Landscaping"
+	description= "Volunteer Opportunities include becoming an Environmental Educator, joining the Dune Ecosystem Restoration Team and Drop-In Native Landscaping"
 	link= "https://www.friendsofthedunes.org/volunteer"
 %}
 
 {% include volunteer_opportunity.html 
 	business_name= "Trinidad Coastal Land Trust"
+	location = "Trinidad, CA"
 	image= "/assets/images/trinidad_coastal_land_trust.png" 
-	description= "There are several opportunities for volunteers to make a difference, whether it is native plant gardening, land stewardship and many more."
+	description= "Volunteer Opportunities include native plant gardening, land stewardship and many more."
 	link= "https://www.trinidadcoastallandtrust.org/volunteer--program-interest-sign-up.html"
 %}
 
 {% include volunteer_opportunity.html 
+	business_name= "Friends of the Arcata Marsh"
+	location = "Arcata, CA"
+	image= "/assets/images/friends_of_the_arcata_marsh.png"
+	description= "Volunteer Opportunities include invasive plant removal, nature crafts, working with children, coordinating events and more." 
+	link= "https://www.arcatamarshfriends.org/join-us/volunteer/"
+%}
+
+{% include volunteer_opportunity.html 
 	business_name= "North Coast Regional Land Trust"
+	location = "Freshwater Farms Reserve, Eureka, CA"
 	image= "/assets/images/northcoast_regional_land_trust.png"
-	description= "Your helping hands are needed for trail work and restoration at Freshwater Farms Reserve. We are always looking for volunteers to help us monitor the properties under our responsibility."
+	description= "Volunteer Opportunities include trail work and restoration at Freshwater Farms Reserve."
 	link= "https://ncrlt.org/waystohelp"
 %}
 
