@@ -5,6 +5,7 @@ permalink: /plants/lonicera_involucrata
 title: ""
 common_name: "Twinberry"
 scientific_name: "Lonicera Involucrata"
+plant_id: 07ebd
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

@@ -5,6 +5,7 @@ permalink: /plants/erigeron_glaucus
 title: ""
 common_name: "Seaside Daisy"
 scientific_name: "Erigeron Glaucus"
+plant_id: 694a6
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

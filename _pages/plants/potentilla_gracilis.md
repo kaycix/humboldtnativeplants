@@ -5,6 +5,7 @@ permalink: /plants/potentilla_gracilis
 title: ""
 common_name: "Slender Cinquefoil"
 scientific_name: "Potentilla gracilis"
+plant_id: 025e0
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

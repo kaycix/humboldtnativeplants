@@ -5,6 +5,7 @@ permalink: /plants/arctostaphylos_uva-ursi
 title: ""
 common_name: "Kinnikinnick (Bearberry)"
 scientific_name: "Arctostaphylos uva-ursi"
+plant_id: 6e186
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

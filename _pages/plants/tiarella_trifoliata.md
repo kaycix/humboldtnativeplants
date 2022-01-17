@@ -5,6 +5,7 @@ permalink: /plants/tiarella_trifoliata
 title: ""
 common_name: "Sugar Scoop"
 scientific_name: "Tiarella trifoliata"
+plant_id: 3ada1
 sun_requirements:
   - "Shade"
   - "Part Shade"

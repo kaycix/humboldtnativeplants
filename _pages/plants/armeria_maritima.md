@@ -5,6 +5,7 @@ permalink: /plants/armeria_maritima
 title: ""
 common_name: "Sea Thrift"
 scientific_name: "Ameria Maritima"
+plant_id: 7b482
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

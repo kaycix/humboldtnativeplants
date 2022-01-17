@@ -5,6 +5,7 @@ permalink: /plants/fragaria_chiloensis
 title: ""
 common_name: "Beach Strawberry"
 scientific_name: "Fragaria chiloensis"
+plant_id: 87fc1
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

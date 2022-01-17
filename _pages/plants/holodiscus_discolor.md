@@ -5,6 +5,7 @@ permalink: /plants/holodiscus_discolor
 title: ""
 common_name: "Oceanspray"
 scientific_name: "Holodiscus Discolor"
+plant_id: 75d4e
 sun_requirements:
   - "Shade"
   - "Part Shade"

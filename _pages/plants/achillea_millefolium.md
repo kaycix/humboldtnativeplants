@@ -5,6 +5,7 @@ permalink: /plants/achillea_millefolium
 title: ""
 common_name: "Common Yarrow"
 scientific_name: "Achillea Millefolium"
+plant_id: 28457
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

@@ -5,6 +5,7 @@ permalink: /plants/grindelia_stricta_v_platyphylla
 title: ""
 common_name: "Gumweed"
 scientific_name: "Grindelia stricta v. platyphylla"
+plant_id: c6bcb
 sun_requirements:
   - "Part Shade"
   - "Full Sun"

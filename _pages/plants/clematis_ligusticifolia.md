@@ -5,6 +5,7 @@ permalink: /plants/clematis_ligusticifolia
 title: ""
 common_name: "Virgin’s Bower"
 scientific_name: "Clematis Ligusticifolia"
+plant_id: 490e8
 sun_requirements:
   - "Full Shade"
   - "Part Shade"

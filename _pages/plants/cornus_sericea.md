@@ -5,6 +5,7 @@ permalink: /plants/cornus_sericea
 title: ""
 common_name: "Red Osier Dogwood"
 scientific_name: "Cornus Sericea"
+plant_id: df825
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

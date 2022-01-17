@@ -5,6 +5,7 @@ permalink: /plants/salvia_leucophylla
 title: ""
 common_name: "Purple Sage"
 scientific_name: "Baccharis Pilularis"
+plant_id: e5e11
 sun_requirements:
   - "Full Sun"
 calscape_link: "https://calscape.org/loc-California/Salvia%20leucophylla(%20)"
