@@ -11,9 +11,9 @@ title: ""
 
 {% assign plants_map = annuals | group_by:"top_level_category" | sort:"name" %}
 
-<h5>All Annuals ({{annuals.size}})</h5>
-
-<a href="{{ "/plants/" | prepend:site.baseurl }}">Back to All Plants</a>
+<h5>
+	<a href="{{ "/plants/" | prepend:site.baseurl }}">All Plants</a> > Annuals ({{annuals.size}})
+<h5>
 	
 {% include plants.html 
 	plants= plants_map 
