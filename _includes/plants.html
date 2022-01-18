@@ -1,0 +1,51 @@
+<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js" defer></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+<script type="text/javascript" class="init">
+	
+
+$(document).ready(function() {
+	$('.plant_table').DataTable({
+		"pageLength" : 50
+	});
+} );
+
+</script>
+
+<table class="plant_table" style="width:100%">
+	<thead>
+		<tr>
+			<th>Common Name</th>
+			<th>Scientific Name</th>
+			<th>Category</th>
+			<th>Calscape</th>
+		</tr>
+	</thead>
+	<tbody>
+{% for category in include.plants %}
+      {% for item in category.items %}
+      	<tr>	
+		<td>
+		<a href="{{ item.permalink | prepend:site.baseurl }}">{{item.common_name}}</a>
+		</td>
+		<td>
+		<span class="scientific_name">{{item.scientific_name}}</span>
+		</td>
+		<td>	
+			<a href="{{ "/plants/" | prepend:site.baseurl | append:category.name | replace:" ","_" | downcase }}">
+				{{category.name}}
+			</a>
+		</td>
+		<td>
+			{% if item.calscape_link %}
+				<a href="{{item.calscape_link}}" target="_blank">View on Calscape</a>
+			{% elsif item.calflora_link %}
+				<a href="{{item.calflora_link}}" target="_blank">View on Calflora</a>
+			{% endif %} 
+		</td>
+	</tr>
+      {% endfor %}
+{% endfor %}
+	</tbody>
+</table>
+
