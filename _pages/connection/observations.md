@@ -4,84 +4,242 @@ permalink: /connection/observations
 title: "Observations"
 ---
 
-Lists of Native Plants Observed to Growing Wild
+<p>
+	Have you spotted native plants growing in the wild? Submit them here! These lists can be helpful to those looking for plants that grow well in their area.
+</p>
+<p>
+	Is there an area that you're curious about but don't see listen? Add a request for a specific area to be canvassed by native plant enthusiasts.
+</p>
 
-<p>Have you spotted native plants growing in the wild? Submit them here! These lists can be helpful to those looking for plants that grow well in their area.</p>
-<br/>
-Azalea Reserve
+Arcata
 <ul>
 	<li>
-		Ferns
-	</li>
-	<li>	
-		Thimbleberry
-	</li>
-	<li>	
-		Salmonberry
-	</li>
-	<li>	
-		Columbine
-	</li>
-	<li>	
-		Skunk Cabbage
+		Potawat
 	</li>
 </ul>
 
-Azalea Reserve (Surrounding Areas)
+Eureka
 <ul>
-	<li> 
-		Horsetail
+	<li>
+		Freshwater Farms Reserve
 	</li>
-	<li> 
-		Ferns
+</ul>
+
+McKinleyville
+<ul>
+	<li>
+		Azalea Reserve	
 	</li>
-	<li> 
-		Pink Flowering Currant
+	<li>
+		Azalea Reserve (Surrounding Areas)	
 	</li>
-	<li> 
-		Hazelnut
+	<li>
+		Hammond Trail (North McKinleyville)
 	</li>
-	<li> 
+</ul>
+
+
+<h5>
+	Azalea Reserve
+</h5>
+<table>
+	<tr>
+		<td>
+			Plant
+		</td>
+		<td>
+			Last Spotted:
+		</td>
+		<td>
+			Description (optional):
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Ferns
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Thimbleberry
+		</td>
+		<td>
+			Spring 2021
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Salmonberry
+		</td>
+		<td>
+			Spring 2021
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Columbine
+		</td>
+		<td>
+			Summer 2021
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Skunk Cabbage
+		</td>
+		<td>
+			Summer 2021
+		</td>
+	</tr>
+</table>
+
+<h5>
+	Azalea Reserve (Surrounding Areas)
+</h5>
+<table>
+	<tr>
+		<td>
+			Plant
+		</td>
+		<td>
+			Last Spotted:
+		</td>
+		<td>
+			Description (optional):
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Horsetail
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Ferns
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Pink Flowering Currant
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Hazelnut
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
 		Pink Honeysuckle
-	</li>
-	<li>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
 		Black Elderberry
-	</li>
-	<li>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
 		Blue-Eyed Grass
-	</li>
-	<li>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
 		TwinBerry
-	</li>
-	<li>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
 		Bee Plant
-	</li>
-	<li>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
 		Douglas Iris
-	</li>
-	<li>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Native Blackberry
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
 		Blackberry
-
-	</li>
-	<li>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
 		Coyote Brush
-	</li>
-	<li>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
 		Riverbank Lupine (North Bank Road)
-	</li>
-	<li>
-		Pacific Aster (North Bank Road)
-	</li>
-	<li>
-		Blueblossom (North Bank Road)
-	</li>
-	<li>
-		Blue Flax (North Bank Road)
-	</li>
-	<li>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Pacific Aster
+		</td>
+		<td>
+			Spied on North Bank Road.
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Blueblossom 
+		</td>
+		<td>
+			Spied on North Bank Road.
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Blue Flax 
+		</td>
+		<td>
+			Spied on North Bank Road.
+		</td>
+	</tr>
+	<tr>
+		<td>
 		California Poppy
-	</li>
-</ul>
+		</td>
+		<td>
+		</td>
+	</tr>
+</table>
 
 Hammond Trail (N. McKinleyville)
 <ul>
@@ -113,7 +271,39 @@ Freshwater Farms Reserve
 
 Potawat 
 <ul>
-	<li>Oregon Grape</li>
+	<li>		
+		Pacific Wax Myrtyle
+	</li>
+	<li>		
+		Coyote Bush
+	</li>
+	<li>
+		Sitka Spruce
+	</li>
+	<li>
+		Sword Fern
+	</li>
+	<li>
+		Native Blackberry
+	</li>
+	<li>
+		Lady Fern
+	</li>
+	<li>
+		Tall Flatsedge
+	</li>
+	<li>
+		Salal
+	</li>
+	<li>
+		Coast Silk Tassel
+	</li>
+	<li>
+		Oregon Grape
+	</li>
+	<li>
+		Evergreen Huckleberry
+	</li>
 </ul>
 
 Ma'lel Dunes
