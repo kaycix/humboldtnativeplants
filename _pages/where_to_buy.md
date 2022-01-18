@@ -5,7 +5,7 @@ title: ""
 ---
 <h2>Where to Purchase Native Plants</h2>
 <p>
-These native plant nurseries are dedicated to preserving and spreading the unique and beautiful  native plants of Humboldt County. Their employees and volunteers are also valuable resources for helping you select the right plants for your specific landscape. 
+These nurseries are dedicated to preserving and spreading critically important native plants of Humboldt County. Employees and volunteers of these organizations are also valuable resources for things native plant related.
 </p>
 <div class="nursery-container">
 	
