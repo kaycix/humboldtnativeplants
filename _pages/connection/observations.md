@@ -8,91 +8,85 @@ title: "Observations"
 	Have you spotted native plants growing in the wild? Submit them here! These lists can be helpful to those looking for plants that grow well in their area.
 </p>
 <p>
-	Is there an area that you're curious about but don't see listen? Add a request for a specific area to be canvassed by native plant enthusiasts.
+	Is there an area that you're curious about but don't see listed? Add a request for a specific area to be canvassed by native plant enthusiasts.
 </p>
 
-Arcata
-<ul>
-	<li>
-		Potawat
-	</li>
-</ul>
+<div class="city">
+	<h3>
+		Arcata
+	</h3>
+	<ul>
+		<li>
+			Potawat
+		</li>
+	</ul>
+</div>
 
-Eureka
-<ul>
-	<li>
-		Freshwater Farms Reserve
-	</li>
-</ul>
+<div class="city">
+	<h3>
+		Eureka
+	</h3>
+	<ul>
+		<li>
+			Freshwater Farms Reserve
+		</li>
+	</ul>
+</div>
 
-McKinleyville
-<ul>
-	<li>
-		Azalea Reserve	
-	</li>
-	<li>
-		Azalea Reserve (Surrounding Areas)	
-	</li>
-	<li>
-		Hammond Trail (North McKinleyville)
-	</li>
-</ul>
+
+<div class="city">
+	<h3>
+	McKinleyville
+	</h3>
+	<ul>
+		<li>
+			Azalea Reserve	
+		</li>
+		<li>
+			Azalea Reserve (Surrounding Areas)	
+		</li>
+		<li>
+			Hammond Trail (North McKinleyville)
+		</li>
+	</ul>
+</div>
 
 
 <h5>
 	Azalea Reserve
 </h5>
+
 <table>
 	<tr>
 		<td>
 			Plant
 		</td>
 		<td>
-			Last Spotted:
-		</td>
-		<td>
 			Description (optional):
 		</td>
-	</tr>
-	<tr>
 		<td>
-			Ferns
-		</td>
-		<td>
+			Last Observed:
 		</td>
 	</tr>
-	<tr>
-		<td>
-			Thimbleberry
-		</td>
-		<td>
-			Spring 2021
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Salmonberry
-		</td>
-		<td>
-			Spring 2021
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Columbine
-		</td>
-		<td>
-			Summer 2021
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Skunk Cabbage
-		</td>
-		<td>
-			Summer 2021
-		</td>
-	</tr>
+	{% include observations.html
+		name="Ferns"
+	%}  
+	{% include observations.html
+		name="Thimbleberry"
+		last_spotted = "Spring 2021"
+	%}  
+	{% include observations.html
+		name="Salmonberry"
+		last_spotted = "Spring 2021"
+	%}  
+	{% include observations.html
+		name="Columbine"
+		last_spotted = "Spring 2021"
+	%}  
+	{% include observations.html
+		name="Skunk Cabbage"
+		last_spotted = "Spring 2021"
+	%}  
 </table>
 
 <h5>
@@ -104,141 +98,67 @@ McKinleyville
 			Plant
 		</td>
 		<td>
-			Last Spotted:
-		</td>
-		<td>
 			Description (optional):
 		</td>
-	</tr>
-	<tr>
 		<td>
-			Horsetail
-		</td>
-		<td>
+			Last Observed:
 		</td>
 	</tr>
-	<tr>
-		<td>
-			Ferns
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Pink Flowering Currant
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Hazelnut
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Pink Honeysuckle
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Black Elderberry
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Blue-Eyed Grass
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		TwinBerry
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Bee Plant
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Douglas Iris
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Native Blackberry
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Blackberry
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Coyote Brush
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Riverbank Lupine (North Bank Road)
-		</td>
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Pacific Aster
-		</td>
-		<td>
-			Spied on North Bank Road.
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Blueblossom 
-		</td>
-		<td>
-			Spied on North Bank Road.
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Blue Flax 
-		</td>
-		<td>
-			Spied on North Bank Road.
-		</td>
-	</tr>
-	<tr>
-		<td>
-		California Poppy
-		</td>
-		<td>
-		</td>
-	</tr>
+	{% include observations.html
+		name="Horsetail"
+	%}  
+	{% include observations.html
+		name="Ferns"
+	%}  
+	{% include observations.html
+		name="Pink Flowering Currant"
+	%}  
+	{% include observations.html
+		name="Hazelnut"
+	%}  
+	{% include observations.html
+		name="Pink Honeysuckle"
+	%}  
+	{% include observations.html
+		name="Black Elderberry"
+	%}  
+	{% include observations.html
+		name="Blue-Eyed Grass"
+	%}  
+	{% include observations.html
+		name="TwinBerry"
+	%}  
+	{% include observations.html
+		name="Bee Plant"
+	%}  
+	{% include observations.html
+		name="Douglas Iris"
+	%}  
+	{% include observations.html
+		name="Native Blackberry"
+	%}  
+	{% include observations.html
+		name="Coyote Brush"
+	%}  
+	{% include observations.html
+		name="Riverbank Lupine"
+		description= "along North Bank Rd"
+	%}  
+	{% include observations.html
+		name="Pacific Aster"
+		description= "along North Bank Rd"
+	%}  
+	{% include observations.html
+		name="Blueblossom"
+		description= "along North Bank Rd"
+	%}  
+	{% include observations.html
+		name="Blue Flax"
+		description= "along North Bank Rd"
+	%}  
+	{% include observations.html
+		name="California Poppy"
+	%}  
 </table>
 
 Hammond Trail (N. McKinleyville)

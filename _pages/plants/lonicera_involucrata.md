@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs & Trees"
+top_level_category: "Shrubs"
 permalink: /plants/lonicera_involucrata
 title: ""
 common_name: "Twinberry"

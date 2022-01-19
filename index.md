@@ -40,6 +40,11 @@ title: ""
 			Volunteer Opportunities
 			</a>
 		</li>
+		<li>
+			<a href="{{"/connection/observations" | prepend:site.baseurl }}">
+			Observations 
+			</a>
+		</li>
 	<!--
 		<li>Walks</li>
 		<li>Share Your Native Plant Knowledge</li>
@@ -52,7 +57,7 @@ title: ""
 	<ul>
 		<li>
 			<a href="{{"/plants" | prepend:site.baseurl }}">
-				Browse Native Plants by Size, Color, and more.
+				Browse Native Plants 
 			</a>
 		</li>
 	<!--
@@ -66,7 +71,7 @@ title: ""
 	<ul>
 		<li>
 			<a href="{{"/plants" | prepend:site.baseurl }}">
-				Browse Native Plants by Size, Color, etc.
+				Browse Native Plants
 			</a>
 		</li>
 	</ul>
