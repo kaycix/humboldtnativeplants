@@ -10,5 +10,9 @@ sun_requirements:
   - "Full Sun"
   - "Part Shade"
 calscape_link: "https://calscape.org/Achillea-millefolium-(Common-Yarrow)"
+observations: 
+  - location: "Arcata"
+    location_detail: "Marsh
+    last_spotted: "Winter 2021"
 ---
 
