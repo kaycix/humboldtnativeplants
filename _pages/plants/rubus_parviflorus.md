@@ -11,7 +11,7 @@ sun_requirements:
 calscape_link: "https://calscape.org/Rubus-parviflorus-(Western-Thimbleberry)"
 observations: 
   - location: "McKinleyville"
-  - location_detail: "Azalea Reserve"
-  - last_spotted: "Spring 2021"
+    location_detail: "Azalea Reserve"
+    last_spotted: "Spring 2021"
 ---
 

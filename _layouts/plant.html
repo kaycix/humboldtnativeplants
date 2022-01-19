@@ -8,5 +8,12 @@ layout: archive
 Sun requirements: {{page.sun_requirements | join: ", "}}
 <br/>
 View on <a href="{{page.calscape_link}}" target="_blank">Calscape</a>.
-{{ content }}
+<br/>
+{% for observation in page.observations %}
+	Observed in {{observation.location}}
+	>  {{observation.location_detail}}
+        ({{observation.last_spotted}})
+{% endfor %}
+	{{ content }}
+
 

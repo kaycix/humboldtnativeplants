@@ -12,6 +12,6 @@ sun_requirements:
 calscape_link: "https://calscape.org/Equisetum-arvense-()"
 observations: 
   - location: "McKinleyville"
-  - last_spotted: "2022"
+    last_spotted: "2022"
 ---
 

@@ -26,9 +26,9 @@ $(document).ready(function() {
       {% for item in category.items %}
       	<tr>	
 		<td>
-		<!-- <a href="{{ item.permalink | prepend:site.baseurl }}"> -->
+		<a href="{{ item.permalink | prepend:site.baseurl }}">
 			{{item.common_name}}
-		<!-- </a> -->
+		</a>
 		</td>
 		<td>
 		<span class="scientific_name">{{item.scientific_name}}</span>
