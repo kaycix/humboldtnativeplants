@@ -13,7 +13,7 @@ calscape_link: "https://calscape.org/loc-California/Lonicera%20involucrata(%20)"
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve"
-    last_spotted: "Spring 2021
+    last_spotted: "Spring 2021"
   - location: "McKinleyville"
     location_detail: "Azalea Reserve (Surrounding Areas)"
     last_spotted: "Summer 2021"

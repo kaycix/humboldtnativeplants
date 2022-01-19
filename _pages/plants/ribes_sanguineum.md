@@ -1,15 +1,14 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herb"
-permalink: /plants/sisyrinchium_bellum
+top_level_category: "Shrubs"
+permalink: /plants/ribes_sanguineum
 title: ""
-common_name: "Blue Eyed Grass"
-scientific_name: "Sisyrinchium bellum"
-plant_id: a4514
+common_name: "Red Flowering Currant"
+scientific_name: "Ribes sanguineum"
+plant_id: 0c4fe
 sun_requirements:
-  - "Full Sun"
   - "Part Shade"
-calscape_link: "https://calscape.org/loc-California/Sisyrinchium%20bellum(%20)"
+calscape_link: "https://calscape.org/Ribes-sanguineum-(Red-Flowering-Currant)"
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve (Surrounding Areas)"

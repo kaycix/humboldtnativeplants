@@ -1,15 +1,15 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herb"
-permalink: /plants/sisyrinchium_bellum
+top_level_category: "Shrubs"
+permalink: /plants/corylus_cornuta
 title: ""
-common_name: "Blue Eyed Grass"
-scientific_name: "Sisyrinchium bellum"
-plant_id: a4514
+common_name: "Beaked Hazelnut"
+scientific_name: "Corylus Cornuta"
+plant_id: b35c5
 sun_requirements:
-  - "Full Sun"
+  - "Shade"
   - "Part Shade"
-calscape_link: "https://calscape.org/loc-California/Sisyrinchium%20bellum(%20)"
+calscape_link: "https://calscape.org/loc-California/Corylus-cornuta-(Beaked-Hazelnut)"
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve (Surrounding Areas)"
