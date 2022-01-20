@@ -35,9 +35,9 @@ $(document).ready(function() {
 		</td>
 		<td>
 			{% comment %} TODO figure out how to handle category => url {% endcomment %}
-			{% assign category_url = "/plants/" | prepend:site.baseurl | append:category.name | replace:" ","_" | replace:"-", "_" | replace:"&", "and" | append "s" | downcase %}
+			{% assign category_url = "/plants/" | prepend:site.baseurl | append:category.name | replace:" ","_" | replace:"-", "_" | replace:"&", "and" | append:"s" | downcase %}
 			<a href="{{ category_url }}"> 
-				{{category.name}}
+				{{category.name }}
 			</a>
 		</td>
 		<td>

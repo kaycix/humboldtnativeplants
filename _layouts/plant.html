@@ -1,6 +1,13 @@
 ---
 layout: archive
 ---
+
+{% assign category_url = "/plants/" | prepend:site.baseurl | append:page.top_level_category | replace:" ","_" | replace:"-", "_" | replace:"&", "and" | append:"s" | downcase %}
+Plants > 
+<a href="{{ category_url }}"> 
+	{{page.top_level_category | append:"s" }}
+</a>
+
 <div class="plant_header" style="margin-bottom:10px">
 	<h6>{{page.common_name}}</h6>
 	{{page.scientific_name}}
