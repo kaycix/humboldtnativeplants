@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs & Trees"
+top_level_category: "Shrub"
 permalink: /plants/salvia_mellifera
 title: ""
 common_name: "Black Sage"

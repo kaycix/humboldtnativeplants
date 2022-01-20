@@ -11,11 +11,11 @@ sun_requirements:
   - "Part Shade"
 calscape_link: "https://calscape.org/loc-California/Morella-californica-(California-Wax-Myrtle)"
 observations: 
-  - location: "Arcata"
-    location_detail: "Potawat"
-    last_spotted: "Winter 2022"
-  - location: "McKinleyville"
-    location_detail: "Hammond Trail by Hiller Park" 
-    last_spotted: "Winter 2022"
+  - Arcata
+    - Potawot
+      - 'Winter 2022'
+  - McKinleyville
+    - 'Hiller Park'
+      - 'Winter 2022'
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shade-loving Perennials"
+top_level_category: "Perennial Herb"
 permalink: /plants/boykinia_occidentalis
 title: ""
 common_name: "Western Boykinia"
