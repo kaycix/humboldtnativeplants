@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Vines"
+top_level_category: "Vine"
 permalink: /plants/rubus_ursinus
 title: ""
 common_name: "Pacific Blackberry"

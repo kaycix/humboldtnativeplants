@@ -7,7 +7,7 @@ title: ""
 {% assign plants_folder = site.pages | where_exp: "item" , "item.path contains '/plants/'" %}
 
 {% comment %}TODO top_level_category compare should not be case sensitive {% endcomment %}
-{% assign vines = plants_folder | where: "top_level_category", "Vines" %}
+{% assign vines = plants_folder | where: "top_level_category", "Vine" %}
 
 {% assign plants_map = vines | group_by:"top_level_category" | sort:"name" %}
 

@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Vines"
+top_level_category: "Vine"
 permalink: /plants/lonicera_hispidula
 title: ""
 common_name: "Hairy Honeysuckle"

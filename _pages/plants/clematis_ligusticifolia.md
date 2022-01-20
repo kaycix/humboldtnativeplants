@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Vines"
+top_level_category: "Vine"
 permalink: /plants/clematis_ligusticifolia
 title: ""
 common_name: "Virgin’s Bower"
