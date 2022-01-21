@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs & Trees"
+top_level_category: "Shrubs"
 permalink: /plants/physocarpus_capitatus
 title: ""
 common_name: "Pacific Ninebark"

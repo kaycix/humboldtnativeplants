@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs & Trees"
+top_level_category: "Shrubs"
 permalink: /plants/cornus_sericea
 title: ""
 common_name: "Red Osier Dogwood"
