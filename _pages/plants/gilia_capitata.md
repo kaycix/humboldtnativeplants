@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Annuals"
+top_level_category: "Annual herbs"
 permalink: /plants/gilia_capitata
 title: ""
 common_name: "Blue Field Gilia"

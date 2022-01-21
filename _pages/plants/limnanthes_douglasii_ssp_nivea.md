@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Annuals"
+top_level_category: "Annual herbs"
 permalink: /plants/limnanthes_douglasii_ssp_nivea
 title: ""
 common_name: "Douglas' Meadowfoam"

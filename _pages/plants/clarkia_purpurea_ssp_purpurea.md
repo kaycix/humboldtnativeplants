@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Annuals"
+top_level_category: "Annual herbs"
 permalink: /plants/clarkia_purpurea_ssp_purpurea
 title: ""
 common_name: "Winecup Clarkia"

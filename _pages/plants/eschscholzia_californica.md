@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Annuals"
+top_level_category: "Annual herbs"
 permalink: /plants/eschscholzia_californica
 title: ""
 common_name: "California Poppy"

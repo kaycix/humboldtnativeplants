@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Annuals"
+top_level_category: "Annual herbs"
 permalink: /plants/collinsia_heterophylla
 title: ""
 common_name: "Chinese Houses"
