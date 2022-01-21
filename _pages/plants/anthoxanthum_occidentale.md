@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Grass"
+top_level_category: "Grasses"
 permalink: /plants/anthoxanthum_occidentale
 title: ""
 common_name: "California Vanilla Grass"
