@@ -3,9 +3,9 @@ layout: home
 permalink: /where_to_buy
 title: ""
 ---
-<h2>Where to Purchase Native Plants</h2>
+<h1 id="page-title">Where to Purchase Native Plants</h1>
 <p>
-These nurseries are dedicated to preserving and spreading critically important native plants of Humboldt County. Employees and volunteers of these organizations are also valuable resources for things native plant related.
+These nurseries are dedicated to preserving and spreading critically important native plants of Humboldt County. Employees and volunteers of these organizations are also valuable resources for all things native plant related.
 </p>
 <div class="nursery-container">
 	
@@ -40,13 +40,11 @@ These nurseries are dedicated to preserving and spreading critically important n
 	<div style="clear:both"></div>
 </div>
 <p>
-Other local nurseries may carry native plants but often don't distinguish between California Native Plants and Humboldt County Native Plants. However, it doesn't hurt to ask - asking may prompt them to take some interest in promoting native plants.
+Other local nurseries may carry native plants but often don't distinguish between California Native Plants and Humboldt County Native Plants.
 </p>
 
 <h2>Where to Purchase Seeds Online</h2>
 <div class="seed-container">
-	<p>If you haven't tried your hand at seed starting before, it can be incredibly empowering. But it can take some trial and error, so be patient and have fun with it! Seed-starting is also a great activity to collaborate with a friend on.  
-	</p>	
 	{% include seed_source.html 
 		business_name= "Klamath Siskiyou Seeds"
 		image= "/assets/images/klamath_siskiyou_seeds.png" 
@@ -60,4 +58,14 @@ Other local nurseries may carry native plants but often don't distinguish betwee
 		address= "Bolinas, California"
 		link= "https://larnerseeds.com"
 	%}
+</div>
+
+<h2>Other Notable Sources</h2>
+<div>
+	<div>	
+		Annie's Annuals Bay Area
+	</div>
+	<div>
+		CalFlora Fulton, CA
+	</div>
 </div>

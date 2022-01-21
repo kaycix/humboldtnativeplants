@@ -11,6 +11,8 @@ sun_requirements:
   - "Part Shade"
   - "Full Shade"
 calscape_link: "https://calscape.org/loc-California/Polygonum%20paronychia(%20)"
+available: 
+  - CNPS_master_inventory
 ---
 
 

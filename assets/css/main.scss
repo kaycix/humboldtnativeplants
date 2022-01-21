@@ -29,7 +29,7 @@ html h1#page-title {
 	margin: 15px 0;
 	font-weight: 600;
 	text-align: center;
-	color: #66B4E1;
+	color: RGB(20,106,145);
 	font-size: 2em;
 }
 
@@ -56,6 +56,10 @@ html .masthead .site-title-wrapper {
 
 html .masthead .visible-links {
 	overflow: visible;
+}
+
+html table {
+	font-size: 0.85em;
 }
 
 

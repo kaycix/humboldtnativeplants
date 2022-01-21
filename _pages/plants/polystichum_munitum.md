@@ -10,6 +10,8 @@ sun_requirements:
   - "Full Shade"
   - "Part Shade"
 calscape_link: "https://calscape.org/Polystichum-munitum-()"
+available: 
+  - CNPS_master_inventory
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve"
@@ -21,5 +23,3 @@ observations:
     location_detail: "Hammond Trail by Hiller Park" 
     last_spotted: "Winter 2022"
 ---
-
-

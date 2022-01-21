@@ -10,6 +10,8 @@ sun_requirements:
   - "Full Sun"
   - "Part Shade"
 calscape_link: "https://calscape.org/loc-California/Sisyrinchium%20bellum(%20)"
+available: 
+  - CNPS_master_inventory
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve (Surrounding Areas)"
