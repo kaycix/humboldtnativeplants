@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrub"
+top_level_category: "Shrubs"
 permalink: /plants/salvia_leucophylla
 title: ""
 common_name: "Purple Sage"

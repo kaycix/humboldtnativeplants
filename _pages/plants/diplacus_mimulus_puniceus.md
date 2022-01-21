@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs & Trees"
+top_level_category: "Shrubs"
 permalink: /plants/diplacus_mimulus_puniceus
 title: ""
 common_name: "Red Bush Monkey Flower"

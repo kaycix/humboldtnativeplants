@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrub"
+top_level_category: "Shrubs"
 permalink: /plants/sambucus_nigra_ssp_caerulea
 title: ""
 common_name: "Blue Elderberry"

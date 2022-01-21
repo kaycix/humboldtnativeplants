@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrub"
+top_level_category: "Shrubs"
 permalink: /plants/arctostaphylos_uva-ursi
 title: ""
 common_name: "Kinnikinnick (Bearberry)"

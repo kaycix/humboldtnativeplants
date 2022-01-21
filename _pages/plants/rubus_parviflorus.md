@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrub"
+top_level_category: "Shrubs"
 permalink: /plants/rubus_parviflorus
 title: ""
 common_name: "Western Thimbleberry"

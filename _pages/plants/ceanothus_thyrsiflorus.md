@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrub"
+top_level_category: "Shrubs"
 permalink: /plants/ceanothus_thyrsiflorus
 title: ""
 common_name: "California Lilac (Blueblossom)"
