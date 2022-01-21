@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Vine"
+top_level_category: "Vines"
 permalink: /plants/aristolochia_californica
 title: ""
 common_name: "California Pipevine"
