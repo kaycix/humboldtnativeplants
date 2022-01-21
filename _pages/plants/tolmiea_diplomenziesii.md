@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shade-loving Perennials"
+top_level_category: "Perennial herbs"
 permalink: /plants/tolmiea_diplomenziesii
 title: ""
 common_name: "Piggyback Plant"

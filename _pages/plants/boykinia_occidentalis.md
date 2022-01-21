@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial Herb"
+top_level_category: "Perennial herbs"
 permalink: /plants/boykinia_occidentalis
 title: ""
 common_name: "Western Boykinia"

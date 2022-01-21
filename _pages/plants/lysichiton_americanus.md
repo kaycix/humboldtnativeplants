@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial Herb"
+top_level_category: "Perennial herbs"
 permalink: /plants/lysichiton_americanus
 title: ""
 common_name: "Yellow Skunk Cabbage"

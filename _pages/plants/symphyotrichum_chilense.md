@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herb"
+top_level_category: "Perennial herbs"
 permalink: /plants/symphyotrichum_chilense
 title: ""
 common_name: "California Aster"

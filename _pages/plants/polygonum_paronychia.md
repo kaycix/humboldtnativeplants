@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial Herb"
+top_level_category: "Perennial herbs"
 permalink: /plants/polygonum_paronychia
 title: ""
 common_name: "Beach Knotweed"

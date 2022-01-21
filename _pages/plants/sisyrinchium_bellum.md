@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herb"
+top_level_category: "Perennial herbs"
 permalink: /plants/sisyrinchium_bellum
 title: ""
 common_name: "Blue Eyed Grass"

@@ -1,6 +1,6 @@
 --
 layout: plant                                                              
-top_level_category: "Perennial Herb"
+top_level_category: "Perennial herbs"
 permalink: /plants/linum_lewisii
 title: ""
 common_name: "Blue Flax"

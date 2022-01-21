@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial Herb"
+top_level_category: "Perennial herbs"
 permalink: /plants/grindelia_stricta_v_platyphylla
 title: ""
 common_name: "Gumweed"

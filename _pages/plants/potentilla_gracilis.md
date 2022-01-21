@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial Herb"
+top_level_category: "Perennial herbs"
 permalink: /plants/potentilla_gracilis
 title: ""
 common_name: "Slender Cinquefoil"

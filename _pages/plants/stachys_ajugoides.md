@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial Herb"
+top_level_category: "Perennial herbs"
 permalink: /plants/stachys_ajugoides
 title: ""
 common_name: "Ajuga Hedge Nettle"
