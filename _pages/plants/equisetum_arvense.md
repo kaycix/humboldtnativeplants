@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Fern"
+top_level_category: "Ferns"
 permalink: /plants/equisetum_arvense
 title: ""
 common_name: "Common Horsetail"

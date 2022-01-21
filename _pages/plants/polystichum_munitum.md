@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Fern"
+top_level_category: "Ferns"
 permalink: /plants/polystichum_munitum
 title: ""
 common_name: "Sword Fern"
