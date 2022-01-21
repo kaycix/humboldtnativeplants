@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Sun-loving Perennials"
+top_level_category: "Perennial Herb"
 permalink: /plants/scrophularia_californica
 title: ""
 common_name: "California Bee Plant"

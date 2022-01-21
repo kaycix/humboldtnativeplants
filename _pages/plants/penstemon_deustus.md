@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Sun-loving Perennials"
+top_level_category: "Perennial Herb"
 permalink: /plants/penstemon_deustus
 title: ""
 common_name: "Scabland Penstemon"

@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shade-loving Perennials"
+top_level_category: "Annual Herb"
 permalink: /plants/claytonia_perfoliata
 title: ""
 common_name: "Miner's Lettuce"

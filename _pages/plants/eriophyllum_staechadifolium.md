@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Sun-loving Perennials"
+top_level_category: "Shrub"
 permalink: /plants/eriophyllum_staechadifolium
 title: ""
 common_name: "Seaside Woolly Sunflower"

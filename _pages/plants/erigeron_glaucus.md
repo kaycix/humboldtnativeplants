@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Sun-loving Perennials"
+top_level_category: "Perennial Herb"
 permalink: /plants/erigeron_glaucus
 title: ""
 common_name: "Seaside Daisy"

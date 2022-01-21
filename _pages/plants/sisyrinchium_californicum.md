@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Sun-loving Perennials"
+top_level_category: "Perennial Herb"
 permalink: /plants/sisyrinchium_californicum
 title: ""
 common_name: "Yellow Eyed Grass"

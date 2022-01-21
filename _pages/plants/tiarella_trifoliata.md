@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shade-loving Perennials"
+top_level_category: "Perennial Herb"
 permalink: /plants/tiarella_trifoliata
 title: ""
 common_name: "Sugar Scoop"

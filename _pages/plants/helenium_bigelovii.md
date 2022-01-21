@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Sun-loving Perennials"
+top_level_category: "Perennial Herb"
 permalink: /plants/helenium_bigelovii
 title: ""
 common_name: "Bigelow's Sneezeweed"

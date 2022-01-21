@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Shade-loving Perennials"
+top_level_category: "Perennial Herb"
 permalink: /plants/thalictrum_fendleri
 title: ""
 common_name: "Foothill Meadow Rue"
