@@ -2,17 +2,23 @@
 layout: archive
 ---
 
-{% assign category_url = "/plants/" | prepend:site.baseurl | append:page.top_level_category | replace:" ","_" | replace:"-", "_" | replace:"&", "and" | append:"s" | downcase %}
+{% assign category_url = "/plants/" | prepend:site.baseurl | append:page.top_level_category | replace:" ","_" | downcase %}
 Plants > 
 <a href="{{ category_url }}"> 
-	{{page.top_level_category | append:"s" }}
+	{{page.top_level_category }}
 </a>
 
 <div class="plant_header" style="margin-bottom:10px">
 	<h6>{{page.common_name}}</h6>
 	{{page.scientific_name}}
 </div>
-Sun requirements: {{page.sun_requirements | join: ", "}}
+Sun requirements: 
+{% for sun_req in page.sun_requirements %}
+  {% assign sun_url = "/plants/" | prepend:site.baseurl | append:sun_req | replace: " ","_" | downcase %}
+  <a href="{{sun_url}}">
+    {{sun_req}}
+  </a>
+{% endfor %}
 <br/>
 View on <a href="{{page.calscape_link}}" target="_blank">Calscape</a>.
 <br/>

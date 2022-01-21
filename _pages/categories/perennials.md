@@ -13,7 +13,7 @@ title: ""
 
 <h5>
 	<a href="{{ "/plants/" | prepend:site.baseurl }}">All Plants</a> > Perennial Herbs ({{perennials.size}})
-<h5>
+</h5>
 	
 {% include plants.html 
 	plants= plants_map 
