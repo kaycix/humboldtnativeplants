@@ -15,8 +15,9 @@ $(document).ready(function() {
 <table class="plant_table" style="width:100%">
 	<thead>
 		<tr>
-			<th>Common Name</th>
-			<th>Scientific Name</th>
+			<th>Name</th>
+			<th>Sun</th>
+			<th>Size</th>
 			<th>Category</th>
 			<th>Calscape</th>
 		</tr>
@@ -26,12 +27,19 @@ $(document).ready(function() {
       {% for item in category.items %}
       	<tr>	
 		<td>
-		<a href="{{ item.permalink | prepend:site.baseurl }}">
-			{{item.common_name}}
-		</a>
+			<a href="{{ item.permalink | prepend:site.baseurl }}">
+				{{item.common_name}}
+			</a>
+			<br/>
+			<span class="scientific_name">{{item.scientific_name}}</span>
 		</td>
-		<td>
-		<span class="scientific_name">{{item.scientific_name}}</span>
+		<td class="sun_req">
+			{% for sun_req in item.sun_requirements %}
+				<div class="{{sun_req | replace: " ", "_" | downcase }}"></div> 
+			{% endfor %}
+		</td>
+		<td>	
+			todo
 		</td>
 		<td>
 			{% comment %} TODO figure out how to handle category => url {% endcomment %}

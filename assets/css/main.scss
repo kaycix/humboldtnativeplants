@@ -59,9 +59,13 @@ html .masthead .visible-links {
 }
 
 html table {
-	font-size: 0.85em;
+	font-size: 0.9em;
 }
 
+html table .scientific_name {
+	color: #666;
+	font-size: 0.9em;
+}
 
 .nursery-container .nursery,
 .seed-container .seed_source {
@@ -87,4 +91,23 @@ html table {
 .volunteer_opportunity img {
 	float: left;
 	margin-right: 20px;
+}
+
+.sun_req div {
+  display: inline-block;
+  height: 15px;
+  width: 15px;
+}
+
+.sun_req .full_sun {
+  background-color: yellow;
+}
+
+.sun_req .part_shade {
+  background-image: linear-gradient(45deg, gray ,yellow);
+` transform: skewY(-11deg);
+}
+
+.sun_req .full_shade {
+  background-color: gray;
 }
