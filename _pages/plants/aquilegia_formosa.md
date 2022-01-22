@@ -9,6 +9,11 @@ plant_id: 282ff
 sun_requirements:
   - "Part Shade"
   - "Shade"
+# min then max in feet
+plant_size:
+  - height: 
+    - 1.5
+    - 3
 calscape_link: "https://calscape.org/Aquilegia-formosa-(Western-Columbine)"
 observations: 
   - location: "McKinleyville"

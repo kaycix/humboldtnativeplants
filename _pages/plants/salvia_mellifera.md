@@ -8,6 +8,11 @@ scientific_name: "Salvia Mellifera"
 plant_id: 4db51
 sun_requirements:
   - "Full Sun"
+# min then max in feet
+plant_size:
+  - height: 
+    - 3
+    - 6
 calscape_link: "https://calscape.org/Salvia-mellifera-(Black-Sage)"
 ---
 

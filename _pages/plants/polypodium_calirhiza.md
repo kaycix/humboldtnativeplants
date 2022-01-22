@@ -8,6 +8,11 @@ scientific_name: "Polypodium calirhiza"
 plant_id: c8dd4
 sun_requirements:
   - "Full Sun"
+# min then max in feet, not in Calscape
+plant_size:
+  - height: 
+    - 1
+    - 1.5
 calscape_link: "https://calscape.org/Polypodium-calirhiza-()"
 available: 
   - CNPS_master_inventory

@@ -9,6 +9,10 @@ plant_id: 7b482
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+# min then max in feet
+plant_size:
+  - height: 
+    - 1
 calscape_link: "https://calscape.org/loc-California/Sea%20Thrift%20(Armeria%20maritima)"
 ---
 

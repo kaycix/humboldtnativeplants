@@ -17,7 +17,7 @@ $(document).ready(function() {
 		<tr>
 			<th>Name</th>
 			<th>Sun</th>
-			<th>Size</th>
+			<th>Height</th>
 			<th>Category</th>
 			<th>Calscape</th>
 		</tr>
@@ -50,8 +50,24 @@ $(document).ready(function() {
 				{% endif %}
 			"></div> 
 		</td>
-		<td>	
-			todo
+		<td>
+			{% if item.plant_size %}
+				{% for plant_size_obj in item.plant_size %}
+				   {% assign max_plant_height = plant_size_obj.height | last | plus: 0 %}
+			 	   {% if max_plant_height <= 1.5 %}
+	                              Very Low ( < 1.5ft)
+			 	   {% elsif max_plant_height <= 3 %}
+	                              Low ( < 3ft)
+			 	   {% elsif max_plant_height <= 5 %}
+	                              Moderate ( < 5ft)
+			 	   {% elsif max_plant_height <= 8 %}
+	                              Tall (< 8ft)
+				   {% else %}
+				      {{plant_size_obj.height | join: " - "}} feet	
+				   {% endif %} 		
+				   <br/>
+				{% endfor %}
+			{% endif %}
 		</td>
 		<td>
 			{% comment %} TODO figure out how to handle category => url {% endcomment %}

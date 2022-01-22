@@ -9,6 +9,10 @@ plant_id: ff64f
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+# min then max in feet
+plant_size:
+  - height: 
+    - 3.3
 calscape_link: "https://calscape.org/loc-California/Clarkia-bottae-(Punch-Bowl-Godetia)"
 ---
 

@@ -10,6 +10,11 @@ sun_requirements:
   - "Full Sun"
   - "Part Shade"
   - "Full Shade"
+# min then max in feet
+plant_size:
+  - height: 
+    - 0.3
+    - 3.3
 calscape_link: "https://calscape.org/loc-California/Polygonum%20paronychia(%20)"
 available: 
   - CNPS_master_inventory

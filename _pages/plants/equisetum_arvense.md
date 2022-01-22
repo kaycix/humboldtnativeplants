@@ -9,6 +9,10 @@ plant_id: fbc8a
 sun_requirements:
   - "Full Shade"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 0.17
+    - 2
 calscape_link: "https://calscape.org/Equisetum-arvense-()"
 observations: 
   - location: "McKinleyville"

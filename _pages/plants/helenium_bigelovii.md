@@ -8,6 +8,10 @@ scientific_name: "Helenium bigelovii"
 plant_id: dbac1
 sun_requirements:
   - "Full Sun"
+# min then max in feet
+plant_size:
+  - height: 
+    - 4
 calscape_link: "https://calscape.org/Helenium-bigelovii-(Bigelow's-Sneezeweed)"
 ---
 

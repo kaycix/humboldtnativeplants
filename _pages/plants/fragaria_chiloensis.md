@@ -9,6 +9,10 @@ plant_id: 87fc1
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 0.49
+    - 1
 calscape_link: "https://calscape.org/loc-California/Fragaria%20chiloensis%20(Beach%20Strawberry)"
 ---
 

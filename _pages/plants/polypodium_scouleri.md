@@ -9,6 +9,9 @@ plant_id: 8a3b6
 sun_requirements:
   - "Full Shade"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 0.5
 calscape_link: "https://calscape.org/Polypodium-scouleri-()"
 available: 
   - CNPS

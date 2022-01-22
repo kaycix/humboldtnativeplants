@@ -9,6 +9,10 @@ plant_id: b006a
 sun_requirements:
   - "Part Shade"
   - "Full Shade"
+plant_size:
+  - height: 
+    - 2
+    - 5
 calscape_link: "https://calscape.org/Athyrium-filix-femina-()"
 available: 
   - CNPS_master_inventory

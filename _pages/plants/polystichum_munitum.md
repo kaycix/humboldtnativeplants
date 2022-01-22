@@ -9,6 +9,10 @@ plant_id: c8dd4
 sun_requirements:
   - "Part Shade"
   - "Full Shade"
+plant_size:
+  - height: 
+    - 1.6
+    - 5.9
 calscape_link: "https://calscape.org/Polystichum-munitum-()"
 available: 
   - CNPS_master_inventory

@@ -9,6 +9,11 @@ plant_id: 6824b
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+# min then max in feet
+plant_size:
+  - height: 
+    - 1.3
+    - 3.3
 calscape_link: "https://calscape.org/Symphyotrichum-chilense-(California-Aster)"
 observations: 
   - location: "Arcata"

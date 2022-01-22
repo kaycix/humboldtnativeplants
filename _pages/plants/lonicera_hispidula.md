@@ -8,6 +8,9 @@ scientific_name: "Lonicera hispidula"
 plant_id: 0eaa7
 sun_requirements:
   - "Part Shade"
+plant_size:
+  - height: 
+    - 4
 calscape_link: "https://calscape.org/loc-California/Pink%20Honeysuckle%20(Lonicera%20hispidula)"
 observations: 
   - location: "McKinleyville"

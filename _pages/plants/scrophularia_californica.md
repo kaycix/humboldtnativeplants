@@ -10,6 +10,11 @@ plant_id: a1123
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+# min then max in feet
+plant_size:
+  - height: 
+    - 2
+    - 4
 calscape_link: "https://calscape.org/loc-California/Scrophularia%20californica%20(Bee%20Plant)"
 ---
 
