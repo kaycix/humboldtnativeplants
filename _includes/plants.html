@@ -34,9 +34,21 @@ $(document).ready(function() {
 			<span class="scientific_name">{{item.scientific_name}}</span>
 		</td>
 		<td class="sun_req">
-			{% for sun_req in item.sun_requirements %}
-				<div class="{{sun_req | replace: " ", "_" | downcase }}"></div> 
-			{% endfor %}
+			<div class="full_sun
+				{% if item.sun_requirements contains 'Full Sun' %}
+				  visible
+				{% endif %}
+			"></div> 
+			<div class="part_shade
+				{% if item.sun_requirements contains 'Part Shade' %}
+				  visible
+				{% endif %}
+			"></div> 
+			<div class="full_shade
+				{% if item.sun_requirements contains 'Full Shade' %}
+				  visible
+				{% endif %}
+			"></div> 
 		</td>
 		<td>	
 			todo

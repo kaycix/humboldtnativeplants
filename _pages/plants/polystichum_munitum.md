@@ -7,8 +7,8 @@ common_name: "Sword Fern"
 scientific_name: "Polystichum munitum"
 plant_id: c8dd4
 sun_requirements:
-  - "Full Shade"
   - "Part Shade"
+  - "Full Shade"
 calscape_link: "https://calscape.org/Polystichum-munitum-()"
 available: 
   - CNPS_master_inventory

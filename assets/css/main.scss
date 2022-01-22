@@ -94,9 +94,13 @@ html table .scientific_name {
 }
 
 .sun_req div {
-  display: inline-block;
+  display:none; 
   height: 15px;
   width: 15px;
+}
+
+.sun_req div.visible {
+  display: inline-block;
 }
 
 .sun_req .full_sun {
@@ -105,7 +109,6 @@ html table .scientific_name {
 
 .sun_req .part_shade {
   background-image: linear-gradient(45deg, gray ,yellow);
-` transform: skewY(-11deg);
 }
 
 .sun_req .full_shade {
