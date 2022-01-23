@@ -10,6 +10,9 @@ plant_id: b9512
 sun_requirements:
   - "Full Shade"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 1
 calscape_link: "https://calscape.org/loc-California/Tolmiea%20diplomenziesii(%20)"
 ---
 

@@ -63,44 +63,40 @@ $(document).ready(function() {
 			<div class="part_shade {{part_shade_class}}"></div>
 			<div class="full_shade {{full_shade_class}}"></div>
 		</td>
-		<td>
-			{% if item.plant_size %}
-				{% for plant_size_obj in item.plant_size %}
-				   {% assign max_plant_height = plant_size_obj.height | last | plus: 0 %}
-			 	   {% if max_plant_height <= 1.5 %}
-				     <div class="height_category">
-	                              Very Low
-				     </div>
-				     <div class="height">
-					( < 1.5ft)
-				     </div>
-			 	   {% elsif max_plant_height <= 3 %}
-				     <div class="height_category">
-	                               Low
-				     </div>
-				     <div class="height">
-				       ( < 3ft)
-				     </div>
-			 	   {% elsif max_plant_height <= 6 %}
-				     <div class="height_category">
-	                              Moderate	
-				     </div>
-				     <div class="height">
-					( <  6ft)
-				     </div>
-			 	   {% elsif max_plant_height <= 10 %}
-				     <div class="height_category">
-	                              Tall 
-				     </div>
-				     <div class="height">
-					(< 10 ft)
-				     </div>
-				   {% else %}
-				      {{plant_size_obj.height | join: " - "}} feet	
-				   {% endif %} 		
-				   <br/>
-				{% endfor %}
-			{% endif %}
+		
+		{% assign height_category = "" %}
+		{% assign height_text = "" %}
+
+		{% if item.plant_size %}
+			{% for plant_size_obj in item.plant_size %}
+			   
+ 			   {% assign max_plant_height = plant_size_obj.height | last | plus: 0 %}
+	
+			   {% if max_plant_height <= 1.5 %}
+			   	{% assign height_category = "Very Low" %}
+			   	{% assign height_text = "( < 1.5 ft) " %}
+			   {% elsif max_plant_height <= 3 %}
+			   	{% assign height_category = "Low" %}
+			   	{% assign height_text = "( < 3 ft) " %}
+			   {% elsif max_plant_height <= 6 %}
+			   	{% assign height_category = "Moderate" %}
+			   	{% assign height_text = "( < 6 ft) " %}
+			   {% elsif max_plant_height <= 10 %}
+			   	{% assign height_category = "Tall" %}
+			   	{% assign height_text = "( < 10 ft) " %}
+			   {% else %}
+			   	{% assign height_text = plant_size_obj.height | join: " - " | append: " feet" %}
+			   {% endif %} 		
+			{% endfor %}
+		{% endif %}
+
+		<td data-order="{{max_plant_height}}" >
+		     <div class="height_category">
+			{{ height_category }} 
+		     </div>
+		     <div class="height">
+			{{ height_text }}
+		     </div>
 		</td>
 		<td>
 			{% comment %} TODO figure out how to handle category => url {% endcomment %}
