@@ -9,6 +9,10 @@ plant_id: ac8f7
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 1
+    - 2
 calscape_link: "https://calscape.org/Iris-macrosiphon-(Long-Tubed-Iris)"
 ---
 

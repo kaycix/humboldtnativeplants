@@ -9,6 +9,10 @@ plant_id: 088f6
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 20
+    - 49.2
 calscape_link: "https://calscape.org/Frangula-purshiana-()"
 observations: 
   - location: "McKinleyville"

@@ -9,6 +9,10 @@ plant_id: 0c4fe
 sun_requirements:
   - "Part Shade"
 calscape_link: "https://calscape.org/Ribes-sanguineum-(Red-Flowering-Currant)"
+plant_size:
+  - height: 
+    - 6.5
+    - 13
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve (Surrounding Areas)"

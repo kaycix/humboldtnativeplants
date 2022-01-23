@@ -10,6 +10,10 @@ sun_requirements:
   - "Full Shade"
   - "Part Shade"
   - "Full Sun"
+plant_size:
+  - height: 
+    - 20
+    - 30
 calscape_link: "https://calscape.org/Sambucus-nigra-ssp.-caerulea-(Blue-Elderberry)"
 observations: 
   - location: "McKinleyville"

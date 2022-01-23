@@ -9,6 +9,10 @@ plant_id: 85057
 sun_requirements:
   - "Shade"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 3
+    - 6
 calscape_link: "https://calscape.org/loc-California/thalictrum%20fendleri(%20)"
 ---
 

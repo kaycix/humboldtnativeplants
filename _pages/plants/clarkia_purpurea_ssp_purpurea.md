@@ -8,6 +8,9 @@ scientific_name: "Clarkia purpurea ssp. purpurea"
 plant_id: fbe4b 
 sun_requirements:
   - "Full Sun"
+plant_size:
+  - height: 
+    - 3.3
 calscape_link: "https://calscape.org/Clarkia-purpurea-ssp.-purpurea-(Winecup-Clarkia)"
 ---
 

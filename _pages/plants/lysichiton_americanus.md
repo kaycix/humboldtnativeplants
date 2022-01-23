@@ -9,6 +9,9 @@ plant_id: 67fa6
 sun_requirements:
   - "Part Shade"
   - "Shade"
+plant_size:
+  - height: 
+    - 5
 calscape_link: "https://calscape.org/loc-California/skunk%20cabbage(%20)"
 observations: 
   - location: "McKinleyville"

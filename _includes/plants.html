@@ -6,7 +6,7 @@
 
 $(document).ready(function() {
 	$('.plant_table').DataTable({
-		"pageLength" : 50
+		"paging" : false
 	});
 } );
 
@@ -19,7 +19,7 @@ $(document).ready(function() {
 			<th>Sun</th>
 			<th>Height</th>
 			<th>Category</th>
-			<th>Calscape</th>
+			<th>More Links</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -55,13 +55,33 @@ $(document).ready(function() {
 				{% for plant_size_obj in item.plant_size %}
 				   {% assign max_plant_height = plant_size_obj.height | last | plus: 0 %}
 			 	   {% if max_plant_height <= 1.5 %}
-	                              Very Low ( < 1.5ft)
+				     <div class="height_category">
+	                              Very Low
+				     </div>
+				     <div class="height">
+					( < 1.5ft)
+				     </div>
 			 	   {% elsif max_plant_height <= 3 %}
-	                              Low ( < 3ft)
-			 	   {% elsif max_plant_height <= 5 %}
-	                              Moderate ( < 5ft)
-			 	   {% elsif max_plant_height <= 8 %}
-	                              Tall (< 8ft)
+				     <div class="height_category">
+	                               Low
+				     </div>
+				     <div class="height">
+				       ( < 3ft)
+				     </div>
+			 	   {% elsif max_plant_height <= 6 %}
+				     <div class="height_category">
+	                              Moderate	
+				     </div>
+				     <div class="height">
+					( <  6ft)
+				     </div>
+			 	   {% elsif max_plant_height <= 10 %}
+				     <div class="height_category">
+	                              Tall 
+				     </div>
+				     <div class="height">
+					(< 10 ft)
+				     </div>
 				   {% else %}
 				      {{plant_size_obj.height | join: " - "}} feet	
 				   {% endif %} 		

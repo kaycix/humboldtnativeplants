@@ -9,6 +9,10 @@ plant_id: 75d4e
 sun_requirements:
   - "Shade"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 3
+    - 16.4
 calscape_link: "https://calscape.org/loc-California/Holodiscus%20discolor(%20)"
 ---
 

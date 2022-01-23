@@ -9,6 +9,10 @@ plant_id: eef6b
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 6
+    - 33
 calscape_link: "https://calscape.org/loc-California/Morella-californica-(California-Wax-Myrtle)"
 observations: 
   - Arcata

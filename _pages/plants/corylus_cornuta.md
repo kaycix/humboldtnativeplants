@@ -9,6 +9,12 @@ plant_id: b35c5
 sun_requirements:
   - "Shade"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 5
+    - 26.3
+available: 
+  - CNPS_master_inventory
 calscape_link: "https://calscape.org/loc-California/Corylus-cornuta-(Beaked-Hazelnut)"
 observations: 
   - location: "McKinleyville"

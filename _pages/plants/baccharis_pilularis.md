@@ -9,6 +9,10 @@ plant_id: f09c2
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 1.5
+    - 10
 calscape_link: "https://calscape.org/Baccharis-pilularis-(Coyote-Bush)"
 ---
 

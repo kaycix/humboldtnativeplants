@@ -12,8 +12,7 @@ sun_requirements:
 # min then max in feet
 plant_size:
   - height: 
-    - 1.3
-    - 2.3
+    - 1.1
 calscape_link: "https://calscape.org/loc-California/Penstemon%20deustus(%20)"
 ---
 

@@ -6,6 +6,10 @@ title: ""
 common_name: "Red Osier Dogwood"
 scientific_name: "Cornus Sericea"
 plant_id: df825
+plant_size:
+  - height: 
+    - 4
+    - 13.1
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

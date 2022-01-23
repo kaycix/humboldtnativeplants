@@ -9,6 +9,10 @@ plant_id: d4e0d
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 1
+    - 2
 calscape_link: "https://calscape.org/loc-California/Diplacus%20%20puniceus(%20)"
 ---
 

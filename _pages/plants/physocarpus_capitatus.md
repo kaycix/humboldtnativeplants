@@ -9,6 +9,10 @@ plant_id: 73ffe
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 3.3
+    - 8.2
 calscape_link: "https://calscape.org/loc-California/Physocarpus%20capitatus(%20)"
 ---
 

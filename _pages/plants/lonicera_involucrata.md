@@ -10,6 +10,10 @@ sun_requirements:
   - "Full Sun"
   - "Part Shade"
 calscape_link: "https://calscape.org/loc-California/Lonicera%20involucrata(%20)"
+plant_size:
+  - height: 
+    - 1.6
+    - 16.4
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve"

@@ -9,6 +9,10 @@ scientific_name: "Iris Tenax"
 plant_id: 8e664
 sun_requirements:
   - "Full Sun"
+plant_size:
+  - height: 
+    - 0.8
+    - 1.5
 calscape_link: "https://calscape.org/loc-California/Iris%20tenax(%20)"
 ---
 

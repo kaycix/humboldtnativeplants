@@ -11,6 +11,10 @@ sun_requirements:
   - "Part Shade"
   - "Full Shade"
 calscape_link: "https://calscape.org/Rubus-ursinus-(Pacific-Blackberry)"
+plant_size:
+  - height: 
+    - 2
+    - 6
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve"

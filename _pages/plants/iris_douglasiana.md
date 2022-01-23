@@ -10,6 +10,10 @@ sun_requirements:
   - "Full Sun"
   - "Part Shade"
   - "Full Shade"
+plant_size:
+  - height: 
+    - 0.6
+    - 2.6
 calscape_link: "https://calscape.org/loc-California/Iris%20douglasiana(%20)"
 ---
 

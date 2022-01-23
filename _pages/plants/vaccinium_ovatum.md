@@ -9,6 +9,10 @@ plant_id: 09810
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 1.6
+    - 8
 calscape_link: "https://calscape.org/Vaccinium-ovatum-()"
 observations: 
   - location: "McKinleyville"

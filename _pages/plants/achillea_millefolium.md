@@ -2,6 +2,7 @@
 layout: plant                                                              
 top_level_category: "Perennial herbs"
 permalink: /plants/achillea_millefolium
+categories: [TestCategory1, TestCategory2]
 title: ""
 common_name: "Common Yarrow"
 scientific_name: "Achillea Millefolium"

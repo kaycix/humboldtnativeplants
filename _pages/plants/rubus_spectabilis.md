@@ -7,8 +7,12 @@ common_name: "Salmon Berry"
 scientific_name: "Rubus Spectabilis"
 plant_id: 76c84
 sun_requirements:
-  - "Shade"
+  - "Full Shade"
 calscape_link: "https://calscape.org/Rubus-spectabilis-(Salmon-Berry)"
+plant_size:
+  - height: 
+    - 3.3
+    - 13.1
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve"

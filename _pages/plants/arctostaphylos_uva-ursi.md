@@ -6,6 +6,9 @@ title: ""
 common_name: "Kinnikinnick (Bearberry)"
 scientific_name: "Arctostaphylos uva-ursi"
 plant_id: 6e186
+plant_size:
+  - height: 
+    - 1.6
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

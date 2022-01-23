@@ -9,6 +9,10 @@ plant_id: 025e0
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 2.4
+    - 3.3
 calscape_link: "https://calscape.org/loc-California/Potentilla%20gracilis(%20)"
 ---
 

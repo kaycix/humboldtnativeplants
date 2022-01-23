@@ -10,6 +10,10 @@ genus_scientific: "Salvia"
 plant_id: e5e11
 sun_requirements:
   - "Full Sun"
+plant_size:
+  - height: 
+    - 2
+    - 5
 calscape_link: "https://calscape.org/loc-California/Salvia%20leucophylla(%20)"
 ---
 

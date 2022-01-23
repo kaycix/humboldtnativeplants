@@ -8,6 +8,9 @@ scientific_name: "Limnanthes douglasii ssp. nivea"
 plant_id: 55d17
 sun_requirements:
   - "Full Sun"
+plant_size:
+  - height: 
+    - 1.6
 calscape_link: "https://calscape.org/Limnanthes-douglasii-ssp.-nivea-()"
 ---
 

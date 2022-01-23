@@ -10,6 +10,10 @@ sun_requirements:
   - "Full Sun"
   - "Part Shade"
   - "Full Shade"
+plant_size:
+  - height: 
+    - 3
+    - 6.6
 calscape_link: "https://calscape.org/Rosa-gymnocarpa-(Dwarf-Rose)"
 observations: 
   - location: "Eureka"

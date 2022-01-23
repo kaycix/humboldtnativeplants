@@ -9,6 +9,10 @@ plant_id: c353c
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+plant_size:
+  - height: 
+    - 2
+    - 30
 calscape_link: "https://calscape.org/Ceanothus-thyrsiflorus-(Blueblossom-Ceanothus)"
 ---
 
