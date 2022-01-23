@@ -2,6 +2,11 @@
 layout: plant                                                              
 top_level_category: "Annual herbs"
 permalink: /plants/clarkia_amoena
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
+
 title: ""
 common_name: "Farewell to Spring"
 scientific_name: "Clarkia Amoena"

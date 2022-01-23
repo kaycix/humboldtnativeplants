@@ -2,6 +2,11 @@
 layout: plant                                                              
 top_level_category: "Perennial herbs"
 permalink: /plants/polygonum_paronychia
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
+
 title: ""
 common_name: "Beach Knotweed"
 scientific_name: "Polygonum paronychia"
@@ -16,8 +21,6 @@ plant_size:
     - 0.3
     - 3.3
 calscape_link: "https://calscape.org/loc-California/Polygonum%20paronychia(%20)"
-available: 
-  - CNPS_master_inventory
 ---
 
 

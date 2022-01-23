@@ -2,7 +2,11 @@
 layout: plant                                                              
 top_level_category: "Perennial herbs"
 permalink: /plants/achillea_millefolium
-categories: [TestCategory1, TestCategory2]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
+
 title: ""
 common_name: "Common Yarrow"
 scientific_name: "Achillea Millefolium"
