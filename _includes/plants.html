@@ -30,8 +30,7 @@ $(document).ready(function() {
 			<a href="{{ item.permalink | prepend:site.baseurl }}">
 				{{item.common_name}}
 			</a>
-			<br/>
-			<span class="scientific_name">{{item.scientific_name}}</span>
+			<div class="scientific_name">{{item.scientific_name}}</div>
 		</td>
  		{% comment %}
 		Use for sorting:

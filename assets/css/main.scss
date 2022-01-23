@@ -62,9 +62,14 @@ html table {
 	font-size: 0.9em;
 }
 
-html table .scientific_name {
+html table .scientific_name,
+html table .height { 
 	color: #666;
 	font-size: 0.9em;
+}
+
+html table .scientific_name {
+	font-style: italic;
 }
 
 .nursery-container .nursery,
