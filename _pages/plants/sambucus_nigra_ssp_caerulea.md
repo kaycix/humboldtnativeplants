@@ -2,6 +2,11 @@
 layout: plant                                                              
 top_level_category: "Shrubs"
 permalink: /plants/sambucus_nigra_ssp_caerulea
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
+
 title: ""
 common_name: "Blue Elderberry"
 scientific_name: "Sambucus nigra ssp. caerulea"

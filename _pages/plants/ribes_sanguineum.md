@@ -2,6 +2,11 @@
 layout: plant                                                              
 top_level_category: "Shrubs"
 permalink: /plants/ribes_sanguineum
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
+
 title: ""
 common_name: "Red Flowering Currant"
 scientific_name: "Ribes sanguineum"
