@@ -33,22 +33,35 @@ $(document).ready(function() {
 			<br/>
 			<span class="scientific_name">{{item.scientific_name}}</span>
 		</td>
-		<td class="sun_req">
-			<div class="full_sun
-				{% if item.sun_requirements contains 'Full Sun' %}
-				  visible
-				{% endif %}
-			"></div> 
-			<div class="part_shade
-				{% if item.sun_requirements contains 'Part Shade' %}
-				  visible
-				{% endif %}
-			"></div> 
-			<div class="full_shade
-				{% if item.sun_requirements contains 'Full Shade' %}
-				  visible
-				{% endif %}
-			"></div> 
+ 		{% comment %}
+		Use for sorting:
+			Full Sun = a
+			Part Shade = b
+ 			Full Shade = c
+ 		{% endcomment %}
+		
+		{% assign sort_param = "" %}
+		{% assign full_sun_class = '' %}
+		{% assign part_shade_class = '' %}
+		{% assign full_shade_class = '' %}
+
+		{% if item.sun_requirements contains 'Full Sun' %}
+		   {% assign full_sun_class = 'visible' %}
+		   {% assign sort_param = sort_param | append: "a" %}
+		{% endif %}
+		{% if item.sun_requirements contains 'Part Shade' %}
+		   {% assign part_shade_class = 'visible' %}
+		   {% assign sort_param = sort_param | append: "b" %}
+		{% endif %}
+		{% if item.sun_requirements contains 'Full Shade' %}
+		   {% assign full_shade_class = 'visible' %}
+		   {% assign sort_param = sort_param | append: "c" %}
+		{% endif %}
+
+		<td class="sun_req" data-order="{{sort_param}}">
+			<div class="full_sun {{full_sun_class}}"></div>
+			<div class="part_shade {{part_shade_class}}"></div>
+			<div class="full_shade {{full_shade_class}}"></div>
 		</td>
 		<td>
 			{% if item.plant_size %}
