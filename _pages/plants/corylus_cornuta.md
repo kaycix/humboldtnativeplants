@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/corylus_cornuta
 title: ""
 common_name: "Beaked Hazelnut"
@@ -13,12 +12,16 @@ plant_size:
   - height: 
     - 5
     - 26.3
-available: 
-  - CNPS_master_inventory
 calscape_link: "https://calscape.org/loc-California/Corylus-cornuta-(Beaked-Hazelnut)"
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve (Surrounding Areas)"
     last_spotted: "Summer 2021"
+
+categories: [ "Shrubs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/layia_platyglossa
 
 tags: [ "CNPS_master_inventory"
@@ -18,5 +17,7 @@ plant_size:
     - 0.5
     - 2
 calscape_link: "https://calscape.org/Layia-platyglossa-(Common-Tidy-Tips)"
+
+categories: [ "Annual herbs" ]
 ---
 

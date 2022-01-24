@@ -19,5 +19,6 @@ plant_size:
     - 6.6
     - 20
 calscape_link: "https://calscape.org/Sambucus-racemosa-(Red-Elderberry)"
+categories: ["Shrubs" ]
 ---
 

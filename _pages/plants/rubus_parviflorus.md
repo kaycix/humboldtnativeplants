@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/rubus_parviflorus
 title: ""
 common_name: "Western Thimbleberry"
@@ -17,5 +16,11 @@ observations:
   - location: "McKinleyville"
     location_detail: "Azalea Reserve"
     last_spotted: "Spring 2021"
+
+categories: [ "Shrubs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

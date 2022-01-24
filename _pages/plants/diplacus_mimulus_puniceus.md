@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/diplacus_mimulus_puniceus
 title: ""
 common_name: "Red Bush Monkey Flower"
@@ -14,6 +13,12 @@ plant_size:
     - 1
     - 2
 calscape_link: "https://calscape.org/loc-California/Diplacus%20%20puniceus(%20)"
+
+categories: [ "Shrubs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 
 

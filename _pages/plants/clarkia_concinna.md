@@ -4,6 +4,7 @@ top_level_category: "Annual herbs"
 permalink: /plants/clarkia_concinna
 title: ""
 
+categories: [ "Annual herbs" ]
 tags: ["CNPS_master_inventory"]
 
 common_name: "Red Ribbons"

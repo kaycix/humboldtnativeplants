@@ -14,5 +14,6 @@ plant_size:
     - 3
     - 6
 calscape_link: "https://calscape.org/Salvia-mellifera-(Black-Sage)"
+categories: ["Shrubs", "Salvia" ]
 ---
 

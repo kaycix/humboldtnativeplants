@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/scrophularia_californica
 title: ""
 common_name: "California Bee Plant"
@@ -16,5 +15,6 @@ plant_size:
     - 2
     - 4
 calscape_link: "https://calscape.org/loc-California/Scrophularia%20californica%20(Bee%20Plant)"
+categories: ["Perennial herbs" ]
 ---
 

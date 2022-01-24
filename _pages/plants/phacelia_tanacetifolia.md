@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/phacelia_tanacetifolia
 
 tags: [ "CNPS_master_inventory"
@@ -16,6 +15,8 @@ plant_size:
     - 2
     - 4
 calscape_link: "https://calscape.org/loc-California/Phacelia-tanacetifolia-(Lacy-Phacelia)"
+categories: ["Annual herbs", 
+	     "Phacelia" ]
 ---
 
 

@@ -14,5 +14,11 @@ plant_size:
     - 0.49
     - 1
 calscape_link: "https://calscape.org/loc-California/Fragaria%20chiloensis%20(Beach%20Strawberry)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

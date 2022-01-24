@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/nicotiana_quadrivalvis
 
 tags: [ "CNPS_master_inventory"
@@ -17,6 +16,7 @@ plant_size:
     - 3.5
     - 7
 calscape_link: "https://calscape.org/Nicotiana-quadrivalvis-(Indian-Tobacco)"
+categories: ["Annual herbs" ]
 ---
 
 

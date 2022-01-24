@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/morella_californica
 title: ""
 common_name: "California Wax Myrtle" 
@@ -21,5 +20,11 @@ observations:
   - McKinleyville
     - 'Hiller Park'
       - 'Winter 2022'
+
+categories: [ "Shrubs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

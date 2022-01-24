@@ -1,7 +1,8 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/achillea_millefolium
+
+categories: [ "Perennial herbs" ]
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

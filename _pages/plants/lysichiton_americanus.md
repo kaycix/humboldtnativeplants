@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/lysichiton_americanus
 title: ""
 common_name: "Yellow Skunk Cabbage"
@@ -17,5 +16,9 @@ observations:
   - location: "McKinleyville"
     location_detail: "Azalea Reserve"
     last_spotted: "Spring 2021"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native" ]
 ---
 

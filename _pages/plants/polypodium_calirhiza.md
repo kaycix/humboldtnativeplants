@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Ferns"
 permalink: /plants/polypodium_calirhiza
 title: ""
 common_name: "Nested Polypody Fern"
@@ -14,7 +13,11 @@ plant_size:
     - 1
     - 1.5
 calscape_link: "https://calscape.org/Polypodium-calirhiza-()"
-available: 
-  - CNPS_master_inventory
+
+categories: [ "Ferns" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

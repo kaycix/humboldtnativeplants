@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/claytonia_perfoliata
 title: ""
 common_name: "Miner's Lettuce"
@@ -14,5 +13,11 @@ plant_size:
     - 1
     - 1.3
 calscape_link: "https://calscape.org/loc-California/Claytonia-perfoliata-(Miner's-Lettuce)"
+
+categories: [ "Annual herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

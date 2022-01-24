@@ -22,5 +22,11 @@ observations:
   - location: "McKinleyville"
     location_detail: "Hammond Trail by Hiller Park" 
     last_spotted: "Winter 2022"
+
+categories: [ "Shrubs", "Rosa" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

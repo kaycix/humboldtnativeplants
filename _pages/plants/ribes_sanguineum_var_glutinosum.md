@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/ribes_sanguineum_var_glutinosum
 
 tags: ["Humboldt_County_Native",
@@ -18,5 +17,7 @@ calscape_link: "https://calscape.org/Ribes-sanguineum-var.-glutinosum-(Blood-Cur
 plant_size:
   - height: 
     - 13
+
+categories: [ "Shrubs", "Ribes" ]
 ---
 

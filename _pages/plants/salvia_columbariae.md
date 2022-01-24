@@ -16,6 +16,7 @@ plant_size:
     - 0.33
     - 1.6
 calscape_link: "https://calscape.org/Salvia-columbariae-(Chia)"
+categories: ["Annual herbs", "Salvia" ]
 ---
 
 

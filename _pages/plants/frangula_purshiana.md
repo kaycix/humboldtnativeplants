@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/frangula_purshiana
 title: ""
 common_name: "Cascara Sagrada"
@@ -18,4 +17,10 @@ observations:
   - location: "McKinleyville"
     location_detail: "Hammond Trail by Hiller Park" 
     last_spotted: "Winter 2022"
+
+categories: [ "Shrubs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---

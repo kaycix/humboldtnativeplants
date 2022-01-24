@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/platystemon_californicus
 
 tags: [ "CNPS_master_inventory"
@@ -16,5 +15,6 @@ plant_size:
     - 0.7
     - 1
 calscape_link: "https://calscape.org/Platystemon-californicus-(Creamcups)"
+categories: [ "Annual herbs" ]
 ---
 

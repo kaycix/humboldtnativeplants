@@ -1,8 +1,8 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/clarkia_bottae
 title: ""
+categories: [ "Annual herbs" ]
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

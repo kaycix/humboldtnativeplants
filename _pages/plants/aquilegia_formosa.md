@@ -1,8 +1,13 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/aquilegia_formosa
 title: ""
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 common_name: "Western Columbine"
 scientific_name: "Aquilegia formosa"
 plant_id: 282ff

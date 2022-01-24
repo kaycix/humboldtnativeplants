@@ -1,8 +1,8 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/amsinckia_menziesii
 
+categories: [ "Annual herbs" ]
 tags: ["CNPS_master_inventory"
       ]
 

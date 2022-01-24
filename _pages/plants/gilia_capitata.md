@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/gilia_capitata
 title: ""
 
@@ -18,6 +17,9 @@ plant_size:
     - 0.3
     - 3
 calscape_link: "https://calscape.org/Gilia-capitata-(Blue-Field-Gilia)"
+
+categories: [ "Annual herbs", "Gilia" ]
+
 ---
 
 

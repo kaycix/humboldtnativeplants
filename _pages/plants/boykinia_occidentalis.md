@@ -1,8 +1,13 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/boykinia_occidentalis
 title: ""
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 common_name: "Western Boykinia"
 scientific_name: "Boykinia Occidentalis"
 plant_id: 6cd53

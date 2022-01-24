@@ -13,5 +13,11 @@ plant_size:
     - 0.33
     - 7
 calscape_link: "https://calscape.org/loc-California/Eriogonum%20umbellatum(%20)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

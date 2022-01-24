@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/cornus_sericea
 title: ""
 common_name: "Red Osier Dogwood"
@@ -15,5 +14,11 @@ sun_requirements:
   - "Part Shade"
   - "Full Shade"
 calscape_link: "https://calscape.org/loc-California/Cornus%20sericea(%20)"
+
+categories: [ "Shrubs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

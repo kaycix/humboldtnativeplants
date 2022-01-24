@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrub"
 permalink: /plants/rubus_spectabilis
 title: ""
 common_name: "Salmon Berry"
@@ -17,5 +16,6 @@ observations:
   - location: "McKinleyville"
     location_detail: "Azalea Reserve"
     last_spotted: "Spring 2021"
+categories: ["Shrubs" ]
 ---
 

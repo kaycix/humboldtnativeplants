@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/eschscholzia_californica
 title: ""
 common_name: "California Poppy"
@@ -14,6 +13,12 @@ plant_size:
     - 0.16
     - 2
 calscape_link: "https://calscape.org/Eschscholzia-californica-(California-Poppy)"
+
+categories: [ "Annual herbs", "Poppy"]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 
 

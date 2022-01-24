@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/salvia_leucophylla
 title: ""
 common_name: "Purple Sage"
@@ -15,5 +14,6 @@ plant_size:
     - 2
     - 5
 calscape_link: "https://calscape.org/loc-California/Salvia%20leucophylla(%20)"
+categories: ["Shrubs". "Salvia" ]
 ---
 

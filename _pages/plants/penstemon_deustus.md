@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/penstemon_deustus
 title: ""
 common_name: "Scabland Penstemon"
@@ -14,5 +13,8 @@ plant_size:
   - height: 
     - 1.1
 calscape_link: "https://calscape.org/loc-California/Penstemon%20deustus(%20)"
+
+categories: [ "Perennial herbs", Penstemon"]
+
 ---
 

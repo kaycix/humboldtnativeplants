@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/helenium_bigelovii
 title: ""
 common_name: "Bigelow's Sneezeweed"
@@ -13,5 +12,11 @@ plant_size:
   - height: 
     - 4
 calscape_link: "https://calscape.org/Helenium-bigelovii-(Bigelow's-Sneezeweed)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

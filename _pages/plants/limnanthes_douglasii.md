@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/limnanthes_douglasii
 
 tags: [ "CNPS_master_inventory"
@@ -16,5 +15,8 @@ plant_size:
   - height: 
     - 1.6
 calscape_link: "https://calscape.org/Limnanthes-douglasii-()"
+
+categories: [ "Annual herbs" ]
+
 ---
 

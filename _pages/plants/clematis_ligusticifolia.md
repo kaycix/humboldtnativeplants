@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Vines"
 permalink: /plants/clematis_ligusticifolia
 title: ""
 common_name: "Virgin’s Bower"
@@ -14,5 +13,11 @@ plant_size:
     - 1
     - 30
 calscape_link: "https://calscape.org/loc-California/Clematis%20ligusticifolia(%20)"
+
+categories: [ "Vines" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

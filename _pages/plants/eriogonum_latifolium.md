@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/eriogonum_latifolium
 title: ""
 common_name: "Coast Buckwheat"
@@ -14,6 +13,12 @@ plant_size:
     - 1.7
     - 2.3
 calscape_link: "https://calscape.org/loc-California/Eriogonum%20latifolium(%20)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 
 

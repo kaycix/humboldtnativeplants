@@ -1,8 +1,13 @@
 ---
 layout: plant                                                              
-top_level_category: "Ferns"
 permalink: /plants/blechnum_spicant
 title: ""
+
+categories: [ "Ferns" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 common_name: "Deer Fern"
 scientific_name: "Blechnum Spicant"
 plant_id: 63435

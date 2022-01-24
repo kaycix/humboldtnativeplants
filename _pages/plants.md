@@ -10,5 +10,5 @@ title: ""
 <h5>All Plants ({{plants_folder.size}})</h5>
 	
 {% include plants.html 
-	plants= plants_map 
+	plants= plants_folder 
 %}

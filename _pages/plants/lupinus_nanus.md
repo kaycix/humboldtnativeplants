@@ -16,5 +16,8 @@ plant_size:
     - 0.33
     - 2
 calscape_link: "https://calscape.org/Lupinus-nanus-(Sky-Lupine)"
+
+categories: [ "Annual herbs" ]
+
 ---
 

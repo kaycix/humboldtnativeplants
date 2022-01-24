@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/eriophyllum_staechadifolium
 title: ""
 common_name: "Seaside Woolly Sunflower"
@@ -15,6 +14,12 @@ sun_requirements:
   - "Part Shade"
   - "Full Sun"
 calscape_link: "https://calscape.org/loc-California/Eriophyllum%20staechadifolium(%20)"
+
+categories: [ "Shrubs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 
 

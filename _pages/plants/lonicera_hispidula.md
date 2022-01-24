@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Vines"
 permalink: /plants/lonicera_hispidula
 title: ""
 common_name: "Hairy Honeysuckle"
@@ -19,5 +18,11 @@ observations:
   - location: "Manila"
     location_detail: "Ma-le'l Dunes"
     last_spotted: "Winter 2021"
+
+categories: [ "Vines" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

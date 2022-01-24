@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Ferns"
 permalink: /plants/polypodium_scouleri
 title: ""
 common_name: "Leather Fern"
@@ -15,5 +14,11 @@ plant_size:
 calscape_link: "https://calscape.org/Polypodium-scouleri-()"
 available: 
   - CNPS
+
+categories: [ "Ferns" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

@@ -3,6 +3,12 @@ layout: plant
 top_level_category: "Ferns"
 permalink: /plants/athyrium_filix-femina
 title: ""
+
+categories: [ "Ferns" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 common_name: "Lady Fern"
 scientific_name: "Athyrium filix-femina"
 plant_id: b006a

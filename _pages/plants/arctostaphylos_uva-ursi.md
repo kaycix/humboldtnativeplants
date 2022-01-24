@@ -3,6 +3,11 @@ layout: plant
 top_level_category: "Shrubs"
 permalink: /plants/arctostaphylos_uva-ursi
 title: ""
+categories: [ "Shrubs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 common_name: "Kinnikinnick (Bearberry)"
 scientific_name: "Arctostaphylos uva-ursi"
 plant_id: 6e186

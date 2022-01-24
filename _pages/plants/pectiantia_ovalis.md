@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/pectiantia_ovalis
 title: ""
 common_name: "Coastal Miterwort"
@@ -14,6 +13,9 @@ plant_size:
     - 0.7
     - 1.3
 calscape_link: "https://calscape.org/loc-California/Coastal%20Miterwort%20(Pectiantia%20ovalis)"
+
+categories: [ "Perennial herbs" ]
+
 ---
 
 

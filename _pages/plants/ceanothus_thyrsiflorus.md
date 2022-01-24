@@ -1,8 +1,13 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/ceanothus_thyrsiflorus
 title: ""
+
+categories: [ "Shrubs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 common_name: "California Lilac (Blueblossom)"
 scientific_name: "Ceanothus Thyrsiflorus"
 plant_id: c353c

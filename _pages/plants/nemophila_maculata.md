@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/nemophila_maculata
 
 tags: [ "CNPS_master_inventory"
@@ -18,6 +17,9 @@ plant_size:
     - 0.5
     - 1
 calscape_link: "https://calscape.org/Nemophila-maculata-(Fivespot)"
+
+categories: [ "Annual herbs" ]
+
 ---
 
 

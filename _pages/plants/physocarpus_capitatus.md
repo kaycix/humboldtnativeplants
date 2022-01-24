@@ -14,5 +14,11 @@ plant_size:
     - 3.3
     - 8.2
 calscape_link: "https://calscape.org/loc-California/Physocarpus%20capitatus(%20)"
+
+categories: [ "Shrubs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

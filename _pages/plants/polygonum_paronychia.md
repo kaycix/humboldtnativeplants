@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/polygonum_paronychia
 
 tags: ["Humboldt_County_Native",
@@ -21,6 +20,7 @@ plant_size:
     - 0.3
     - 3.3
 calscape_link: "https://calscape.org/loc-California/Polygonum%20paronychia(%20)"
+categories: [ "Perennial herbs" ]
 ---
 
 

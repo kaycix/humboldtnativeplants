@@ -1,7 +1,11 @@
 ---
 layout: plant                                                              
-top_level_category: "Ferns"
 permalink: /plants/equisetum_arvense
+
+categories: [ "Ferns" ]
+
+tags: ["Humboldt_County_Native"]
+
 title: ""
 common_name: "Common Horsetail"
 scientific_name: "Equisetum arvense"

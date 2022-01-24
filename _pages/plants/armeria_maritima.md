@@ -1,7 +1,12 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/armeria_maritima
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 title: ""
 common_name: "Sea Thrift"
 scientific_name: "Ameria Maritima"

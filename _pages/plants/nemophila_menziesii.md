@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/nemophila_menziesii
 
 tags: [ "CNPS_master_inventory"
@@ -16,6 +15,9 @@ plant_size:
   - height: 
     - 0.5
 calscape_link: "https://calscape.org/Nemophila-menziesii-(Baby-Blue-Eyes)"
+
+categories: [ "Annual herbs" ]
+
 ---
 
 

@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/sisyrinchium_californicum
 title: ""
 common_name: "Yellow Eyed Grass"
@@ -14,5 +13,9 @@ plant_size:
     - 0.7
     - 1
 calscape_link: "https://calscape.org/loc-California/Sisyrinchium%20californicum(%20)"
+
+categories: ["Perennial herbs" ]
+tags: [ "CNPS_master_inventory"
+      ]
 ---
 

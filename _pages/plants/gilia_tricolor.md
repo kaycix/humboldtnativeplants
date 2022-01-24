@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/gilia_tricolor
 
 tags: [ "CNPS_master_inventory"
@@ -18,5 +17,7 @@ plant_size:
     - 0.3
     - 1.2
 calscape_link: "https://calscape.org/Gilia-capitata-(Blue-Field-Gilia)"
+
+categories: [ "Annual herbs", "Gilia" ]
 ---
 

@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/penstemon_humuilis
 title: ""
 common_name: "Low Beardtongue"
@@ -12,6 +11,8 @@ plant_size:
   - height: 
     - 1.1
 calscape_link: "https://calscape.org/loc-California/Penstemon%20humuilis(%20)"
+
+categories: [ "Perennial herbs", "Penstemon"]
 ---
 
 

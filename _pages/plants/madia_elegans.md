@@ -1,10 +1,6 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/madia_elegans
-
-tags: [ "CNPS_master_inventory"
-      ]
 title: ""
 common_name: "Spring Madia"
 scientific_name: "Madia Elegans"
@@ -17,5 +13,11 @@ plant_size:
     - 0.5
     - 1
 calscape_link: "https://calscape.org/Madia-elegans-()"
+
+categories: ["Annual herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

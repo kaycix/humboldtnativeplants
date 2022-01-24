@@ -23,8 +23,7 @@ $(document).ready(function() {
 		</tr>
 	</thead>
 	<tbody>
-{% for category in include.plants %}
-      {% for item in category.items %}
+{% for item in include.plants %}
       	<tr>	
 		<td>
 			<a href="{{ item.permalink | prepend:site.baseurl }}">
@@ -99,9 +98,10 @@ $(document).ready(function() {
 		</td>
 		<td>
 			{% comment %} TODO figure out how to handle category => url {% endcomment %}
-			{% assign category_url = "/plants/" | prepend:site.baseurl | append:category.name | replace:" ","_" | replace:"-", "_" | replace:"&", "and" | downcase %}
+			{% assign top_level_category = item.categories | first %}
+			{% assign category_url = "/plants/" | prepend:site.baseurl | append:top_level_category | replace:" ","_" | replace:"-", "_" | replace:"&", "and" | downcase %}
 			<a href="{{ category_url }}"> 
-				{{category.name }}
+				{{top_level_category }}
 			</a>
 		</td>
 		<td>
@@ -112,7 +112,6 @@ $(document).ready(function() {
 			{% endif %} 
 		</td>
 	</tr>
-      {% endfor %}
 {% endfor %}
 	</tbody>
 </table>

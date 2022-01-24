@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/grindelia_stricta_v_platyphylla
 title: ""
 common_name: "Gumweed"
@@ -15,5 +14,11 @@ plant_size:
     - 1
     - 1.6
 calscape_link: "https://calscape.org/loc-California/Grindelia%20stricta%20platyphylla(%20)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

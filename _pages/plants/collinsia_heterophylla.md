@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/collinsia_heterophylla
 title: ""
 common_name: "Chinese Houses"
@@ -14,6 +13,12 @@ plant_size:
     - 0.3
     - 1.6
 calscape_link: "https://calscape.org/Collinsia-heterophylla-(Purple-Chinese-Houses)"
+
+categories: [ "Annual herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 
 

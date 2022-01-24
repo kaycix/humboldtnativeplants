@@ -1,7 +1,6 @@
 ---
 layout: plant
  
-top_level_category: "Grasses"
 permalink: /plants/festuca_californica
 title: ""
 common_name: "California Fescue"
@@ -16,5 +15,11 @@ plant_size:
     - 1.3
     - 4
 calscape_link: "https://calscape.org/Festuca-californica-(California-Fescue)"
+
+categories: [ "Grasses" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

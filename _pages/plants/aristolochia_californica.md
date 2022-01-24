@@ -1,8 +1,12 @@
 ---
 layout: plant                                                              
-top_level_category: "Vines"
 permalink: /plants/aristolochia_californica
 title: ""
+categories: [ "Vines" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 common_name: "California Pipevine"
 scientific_name: "Aristolochia Californica"
 plant_id: 4f9d4

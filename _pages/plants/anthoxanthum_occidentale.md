@@ -1,8 +1,12 @@
 ---
 layout: plant                                                              
-top_level_category: "Grasses"
 permalink: /plants/anthoxanthum_occidentale
 title: ""
+categories: [ "Grasses" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 common_name: "California Vanilla Grass"
 scientific_name: "Anthoxanthum Occidentale"
 plant_id: 7816f

@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/erigeron_glaucus
 title: ""
 common_name: "Seaside Daisy"
@@ -15,5 +14,11 @@ plant_size:
     - 0.16
     - 1
 calscape_link: "https://calscape.org/loc-California/Seaside%20Daisy%20(Erigeron%20glaucus)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

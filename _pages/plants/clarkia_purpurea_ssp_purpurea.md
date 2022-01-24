@@ -1,7 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
-permalink: /plants/clarkia_purpurea_ssp_purpurea
 title: ""
 common_name: "Winecup Clarkia"
 scientific_name: "Clarkia purpurea ssp. purpurea"
@@ -12,6 +10,12 @@ plant_size:
   - height: 
     - 3.3
 calscape_link: "https://calscape.org/Clarkia-purpurea-ssp.-purpurea-(Winecup-Clarkia)"
+
+categories: [ "Annual herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 
 
