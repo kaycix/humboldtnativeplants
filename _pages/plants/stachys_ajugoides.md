@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/stachys_ajugoides
 title: ""
 common_name: "Ajuga Hedge Nettle"
@@ -14,5 +13,11 @@ plant_size:
     - 0.3
     - 1
 calscape_link: "https://calscape.org/loc-California/Stachys%20ajugoides(%20)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

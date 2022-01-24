@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/limnanthes_douglasii_ssp_nivea
 
 tags: [ "CNPS_master_inventory"
@@ -15,5 +14,11 @@ plant_size:
   - height: 
     - 1.6
 calscape_link: "https://calscape.org/Limnanthes-douglasii-ssp.-nivea-()"
+
+categories: [ "Annual herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

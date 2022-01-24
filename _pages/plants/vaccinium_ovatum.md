@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/vaccinium_ovatum
 title: ""
 common_name: "Huckleberry" 
@@ -18,6 +17,12 @@ observations:
   - location: "McKinleyville"
     location_detail: "Hammond Trail by Hiller Park" 
     last_spotted: "Winter 2022"
+
+categories: [ "Shrubs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 
 

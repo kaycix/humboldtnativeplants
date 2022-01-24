@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Grasses"
 permalink: /plants/stipa_pulchra
 title: ""
 common_name: "Purple Needle Grass"
@@ -13,6 +12,12 @@ plant_size:
   - height: 
     - 3.3
 calscape_link: "https://calscape.org/loc-California/Purple%20Needlegrass%20(Stipa%20pulchra)"
+
+categories: [ "Grasses" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 
 

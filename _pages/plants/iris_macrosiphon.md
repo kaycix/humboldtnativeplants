@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/iris_macrosiphon
 title: ""
 common_name: "Ground Iris"
@@ -14,6 +13,12 @@ plant_size:
     - 1
     - 2
 calscape_link: "https://calscape.org/Iris-macrosiphon-(Long-Tubed-Iris)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 
 

@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/thalictrum_fendleri
 title: ""
 common_name: "Foothill Meadow Rue"
@@ -14,5 +13,11 @@ plant_size:
     - 3
     - 6
 calscape_link: "https://calscape.org/loc-California/thalictrum%20fendleri(%20)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

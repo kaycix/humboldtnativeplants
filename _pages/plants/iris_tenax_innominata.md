@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/iris_tenax_x_innominata
 title: ""
 common_name: ""
@@ -9,6 +8,13 @@ plant_id: f156c
 sun_requirements:
   - "Full Sun"
 calscape_link: ""
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
+
 ---
 
 

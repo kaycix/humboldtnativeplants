@@ -14,5 +14,11 @@ plant_size:
     - 0.8
     - 1.5
 calscape_link: "https://calscape.org/loc-California/Iris%20tenax(%20)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

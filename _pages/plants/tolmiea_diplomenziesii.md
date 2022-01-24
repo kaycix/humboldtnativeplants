@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/tolmiea_diplomenziesii
 title: ""
 common_name: "Piggyback Plant"
@@ -14,6 +13,12 @@ plant_size:
   - height: 
     - 1
 calscape_link: "https://calscape.org/loc-California/Tolmiea%20diplomenziesii(%20)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 
 

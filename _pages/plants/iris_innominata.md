@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/iris_innominata
 title: ""
 common_name: "Del Norte County Iris"
@@ -15,5 +14,11 @@ plant_size:
     - 4.7
     - 8.4
 calscape_link: "https://calscape.org/loc-California/Iris%20innominata(%20)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 

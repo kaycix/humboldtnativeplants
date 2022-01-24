@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/iris_douglasiana
 title: ""
 common_name: "Douglas Iris"
@@ -15,5 +14,11 @@ plant_size:
     - 0.6
     - 2.6
 calscape_link: "https://calscape.org/loc-California/Iris%20douglasiana(%20)"
+
+categories: [ "Perennial herbs" ]
+
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
 ---
 
