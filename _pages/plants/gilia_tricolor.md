@@ -1,23 +1,22 @@
 ---
 layout: plant                                                              
 top_level_category: "Annual herbs"
-permalink: /plants/gilia_capitata
-title: ""
+permalink: /plants/gilia_tricolor
 
 tags: [ "CNPS_master_inventory"
       ]
 
-common_name: "Blue Field Gilia"
-scientific_name: "Gilia capitata"
-plant_id: 77bca 
+title: ""
+common_name: "Tricolor Gilia"
+scientific_name: "Gilia tricolor"
+plant_id: f8019
 sun_requirements:
   - "Full Sun"
 # min then max in feet
 plant_size:
   - height: 
     - 0.3
-    - 3
+    - 1.2
 calscape_link: "https://calscape.org/Gilia-capitata-(Blue-Field-Gilia)"
 ---
-
 

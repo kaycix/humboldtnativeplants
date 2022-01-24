@@ -1,23 +1,22 @@
 ---
 layout: plant                                                              
 top_level_category: "Annual herbs"
-permalink: /plants/gilia_capitata
-title: ""
+permalink: /plants/layia_platyglossa
 
 tags: [ "CNPS_master_inventory"
       ]
 
-common_name: "Blue Field Gilia"
-scientific_name: "Gilia capitata"
-plant_id: 77bca 
+title: ""
+common_name: "Tidy Tips"
+scientific_name: "Layia platyglossa"
+plant_id: e6ed3
 sun_requirements:
   - "Full Sun"
 # min then max in feet
 plant_size:
   - height: 
-    - 0.3
-    - 3
-calscape_link: "https://calscape.org/Gilia-capitata-(Blue-Field-Gilia)"
+    - 0.5
+    - 2
+calscape_link: "https://calscape.org/Layia-platyglossa-(Common-Tidy-Tips)"
 ---
-
 

@@ -1,19 +1,20 @@
 ---
 layout: plant                                                              
 top_level_category: "Annual herbs"
-permalink: /plants/limnanthes_douglasii_ssp_nivea
+permalink: /plants/limnanthes_douglasii
 
 tags: [ "CNPS_master_inventory"
       ]
 title: ""
-common_name: "Douglas' Meadowfoam"
-scientific_name: "Limnanthes douglasii ssp. nivea"
-plant_id: 55d17
+common_name: "Common Meadowfoam"
+scientific_name: "Limnanthes douglasii"
+plant_id: 4b58d
 sun_requirements:
   - "Full Sun"
+  - "Part Shade"
 plant_size:
   - height: 
     - 1.6
-calscape_link: "https://calscape.org/Limnanthes-douglasii-ssp.-nivea-()"
+calscape_link: "https://calscape.org/Limnanthes-douglasii-()"
 ---
 
