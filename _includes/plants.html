@@ -5,12 +5,67 @@
 	
 
 $(document).ready(function() {
-	$('.plant_table').DataTable({
-		"paging" : false
-	});
+  var plant_table = $('.plant_table').DataTable({
+	"paging" : false
+  });
+
+  // create plant_data json
+  var plant_data = [];
+  {% for plant in include.plants %}
+    plant_data.push({ "common_name" : "{{plant.common_name}}",
+                      "sun_requirements" : "{{plant.sun_requirements | join: ','}}" 
+                     });
+  {% endfor %}
+
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex, rowData, counter ) {
+
+	var full_sun_requirement = $("#full_sun").is(":checked");
+	var part_shade_requirement = $("#part_shade").is(":checked");
+	var full_shade_requirement = $("#full_shade").is(":checked");
+
+	var plant = plant_data[dataIndex];
+
+  	if (full_sun_requirement) {
+		if (plant.sun_requirements.indexOf("Full Sun") != -1) {
+			return true;
+		}
+        }
+  	if (part_shade_requirement) { 
+		if (plant.sun_requirements.indexOf("Part Shade") != -1) {
+			return true;
+		}
+        }
+  	if (full_shade_requirement) {
+		if  (plant.sun_requirements.indexOf("Full Shade") != -1) {
+			return true;
+		}
+        }
+        return false;
+    }
+);
+
+    $(':checkbox').change(function() {
+    // this will contain a reference to the checkbox   
+    if (this.checked) {
+	plant_table.draw();
+    } else {
+	plant_table.draw();
+    }
+  });
 } );
 
 </script>
+
+<form action="#">
+  <label for="sun_requirement">Sun Requirement</label>
+  <input type="checkbox" value="full_sun" id="full_sun" checked />
+  <label for="full_sun">Full Sun</label>
+  <input type="checkbox" value="part_shade" id="part_shade" checked />
+  <label for="part_shade">Part Shade</label>
+  <input type="checkbox" value="full_shade" id="full_shade" checked />
+  <label for="full_shade">Full Shade</label>
+</form>
 
 <table class="plant_table" style="width:100%">
 	<thead>

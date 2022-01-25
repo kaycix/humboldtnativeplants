@@ -14,6 +14,6 @@ plant_size:
     - 2
     - 5
 calscape_link: "https://calscape.org/loc-California/Salvia%20leucophylla(%20)"
-categories: ["Shrubs". "Salvia" ]
+categories: ["Shrubs", "Salvia" ]
 ---
 
