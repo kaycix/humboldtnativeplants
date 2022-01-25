@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/sambucus_racemosa
 
 tags: ["Humboldt_County_Native",

@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/arctostaphylos_uva-ursi
 title: ""
 categories: [ "Shrubs" ]

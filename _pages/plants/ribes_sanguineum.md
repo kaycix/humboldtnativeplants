@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/ribes_sanguineum
 
 tags: ["Humboldt_County_Native",

@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/eriogonum_umbellatum
 title: ""
 common_name: "Sulphur Buckwheat"

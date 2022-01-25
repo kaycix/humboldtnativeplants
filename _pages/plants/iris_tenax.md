@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Perennial herbs"
 permalink: /plants/iris_tenax
 title: ""
 common_name: "Toughleaf Iris"

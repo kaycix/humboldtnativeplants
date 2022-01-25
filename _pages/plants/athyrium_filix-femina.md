@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Ferns"
 permalink: /plants/athyrium_filix-femina
 title: ""
 

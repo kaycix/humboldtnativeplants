@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Shrubs"
 permalink: /plants/rosa_gymnocarpa
 title: ""
 common_name: "Dwarf Rose" 

@@ -1,6 +1,5 @@
 ---
 layout: plant                                                              
-top_level_category: "Annual herbs"
 permalink: /plants/lupinus_nanus
 
 tags: [ "CNPS_master_inventory"
