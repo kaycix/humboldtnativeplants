@@ -19,52 +19,42 @@ $(document).ready(function() {
 
 $.fn.dataTable.ext.search.push(
     function( settings, data, dataIndex, rowData, counter ) {
-
-	var full_sun_requirement = $("#full_sun").is(":checked");
-	var part_shade_requirement = $("#part_shade").is(":checked");
-	var full_shade_requirement = $("#full_shade").is(":checked");
-
+	
+	var selected_sun_requirement = $("select.sun_requirement").val();
 	var plant = plant_data[dataIndex];
 
-  	if (full_sun_requirement) {
-		if (plant.sun_requirements.indexOf("Full Sun") != -1) {
+	if (selected_sun_requirement == "any") {
+		return true;
+	} else if ((selected_sun_requirement == "full_sun") && 
+	           (plant.sun_requirements.indexOf("Full Sun") != -1)) {
 			return true;
-		}
-        }
-  	if (part_shade_requirement) { 
-		if (plant.sun_requirements.indexOf("Part Shade") != -1) {
+	} else if ((selected_sun_requirement == "part_shade") &&
+		   (plant.sun_requirements.indexOf("Part Shade") != -1)) {
 			return true;
-		}
-        }
-  	if (full_shade_requirement) {
-		if  (plant.sun_requirements.indexOf("Full Shade") != -1) {
+	} else if ((selected_sun_requirement == "full_shade") && 
+		   (plant.sun_requirements.indexOf("Full Shade") != -1)) {
 			return true;
-		}
-        }
-        return false;
+	} else {
+	  	return false;
+	} 	
     }
 );
 
-    $(':checkbox').change(function() {
-    // this will contain a reference to the checkbox   
-    if (this.checked) {
+    $('select.sun_requirement').change(function() {
 	plant_table.draw();
-    } else {
-	plant_table.draw();
-    }
   });
 } );
 
 </script>
 
-<form action="#">
-  <label for="sun_requirement">Sun Requirement</label>
-  <input type="checkbox" value="full_sun" id="full_sun" checked />
-  <label for="full_sun">Full Sun</label>
-  <input type="checkbox" value="part_shade" id="part_shade" checked />
-  <label for="part_shade">Part Shade</label>
-  <input type="checkbox" value="full_shade" id="full_shade" checked />
-  <label for="full_shade">Full Shade</label>
+<form>
+  Sun Requirement:
+  <select class="sun_requirement">
+    <option value="any" selected="selected">Any</option>
+    <option value="full_sun">Full Sun</option>
+    <option value="part_shade">Part Shade</option>
+    <option value="full_shade">Full Shade</option>
+  </select>
 </form>
 
 <table class="plant_table" style="width:100%">
