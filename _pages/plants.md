@@ -7,7 +7,7 @@ title: ""
 
 {% assign plants_map = plants_folder | group_by:"top_level_category" | sort:"name" %}
 
-<h5>All Plants ({{plants_folder.size}})</h5>
+<h5>All Plants</h5>
 	
 {% include plants.html 
 	plants= plants_folder 

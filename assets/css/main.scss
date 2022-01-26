@@ -72,6 +72,15 @@ html table .scientific_name {
 	font-style: italic;
 }
 
+.plant_filters .filter_input {
+    float: left;
+    margin-right: 15px;
+}
+
+#new_search_location {
+    float: right;
+}
+
 .nursery-container .nursery,
 .seed-container .seed_source {
 	background-color: white;
