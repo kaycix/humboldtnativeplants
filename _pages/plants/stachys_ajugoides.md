@@ -12,6 +12,8 @@ plant_size:
   - height: 
     - 0.3
     - 1
+
+icon: "/assets/images/plants/stachys_ajugoides_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Stachys%20ajugoides(%20)"
 
 categories: [ "Perennial herbs" ]

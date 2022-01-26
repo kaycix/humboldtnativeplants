@@ -14,6 +14,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 0.5
+
+icon: "/assets/images/plants/nemophila_menziesii.jpg" 
 calscape_link: "https://calscape.org/Nemophila-menziesii-(Baby-Blue-Eyes)"
 
 categories: [ "Annual herbs" ]

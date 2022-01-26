@@ -130,11 +130,16 @@ $.fn.dataTable.ext.search.push(
 	<tbody>
 {% for item in include.plants %}
       	<tr>	
-		<td>
-			<a href="{{ item.permalink | prepend:site.baseurl }}">
-				{{item.common_name}}
-			</a>
-			<div class="scientific_name">{{item.scientific_name}}</div>
+		<td class="name">
+            {% if item.icon %}
+                <img src="{{ item.icon | prepend: site.baseurl }}" alt="{{item.common_name}}"/>
+            {% endif %}
+            <div class="name">
+                <a href="{{ item.permalink | prepend:site.baseurl }}">
+                    {{item.common_name}}
+                </a>
+                <div class="scientific_name">{{item.scientific_name}}</div>
+            </div>
 		</td>
  		{% comment %}
 		Use for sorting:

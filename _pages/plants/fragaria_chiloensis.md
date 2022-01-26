@@ -12,6 +12,8 @@ plant_size:
   - height: 
     - 0.49
     - 1
+
+icon: "/assets/images/plants/fragaria_chiloensis_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Fragaria%20chiloensis%20(Beach%20Strawberry)"
 
 categories: [ "Perennial herbs" ]

@@ -12,7 +12,10 @@ plant_size:
   - height: 
     - 5
     - 26.3
+
+icon: "/assets/images/plants/corylus_cornuta_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Corylus-cornuta-(Beaked-Hazelnut)"
+
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve (Surrounding Areas)"

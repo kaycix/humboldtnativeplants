@@ -72,6 +72,11 @@ html table .scientific_name {
 	font-style: italic;
 }
 
+.plant_table td.name img {
+    float: left;
+    margin: 5px 10px 0 0;
+}
+
 .plant_filters .filter_input {
     float: left;
     margin-right: 15px;

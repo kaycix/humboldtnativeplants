@@ -19,6 +19,8 @@ plant_size:
   - height: 
     - 0.3
     - 3.3
+
+icon: "/assets/images/plants/polygonum_paronychia_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Polygonum%20paronychia(%20)"
 categories: [ "Perennial herbs" ]
 ---
