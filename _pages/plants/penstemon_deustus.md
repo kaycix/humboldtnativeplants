@@ -14,7 +14,7 @@ plant_size:
     - 1.1
 calscape_link: "https://calscape.org/loc-California/Penstemon%20deustus(%20)"
 
-categories: [ "Perennial herbs", Penstemon"]
+categories: [ "Perennial herbs", "Penstemon"]
 
 ---
 

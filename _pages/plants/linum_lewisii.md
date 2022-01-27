@@ -11,6 +11,8 @@ plant_size:
   - height: 
     - 1.5
     - 3
+
+icon: "/assets/images/plants/linum_lewisii_icon.jpg" 
 calscape_link: "https://calscape.org/Linum-lewisii-()"
 
 categories: [ "Perennial herbs" ]

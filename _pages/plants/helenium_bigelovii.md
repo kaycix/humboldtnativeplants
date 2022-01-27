@@ -11,6 +11,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 4
+
+icon: "/assets/images/plants/helenium_bigelovii_icon.jpg" 
 calscape_link: "https://calscape.org/Helenium-bigelovii-(Bigelow's-Sneezeweed)"
 
 categories: [ "Perennial herbs" ]

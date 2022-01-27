@@ -64,7 +64,7 @@ html table {
 
 html table .scientific_name,
 html table .height { 
-	color: #666;
+	color: #888;
 	font-size: 0.9em;
 }
 
@@ -87,7 +87,8 @@ html table .scientific_name {
 }
 
 #new_search_location {
-    float: right;
+    float: left;
+    margin-right: 15px;
 }
 
 .nursery-container .nursery,
@@ -124,14 +125,15 @@ html table .scientific_name {
 
 .sun_req div.visible {
   display: block;
+  margin-bottom:2px;
 }
 
 .sun_req .full_sun {
-  background-color: yellow;
+  background-color: #fff44f;
 }
 
 .sun_req .part_shade {
-  background-image: linear-gradient(0deg, gray ,yellow);
+  background-image: linear-gradient(0deg, gray ,#fff44f);
 }
 
 .sun_req .full_shade {

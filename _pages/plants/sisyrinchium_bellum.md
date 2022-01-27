@@ -12,6 +12,8 @@ plant_size:
   - height: 
     - 1
     - 2
+
+icon: "/assets/images/plants/sisyrinchium_bellum_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Sisyrinchium%20bellum(%20)"
 observations: 
   - location: "McKinleyville"
