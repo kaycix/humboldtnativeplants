@@ -4,7 +4,16 @@ title: ""
 ---
 <div class="row">
     <div class="intro">
-        <h1 style="font-size:56px">Native plants are <span class="animate">better</span> than non-native plants.</h1> 
+        <h1 style="font-size:56px">
+            Native plants are <span class="animate">better</span> for
+            <div id=container>
+              <div id=flip>
+                <div><div>pollinators.</div></div>
+                <div><div>drought.</div></div>
+                <div><div>the planet.</div></div>
+              </div>
+            </div>    
+        </h1> 
         <h5>Native plants are those that occur naturally in a region they evolved. They are the basis upon which life depend.</h5>
         <a href="">Learn More</a>
     </div> 

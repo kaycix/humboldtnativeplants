@@ -4,8 +4,8 @@ plugins:
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-title                    : "Humboldt County Native Plants"
-name                     : "Humboldt County Native Plants"
+title                    : "Humboldt Native Plants"
+name                     : "Humboldt Native Plants"
 baseurl                  : /humboldtnativeplants
 include                  : ["_pages"]
 logo                     : "/assets/images/leaf-icon.png"
