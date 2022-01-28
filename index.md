@@ -2,12 +2,16 @@
 layout: "home"
 title: ""
 ---
-<div>
-	<h1>
-		<a href="{{"/conservation" | prepend:site.baseurl }}">
-			Conservation
-		</a>
-	</h1>
+<div class="intro">
+    <h1 style="font-size:56px">Native plants are <span class="animate">better</span> than non-native plants.</h1> 
+    <h5>Native plants are those that occur naturally in a region they evolved. They are the basis upon which life depend.</h5>
+    <a href="">Learn More</a> 
+</div>
+<hr/>
+<div class="main-topic">
+	<h2>
+		Conservation
+	</h2>
 	<ul>
 	<!--	
 		<li>How to Start Native Plant Gardening</li>
@@ -32,28 +36,28 @@ title: ""
 	</ul>		
 </div>
 
-<div>
-	<h1><a href="{{"/connection" | prepend:site.baseurl }}">Connection</a></h1>
+<div class="main-topic">
+	<h2>Connection</h2>
 	<ul>
 		<li>
 			<a href="{{"/connection/volunteer" | prepend:site.baseurl }}">
 			Volunteer Opportunities
 			</a>
 		</li>
+	<!--
 		<li>
 			<a href="{{"/connection/observations" | prepend:site.baseurl }}">
 			Observations 
 			</a>
 		</li>
-	<!--
 		<li>Walks</li>
 		<li>Share Your Native Plant Knowledge</li>
 	-->
 	</ul>
 </div>
 
-<div>
-	<h1><a href="{{"/landscaping" | prepend:site.baseurl }}">Landscaping</a></h1>
+<div class="main-topic">
+	<h2>Landscaping</h2>
 	<ul>
 		<li>
 			<a href="{{"/plants" | prepend:site.baseurl }}">
@@ -62,7 +66,6 @@ title: ""
 		</li>
 	<!--
 		<li>See Examples of Gardens</li>
-	-->
 	</ul>
 </div>
 
@@ -74,5 +77,6 @@ title: ""
 				Browse Native Plants
 			</a>
 		</li>
+	-->
 	</ul>
 </div>

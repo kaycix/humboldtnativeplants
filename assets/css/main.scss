@@ -8,8 +8,8 @@
 @import "minimal-mistakes"; // main partials
 
 html {
-	font-size: 15px;
-	background-color: #F5F8F7;
+	font-size: 16px;
+	background-color: #ebf1f4;
 	color: #000;
 }
 
@@ -21,6 +21,10 @@ h1 a {
 	text-decoration: none;
 }
 
+.greedy-nav a.site-title {
+    color: #000;
+}
+
 html .masthead #site-title {
 	font-weight: 400;
 }
@@ -29,7 +33,6 @@ html h1#page-title {
 	margin: 15px 0;
 	font-weight: 600;
 	text-align: center;
-	color: RGB(20,106,145);
 	font-size: 2em;
 }
 
@@ -48,6 +51,8 @@ html body .site-title {
 
 html .masthead {
 	background-color:#FFF;
+    border-top: 5px solid #03775e;
+    box-shadow: 0 2px 10px 0 rgba(0,0,0,0.1);
 }
 
 html .masthead .site-title-wrapper {
@@ -56,6 +61,71 @@ html .masthead .site-title-wrapper {
 
 html .masthead .visible-links {
 	overflow: visible;
+}
+
+.intro {
+    text-align: center;
+}
+
+.intro h1 {
+    font-size: 56px;
+}
+
+.intro h5 {
+    margin-bottom: 15px;
+}
+
+.intro a {
+    background-color: #168743;
+    background-color: #04AA6D;
+    border-radius: 3px; 
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 16px 80px;
+    text-decoration: none;
+}
+
+.animate {
+ background-image: linear-gradient(
+    -225deg,
+    #292961 0%,
+    #03775E 29%,
+    #AA3704 67%,
+    #292961 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+
+hr {
+    background: #03775e;
+    height: 10px;
+}
+
+h5 {
+    color: #000;
+}
+
+div.main-topic {
+    background-color: #FFF;
+    color: purple;
+    margin-bottom: 10px;
+    padding: 30px;
 }
 
 html table {

@@ -8,3 +8,4 @@ title                    : "Humboldt County Native Plants"
 name                     : "Humboldt County Native Plants"
 baseurl                  : /humboldtnativeplants
 include                  : ["_pages"]
+logo                     : "/assets/images/leaf-icon.png"
