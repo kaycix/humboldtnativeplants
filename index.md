@@ -16,7 +16,7 @@ title: ""
             </div>    
         </h1>
         <h5>
-            Native plants are beautiful, easy to grow, and important for our local ecosystems. 
+            Native plants are beautiful, easy to grow, and provide a critical foundation for our local ecosystem. 
             <!--
             Help Humboldt thrive by planting native today.
             Native plants are those that occur naturally in our region. They are the foundation of our local eco-systems.
