@@ -5,7 +5,7 @@ title: ""
 <div class="row">
     <div class="intro">
         <div style="height:300px; overflow:hidden; position: absolute; z-index:-1;">
-            <img style="height:300px; float:left" src="{{ "/assets/images/humboldt_county_map.png" | prepend: site.baseurl }}" />
+            <img style="height:300px; opacity: 0.5; float:left" src="{{ "/assets/images/humboldt_county_map.png" | prepend: site.baseurl }}" />
         </div>
         <h1 style="font-size:56px">
             Native plants are <span class="animate">better</span> for
