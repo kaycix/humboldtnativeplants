@@ -173,6 +173,10 @@ $.fn.dataTable.ext.search.push(
 <table class="plant_table" style="width:100%" width="100%">
 	<thead>
 		<tr>
+            {% if include.show_select %}
+            <th>
+            </th>
+            {% endif %}
 			<th>Name</th>
 			<th>Sun</th>
 			<th>Height</th>
@@ -185,6 +189,11 @@ $.fn.dataTable.ext.search.push(
 	<tbody>
 {% for item in include.plants %}
       	<tr>	
+        {% if include.show_select %}
+            <td>    
+                <input type="checkbox" />
+            </td>
+        {% endif %}
 		<td class="name">
             {% if item.icon %}
             <!--

@@ -64,6 +64,12 @@ title: ""
                 Volunteer Opportunities
                 </a>
             </li>
+            <li>
+                <a href="{{"/plant_list" | prepend:site.baseurl }}">
+                Create a Plant List to Share
+                </a>
+            </li>
+
         <!--
             <li>
                 <a href="{{"/connection/observations" | prepend:site.baseurl }}">
