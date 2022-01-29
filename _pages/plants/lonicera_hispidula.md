@@ -4,6 +4,7 @@ permalink: /plants/lonicera_hispidula
 title: ""
 common_name: "Hairy Honeysuckle"
 scientific_name: "Lonicera hispidula"
+id: 52
 plant_id: 0eaa7
 sun_requirements:
   - "Part Shade"

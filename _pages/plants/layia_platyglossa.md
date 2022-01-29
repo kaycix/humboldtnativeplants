@@ -8,6 +8,7 @@ tags: [ "CNPS_master_inventory"
 title: ""
 common_name: "Tidy Tips"
 scientific_name: "Layia platyglossa"
+id: 48
 plant_id: e6ed3
 sun_requirements:
   - "Full Sun"

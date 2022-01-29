@@ -4,6 +4,7 @@ permalink: /plants/claytonia_perfoliata
 title: ""
 common_name: "Miner's Lettuce"
 scientific_name: "Claytonia perfoliata"
+id: 19
 plant_id: 7a853
 sun_requirements:
   - "Part Shade"

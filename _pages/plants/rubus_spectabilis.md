@@ -4,6 +4,7 @@ permalink: /plants/rubus_spectabilis
 title: ""
 common_name: "Salmon Berry"
 scientific_name: "Rubus Spectabilis"
+id: 77
 plant_id: 76c84
 sun_requirements:
   - "Full Shade"

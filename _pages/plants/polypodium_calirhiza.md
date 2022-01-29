@@ -4,6 +4,7 @@ permalink: /plants/polypodium_calirhiza
 title: ""
 common_name: "Nested Polypody Fern"
 scientific_name: "Polypodium calirhiza"
+id: 69
 plant_id: c8dd4
 sun_requirements:
   - "Full Sun"

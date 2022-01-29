@@ -4,6 +4,7 @@ permalink: /plants/symphyotrichum_chilense
 title: ""
 common_name: "California Aster"
 scientific_name: "Symphyotrichum Chilense"
+id: 89
 plant_id: 6824b
 sun_requirements:
   - "Full Sun"

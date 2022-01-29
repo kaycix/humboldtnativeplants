@@ -4,6 +4,7 @@ permalink: /plants/corylus_cornuta
 title: ""
 common_name: "Beaked Hazelnut"
 scientific_name: "Corylus Cornuta"
+id: 23
 plant_id: b35c5
 sun_requirements:
   - "Shade"

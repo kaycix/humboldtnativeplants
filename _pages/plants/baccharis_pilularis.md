@@ -10,6 +10,7 @@ tags: ["Humboldt_County_Native",
       ]
 common_name: "Coyote Brush"
 scientific_name: "Baccharis Pilularis"
+id: 9
 plant_id: f09c2
 sun_requirements:
   - "Full Sun"

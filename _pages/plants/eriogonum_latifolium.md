@@ -4,6 +4,7 @@ permalink: /plants/eriogonum_latifolium
 title: ""
 common_name: "Coast Buckwheat"
 scientific_name: "Eriogonum latifolium"
+id: 27
 plant_id: a531d
 sun_requirements:
   - "Full Sun"

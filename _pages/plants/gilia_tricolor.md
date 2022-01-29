@@ -8,6 +8,7 @@ tags: [ "CNPS_master_inventory"
 title: ""
 common_name: "Tricolor Gilia"
 scientific_name: "Gilia tricolor"
+id: 37
 plant_id: f8019
 sun_requirements:
   - "Full Sun"

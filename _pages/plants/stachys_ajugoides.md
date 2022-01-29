@@ -4,6 +4,7 @@ permalink: /plants/stachys_ajugoides
 title: ""
 common_name: "Ajuga Hedge Nettle"
 scientific_name: "Stachys Ajugoides"
+id: 87
 plant_id: 4e102
 sun_requirements:
   - "Full Sun"

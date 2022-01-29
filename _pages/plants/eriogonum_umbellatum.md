@@ -4,6 +4,7 @@ permalink: /plants/eriogonum_umbellatum
 title: ""
 common_name: "Sulphur Buckwheat"
 scientific_name: "Eriogonum umbellatum"
+id: 28
 plant_id: 7524f
 sun_requirements:
   - "Full Sun"

@@ -11,6 +11,7 @@ tags: ["Humboldt_County_Native",
 title: ""
 common_name: "Common Yarrow"
 scientific_name: "Achillea Millefolium"
+id: 1
 plant_id: 28457
 sun_requirements:
   - "Full Sun"

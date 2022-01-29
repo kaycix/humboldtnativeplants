@@ -4,6 +4,7 @@ permalink: /plants/salvia_mellifera
 title: ""
 common_name: "Black Sage"
 scientific_name: "Salvia Mellifera"
+id: 81
 plant_id: 4db51
 sun_requirements:
   - "Full Sun"

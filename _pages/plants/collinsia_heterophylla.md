@@ -4,6 +4,7 @@ permalink: /plants/collinsia_heterophylla
 title: ""
 common_name: "Chinese Houses"
 scientific_name: "Collinsia heterophylla"
+id: 21
 plant_id: 3b1be 
 sun_requirements:
   - "Full Sun"

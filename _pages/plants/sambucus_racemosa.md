@@ -9,6 +9,7 @@ tags: ["Humboldt_County_Native",
 title: ""
 common_name: "Red Elderberry"
 scientific_name: "Sambucus racemosa"
+id: 83
 plant_id: 35532
 sun_requirements:
   - "Full Shade"

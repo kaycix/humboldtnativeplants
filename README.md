@@ -8,3 +8,6 @@ echo achillea_millefolium | md5 | cut -c 1-5
 
 A command that processes all the plant names from the plants directory:
 for i in $(ls -1 | sed 's#\(.*\).md#\1#g'); do echo $i " "  $(echo $i | md5 | cut -c 1-5); done;
+
+A command to add id to plant files:
+count=1; for i in $(ls -1); do sed -i '' 's#^id: \([0-9]*\)#id: '$count$'#g' $i; ((count=count+1)); done;

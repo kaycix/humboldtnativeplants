@@ -10,6 +10,7 @@ tags: ["Humboldt_County_Native",
       ]
 common_name: "Western Boykinia"
 scientific_name: "Boykinia Occidentalis"
+id: 11
 plant_id: 6cd53
 # min then max in feet
 plant_size:

@@ -6,6 +6,7 @@ common_name: "Purple Sage"
 scientific_name: "Baccharis Pilularis"
 genus_common: "Sages" 
 genus_scientific: "Salvia"
+id: 80
 plant_id: e5e11
 sun_requirements:
   - "Full Sun"

@@ -4,6 +4,7 @@ permalink: /plants/helenium_bigelovii
 title: ""
 common_name: "Bigelow's Sneezeweed"
 scientific_name: "Helenium bigelovii"
+id: 39
 plant_id: dbac1
 sun_requirements:
   - "Full Sun"

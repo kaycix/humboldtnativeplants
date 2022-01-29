@@ -9,6 +9,7 @@ tags: ["Humboldt_County_Native",
 title: ""
 common_name: "Blood Currant"
 scientific_name: "Ribes sanguineum var. glutinosum"
+id: 74
 plant_id: f2289
 sun_requirements:
   - "Part Shade"

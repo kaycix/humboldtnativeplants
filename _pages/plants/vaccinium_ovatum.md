@@ -4,6 +4,7 @@ permalink: /plants/vaccinium_ovatum
 title: ""
 common_name: "Huckleberry" 
 scientific_name: "Vaccinium Ovatum"
+id: 93
 plant_id: 09810
 sun_requirements:
   - "Full Sun"

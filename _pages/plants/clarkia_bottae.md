@@ -10,6 +10,7 @@ tags: ["Humboldt_County_Native",
 
 common_name: "Punch Bowl Godetia"
 scientific_name: "Clarkia Bottae"
+id: 14
 plant_id: ff64f 
 sun_requirements:
   - "Full Sun"

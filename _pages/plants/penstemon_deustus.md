@@ -4,6 +4,7 @@ permalink: /plants/penstemon_deustus
 title: ""
 common_name: "Scabland Penstemon"
 scientific_name: "Penstemon deustus"
+id: 63
 plant_id: edf6a
 sun_requirements:
   - "Full Sun"

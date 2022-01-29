@@ -3,6 +3,7 @@ layout: plant
 title: ""
 common_name: "Winecup Clarkia"
 scientific_name: "Clarkia purpurea ssp. purpurea"
+id: 17
 plant_id: fbe4b 
 sun_requirements:
   - "Full Sun"

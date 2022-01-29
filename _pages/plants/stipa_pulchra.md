@@ -4,6 +4,7 @@ permalink: /plants/stipa_pulchra
 title: ""
 common_name: "Purple Needle Grass"
 scientific_name: "Stipa Pulchra"
+id: 88
 plant_id: 044c1
 sun_requirements:
   - "Full Sun"

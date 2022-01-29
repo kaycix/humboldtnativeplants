@@ -4,6 +4,7 @@ permalink: /plants/sisyrinchium_californicum
 title: ""
 common_name: "Yellow Eyed Grass"
 scientific_name: "Sisyrinchium californicum"
+id: 86
 plant_id: bd3f3
 sun_requirements:
   - "Full Sun"

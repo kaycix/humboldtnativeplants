@@ -4,6 +4,7 @@ permalink: /plants/diplacus_mimulus_puniceus
 title: ""
 common_name: "Red Bush Monkey Flower"
 scientific_name: "Diplacus (Mimulus) Puniceus"
+id: 24
 plant_id: d4e0d
 sun_requirements:
   - "Full Sun"

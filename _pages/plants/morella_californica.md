@@ -4,6 +4,7 @@ permalink: /plants/morella_californica
 title: ""
 common_name: "California Wax Myrtle" 
 scientific_name: "Morella Californica"
+id: 58
 plant_id: eef6b
 sun_requirements:
   - "Full Sun"

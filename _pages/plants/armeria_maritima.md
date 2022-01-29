@@ -10,6 +10,7 @@ tags: ["Humboldt_County_Native",
 title: ""
 common_name: "Sea Thrift"
 scientific_name: "Ameria Maritima"
+id: 7
 plant_id: 7b482
 sun_requirements:
   - "Full Sun"

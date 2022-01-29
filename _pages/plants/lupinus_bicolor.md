@@ -5,6 +5,7 @@ permalink: /plants/lupinus_bicolor
 title: ""
 common_name: "Miniature Lupine"
 scientific_name: "Lupinus bicolor"
+id: 54
 plant_id: 9de0e
 sun_requirements:
   - "Full Sun"

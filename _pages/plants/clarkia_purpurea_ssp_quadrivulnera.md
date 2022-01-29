@@ -4,6 +4,7 @@ permalink: /plants/clarkia_purpurea_ssp_quadrivulnera
 title: ""
 common_name: "Purple Clarkia"
 scientific_name: "Clarkia purpurea ssp. quadrivulnera"
+id: 18
 plant_id: cfdb9 
 sun_requirements:
   - "Full Sun"
