@@ -1,5 +1,9 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Laila:wght@700&display=swap" rel="stylesheet">
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -8,11 +12,11 @@
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
         {% endunless %}
         <div class="site-title-wrapper">
-	<a class="site-title" href="{{ '/' | relative_url }}">
-          {{ site.masthead_title | default: site.title }}
-          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
-        </a>
-	</div>
+	           <a class="site-title" href="{{ '/' | relative_url }}">
+                    <div class="location">Humboldt</div>
+                    <div class="title">Native Plants</div>
+               </a>
+	    </div>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
