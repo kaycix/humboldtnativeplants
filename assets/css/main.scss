@@ -27,7 +27,7 @@ h1 a {
 
 .site-title .location {
     font-size: 0.9em;
-    letter-spacing: 10px;
+    letter-spacing: 8px;
     line-height: 1em;
     text-transform: uppercase;
 }
@@ -39,6 +39,10 @@ h1 a {
 }
 
 .greedy-nav a {
+    color: #000;
+}
+
+.greedy-nav .visible-links a {
     color: $indigo-color;
     font-weight: 600;
     text-transform: uppercase;
