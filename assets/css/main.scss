@@ -8,6 +8,7 @@
 @import "minimal-mistakes"; // main partials
 
 $indigo-color: #292961;
+$light-blue-color: #ebf1f4;
 $deep-green-color: #03775E;
 $orange-color: #AA3704;
 
@@ -25,10 +26,19 @@ h1 a {
 	text-decoration: none;
 }
 
+.greedy-nav a.site-logo {
+    margin-right: 0;
+}
+
+.site-logo img {
+    margin-right: 0;
+}
+
 .site-title .location {
     font-size: 0.9em;
     letter-spacing: 8px;
     line-height: 1em;
+    margin-left: 2px;
     text-transform: uppercase;
 }
 
@@ -189,16 +199,23 @@ html .masthead .visible-links {
 }
 
 hr {
-    background: $deep-green-color;
+    background: $indigo-color;
     height: 10px;
+    margin: 0;
 }
 
 h5 {
     color: #000;
 }
 
-div.topic {
+.topics {
     background-color: #FFF;
+    padding-top: 40px;
+}
+
+div.topic {
+    background-color: $light-blue-color;
+    border: 1px solid #ccc;
     border-radius: 10px;
     color: purple;
     float: left;

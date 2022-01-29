@@ -31,7 +31,7 @@ title: ""
     </div> 
     <hr/>
 </div>
-<div class="row">
+<div class="row topics">
     <div class="topic">
         <h2>
             Conservation
@@ -107,5 +107,6 @@ title: ""
         -->
         </ul>
     </div>
+    <div style="clear:both"></div>
 </div>
 
