@@ -8,13 +8,22 @@ title: ""
             Native plants are <span class="animate">better</span> for
             <div id=container>
               <div id=flip>
+                <!-- low-maintenance -->
                 <div><div>pollinators.</div></div>
                 <div><div>drought.</div></div>
                 <div><div>the planet.</div></div>
               </div>
             </div>    
-        </h1> 
-        <h5>Native plants are those that occur naturally in a region they evolved. They are the basis upon which life depend.</h5>
+        </h1>
+        <h5>
+            Native plants are beautiful, easy to grow, and important for our local ecosystems. 
+            <!--
+            Help Humboldt thrive by planting native today.
+            Native plants are those that occur naturally in our region. They are the foundation of our local eco-systems.
+            Native plants have evolved specifically for our beautiful coastal region. They are the building blocks on which our ecosystems depend.
+            Let's grow a movement for clean air, clean water and resilient eco-systems. 
+            -->
+        </h5>
         <a href="">Learn More</a>
     </div> 
     <hr/>
