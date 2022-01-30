@@ -26,7 +26,7 @@ title: ""
             Let's grow a movement for clean air, clean water and resilient eco-systems. 
             -->
         </h5>
-        <a href="">Learn More</a>
+        <a href="{{"/learn_more" | prepend:site.baseurl}}">Learn More</a>
         </div>
     </div> 
     <hr/>
