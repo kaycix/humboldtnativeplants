@@ -14,7 +14,6 @@ $orange-color: #AA3704;
 
 html {
 	font-size: 16px;
-	background-color: #ebf1f4;
 	color: #000;
 }
 
@@ -25,7 +24,6 @@ html h1, h2, h3, h4, h5, h6 {
 h1 a {
 	text-decoration: none;
 }
-
 .greedy-nav a.site-logo {
     margin-right: 0;
 }
@@ -67,10 +65,23 @@ h1 a {
     max-width: 1220px;
 }
 
-.intro {
+.row .content {
     margin: 0 auto;
     max-width: 80%;
     padding: 60px 0;
+}
+
+.intro .map {
+    background-repeat: no-repeat;
+    min-height: 345px;
+}
+
+.intro.row {
+    background-color: $light-blue-color; 
+}
+
+.intro h1 {
+    font-size: 56px;
 }
 
 html .masthead #site-title {
@@ -99,7 +110,6 @@ html body .site-title {
 
 html .masthead {
 	background-color:#FFF;
-    border-top: 5px solid $deep-green-color;
     box-shadow: 0 2px 10px 0 rgba(0,0,0,0.1);
 }
 

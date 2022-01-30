@@ -2,12 +2,11 @@
 layout: "default"
 title: ""
 ---
-<div class="row">
-    <div class="intro">
-        <div style="height:300px; overflow:hidden; position: absolute; z-index:-1;">
-            <img style="height:300px; opacity: 0.5; float:left" src="{{ "/assets/images/humboldt_county_map.png" | prepend: site.baseurl }}" />
-        </div>
-        <h1 style="font-size:56px">
+<div class="intro row">
+    <div class="intro content">
+        <div class="map" style="
+            background-image: url('{{"/assets/images/humboldt_county_map.png" | prepend:site.baseurl}} ')">
+            <h1>
             Native plants are <span class="animate">better</span> for
             <div id=container>
               <div id=flip>
@@ -28,11 +27,12 @@ title: ""
             -->
         </h5>
         <a href="">Learn More</a>
+        </div>
     </div> 
     <hr/>
 </div>
-<div class="row topics">
-    <div class="topic">
+<div class="row">
+    <div class="topics content">
         <h2>
             Conservation
         </h2>
