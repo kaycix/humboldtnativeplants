@@ -123,9 +123,25 @@ $.fn.dataTable.ext.search.push(
     $('select.category_requirement').change(function() {
 	    plant_table.draw();
     });
+
+      $("#submitBtn").click(function(){      
+        // looks for any checked inputs
+        var checkboxes = $( "input:checked" );
+
+        var plant_ids = [];
+        for (var i = 0; i < checkboxes.length; i++) {
+            var checkbox = checkboxes[i];
+            plant_ids.push($(checkbox).val());
+        }
+        
+        //TODO put plant_ids in query
+        //$("#myForm").submit(); // Submit the form
+    });
 } );
 
 </script>
+
+<input id="submitBtn" type="submit" value="Create List" />
 
 <div class="plant_filters">
     <div id="new_search_location"></div>
@@ -170,6 +186,8 @@ $.fn.dataTable.ext.search.push(
     </div>
 </div>
 
+<form id="myForm" method="get" action="{{'/plant_list' | prepend:site.baseurl }}">
+    <input type="hidden" id="plants" value="" />
 <table class="plant_table" style="width:100%" width="100%">
 	<thead>
 		<tr>
@@ -190,8 +208,9 @@ $.fn.dataTable.ext.search.push(
 {% for item in include.plants %}
       	<tr>	
         {% if include.show_select %}
-            <td>    
-                <input type="checkbox" />
+            <td>   
+                <!-- TODO retain state if checkbox is selected? --> 
+                <input type="checkbox" name="test" value="{{item.id}}" />
             </td>
         {% endif %}
 		<td class="name">
@@ -294,4 +313,5 @@ $.fn.dataTable.ext.search.push(
 {% endfor %}
 	</tbody>
 </table>
+</form>
 
