@@ -3,7 +3,7 @@ layout: "default"
 title: ""
 ---
 <div class="intro row">
-    <div class="intro content">
+    <div class="content">
         <div class="map" style="
             background-image: url('{{"/assets/images/humboldt_county_map.png" | prepend:site.baseurl}} ')">
             <h1>
