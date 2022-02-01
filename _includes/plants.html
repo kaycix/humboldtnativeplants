@@ -124,7 +124,8 @@ $.fn.dataTable.ext.search.push(
 	    plant_table.draw();
     });
 
-      $("#submitBtn").click(function(){      
+      $("#submitBtn").click(function(){     
+        console.log('clicked'); 
         // looks for any checked inputs
         var checkboxes = $( "input:checked" );
 
@@ -133,6 +134,7 @@ $.fn.dataTable.ext.search.push(
             var checkbox = checkboxes[i];
             plant_ids.push($(checkbox).val());
         }
+        console.log("plants selected", plant_ids);
         
         //TODO put plant_ids in query
         //$("#myForm").submit(); // Submit the form
@@ -141,7 +143,9 @@ $.fn.dataTable.ext.search.push(
 
 </script>
 
-<input id="submitBtn" type="submit" value="Create List" />
+{% if include.show_select %}
+    <input id="submitBtn" type="submit" value="Create List" />
+{% endif %}
 
 <div class="plant_filters">
     <div id="new_search_location"></div>
