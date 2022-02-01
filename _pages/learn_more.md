@@ -10,21 +10,19 @@ title: ""
 <p>
 Native plants are those that grow naturally in a specific region. A prime example in Humboldt County is the iconic redwood tree. Redwoods are a native plant and have evolved specifically for the soil, climate and wildlife of this region. The only place in the world that redwood trees grow naturally is along the coast of California and southern Oregon. But the redwood is only one of hundreds of species of native plants found in Humboldt County.
 </p>
+<h4>Ecological Benefits of native plants.</h4>
+<p>
+Plants are the foundation of our delicate ecosystems. Native plants provide critical forage and shelter for insects and local wildlife. When it comes to plants, insects are selective and can't use just any plant. Each native species has a unique symbiotic relationship with the insects that depend on it. The birds and other wildlife depends on these insects and native plants for their survival. 
+</p>
+<h4>Ideal for Landscaping</h4>
+<p>
+Native plants are naturally adapted to this region and require very little maintanence. Native plants need no water once established, thereby making them extremely drought-friendly. There is also no need for the soil amendments, pesticides, herbicides that abound in traditional lawns and gardens.
+</p>
+<p>
+Here in Humboldt, there are so many beautiful and varied native plants to choose from. 
 <!--
-<h4>Save the bees by planting native!</h4>
-<h4>Native plants are low-maintenance</h4>
+Our eco-system hangs is a complicated and delicate balance. Insects and wildlife depend on these native plants. They have evolved together and have a symbiotic balance. 
 <p>
-Plant native for low-maintenace landscaping.<br/>
-Because native plants have evolved to our region over hundreds and thousands of years, they flourish in our gardens with little maintenance. They don't need extra watering once established, no soil amendments, they are more deer-resistant. 
-They are also invaluable to pollinators and other wildlife.
-</p>
-<p>
-Native plants are critical for pollinators, birds and other wildlife.
-</p>
-<p>There are so many more lesser known native species that we are surrounded by. There is the blue-eyed grass, the pink honeysuckle, the silvery phacelia. These are all species that have a symbiotic relationship and are therefore vital to our local pollinators, wildlife and eco-system.
-</p> 
-<p>
-There are so many beautiful native plants to choose from. Once you start looking for them, you'll see them and appreciate their beauty. The blue-eyed grass flourishes in sunny spot.The huckleberry shrubs that delight young foragers are found all along the Hammond trail. The white-flowered yarrow that grows prevalently at the Arcata marsh has traditional medicinal properties.  
 </p>
 <p>Native Plants are Low-Maintenance</p>
 <p>
