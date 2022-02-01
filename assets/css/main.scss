@@ -8,7 +8,7 @@
 @import "minimal-mistakes"; // main partials
 
 $indigo-color: #292961;
-$light-blue-color: #ebf1f4;
+$light-blue-color: #ebf1f4; /* brighter blue #eefcfb */
 $deep-green-color: #03775E;
 $orange-color: #AA3704;
 
@@ -19,6 +19,25 @@ html {
 
 html h1, h2, h3, h4, h5, h6 {
 	color: #333;
+}
+
+h2 {
+    font-size: 2em;
+    margin: 0;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+ul li, 
+ol li { 
+    margin-bottom: 0; 
+}
+
+li ul, 
+li ol { 
+    margin-top: 0; 
 }
 
 form {
@@ -221,21 +240,22 @@ h5 {
     color: #000;
 }
 
-.topics {
-    background-color: #FFF;
+ul.topics {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
     padding-top: 40px;
 }
 
-div.topic {
-    background-color: $light-blue-color;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    color: purple;
-    float: left;
-    margin-bottom: 10px;
-    margin-right: 10px;
-    padding: 30px;
-    width: 47%;
+li.topic {
+    margin-right: 24px;
+    padding-bottom: 48px;
+    width: calc(50% - 24px);
 }
 
 html table {
@@ -324,4 +344,9 @@ html table .scientific_name {
 
 .sun_req .full_shade {
   background-color: gray;
+}
+
+#footer {
+    color: #FFF;
+    background-color: $indigo-color;
 }
