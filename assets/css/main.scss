@@ -269,6 +269,21 @@ thead {
     background-color: #FFF;
 }
 
+input[type="search"] {
+    border: 1px solid #dadce0;
+    border-radius: 20px;
+    box-shadow: none;
+}
+
+select {
+    border: 1px solid #dadce0;
+    border-radius: 20px;
+    box-shadow: none;
+    min-width: 120px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
 html table .scientific_name,
 html table .height { 
 	color: #888;
