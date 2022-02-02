@@ -144,7 +144,8 @@ $.fn.dataTable.ext.search.push(
 </script>
 
 {% if include.show_select %}
-    <input id="submitBtn" type="submit" value="Create List" />
+<input class="createList" id="submitBtn" type="submit" value="Create List" />
+<div style="clear:both"></div>
 {% endif %}
 
 <div class="plant_filters">
@@ -192,7 +193,7 @@ $.fn.dataTable.ext.search.push(
 
 <form id="myForm" method="get" action="{{'/plant_list' | prepend:site.baseurl }}">
     <input type="hidden" id="plants" value="" />
-<table class="plant_table" style="width:100%" width="100%">
+<table class="plant_table" style="width:100%">
 	<thead>
 		<tr>
             {% if include.show_select %}

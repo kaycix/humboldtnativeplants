@@ -7,8 +7,7 @@ title: ""
 
 {% assign plants_map = plants_folder | group_by:"top_level_category" | sort:"name" %}
 
-<h5>Create a Plant List</h5>
-	
+<h1>All Plants</h1>
 <div id="intense"></div>
 
 {% include plants.html 
@@ -20,7 +19,17 @@ title: ""
 <script type="text/javascript" class="init">
 
    const params = new URLSearchParams(window.location.search); //parse params
+   console.log("window.location.search", window.location.search);
+   console.log("params", params);
    const q = params.get("q"); //get q param
+   console.log("q:", q);
+
+    //Iterate the search parameters.
+    for (let p of params) {
+      console.log(p);
+    }
+    console.log(params.get("fname"));
+    console.log(params.get("test"));
 
     // takes an integer and returns a string
     function base64_url_encode(input) {
