@@ -24,7 +24,7 @@ title: ""
     Most of us have heard of Monarch Butterflies and their dependency on milkweed as their host plant. However, most insects, not just Monarchs,  depend on a narrow range of plants for their survival. Native insects can simply not substitute in non-native plants for their needs. They have evolved together for thousands of years.
     </p>
     <p>
-    Planting native plants provides crtical forage for our insects, which in turn provides food for the wildlife that depends on them.
+    Planting native plants provides critical forage for our insects, which in turn provides food for the wildlife that depends on them. Humans also rely on pollinators to pollinate their crops.
     </p>
     <h4>Ideal for Landscaping</h4>
     <p>
