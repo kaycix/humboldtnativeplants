@@ -266,6 +266,19 @@ li.topic {
     width: calc(50% - 24px);
 }
 
+figure.left {
+    float: left;
+    margin-bottom: 0;
+    margin-right: 15px;
+}
+
+figure.right {
+    float: right;
+    margin-bottom: 0;
+    margin-left: 15px;
+}
+
+
 html table {
     border-radius: 8px;
     border: 1px solid #dadce0;
@@ -367,6 +380,41 @@ html table .scientific_name {
 
 .sun_req .full_shade {
   background-color: gray;
+}
+
+#learn_more figure {
+    width: 200px;
+}
+
+#learn_more img.redwood {
+    height: 267px;
+    width: 200px;
+}
+
+#learn_more img.butterfly {
+    height: 127px;
+    width: 190px;
+}
+
+
+#learn_more figure.ceanothus,
+#learn_more figure.yarrow {
+    width: 300px;
+}
+
+#learn_more img.ceanothus,
+#learn_more img.yarrow {
+    height: 200px;
+    width: 300px;
+}
+
+#learn_more figure.lupine {
+    width: 133px;
+}
+
+#learn_more img.lupine {
+    height: 200px;
+    width: 133px;
 }
 
 #footer {
