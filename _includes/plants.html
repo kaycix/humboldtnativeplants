@@ -1,3 +1,5 @@
+<!-- Include for Plants Table -->
+
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
 <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js" defer></script>
 <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
@@ -134,8 +136,8 @@ $(document).ready(function() {
 
     // When Create Plant List button is clicked, collect checked plants,
     // put ids in form input, and submit form
-    $("#submitBtn").click(function(){     
-        console.log('clicked'); 
+    $("#create_list_button").click(function(){     
+        
         // looks for any checked inputs
         var checkboxes = $( "input:checked" );
 
@@ -145,16 +147,39 @@ $(document).ready(function() {
             plant_ids.push($(checkbox).val());
         }
         console.log("plants selected", plant_ids);
-        
-        //TODO put plant_ids in query
+
+        // encode plant_ids
+        var bitwise_encoding = bitwise_encode_from_plant_ids(plant_ids);
+        var encoded_url = base64_url_encode(bitwise_encoding);
+
+        $("#encoded_plants").val(encoded_url); 
+        console.log("encoded input value", $("#encoded_plants").val());
+       
+        // submit form
         $("#myForm").submit(); // Submit the form
     });
+
+    // Takes a list of plant ids and returns a string
+    var bitwise_encode_from_plant_ids = function(list) {
+       output=0; 
+       for (let i=0; i < list.length; i++) {
+          output = output | (1 << list[i]);
+       }
+       return output 
+    };
+
+    // takes an integer and returns a string
+    var base64_url_encode = function(input) {
+        var encodedData = input.toString(36);
+        return(encodedData); 
+        //.replace('+','.').replace('/','_').replace('=', '-'));
+    };
  });
 
 </script>
 
 {% if include.show_select %}
-<input class="createList" id="submitBtn" type="submit" value="Create List" />
+<input class="createList" id="create_list_button" type="submit" value="Create List" />
 <div style="clear:both"></div>
 {% endif %}
 
@@ -202,7 +227,9 @@ $(document).ready(function() {
 </div>
 
 <form id="myForm" method="get" action="{{'/custom_plant_list' | prepend:site.baseurl }}">
-    <input type="hidden" id="plants" value="" />
+    <input type="hidden" id="encoded_plants" name="encoded_plants" value="" />
+</form>
+
 <table class="plant_table" style="width:100%">
 	<thead>
 		<tr>
@@ -328,5 +355,4 @@ $(document).ready(function() {
 {% endfor %}
 	</tbody>
 </table>
-</form>
 
