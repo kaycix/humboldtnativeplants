@@ -19,6 +19,7 @@ $(document).ready(function() {
    {% for plant in include.plants %}
 
         // gather plant height info
+        var plant_min_height = 0;
         var plant_max_height = 0;
         {% for attr in plant.plant_size %}
             // Plants with only one height will have same min and max height

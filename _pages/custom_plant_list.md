@@ -9,6 +9,9 @@ title: ""
 
 <h1>Custom Created Plant List</h1>
 
+<div id="custom_plant_list">
+</div>
+
 <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
 <script type="text/javascript" class="init">
 
@@ -41,10 +44,43 @@ title: ""
 
     var plant_ids = bitwise_decode_to_plant_ids(base64);
     console.log("decoded plant ids *fingers crossed*", plant_ids);
+   
+    // gather plant_data in json
+   var plant_data = [];
+   {% for plant in plants_folder %}
+
+        // gather plant height info
+        var plant_min_height = 0;
+        var plant_max_height = 0;
+        {% for attr in plant.plant_size %}
+            // Plants with only one height will have same min and max height
+            plant_min_height = '{{attr.height | first }}';
+            plant_max_height = '{{attr.height | last }}';
+        {% endfor %}
+        
+        // add plant data object
+        plant_data.push({ "common_name" : "{{plant.common_name}}",
+                          "id" : "{{plant.id}}",
+                          "categories" : "{{plant.categories | join: ','}}",
+                          "sun_requirements" : "{{plant.sun_requirements | join: ','}}",
+                          "height" : [plant_min_height, plant_max_height]
+                           
+                         });
+    {% endfor %}
+    console.log('ALL PLANTS DATA:', plant_data);
+
+    for (var i = 0; i < plant_data.length; i++) {
+        var current_id = parseInt(plant_data[i].id, 10);
+        
+        var index = plant_ids.indexOf(current_id);    
+        if (index != -1) {
+            var plant_info = "<div>" + 
+                                "<h5>" + plant_data[i].common_name + "</h5>" + 
+                             "<div>";
+            $("#custom_plant_list").append(plant_info);
+        } 
+    } 
+    
 </script>
 
-{% include plants.html 
-	plants= plants_folder 
-    show_select = false
-%}
 
