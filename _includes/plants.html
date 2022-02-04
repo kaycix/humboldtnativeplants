@@ -68,6 +68,8 @@ $(document).ready(function() {
         return false;
     };
 
+    // Tests whether plant is in the selected category
+    // Must match liquid logic elsewhere
     var satisfies_category_req = function(cat_req, plant) {
         var categories = plant.categories.toLowerCase();
         if (cat_req == "any") {
@@ -97,34 +99,42 @@ $(document).ready(function() {
             return false;
         } 	
     };
-$.fn.dataTable.ext.search.push(
-    function( settings, data, dataIndex, rowData, counter ) {
-	
-	var selected_sun_requirement = $("select.sun_requirement").val();
-	var selected_height_requirement = $("select.height_requirement").val();
-	var selected_category_requirement = $("select.category_requirement").val();
+   
+    // When the plants table is updated, this function is called
+    // on each plant to determine if it should appear in the list. 
+    $.fn.dataTable.ext.search.push(
+        function( settings, data, dataIndex, rowData, counter ) {
+        
+        var selected_sun_requirement = $("select.sun_requirement").val();
+        var selected_height_requirement = $("select.height_requirement").val();
+        var selected_category_requirement = $("select.category_requirement").val();
 
-	var plant = plant_data[dataIndex];
-	
-	return (satisfies_sun_req(selected_sun_requirement, plant) &&
-	        satisfies_height_req(selected_height_requirement, plant) &&
-            satisfies_category_req(selected_category_requirement, plant));
-    }
-);
+        var plant = plant_data[dataIndex];
+        
+        return (satisfies_sun_req(selected_sun_requirement, plant) &&
+                satisfies_height_req(selected_height_requirement, plant) &&
+                satisfies_category_req(selected_category_requirement, plant));
+        }
+    );
 
+    // When Sun Requirement dropdown changes, update plants table
     $('select.sun_requirement').change(function() {
-	    plant_table.draw();
+        plant_table.draw();
     });
     
+    // When Height Requirement dropdown changes, update plants table
     $('select.height_requirement').change(function() {
-	    plant_table.draw();
+        plant_table.draw();
     });
     
+    // When Category Requirement dropdown changes, update plants table
     $('select.category_requirement').change(function() {
-	    plant_table.draw();
+        plant_table.draw();
     });
 
-      $("#submitBtn").click(function(){     
+    // When Create Plant List button is clicked, collect checked plants,
+    // put ids in form input, and submit form
+    $("#submitBtn").click(function(){     
         console.log('clicked'); 
         // looks for any checked inputs
         var checkboxes = $( "input:checked" );
@@ -137,9 +147,9 @@ $.fn.dataTable.ext.search.push(
         console.log("plants selected", plant_ids);
         
         //TODO put plant_ids in query
-        //$("#myForm").submit(); // Submit the form
+        $("#myForm").submit(); // Submit the form
     });
-} );
+ });
 
 </script>
 
@@ -191,7 +201,7 @@ $.fn.dataTable.ext.search.push(
     </div>
 </div>
 
-<form id="myForm" method="get" action="{{'/plant_list' | prepend:site.baseurl }}">
+<form id="myForm" method="get" action="{{'/custom_plant_list' | prepend:site.baseurl }}">
     <input type="hidden" id="plants" value="" />
 <table class="plant_table" style="width:100%">
 	<thead>
