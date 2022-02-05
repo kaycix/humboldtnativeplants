@@ -12,5 +12,7 @@ sun_requirements:
 plant_size:
   - height: 
     - 3.3
+# icon attribution: https://calscape.org/photos/1040?srchcr=sc61fdf53c8c2bd
+icon:  "/assets/images/plants/clarkia_purpurea_icon.jpg"
 calscape_link: "https://calscape.org/Clarkia-purpurea-(Purple-Clarkia)"
 ---

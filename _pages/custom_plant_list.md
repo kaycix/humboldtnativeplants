@@ -60,22 +60,29 @@ title: ""
         
         // add plant data object
         plant_data.push({ "common_name" : "{{plant.common_name}}",
+                          "scientific_name" : "{{plant.scientific_name}}",
                           "id" : "{{plant.id}}",
+                          "icon" : "{{plant.icon | prepend:site.baseurl}}",
                           "categories" : "{{plant.categories | join: ','}}",
                           "sun_requirements" : "{{plant.sun_requirements | join: ','}}",
                           "height" : [plant_min_height, plant_max_height]
                            
                          });
     {% endfor %}
-    console.log('ALL PLANTS DATA:', plant_data);
 
     for (var i = 0; i < plant_data.length; i++) {
         var current_id = parseInt(plant_data[i].id, 10);
         
         var index = plant_ids.indexOf(current_id);    
         if (index != -1) {
-            var plant_info = "<div>" + 
-                                "<h5>" + plant_data[i].common_name + "</h5>" + 
+            console.log('PLANT DATA:', plant_data[i]);
+            var plant_info = "<div class='card'>" +
+                                "<img src='" + plant_data[i].icon + "' />" +   
+                                "<article>" + 
+                                    "<h3>" + plant_data[i].common_name + "</h3>" + 
+                                    "<div class='subtext'>" + plant_data[i].scientific_name + "</div>" +
+                                    "<div>Light:" + plant_data[1].sun_requirements +  "</div>" 
+                                "</article>" + 
                              "<div>";
             $("#custom_plant_list").append(plant_info);
         } 

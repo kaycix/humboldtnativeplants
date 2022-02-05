@@ -18,6 +18,8 @@ plant_size:
   - height: 
     - 0.7
     - 3.9
+# icon attribution: https://calscape.com/ExtData/allimages/900/Amsinckia_menziesii_900_53.jpg
+icon: "/assets/images/plants/amsinckia_menziesii_icon.jpg" 
 calscape_link: "https://calscape.org/Amsinckia-menziesii-()"
 ---
 

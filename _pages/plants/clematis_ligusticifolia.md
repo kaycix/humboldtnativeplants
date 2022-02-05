@@ -13,6 +13,8 @@ plant_size:
   - height: 
     - 1
     - 30
+# icon attribution: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0109+0860
+icon:  "/assets/images/plants/clematis_ligusticifolia_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Clematis%20ligusticifolia(%20)"
 
 categories: [ "Vines" ]

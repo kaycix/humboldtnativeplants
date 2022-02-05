@@ -13,6 +13,8 @@ plant_size:
   - height: 
     - 1
     - 2
+# icon attribution: https://www.calflora.org/app/up/entry/96/28960.jpg 
+icon:  "/assets/images/plants/diplacus_mimulus_puniceus_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Diplacus%20%20puniceus(%20)"
 
 categories: [ "Shrubs" ]

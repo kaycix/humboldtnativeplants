@@ -11,6 +11,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 3.3
+# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/149/44717.jpg
+icon:  "/assets/images/plants/clarkia_purpurea_ssp_quadrivulnera_icon.jpg"
 calscape_link: "https://calscape.org/Clarkia-purpurea-ssp.-quadrivulnera-(Purple-Clarkia)"
 
 categories: [ "Annual herbs" ]
