@@ -1,6 +1,6 @@
 ---
 layout: plant                                                              
-permalink: /plants/arctostaphylos_uva-ursi
+permalink: /plants/arctostaphylos_uva_ursi
 title: ""
 categories: [ "Shrubs" ]
 
@@ -17,6 +17,8 @@ plant_size:
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+# icon attribution: https://calscape.com/ExtData/allimages/900/Arctostaphylos_uva-ursi_900_52.jpg 
+icon: "/assets/images/plants/arctostaphylos_uva_ursi_icon.jpg"
 calscape_link: "https://calscape.org/Arctostaphylos-uva-ursi-(Southern-Kinnikinnick)?srchcr=sc5f503bb4523a4"
 ---
 

@@ -19,6 +19,8 @@ plant_size:
   - height: 
     - 1.5
     - 10
+# icon attribution: https://www.calflora.org/app/up/entry/333/100076.jpg 
+icon: "/assets/images/plants/baccharis_pilularis_icon.jpg"
 calscape_link: "https://calscape.org/Baccharis-pilularis-(Coyote-Bush)"
 ---
 

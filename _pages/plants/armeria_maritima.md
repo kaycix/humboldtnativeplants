@@ -19,6 +19,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 1
+# icon attribution: https://calscape.com/ExtData/allimages/900/Armeria_maritima_900_57.jpg 
+icon: "/assets/images/plants/armeria_maritima_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Sea%20Thrift%20(Armeria%20maritima)"
 ---
 

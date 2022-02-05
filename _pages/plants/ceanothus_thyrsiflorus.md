@@ -19,6 +19,8 @@ plant_size:
   - height: 
     - 2
     - 30
+# icon attribution: https://calscape.com/ExtData/allimages/900/Ceanothus_thyrsiflorus_900_64.jpg
+icon: "/assets/images/plants/ceanothus_thyrsiflorus_icon.jpg"
 calscape_link: "https://calscape.org/Ceanothus-thyrsiflorus-(Blueblossom-Ceanothus)"
 ---
 

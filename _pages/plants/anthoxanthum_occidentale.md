@@ -17,6 +17,10 @@ sun_requirements:
 plant_size:
   - height: 
     - 3.3
+
+# icon attribution: https://calscape.org/photos/1896?srchcr=sc61fe0d9df2095
+icon: "/assets/images/plants/anthoxanthum_occidentale_icon.jpg" 
+
 calscape_link: "https://calscape.org/loc-California/California%20Vanilla%20Grass%20(Anthoxanthum%20occidentale)"
 ---
 

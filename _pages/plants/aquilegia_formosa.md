@@ -20,6 +20,8 @@ plant_size:
   - height: 
     - 1.5
     - 3
+# icon attribution: https://calscape.com/ExtData/allimages/900/Aquilegia_formosa_900_65.jpg
+icon: "/assets/images/plants/aquilegia_formosa_icon.jpg"
 calscape_link: "https://calscape.org/Aquilegia-formosa-(Western-Columbine)"
 observations: 
   - location: "McKinleyville"
