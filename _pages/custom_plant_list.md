@@ -68,6 +68,7 @@ title: ""
                           "height" : [plant_min_height, plant_max_height]
                            
                          });
+        console.log("plant_data", plant_data);
     {% endfor %}
 
     for (var i = 0; i < plant_data.length; i++) {
@@ -75,13 +76,14 @@ title: ""
         
         var index = plant_ids.indexOf(current_id);    
         if (index != -1) {
-            console.log('PLANT DATA:', plant_data[i]);
+            console.log('PLANT DATA NAME:', plant_data[i].common_name);
+            console.log('PLANT DATA SUN REQUIREMENTS:', plant_data[i].sun_requirements);
             var plant_info = "<div class='card'>" +
                                 "<img src='" + plant_data[i].icon + "' />" +   
                                 "<article>" + 
                                     "<h3>" + plant_data[i].common_name + "</h3>" + 
                                     "<div class='subtext'>" + plant_data[i].scientific_name + "</div>" +
-                                    "<div>Light:" + plant_data[1].sun_requirements +  "</div>" 
+                                    "<div>Light:" + plant_data[i].sun_requirements +  "</div>" + 
                                 "</article>" + 
                              "<div>";
             $("#custom_plant_list").append(plant_info);
