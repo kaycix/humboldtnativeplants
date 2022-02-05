@@ -19,6 +19,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 3.3
+# icon attribution: https://www.calflora.org/entry/occdetail.html?seq_num=mu16577 
+icon: "/assets/images/plants/clarkia_bottae_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Clarkia-bottae-(Punch-Bowl-Godetia)"
 ---
 

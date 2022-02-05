@@ -19,6 +19,8 @@ plant_size:
     - 3.3
 sun_requirements:
   - "Full Sun"
+# icon attribution: https://www.calflora.org/app/up/entry/107/32198.jpg 
+icon: "/assets/images/plants/clarkia_amoena_icon.jpg" 
 calscape_link: "https://calscape.org/Clarkia-amoena-(Farewell-To-Spring)"
 available: 
   - CNPS_master_inventory

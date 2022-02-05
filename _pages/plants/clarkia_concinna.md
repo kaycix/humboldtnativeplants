@@ -17,6 +17,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 1.3
+# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/gp/39/7933.jpg 
+icon: "/assets/images/plants/clarkia_concinna_icon.jpg" 
 calscape_link: "https://calscape.org/Clarkia-concinna-(Red-Ribbons)"
 ---
 

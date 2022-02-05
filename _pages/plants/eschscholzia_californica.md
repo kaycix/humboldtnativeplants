@@ -13,6 +13,8 @@ plant_size:
   - height: 
     - 0.16
     - 2
+# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/io/98/io29688-2.jpg 
+icon: "/assets/images/plants/eschscholzia_californica_icon.jpg" 
 calscape_link: "https://calscape.org/Eschscholzia-californica-(California-Poppy)"
 
 categories: [ "Annual herbs", "Poppy"]
