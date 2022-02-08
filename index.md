@@ -1,36 +1,21 @@
 ---
-layout: "default"
-title: ""
+layout: splash
+title: "Native plants are <span class='animate'>better</span> for 
+        <div id='container'>
+            <div id='flip'><div>
+            <div>pollinators.</div></div>
+            <div><div>drought.</div></div>
+            <div><div>the planet.</div></div>
+        </div></div>"    
+header:
+    overlay_color: "#ebf1f4"
+    overlay_filter: "0"
+    actions:
+        - label: "Learn More"
+          url: /learn_more
+excerpt: Native plants are beautiful, easy to grow, and provide a critical foundation for our local ecosystem. 
+  
 ---
-<div class="intro row">
-    <div class="content">
-        <div class="map" style="
-            background-image: url('{{"/assets/images/humboldt_county_map.png" | prepend:site.baseurl}} ')">
-            <h1>
-            Native plants are <span class="animate">better</span> for
-            <div id=container>
-              <div id=flip>
-                <!-- low-maintenance -->
-                <div><div>pollinators.</div></div>
-                <div><div>drought.</div></div>
-                <div><div>the planet.</div></div>
-              </div>
-            </div>    
-        </h1>
-        <h5>
-            Native plants are beautiful, easy to grow, and provide a critical foundation for our local ecosystem. 
-            <!--
-            Help Humboldt thrive by planting native today.
-            Native plants are those that occur naturally in our region. They are the foundation of our local eco-systems.
-            Native plants have evolved specifically for our beautiful coastal region. They are the building blocks on which our ecosystems depend.
-            Let's grow a movement for clean air, clean water and resilient eco-systems. 
-            -->
-        </h5>
-        <a href="{{"/learn_more" | prepend:site.baseurl}}">Learn More</a>
-        </div>
-    </div> 
-    <hr/>
-</div>
 <div class="row">
     <ul class="topics content">
         <li class="topic">
