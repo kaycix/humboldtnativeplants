@@ -99,11 +99,9 @@ html .masthead #site-title {
 }
 
 .layout--splash .wrapper {
-    background-color: $light-blue-color;
     background-image: url("./../images/humboldt_county_map.png");
     background-position: top 0 left 10%; /* TODO test on larger screens */
     background-repeat: no-repeat;
-    border-bottom: 10px solid #666;
     min-height: 352px; /* background-image height is 322 + arbitrary padding */
     text-align: center;
 }
@@ -117,6 +115,10 @@ html .masthead #site-title {
 	font-weight: 700;
 	text-align: center;
 	font-size: 3.5em;
+}
+
+.page__hero--overlay {
+    border-bottom: 10px solid #666;
 }
 
 .page__hero--overlay .page__lead {
