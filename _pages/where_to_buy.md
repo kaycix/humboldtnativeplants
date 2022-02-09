@@ -4,6 +4,7 @@ permalink: /where_to_buy
 title: "Where to Purchase Native Plants"
 classes: wide where-to-buy
 ---
+<h2>Local Nurseries</h2>
 <p>
 These native plant nurseries are located in Humboldt County. Employees and volunteers of these organizations are also valuable resources for all things native plant related. Other commercial nurseries may have some Humboldt County natives but often don't distinguish between California natives and Humboldt County natives. California has such a varied climate that this is a pretty important distinction.
 </p>
@@ -73,28 +74,42 @@ These native plant nurseries are located in Humboldt County. Employees and volun
       </div>
     </div>
 </div>
-<p>
-Other local nurseries may carry native plants but often don't distinguish between California Native Plants and Humboldt County Native Plants.
-</p>
-
 <h2>Where to Purchase Seeds Online</h2>
-<div class="seed card_container">
-    {% include seed_source.html 
-        business_name= "Klamath Siskiyou Seeds"
-        image= "/assets/images/klamath_siskiyou_seeds.png" 
-        address= "Jacksonville, Oregon"
-        link= "https://klamathsiskiyouseeds.com"
-    %}
-    
-    {% include seed_source.html 
-        business_name= "Larner Seeds"
-        image= "/assets/images/larner_seeds.png" 
-        address= "Bolinas, California"
-        link= "https://larnerseeds.com"
-    %}
+<div class="feature__wrapper">
+    <div class="feature__item">
+      <div class="archive__item">
+          <div class="archive__item-teaser">
+            <img src="{{'/assets/images/klamath_siskiyou_seeds.png' | prepend:site.baseurl }}" alt="">
+          </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Klamath Siskiyou Seeds</h2>
+            <div class="archive__item-excerpt">
+                <address> 
+                Jacksonville, Oregon
+                </address> 
+            </div>
+            <p><a href="https://klamathsiskiyouseeds.com" target="_blank" class="btn btn--primary">Visit Website</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="feature__item">
+      <div class="archive__item">
+          <div class="archive__item-teaser">
+            <img src="{{'/assets/images/larner_seeds.png' | prepend:site.baseurl }}" alt="">
+          </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Larner Seeds</h2>
+            <div class="archive__item-excerpt">
+                <address> 
+                    Bolinas, California 
+                </address> 
+            </div>
+            <p><a href="https://larnerseeds.com" target="_blank" class="btn btn--primary">Visit Website</a></p>
+        </div>
+      </div>
+    </div>
 </div>
-
-<h2>Other Notable Sources</h2>
+<h2>Other Sources, Outside of Humboldt County</h2>
 <div>
     <div>	
         Annie's Annuals Bay Area
