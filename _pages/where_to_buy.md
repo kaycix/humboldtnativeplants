@@ -2,7 +2,7 @@
 layout: single 
 permalink: /where_to_buy
 title: "Where to Purchase Native Plants"
-classes: wide
+classes: wide where-to-buy
 header:
     overlay_color: "#292961"
     overlay_filter: "0"
@@ -19,7 +19,9 @@ These native plant nurseries are located in Humboldt County. Employees and volun
         <div class="archive__item-body">
             <h2 class="archive__item-title">California Native Plant Society, North Coast Chapter Nursery</h2>
             <div class="archive__item-excerpt">
+                <address> 
                 5851 Mrytle Ave, Eureka, CA 95503
+                </address> 
             </div>
             <p><a href="https://northcoastcnps.org/index.php/nursery" target="_blank" class="btn btn--primary">Visit Website</a></p>
         </div>
@@ -33,9 +35,11 @@ These native plant nurseries are located in Humboldt County. Employees and volun
         <div class="archive__item-body">
             <h2 class="archive__item-title">Samara Restoration</h2>
             <div class="archive__item-excerpt">
+                <address> 
                 5260 Dows Prairie Road, McKinleyville, CA 95519
+                </address> 
             </div>
-            <p><a href="https://www.samararestoration.com/nursery/" class="btn btn--primary">Read More</a></p>
+            <p><a href="https://www.samararestoration.com/nursery/" class="btn btn--primary">Visit Website</a></p>
         </div>
       </div>
     </div>
@@ -47,9 +51,11 @@ These native plant nurseries are located in Humboldt County. Employees and volun
         <div class="archive__item-body">
             <h2 class="archive__item-title">Lost Foods Nursery</h2>
             <div class="archive__item-excerpt">
+                <address> 
                 3750 Harris Street, Gate 3. Eureka, CA 95503.
+                </address> 
             </div>
-            <p><a href="http://lostfoods.org/" class="btn btn--primary">See Website</a></p>
+            <p><a href="http://lostfoods.org/" class="btn btn--primary">Visit Website</a></p>
         </div>
       </div>
     </div>
@@ -61,9 +67,11 @@ These native plant nurseries are located in Humboldt County. Employees and volun
         <div class="archive__item-body">
             <h2 class="archive__item-title">Mattole Restoration Council Native Plant Nursery</h2>
             <div class="archive__item-excerpt">
+                <address> 
                 Petrolia, CA
+                </address>
             </div>
-            <p><a href="https://www.mattole.org/resources/native-plants/" class="btn btn--primary">See Website</a></p>
+            <p><a href="https://www.mattole.org/resources/native-plants/" class="btn btn--primary">Visit Website</a></p>
         </div>
       </div>
     </div>

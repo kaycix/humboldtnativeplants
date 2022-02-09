@@ -356,18 +356,6 @@ html table .scientific_name {
 	width: 300px;
 }
 
-.nurser.card_container:last-child {
-    margin-right: none;
-}
-
-.card .card_content { 
-	padding: 0 30px 20px;
-}
-
-.nursery.card_container img {
-    width: 100%;
-}
-
 .volunteer_opportunity {
 	background-color: white;
 	padding: 20px 30px 20px;
@@ -459,8 +447,34 @@ html table .scientific_name {
     width: 100px;
 }
 
-.card h3 {
-    margin: 0;
+.layout--single .initial-content {
+    background-color: $light-blue-color;
+}
+
+.layout--single .initial-content #main {
+    background-color: $light-blue-color;
+}
+
+.layout--single h2 {
+    font-size: 1.125em;
+    font-weight: 600;
+}
+
+.layout--single .feature__item {
+    background-color: #FFF;
+    border-radius: 7px;
+    margin-bottom: 40px;
+}
+
+.layout--single .feature__item .archive__item-teaser {
+    border-radius: none;
+}
+.layout--single .feature__item .archive__item-body {
+    padding: 10px 20px;
+}
+
+.layout--single .feature__item address {
+    margin-bottom: 20px;
 }
 
 .card .subtext {
