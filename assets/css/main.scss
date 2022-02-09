@@ -98,6 +98,11 @@ html .masthead #site-title {
 	font-weight: 400;
 }
 
+.page {
+    float: none; /* remove sidebar */
+    margin: 0 auto;
+}
+
 .layout--splash .wrapper {
     background-image: url("./../images/humboldt_county_map.png");
     background-position: top 0 left 10%; /* TODO test on larger screens */
@@ -445,6 +450,11 @@ html table .scientific_name {
     top: 16px;
     right: 16px;
     width: 100px;
+}
+
+.layout--single .page__title {
+    margin: 42px 0 32px;
+    text-align: center;
 }
 
 .layout--single .initial-content {

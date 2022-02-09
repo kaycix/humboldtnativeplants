@@ -3,9 +3,6 @@ layout: single
 permalink: /where_to_buy
 title: "Where to Purchase Native Plants"
 classes: wide where-to-buy
-header:
-    overlay_color: "#292961"
-    overlay_filter: "0"
 ---
 <p>
 These native plant nurseries are located in Humboldt County. Employees and volunteers of these organizations are also valuable resources for all things native plant related. Other commercial nurseries may have some Humboldt County natives but often don't distinguish between California natives and Humboldt County natives. California has such a varied climate that this is a pretty important distinction.
