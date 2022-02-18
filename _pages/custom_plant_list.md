@@ -78,7 +78,7 @@ title: ""
         if (index != -1) {
             console.log('PLANT DATA NAME:', plant_data[i].common_name);
             console.log('PLANT DATA SUN REQUIREMENTS:', plant_data[i].sun_requirements);
-            var plant_info = "<div class='card'>" +
+            var plant_info = "<div class='plant card'>" +
                                 "<img src='" + plant_data[i].icon + "' />" +   
                                 "<article>" + 
                                     "<h3>" + plant_data[i].common_name + "</h3>" + 

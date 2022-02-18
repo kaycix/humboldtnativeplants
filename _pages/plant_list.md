@@ -1,7 +1,8 @@
 ---
-layout: list                                                            
+layout: single                                                            
 permalink: /plant_list
 title: ""
+classes: wide
 ---
 {% assign plants_folder = site.pages | where_exp: "item" , "item.path contains '/plants/'" %}
 

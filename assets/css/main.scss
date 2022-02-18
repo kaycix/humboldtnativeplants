@@ -297,14 +297,16 @@ figure.right {
 }
 
 
-html table {
-    border-radius: 8px;
-    border: 1px solid #dadce0;
-	font-size: 0.9em;
+table.plant_table {
+    font-size: 1em;
 }
 
-thead {
+html table  thead {
     background-color: #FFF;
+    border-radius-top-right: 8px;
+    border-radius-top-left: 8px;
+    border: 1px solid #dadce0;
+    font-size: 1em;
 }
 
 input[type="search"] {
