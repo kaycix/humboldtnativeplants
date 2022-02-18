@@ -1,60 +1,57 @@
 ---
-layout: home                                                            
+layout: single                                                           
 permalink: /connection/volunteer
 title: "Volunteer Opportunities"
+classes: wide volunteer 
+feature_row:
+  - image_path: /assets/images/ca_department_of_parks_and_recreation.png
+    alt: "CA Dept of Parks and Recreation"
+    title: "CA Dept of Parks and Recreation"
+    excerpt: "Volunteer Opportunities include native plant management, invasive ivy removal, monitoring trails, trail cleanup, and more."
+    url: "https://www.parks.ca.gov/?page_id=30532"
+    btn_label: "See Website"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/cnps_northcoast.jpg 
+    alt: "California Native Plant Society, North Coast Chapter"
+    title: "California Native Plant Society, North Coast Chapter"
+    excerpt: "Volunteer Opportunities include joining the Nursery Committee, growing native plants and maintaining the native plant living seed bank."
+    url: "https://northcoastcnps.org/index.php/get-involved/volunteer-at-the-nursery"
+    btn_label: "See Website"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/friends_of_the_dunes.jpg 
+    alt: "Friends of the Dunes"
+    title: "Friends of the Dunes"
+    excerpt: "Volunteer Opportunities include becoming an Environmental Educator, joining the Dune Ecosystem Restoration Team and Drop-In Native Landscaping"
+    url: "https://www.friendsofthedunes.org/volunteer"
+    btn_label: "See Website"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/trinidad_coastal_land_trust.png 
+    alt: "Trinidad Coastal Land Trust"
+    title: "Trinidad Coastal Land Trust"
+    excerpt: "Volunteer Opportunities include native plant gardening, land stewardship and many more."
+    url: "https://www.trinidadcoastallandtrust.org/volunteer--program-interest-sign-up.html"
+    btn_label: "See Website"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/friends_of_the_arcata_marsh.png 
+    alt: "Friends of the Arcata Marsh"
+    title: "Friends of the Arcata Marsh"
+    excerpt: "Volunteer Opportunities include invasive plant removal, nature crafts, working with children, coordinating events and more."
+    url: "Volunteer Opportunities include invasive plant removal, nature crafts, working with children, coordinating events and more."
+    btn_label: "See Website"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/northcoast_regional_land_trust.png 
+    alt: "North Coast Regional Land Trust"
+    title: "North Coast Regional Land Trust"
+    excerpt: "Volunteer Opportunities include invasive plant removal, nature crafts, working with children, coordinating events and more."
+    url: "/assets/images/northcoast_regional_land_trust.png"
+    btn_label: "See Website"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/jacoby_creek_land_trust.png
+    alt: "Jacoby Creek Land Trust"
+    title: "Jacoby Creek Land Trust"
+    url: "https://www.jclandtrust.org/programs"
+    btn_label: "See Website"
+    btn_class: "btn--primary"
 ---
-These organizations could use your help in conservation and restoration work. Most volunteer positions are extremely beginner-friendly and provide any tools and training.Contact them for more information today. ` 
-
-{% include volunteer_opportunity.html 
-	business_name= "CA Dept of Parks and Recreation"
-	image= "/assets/images/ca_department_of_parks_and_recreation.png" 
-	description= "Volunteer Opportunities include native plant management, invasive ivy removal, monitoring trails, trail cleanup, and more."
-	link= "https://www.parks.ca.gov/?page_id=30532"
-%}
-
-{% include volunteer_opportunity.html 
-	business_name= "California Native Plant Society, North Coast Chapter"
-	location= "Freshwater Farms Reserve, Eureka, CA"
-	image= "/assets/images/cnps_northcoast.jpg"
-	description= "Volunteer Opportunities include joining the Nursery Committee, growing native plants and maintaining the native plant living seed bank."
-	link= "https://northcoastcnps.org/index.php/get-involved/volunteer-at-the-nursery"
-%}
-
-{% include volunteer_opportunity.html 
-	business_name= "Friends of the Dunes"
-	image= "/assets/images/friends_of_the_dunes.jpg" 
-	description= "Volunteer Opportunities include becoming an Environmental Educator, joining the Dune Ecosystem Restoration Team and Drop-In Native Landscaping"
-	link= "https://www.friendsofthedunes.org/volunteer"
-%}
-
-{% include volunteer_opportunity.html 
-	business_name= "Trinidad Coastal Land Trust"
-	location = "Trinidad, CA"
-	image= "/assets/images/trinidad_coastal_land_trust.png" 
-	description= "Volunteer Opportunities include native plant gardening, land stewardship and many more."
-	link= "https://www.trinidadcoastallandtrust.org/volunteer--program-interest-sign-up.html"
-%}
-
-{% include volunteer_opportunity.html 
-	business_name= "Friends of the Arcata Marsh"
-	location = "Arcata, CA"
-	image= "/assets/images/friends_of_the_arcata_marsh.png"
-	description= "Volunteer Opportunities include invasive plant removal, nature crafts, working with children, coordinating events and more." 
-	link= "https://www.arcatamarshfriends.org/join-us/volunteer/"
-%}
-
-{% include volunteer_opportunity.html 
-	business_name= "North Coast Regional Land Trust"
-	location = "Freshwater Farms Reserve, Eureka, CA"
-	image= "/assets/images/northcoast_regional_land_trust.png"
-	description= "Volunteer Opportunities include trail work and restoration at Freshwater Farms Reserve."
-	link= "https://ncrlt.org/waystohelp"
-%}
-
-{% include volunteer_opportunity.html 
-	business_name= "Jacoby Creek Land Trust"
-	image= "/assets/images/jacoby_creek_land_trust.png" 
-	description= ""
-	link= "https://www.jclandtrust.org/programs"
-%}
+{% include feature_row %}
 
