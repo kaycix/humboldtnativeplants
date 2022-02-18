@@ -334,9 +334,16 @@ html table .scientific_name {
 	font-style: italic;
 }
 
+.plant_table td {
+    padding: 5px 16px !important;
+}
+
 .plant_table td.name img {
+    border-radius: 20px;
     float: left;
-    margin: 5px 10px 0 0;
+    height: 40px;
+    margin: 5px 16px 5px 0;
+    width: 40px;
 }
 
 .plant_table td.name {
@@ -346,6 +353,17 @@ html table .scientific_name {
 .plant_filters .filter_input {
     float: left;
     margin-right: 15px;
+}
+
+input[type=checkbox]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(1.2); /* IE */
+  -moz-transform: scale(1.2); /* FF */
+  -webkit-transform: scale(1.2); /* Safari and Chrome */
+  -o-transform: scale(1.2); /* Opera */
+  transform: scale(1.2);
+  margin: 10px;
 }
 
 #new_search_location {
