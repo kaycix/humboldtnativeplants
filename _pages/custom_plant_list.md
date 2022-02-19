@@ -7,7 +7,8 @@ title: ""
 
 {% assign plants_map = plants_folder | group_by:"top_level_category" | sort:"name" %}
 
-<h1>Custom Created Plant List</h1>
+<input type="text" maxlength="100" placeholder="My Plant List" value="My Plant List" />
+<input type="text" placeholder="Add a brief description" maxlength="140" />
 
 <div id="custom_plant_list">
 </div>
