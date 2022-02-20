@@ -14,6 +14,7 @@ plant_size:
   - height: 
     - 0.1
     - 0.7
+icon:  "/assets/images/plants/iris_chrysophylla_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Iris%20chrysophylla(%20)"
 
 categories: [ "Perennial herbs" ]

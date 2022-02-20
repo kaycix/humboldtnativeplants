@@ -14,6 +14,8 @@ plant_size:
   - height: 
     - 4.7
     - 8.4
+#https://calscape.org/photos/1976?srchcr=sc6211d59e2eaa7
+icon:  "/assets/images/plants/iris_innominata_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Iris%20innominata(%20)"
 
 categories: [ "Perennial herbs" ]

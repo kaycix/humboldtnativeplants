@@ -17,6 +17,7 @@ plant_size:
   - height: 
     - 0.3
     - 3
+icon:  "/assets/images/plants/gilia_capitata_icon.jpg"
 calscape_link: "https://calscape.org/Gilia-capitata-(Blue-Field-Gilia)"
 
 categories: [ "Annual herbs", "Gilia" ]

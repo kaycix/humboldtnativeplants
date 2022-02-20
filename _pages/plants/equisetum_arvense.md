@@ -18,6 +18,7 @@ plant_size:
   - height: 
     - 0.17
     - 2
+icon:  "/assets/images/plants/equisetum_arvense_icon.jpg"
 calscape_link: "https://calscape.org/Equisetum-arvense-()"
 observations: 
   - location: "McKinleyville"

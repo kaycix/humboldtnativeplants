@@ -13,6 +13,7 @@ plant_size:
   - height: 
     - 20
     - 49.2
+icon:  "/assets/images/plants/frangula_purshiana_icon.jpg"
 calscape_link: "https://calscape.org/Frangula-purshiana-()"
 observations: 
   - location: "McKinleyville"

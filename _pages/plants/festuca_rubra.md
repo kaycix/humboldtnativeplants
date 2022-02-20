@@ -15,6 +15,7 @@ plant_size:
   - height: 
     - 1.3
     - 2.6
+icon:  "/assets/images/plants/festuca_rubra_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Festuca%20rubra%20(Red%20Fescue)"
 
 categories: [ "Grasses" ]

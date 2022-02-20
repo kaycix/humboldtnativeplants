@@ -15,6 +15,7 @@ plant_size:
   - height: 
     - 1.3
     - 4
+icon:  "/assets/images/plants/festuca_californica_icon.jpg"
 calscape_link: "https://calscape.org/Festuca-californica-(California-Fescue)"
 
 categories: [ "Grasses" ]

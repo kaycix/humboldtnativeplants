@@ -13,6 +13,7 @@ plant_size:
   - height: 
     - 3
     - 16.4
+icon:  "/assets/images/plants/holodiscus_discolor_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Holodiscus%20discolor(%20)"
 
 categories: [ "Shrubs" ]

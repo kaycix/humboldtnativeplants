@@ -14,6 +14,7 @@ plant_size:
   - height: 
     - 0.6
     - 2.6
+icon:  "/assets/images/plants/iris_douglasiana_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Iris%20douglasiana(%20)"
 
 categories: [ "Perennial herbs" ]
