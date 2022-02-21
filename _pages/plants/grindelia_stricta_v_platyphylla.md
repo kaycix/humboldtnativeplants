@@ -14,6 +14,8 @@ plant_size:
   - height: 
     - 1
     - 1.6
+# icon attribution:https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/io/134/io40460-2.jpg 
+icon: "/assets/images/plants/grindelia_stricta_var_platyphylla_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Grindelia%20stricta%20platyphylla(%20)"
 
 categories: [ "Perennial herbs" ]

@@ -7,8 +7,11 @@ title: ""
 
 {% assign plants_map = plants_folder | group_by:"top_level_category" | sort:"name" %}
 
-<input type="text" maxlength="100" placeholder="My Plant List" value="My Plant List" />
+<input id="list_title" type="text" maxlength="100" placeholder="My Plant List" value="My Plant List" />
 <input type="text" placeholder="Add a brief description" maxlength="140" />
+
+<input class="shareList" id="share_list_button" type="submit" value="Share Your List" />
+<div style="clear:both"></div>
 
 <div id="custom_plant_list">
 </div>
@@ -38,7 +41,6 @@ title: ""
     console.log("params", params);
     const encoded_plants = params.get("encoded_plants"); //get q param
     console.log("encoded_plants:", encoded_plants);
-
 
     var base64 = base64_url_decode(encoded_plants);
     console.log("base64", base64);
@@ -72,7 +74,8 @@ title: ""
         console.log("plant_data", plant_data);
     {% endfor %}
 
-    for (var i = 0; i < plant_data.length; i++) {
+     // dynamically build plant html
+     for (var i = 0; i < plant_data.length; i++) {
         var current_id = parseInt(plant_data[i].id, 10);
         
         var index = plant_ids.indexOf(current_id);    
@@ -84,13 +87,22 @@ title: ""
                                 "<article>" + 
                                     "<h3>" + plant_data[i].common_name + "</h3>" + 
                                     "<div class='subtext'>" + plant_data[i].scientific_name + "</div>" +
-                                    "<div>Light:" + plant_data[i].sun_requirements +  "</div>" + 
+                                    "<div>Sun Requirements: " + plant_data[i].sun_requirements +  "</div>" + 
                                 "</article>" + 
                              "<div>";
             $("#custom_plant_list").append(plant_info);
         } 
     } 
     
+    // When Create Plant List button is clicked, collect checked plants,
+    // put ids in form input, and submit form
+    $("#share_list_button").click(function(){
+        var list_title = $("#list_title").val(); 
+    
+        window.location = window.location.origin  + 
+                            window.location.pathname + 
+                            '/view?encoded_plants=' + encoded_plants + '&h=' + list_title; 
+    }); 
 </script>
 
 

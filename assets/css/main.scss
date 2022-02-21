@@ -449,23 +449,25 @@ input[type=checkbox]
 .plant.card {
     border: 1px solid #dadce0;
     border-radius: 10px;
-    float: left;
     margin-bottom: 16px;
-    margin-right: 16px;
     min-height: 132px;
     padding: 16px;
-    position: relative;
-    min-width: 290px;
-    width: calc(50% - 32px); /* fix this */
 }
 
 .plant.card img {
+    float: left;
+    margin-right: 20px;
     height: 100px;
     border-radius: 50px;
-    position: absolute;
-    top: 16px;
-    right: 16px;
     width: 100px;
+}
+
+.plant.card h3 {
+    margin: 0 0 8px 0; 
+}
+
+.plant.card .subtext {
+    margin-bottom: 16px;
 }
 
 .layout--single .page__title {

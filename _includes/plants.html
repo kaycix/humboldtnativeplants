@@ -333,12 +333,15 @@ $(document).ready(function() {
 			{{ height_text }}
 		     </div>
 		</td>
+		{% assign top_level_category = item.categories | first %}
+	    {% assign category_name = top_level_category | replace:" ","_" | replace:"-", "_" | replace:"&", "and" | downcase %}
+		{% assign category_url = "/plants/" | prepend:site.baseurl | append: category_name %}
 		<td>
 			{% comment %} TODO figure out how to handle category => url {% endcomment %}
-			{% assign top_level_category = item.categories | first %}
-			{% assign category_url = "/plants/" | prepend:site.baseurl | append:top_level_category | replace:" ","_" | replace:"-", "_" | replace:"&", "and" | downcase %}
 			<!-- <a href="{{ category_url }}">  -->
-				{{top_level_category | capitalize }}
+                <span class="{{category_name}}">
+				    {{top_level_category | capitalize }}
+                </span>
 			<!-- </a> -->
 		</td>
 		<!--
