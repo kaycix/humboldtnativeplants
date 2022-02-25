@@ -2,6 +2,7 @@
 layout: list                                                            
 permalink: /custom_plant_list
 title: ""
+custom_js: custom_plant_list
 ---
 {% assign plants_folder = site.pages | where_exp: "item" , "item.path contains '/plants/'" %}
 
@@ -16,9 +17,12 @@ title: ""
 <div id="custom_plant_list">
 </div>
 
-<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
-<script type="text/javascript" class="init">
+<div id="dialog" style="display:none">
+    <input type="text" value="Hello World" id="listUrl"> 
+</div>
 
+<!-- This script needs to happen in this file (not a separate js file) because it builds the javascipt data using liquid. It cannot use jQuery since jQuery loads at the end of the file -->
+<script>
     // takes a string and returns a base 36 integer  
     var base64_url_decode = function(input) {
         //var processedString = input.replace('.','+').replace('_','/').replace('-','='); 
@@ -73,36 +77,9 @@ title: ""
                          });
         console.log("plant_data", plant_data);
     {% endfor %}
-
-     // dynamically build plant html
-     for (var i = 0; i < plant_data.length; i++) {
-        var current_id = parseInt(plant_data[i].id, 10);
-        
-        var index = plant_ids.indexOf(current_id);    
-        if (index != -1) {
-            console.log('PLANT DATA NAME:', plant_data[i].common_name);
-            console.log('PLANT DATA SUN REQUIREMENTS:', plant_data[i].sun_requirements);
-            var plant_info = "<div class='plant card'>" +
-                                "<img src='" + plant_data[i].icon + "' />" +   
-                                "<article>" + 
-                                    "<h3>" + plant_data[i].common_name + "</h3>" + 
-                                    "<div class='subtext'>" + plant_data[i].scientific_name + "</div>" +
-                                    "<div>Sun Requirements: " + plant_data[i].sun_requirements +  "</div>" + 
-                                "</article>" + 
-                             "<div>";
-            $("#custom_plant_list").append(plant_info);
-        } 
-    } 
-    
-    // When Create Plant List button is clicked, collect checked plants,
-    // put ids in form input, and submit form
-    $("#share_list_button").click(function(){
-        var list_title = $("#list_title").val(); 
-    
-        window.location = window.location.origin  + 
-                            window.location.pathname + 
-                            '/view?encoded_plants=' + encoded_plants + '&h=' + list_title; 
-    }); 
 </script>
+
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+
 
 

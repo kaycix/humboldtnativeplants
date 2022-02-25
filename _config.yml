@@ -9,3 +9,4 @@ name                     : "Humboldt Native Plants"
 baseurl                  : /humboldtnativeplants
 include                  : ["_pages"]
 logo                     : "/assets/images/leaf-icon.png"
+after_footer_scripts     : https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
