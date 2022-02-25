@@ -4,6 +4,7 @@ permalink: /plants
 title: ""
 custom_js:
     - util 
+    - plant_data_table
 ---
 {% assign plants_folder = site.pages | where_exp: "item" , "item.path contains '/plants/'" %}
 
