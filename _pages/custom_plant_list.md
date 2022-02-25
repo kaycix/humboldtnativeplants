@@ -24,37 +24,10 @@ custom_js:
     <input type="text" value="" id="listUrl"> 
 </div>
 
-<!-- This script needs to happen in this md file (not a separate js file) because it builds 
-     the javascipt data using liquid. It cannot use jQuery since jQuery loads at the end of the file -->
-<script type="text/javascript">
-    // gather plant_data in json
-   var plant_data = [];
-   {% for plant in plants_folder %}
+<!-- populate plant_data var -->
+{% include getPlantData.html %}
 
-        // gather plant height info
-        var plant_min_height = 0;
-        var plant_max_height = 0;
-        {% for attr in plant.plant_size %}
-            // Plants with only one height will have same min and max height
-            plant_min_height = '{{attr.height | first }}';
-            plant_max_height = '{{attr.height | last }}';
-        {% endfor %}
-        
-        // add plant data object
-        plant_data.push({ "common_name" : "{{plant.common_name}}",
-                          "scientific_name" : "{{plant.scientific_name}}",
-                          "id" : "{{plant.id}}",
-                          "icon" : "{{plant.icon | prepend:site.baseurl}}",
-                          "categories" : "{{plant.categories | join: ','}}",
-                          "sun_requirements" : "{{plant.sun_requirements | join: ','}}",
-                          "height" : [plant_min_height, plant_max_height]
-                           
-                         });
-    {% endfor %}
-    console.log("list of all plants", plant_data);
-</script>
-
-<!-- move this to top of html page -->
+<!-- TODO move this to top of html page -->
 <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
 
 
