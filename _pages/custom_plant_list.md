@@ -2,7 +2,8 @@
 layout: list                                                            
 permalink: /custom_plant_list
 title: ""
-custom_js: custom_plant_list
+custom_js: 
+    - custom_plant_list
 ---
 {% assign plants_folder = site.pages | where_exp: "item" , "item.path contains '/plants/'" %}
 
@@ -22,23 +23,9 @@ custom_js: custom_plant_list
 </div>
 
 <!-- This script needs to happen in this file (not a separate js file) because it builds the javascipt data using liquid. It cannot use jQuery since jQuery loads at the end of the file -->
-<script>
-    // takes a string and returns a base 36 integer  
-    var base64_url_decode = function(input) {
-        //var processedString = input.replace('.','+').replace('_','/').replace('-','='); 
-        return parseInt(input, 36);
-    };
-
-    // Takes a string and returns a list of plant ids
-    var bitwise_decode_to_plant_ids = function(input) {
-       list = []
-       for (let i = 0; i < 32; i++) {
-          if ( (input >> i) & 1 ) {
-             list.push(i);
-          }
-       }
-       return list
-    };
+<script src="{{ '/assets/js/util.js' | relative_url }}"></script> 
+<script type="text/javascript">
+    console.log("custom plant list.md script");
 
     const params = new URLSearchParams(window.location.search); //parse params
     console.log("window.location.search", window.location.search);
@@ -46,10 +33,10 @@ custom_js: custom_plant_list
     const encoded_plants = params.get("encoded_plants"); //get q param
     console.log("encoded_plants:", encoded_plants);
 
-    var base64 = base64_url_decode(encoded_plants);
+    var base64 = Util.base64_url_decode(encoded_plants);
     console.log("base64", base64);
 
-    var plant_ids = bitwise_decode_to_plant_ids(base64);
+    var plant_ids = Util.bitwise_decode_to_plant_ids(base64);
     console.log("decoded plant ids *fingers crossed*", plant_ids);
    
     // gather plant_data in json
