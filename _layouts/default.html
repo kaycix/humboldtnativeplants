@@ -12,6 +12,13 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    <!-- Add page-specific local css file(s) -->  
+    {% if page.custom_css %}
+        {% for stylesheet in page.custom_css %}
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ stylesheet }}.css">
+        {% endfor %}
+    {% endif %}
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -37,6 +44,13 @@
     </div>
 
     {% include scripts.html %}
+
+    <!-- Add page-specific local js file(s) -->  
+    {% if page.custom_js %}
+        {% for js_file in page.custom_js %}
+        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
+        {% endfor %}
+    {% endif %}
 
   </body>
 </html>
