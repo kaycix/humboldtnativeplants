@@ -150,8 +150,8 @@ $(document).ready(function() {
         console.log("plants selected", plant_ids);
 
         // encode plant_ids
-        var bitwise_encoding = bitwise_encode_from_plant_ids(plant_ids);
-        var encoded_url = base64_url_encode(bitwise_encoding);
+        var bitwise_encoding = Util.bitwise_encode_from_plant_ids(plant_ids);
+        var encoded_url = Util.base64_url_encode(bitwise_encoding);
 
         $("#encoded_plants").val(encoded_url); 
         console.log("encoded input value", $("#encoded_plants").val());
@@ -160,21 +160,6 @@ $(document).ready(function() {
         $("#myForm").submit(); // Submit the form
     });
 
-    // Takes a list of plant ids and returns a string
-    var bitwise_encode_from_plant_ids = function(list) {
-       output=0; 
-       for (let i=0; i < list.length; i++) {
-          output = output | (1 << list[i]);
-       }
-       return output 
-    };
-
-    // takes an integer and returns a string
-    var base64_url_encode = function(input) {
-        var encodedData = input.toString(36);
-        return(encodedData); 
-        //.replace('+','.').replace('/','_').replace('=', '-'));
-    };
  });
 
 </script>

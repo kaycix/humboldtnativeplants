@@ -35,5 +35,73 @@ var Util = (function() {
        return list
     };
 
+    // 
+    Util.satisfies_sun_req = function(sun_req, plant) {
+        if (sun_req == "any") {
+            return true;
+        } else if ((sun_req == "full_sun") && 
+                   (plant.sun_requirements.indexOf("Full Sun") != -1)) {
+            return true;
+        } else if ((sun_req == "part_shade") &&
+               (plant.sun_requirements.indexOf("Part Shade") != -1)) {
+            return true;
+        } else if ((sun_req == "full_shade") && 
+               (plant.sun_requirements.indexOf("Full Shade") != -1)) {
+                return true;
+        } else {
+            return false;
+        } 	
+    };
+    
+    // Tests whether plant is in the selected category
+    // Must match liquid logic elsewhere
+    Util.satisfies_category_req = function(cat_req, plant) {
+        var categories = plant.categories.toLowerCase();
+        if (cat_req == "any") {
+            return true;
+        } else if ((cat_req == "perennial_herbs") && 
+                   (categories.indexOf("perennial herbs") != -1)) {
+            return true;
+        } else if ((cat_req == "shrubs") &&
+               (categories.indexOf("shrubs") != -1)) {
+            return true;
+        } else if ((cat_req == "trees") &&
+               (categories.indexOf("trees") != -1)) {
+            return true;
+        } else if ((cat_req == "annual_herbs") &&
+               (categories.indexOf("annual herbs") != -1)) {
+            return true;
+        } else if ((cat_req == "grasses") &&
+               (categories.indexOf("grasses") != -1)) {
+            return true;
+        } else if ((cat_req == "vines") &&
+               (categories.indexOf("vines") != -1)) {
+            return true;
+        } else if ((cat_req == "ferns") &&
+               (categories.indexOf("ferns") != -1)) {
+            return true;
+        } else {
+            return false;
+        } 	
+    };
+
+    Util.satisfies_height_req = function(height_req, plant) {
+        var max_height = plant.height[plant.height.length - 1]; 
+        if (height_req == "any") {
+            return true;
+        } else if ((height_req == "very_low") && (max_height <= 1.5) ) {
+            return true;
+        } else if ((height_req == "low") && (max_height > 1.5) && (max_height <= 3)) {
+            return true;
+        } else if ((height_req == "medium") && (max_height > 3) && (max_height <= 6)) {
+            return true;
+        } else if ((height_req == "tall") && (max_height > 6) && (max_height <= 10)) {
+            return true;
+        } else if ((height_req == "very_tall") && (max_height > 10)) {
+            return true;
+        } 
+        return false;
+    };
+    
     return Util;
 }());
