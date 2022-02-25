@@ -1,8 +1,18 @@
 $(function () {
 
     /** 
-        relies on page variable plant_data
+        @arg plant_data array of plant objects
      **/
+    
+    // get encoded plant ids from Url, eg '1c4'
+    const params = new URLSearchParams(window.location.search); //parse params
+    const encoded_plants = params.get("encoded_plants"); //get q param
+    console.log("window.location.search", window.location.search, "encoded_plants", encoded_plants);
+
+    // translate encoded plant ids into list of plant ids, eg [2, 6, 7, 9, 10]
+    var base64 = Util.base64_url_decode(encoded_plants);
+    var plant_ids = Util.bitwise_decode_to_plant_ids(base64);
+    console.log("decoded plant ids", plant_ids);
 
      // dynamically build plant html
      for (var i = 0; i < plant_data.length; i++) {
@@ -10,8 +20,7 @@ $(function () {
         
         var index = plant_ids.indexOf(current_id);    
         if (index != -1) {
-            console.log('PLANT DATA NAME:', plant_data[i].common_name);
-            console.log('PLANT DATA SUN REQUIREMENTS:', plant_data[i].sun_requirements);
+            console.log('plant common_name:', plant_data[i].common_name);
             var plant_info = "<div class='plant card'>" +
                                 "<img src='" + plant_data[i].icon + "' />" +   
                                 "<article>" + 
