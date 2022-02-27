@@ -21,6 +21,7 @@ custom_js:
 </div>
 
 <div id="dialog" style="display:none">
+    Anyone with this link can view your plant list. Use this link to save your list and share it with others.
     <input type="text" value="" id="listUrl"> 
 </div>
 

@@ -44,6 +44,24 @@ $(function () {
                           '/view?encoded_plants=' + encoded_plants + '&h=' + list_title; 
  
         $('#listUrl').val(shareUrl); 
-        $('#dialog').dialog();
+        $('#dialog').dialog({
+              buttons: [
+                {
+                  text: "Copy Link",
+                  click: function() {
+
+                    // select the data that you want to copy
+                    $("#listUrl").select();
+
+                    // copy to clipboard
+                    document.execCommand("copy");
+                
+                    alert("Link copied!");
+                    $( this ).dialog( "close" );
+                  }
+                }
+              ],
+            closeText :"Done"
+        });
     }); 
 });
