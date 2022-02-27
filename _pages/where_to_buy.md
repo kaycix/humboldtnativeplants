@@ -5,8 +5,8 @@ title: "Where to Purchase Native Plants"
 classes: wide where-to-buy
 local_nurseries:
   - image_path: /assets/images/cnps_northcoast_nursery.jpg
-    alt: "California Native Plant Society, North Coast Chapter Nursery"
-    title: "California Native Plant Society, North Coast Chapter Nursery"
+    alt: "California Native Plant Society Nursery"
+    title: "California Native Plant Society Nursery"
     excerpt: "5851 Mrytle Ave, Eureka, CA 95503"
     url: "https://northcoastcnps.org/index.php/nursery"
     btn_label: "See Website"
@@ -33,36 +33,42 @@ local_nurseries:
     btn_label: "See Website"
     btn_class: "btn--primary"
 online_seed_suppliers:
-  - image_path: /assets/images/klamath_siskiyou_seeds.png 
+  - image_path: /assets/images/klamath_siskiyou_seeds_bg.jpg 
     alt: "Klamath Siskiyou Seeds" 
     title: "Klamath Siskiyou Seeds"
     excerpt: "Jacksonville, Oregon"
     url: https://klamathsiskiyouseeds.com
     btn_label: "See Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/larner_seeds.png 
+  - image_path: /assets/images/larner_seeds_bg.jpg 
     alt: "Larner Seeds" 
     title: "Larner Seeds"
     excerpt: "Bolinas, California"
     url: "https://larnerseeds.com" 
     btn_label: "See Website"
     btn_class: "btn--primary"
+  - image_path: /assets/images/annies_bg.jpg 
+    alt: "Annie's Annuals and Perennials" 
+    title: "Annie's Annuals and Perennials"
+    excerpt: "Richmond, California"
+    url: "https://www.anniesannuals.com/" 
+    btn_label: "See Website"
+    btn_class: "btn--primary"
 ---
-<h2>Local Nurseries</h2>
+<h2> Humboldt County Native Plant Nurseries</h2>
 <p>
-These native plant nurseries are located in Humboldt County. Employees and volunteers of these organizations are also valuable resources for all things native plant related. Other commercial nurseries may have some Humboldt County natives but often don't distinguish between California natives and Humboldt County natives. California has such a varied climate that this is a pretty important distinction.
+These native plant nurseries are located in Humboldt County. Employees and volunteers of these organizations are also valuable resources for all things native plant related. Other commercial nurseries have some Humboldt County natives but often don't distinguish between California natives and Humboldt County natives.
 </p>
 {% include feature_row id="local_nurseries" %}
 
-<h2>Where to Purchase Seeds Online</h2>
+<h2>Where to Purchase California Native Seeds and Plants Online</h2>
 {% include feature_row id="online_seed_suppliers" %}
 
+<!--
 <h2>Other Sources, Outside of Humboldt County</h2>
 <div>
-    <div>	
-        Annie's Annuals Bay Area
-    </div>
     <div>
         CalFlora Fulton, CA
     </div>
 </div>
+-->

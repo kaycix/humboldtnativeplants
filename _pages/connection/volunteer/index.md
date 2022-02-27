@@ -12,8 +12,8 @@ feature_row:
     btn_label: "See Website"
     btn_class: "btn--primary"
   - image_path: /assets/images/cnps_northcoast.jpg 
-    alt: "California Native Plant Society, North Coast Chapter"
-    title: "California Native Plant Society, North Coast Chapter"
+    alt: "California Native Plant Society"
+    title: "California Native Plant Society"
     excerpt: "Volunteer Opportunities include joining the Nursery Committee, growing native plants and maintaining the native plant living seed bank."
     url: "https://northcoastcnps.org/index.php/get-involved/volunteer-at-the-nursery"
     btn_label: "See Website"
