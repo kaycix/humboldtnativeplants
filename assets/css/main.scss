@@ -371,6 +371,55 @@ input[type=checkbox]
     margin-right: 15px;
 }
 
+.annual_herbs {
+    border-radius: 5px;
+    background-color: #ffe6e6;
+    color: #990000;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+.grasses {
+    border-radius: 5px;
+    background-color: #F5FAEB;
+    color: #458B00;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+.ferns {
+    border-radius: 5px;
+    background-color: #FFF7E6;
+    color: #DAA520;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+
+.perennial_herbs {
+    border-radius: 5px;
+    background-color: #F1EEF6;
+    color: #5D478B;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+.shrubs {
+    border-radius: 5px;
+    background-color: #EBFAF6;
+    color: #3B8471;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+.vines {
+    border-radius: 5px;
+    background-color: #EEEEEE;
+    color: #222;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
 .volunteer .archive__item-teaser {
     float: right;
     max-width: 150px;
@@ -389,6 +438,7 @@ input[type=checkbox]
 }
 
 .sun_req div {
+  border-radius: 7.5px;
   display:none; 
   height: 15px;
   width: 15px;
