@@ -14,6 +14,8 @@ plant_size:
   - height: 
     - 3
     - 6.6
+# icon attribution: https://calscape.org/photos/3259?srchcr=sc621dafd38ed45 
+icon: "/assets/images/plants/rosa_gymnocarpa_icon.jpg" 
 calscape_link: "https://calscape.org/Rosa-gymnocarpa-(Dwarf-Rose)"
 observations: 
   - location: "Eureka"

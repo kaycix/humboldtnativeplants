@@ -64,9 +64,7 @@
 			<th>Sun</th>
 			<th>Height</th>
 			<th>Category</th>
-			<!--
-                <th>More Info</th>
-            -->
+            <th>More Info</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -160,13 +158,12 @@
 		{% assign category_url = "/plants/" | prepend:site.baseurl | append: category_name %}
 		<td>
 			{% comment %} TODO figure out how to handle category => url {% endcomment %}
-			<!-- <a href="{{ category_url }}">  -->
+			<a href="{{ category_url }}"> 
                 <span class="{{category_name}}">
 				    {{top_level_category | capitalize }}
                 </span>
-			<!-- </a> -->
+			</a>
 		</td>
-		<!--
 		<td>
 			{% if item.calscape_link %}
 				<a href="{{item.calscape_link}}" target="_blank">View on Calscape</a>
@@ -174,7 +171,6 @@
 				<a href="{{item.calflora_link}}" target="_blank">View on Calflora</a>
 			{% endif %} 
 		</td>
-        -->
 	</tr>
 {% endfor %}
 	</tbody>

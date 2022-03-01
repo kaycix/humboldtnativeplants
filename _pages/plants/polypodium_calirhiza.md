@@ -13,6 +13,8 @@ plant_size:
   - height: 
     - 1
     - 1.5
+# icon attribution: https://calscape.com/ExtData/allimages/Photos/Polypodium_calirhiza_image50.jpg 
+icon: "/assets/images/plants/polypodium_calirhiza_icon.jpg" 
 calscape_link: "https://calscape.org/Polypodium-calirhiza-()"
 
 categories: [ "Ferns" ]

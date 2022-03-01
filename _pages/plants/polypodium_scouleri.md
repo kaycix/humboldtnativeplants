@@ -12,6 +12,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 0.5
+# icon attribution: https://calscape.org/photos/3029?srchcr=sc621dae3863611 
+icon: "/assets/images/plants/polypodium_scouleri_icon.jpg" 
 calscape_link: "https://calscape.org/Polypodium-scouleri-()"
 available: 
   - CNPS

@@ -10,7 +10,7 @@ custom_js:
 
 {% assign plants_map = plants_folder | group_by:"top_level_category" | sort:"name" %}
 
-<h5>All Plants</h5>
+<h5>All Plants</h5> 
 
 <!-- populate plant_data var -->
 {% include getPlantData.html %}

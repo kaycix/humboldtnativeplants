@@ -12,6 +12,8 @@ plant_size:
   - height: 
     - 4
     - 8.2
+# icon attribution: https://calscape.org/view.php?pl=3285&img=23165
+icon: "/assets/images/plants/rubus_parviflorus_icon.jpg" 
 calscape_link: "https://calscape.org/Rubus-parviflorus-(Western-Thimbleberry)"
 observations: 
   - location: "McKinleyville"

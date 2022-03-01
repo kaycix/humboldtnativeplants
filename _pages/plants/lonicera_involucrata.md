@@ -9,6 +9,8 @@ plant_id: 07ebd
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+# icon attribution: https://www.calflora.org/app/up/mg/284/mg85381-1.jpg?a 
+icon: "/assets/images/plants/lonicera_involucrata_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Lonicera%20involucrata(%20)"
 plant_size:
   - height: 

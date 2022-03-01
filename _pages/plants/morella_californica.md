@@ -13,6 +13,8 @@ plant_size:
   - height: 
     - 6
     - 33
+# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/mg/209/mg62999-1.jpg 
+icon: "/assets/images/plants/morella_californica_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Morella-californica-(California-Wax-Myrtle)"
 observations: 
   - Arcata

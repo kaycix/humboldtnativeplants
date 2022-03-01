@@ -13,6 +13,8 @@ plant_size:
   - height: 
     - 1.6
     - 5.9
+# icon attribution: https://calscape.org/photos/3032?srchcr=sc621daeab5df9c 
+icon: "/assets/images/plants/polystichum_munitum_icon.jpg" 
 calscape_link: "https://calscape.org/Polystichum-munitum-()"
 available: 
   - CNPS_master_inventory
