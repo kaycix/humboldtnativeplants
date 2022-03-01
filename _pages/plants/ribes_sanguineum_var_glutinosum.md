@@ -14,6 +14,8 @@ plant_id: f2289
 sun_requirements:
   - "Part Shade"
   - "Full Sun"
+# icon attribution: https://calscape.org/photos/3239?srchcr=sc621da07a6413d 
+icon: "/assets/images/plants/ribes_sanguineum_var_glutinosum_icon.jpg"
 calscape_link: "https://calscape.org/Ribes-sanguineum-var.-glutinosum-(Blood-Currant)"
 plant_size:
   - height: 

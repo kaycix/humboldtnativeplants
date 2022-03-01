@@ -13,6 +13,8 @@ id: 73
 plant_id: 0c4fe
 sun_requirements:
   - "Part Shade"
+# icon attribution: Kellie 
+icon: "/assets/images/plants/ribes_sanguineum_icon.jpg"
 calscape_link: "https://calscape.org/Ribes-sanguineum-(Red-Flowering-Currant)"
 plant_size:
   - height: 
