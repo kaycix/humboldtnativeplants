@@ -2,6 +2,7 @@
 layout: single
 permalink: /plants
 title: ""
+classes: wide
 custom_js:
     - util 
     - plant_data_table

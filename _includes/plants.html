@@ -60,11 +60,11 @@
             <th>
             </th>
             {% endif %}
-			<th>Name</th>
-			<th>Sun</th>
-			<th>Height</th>
-			<th>Category</th>
-            <th>More Info</th>
+			<th class="name">Name</th>
+			<th class="sun">Sun</th>
+			<th class="height">Height</th>
+			<th class="category">Category</th>
+            <th class="more_info">More Info</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -112,7 +112,7 @@
 		   {% assign sort_param = sort_param | append: "c" %}
 		{% endif %}
 
-		<td class="sun_req" data-order="{{sort_param}}">
+		<td class="sun sun_req" data-order="{{sort_param}}">
 			<div class="full_sun {{full_sun_class}}"></div>
 			<div class="part_shade {{part_shade_class}}"></div>
 			<div class="full_shade {{full_shade_class}}"></div>
@@ -145,7 +145,7 @@
 			{% endfor %}
 		{% endif %}
 
-		<td data-order="{{max_plant_height}}" >
+		<td class="height" data-order="{{max_plant_height}}" >
 		     <div class="height_category">
 			{{ height_category }} 
 		     </div>
@@ -156,7 +156,7 @@
 		{% assign top_level_category = item.categories | first %}
 	    {% assign category_name = top_level_category | replace:" ","_" | replace:"-", "_" | replace:"&", "and" | downcase %}
 		{% assign category_url = "/plants/" | prepend:site.baseurl | append: category_name %}
-		<td>
+		<td class="category">
 			{% comment %} TODO figure out how to handle category => url {% endcomment %}
 			<a href="{{ category_url }}"> 
                 <span class="{{category_name}}">
@@ -164,7 +164,7 @@
                 </span>
 			</a>
 		</td>
-		<td>
+		<td class="more_info">
 			{% if item.calscape_link %}
 				<a href="{{item.calscape_link}}" target="_blank">View on Calscape</a>
 			{% elsif item.calflora_link %}
