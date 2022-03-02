@@ -1,5 +1,5 @@
 ---
-layout: list                                                            
+layout: single
 permalink: /plants
 title: ""
 custom_js:

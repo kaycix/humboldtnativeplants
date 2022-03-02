@@ -14,6 +14,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 1.6
+# icon attribution: https://www.calflora.org/app/up/mg/283/mg84901-1.jpg 
+icon: "/assets/images/plants/limnanthes_douglasii_ssp_nivea_icon.jpg" 
 calscape_link: "https://calscape.org/Limnanthes-douglasii-ssp.-nivea-()"
 
 categories: [ "Annual herbs" ]

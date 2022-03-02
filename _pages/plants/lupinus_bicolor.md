@@ -13,6 +13,8 @@ plant_size:
   - height: 
     - 0.26
     - 1.3
+# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/gp/50/10067.jpg 
+icon: "/assets/images/plants/lupinus_bicolor_icon.jpg" 
 calscape_link: "https://calscape.org/Lupinus-bicolor-()"
 
 categories: [ "Annual herbs" ]

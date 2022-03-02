@@ -15,6 +15,8 @@ plant_size:
   - height: 
     - 0.33
     - 2
+# icon attribution: https://www.calflora.org/app/up/entry/96/28857.jpg 
+icon: "/assets/images/plants/lupinus_nanus_icon.jpg" 
 calscape_link: "https://calscape.org/Lupinus-nanus-(Sky-Lupine)"
 
 categories: [ "Annual herbs" ]
