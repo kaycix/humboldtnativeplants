@@ -12,6 +12,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 5
+# icon attribution: https://www.calflora.org/app/up/mg/12/3869.jpg
+icon: "/assets/images/plants/lysichiton_americanus_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/skunk%20cabbage(%20)"
 observations: 
   - location: "McKinleyville"

@@ -14,6 +14,8 @@ plant_size:
   - height: 
     - 1.3
     - 3.3
+# icon attribution: https://www.calflora.org/entry/occdetail.html?seq_num=gp5234 
+icon: "/assets/images/plants/symphyotrichum_chilense_icon.jpg" 
 calscape_link: "https://calscape.org/Symphyotrichum-chilense-(California-Aster)"
 observations: 
   - location: "Arcata"

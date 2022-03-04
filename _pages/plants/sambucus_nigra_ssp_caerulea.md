@@ -19,6 +19,8 @@ plant_size:
   - height: 
     - 20
     - 30
+# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/gp/40/8093.jpg
+icon: "/assets/images/plants/sambucus_nigra_ssp_caerulea_icon.jpg" 
 calscape_link: "https://calscape.org/Sambucus-nigra-ssp.-caerulea-(Blue-Elderberry)"
 observations: 
   - location: "McKinleyville"
