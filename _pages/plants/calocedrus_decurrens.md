@@ -1,3 +1,4 @@
+---
 layout: plant                                                              
 permalink: /plants/calocedrus_decurrens
 
@@ -9,7 +10,7 @@ tags: ["Humboldt_County_Native",
 
 title: ""
 common_name: "Incense Cedar"
-scientific_name: "calocedrus_decurrens"
+scientific_name: "calocedrus decurrens"
 id: 102
 plant_id: 
 sun_requirements:
