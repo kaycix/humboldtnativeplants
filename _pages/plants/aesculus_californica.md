@@ -2,7 +2,7 @@
 layout: plant                                                              
 permalink: /plants/aesculus_californica
 
-categories: [ "Tree" ]
+categories: [ "Trees" ]
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
