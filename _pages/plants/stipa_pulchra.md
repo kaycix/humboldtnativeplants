@@ -12,6 +12,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 3.3
+# icon attribution: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0506+0008 
+icon: "/assets/images/plants/stipa_pulchra_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Purple%20Needlegrass%20(Stipa%20pulchra)"
 
 categories: [ "Grasses" ]

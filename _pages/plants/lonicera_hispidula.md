@@ -11,6 +11,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 4
+# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/317/95369.jpg 
+icon: "/assets/images/plants/lonicera_hispidula_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Pink%20Honeysuckle%20(Lonicera%20hispidula)"
 observations: 
   - location: "McKinleyville"

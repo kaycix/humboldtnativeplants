@@ -13,6 +13,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 1
+# icon attribution: https://www.calflora.org/entry/occdetail.html?seq_num=mu18178 
+icon: "/assets/images/plants/tolmiea_diplomenziesii_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Tolmiea%20diplomenziesii(%20)"
 
 categories: [ "Perennial herbs" ]

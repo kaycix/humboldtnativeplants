@@ -2,6 +2,8 @@
 layout: plant                                                              
 permalink: /plants/rubus_ursinus
 title: ""
+tags: ["Humboldt_County_Native"
+      ]
 common_name: "Pacific Blackberry"
 scientific_name: "Rubus Ursinus"
 id: 78
@@ -15,6 +17,8 @@ plant_size:
   - height: 
     - 2
     - 6
+# icon attribution: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+1108+0795
+icon: "/assets/images/plants/rubus_ursinus_icon.jpg"
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve"

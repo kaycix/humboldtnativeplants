@@ -13,6 +13,8 @@ plant_size:
   - height: 
     - 3
     - 6
+# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/mg/126/mg37835-0.jpg 
+icon: "/assets/images/plants/thalictrum_fendleri_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/thalictrum%20fendleri(%20)"
 
 categories: [ "Perennial herbs" ]
