@@ -1,5 +1,4 @@
 ---
-permalink: /plants/vaccinium_ovatum
 title: ""
 common_name: "Huckleberry" 
 scientific_name: "Vaccinium Ovatum"

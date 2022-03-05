@@ -81,7 +81,7 @@
                 <img src="{{ item.icon | prepend: site.baseurl }}" alt="{{item.common_name}}"/>
             {% endif %}
             <div class="name">
-                <a href="{{ item.permalink | prepend:site.baseurl }}">
+                <a href="{{ item.url | prepend:site.baseurl }}">
                     {{item.common_name}}
                 </a>
                 <div class="scientific_name">{{item.scientific_name}}</div>

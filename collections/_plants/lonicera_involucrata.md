@@ -1,5 +1,4 @@
 ---
-permalink: /plants/lonicera_involucrata
 title: ""
 common_name: "Twinberry"
 scientific_name: "Lonicera Involucrata"

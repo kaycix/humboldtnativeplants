@@ -1,5 +1,4 @@
 ---
-permalink: /plants/limnanthes_douglasii_ssp_nivea
 
 tags: [ "CNPS_master_inventory"
       ]

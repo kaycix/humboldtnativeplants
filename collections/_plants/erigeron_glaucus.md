@@ -1,5 +1,4 @@
 ---
-permalink: /plants/erigeron_glaucus
 title: ""
 common_name: "Seaside Daisy"
 scientific_name: "Erigeron Glaucus"

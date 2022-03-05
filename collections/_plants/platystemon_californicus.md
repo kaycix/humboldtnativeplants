@@ -1,5 +1,4 @@
 ---
-permalink: /plants/platystemon_californicus
 
 tags: [ "CNPS_master_inventory"
       ]

@@ -1,5 +1,4 @@
 ---
-permalink: /plants/achillea_millefolium
 
 categories: [ "Perennial herbs" ]
 

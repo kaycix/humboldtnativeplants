@@ -1,5 +1,4 @@
 ---
-permalink: /plants/iris_innominata
 title: ""
 common_name: "Del Norte County Iris"
 scientific_name: "Iris innominata"

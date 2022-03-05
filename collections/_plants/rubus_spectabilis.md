@@ -1,5 +1,4 @@
 ---
-permalink: /plants/rubus_spectabilis
 title: ""
 common_name: "Salmon Berry"
 scientific_name: "Rubus Spectabilis"

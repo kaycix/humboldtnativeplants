@@ -1,5 +1,4 @@
 ---
-permalink: /plants/limnanthes_douglasii
 
 tags: [ "CNPS_master_inventory"
       ]

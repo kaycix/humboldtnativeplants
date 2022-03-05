@@ -1,5 +1,4 @@
 ---
-permalink: /plants/helenium_bigelovii
 title: ""
 common_name: "Bigelow's Sneezeweed"
 scientific_name: "Helenium bigelovii"

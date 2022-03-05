@@ -1,6 +1,5 @@
 ---
  
-permalink: /plants/muhlenbergia_rigens
 title: ""
 common_name: "Deergrass"
 scientific_name: "Muhlenbergia rigens"

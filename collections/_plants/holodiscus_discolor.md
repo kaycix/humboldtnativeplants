@@ -1,5 +1,4 @@
 ---
-permalink: /plants/holodiscus_discolor
 title: ""
 common_name: "Oceanspray"
 scientific_name: "Holodiscus Discolor"

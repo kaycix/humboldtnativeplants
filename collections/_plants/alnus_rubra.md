@@ -1,5 +1,4 @@
 ---
-permalink: /plants/alnus_rubra
 
 categories: [ "Trees" ]
 

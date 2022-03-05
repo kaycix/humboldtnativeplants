@@ -1,5 +1,4 @@
 ---
-permalink: /plants/artemisia_douglasiana
 
 categories: [ "Trees" ]
 

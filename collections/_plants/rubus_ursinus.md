@@ -1,5 +1,4 @@
 ---
-permalink: /plants/rubus_ursinus
 title: ""
 tags: ["Humboldt_County_Native"
       ]

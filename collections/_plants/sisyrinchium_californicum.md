@@ -1,5 +1,4 @@
 ---
-permalink: /plants/sisyrinchium_californicum
 title: ""
 common_name: "Yellow Eyed Grass"
 scientific_name: "Sisyrinchium californicum"

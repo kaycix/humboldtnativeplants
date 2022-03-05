@@ -1,5 +1,4 @@
 ---
-permalink: /plants/polystichum_munitum
 title: ""
 common_name: "Sword Fern"
 scientific_name: "Polystichum munitum"

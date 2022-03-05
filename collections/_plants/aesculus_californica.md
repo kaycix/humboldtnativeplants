@@ -1,5 +1,4 @@
 ---
-permalink: /plants/aesculus_californica
 
 categories: [ "Trees" ]
 

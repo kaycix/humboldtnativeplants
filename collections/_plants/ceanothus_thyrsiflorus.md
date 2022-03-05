@@ -1,5 +1,4 @@
 ---
-permalink: /plants/ceanothus_thyrsiflorus
 title: ""
 
 categories: [ "Shrubs" ]

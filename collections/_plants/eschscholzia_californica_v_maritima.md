@@ -1,5 +1,4 @@
 ---
-permalink: /plants/eschscholzia_californica_v_maritima
 title: ""
 common_name: "Coastal California Poppy"
 scientific_name: "Eschscholzia californica v. maritima"

@@ -1,5 +1,4 @@
 ---
-permalink: /plants/baccharis_pilularis
 title: ""
 
 categories: [ "Shrubs" ]

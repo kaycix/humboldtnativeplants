@@ -1,5 +1,4 @@
 ---
-permalink: /plants/polypodium_scouleri
 title: ""
 common_name: "Leather Fern"
 scientific_name: "Polypodium scouleri"

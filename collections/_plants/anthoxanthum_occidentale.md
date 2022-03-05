@@ -1,5 +1,4 @@
 ---
-permalink: /plants/anthoxanthum_occidentale
 title: ""
 categories: [ "Grasses" ]
 

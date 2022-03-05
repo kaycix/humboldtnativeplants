@@ -1,5 +1,4 @@
 ---
-permalink: /plants/tolmiea_diplomenziesii
 title: ""
 common_name: "Piggyback Plant"
 scientific_name: "Tolmiea Diplomenziesii"

@@ -1,6 +1,5 @@
 ---
  
-permalink: /plants/calamagrostis_nutkaensis
 title: ""
 common_name: "Pacific Reedgrass"
 scientific_name: "Calamagrostis nutkaensis"

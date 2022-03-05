@@ -1,5 +1,4 @@
 ---
-permalink: /plants/claytonia_perfoliata
 title: ""
 common_name: "Miner's Lettuce"
 scientific_name: "Claytonia perfoliata"

@@ -1,5 +1,4 @@
 ---
-permalink: /plants/boykinia_occidentalis
 title: ""
 
 categories: [ "Perennial herbs" ]

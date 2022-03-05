@@ -1,5 +1,4 @@
 ---
-permalink: /plants/clarkia_bottae
 title: ""
 categories: [ "Annual herbs" ]
 

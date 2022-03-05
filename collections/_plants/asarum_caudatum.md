@@ -1,6 +1,5 @@
 ---
  
-permalink: /plants/asarum_caudatum
 title: ""
 common_name: "Wild Ginger"
 scientific_name: "Asarum caudatum"

@@ -1,5 +1,4 @@
 ---
-permalink: /plants/eriophyllum_staechadifolium
 title: ""
 common_name: "Seaside Woolly Sunflower"
 scientific_name: "Eriophyllum staechadifolium"

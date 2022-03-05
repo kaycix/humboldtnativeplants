@@ -1,6 +1,5 @@
 ---
  
-permalink: /plants/melica_californica
 title: ""
 common_name: "California Melicgrass"
 scientific_name: "Festuca idahoensis"

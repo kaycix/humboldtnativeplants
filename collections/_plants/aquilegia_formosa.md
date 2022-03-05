@@ -1,5 +1,4 @@
 ---
-permalink: /plants/aquilegia_formosa
 title: ""
 
 categories: [ "Perennial herbs" ]

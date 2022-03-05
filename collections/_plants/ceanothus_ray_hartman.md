@@ -1,5 +1,4 @@
 ---
-permalink: /plants/ceanothus_ray_hartman
 
 categories: [ "Shrubs" ]
 

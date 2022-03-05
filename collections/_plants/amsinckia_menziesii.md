@@ -1,5 +1,4 @@
 ---
-permalink: /plants/amsinckia_menziesii
 
 categories: [ "Annual herbs" ]
 tags: ["CNPS_master_inventory"

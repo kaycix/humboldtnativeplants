@@ -1,5 +1,4 @@
 ---
-permalink: /plants/nemophila_menziesii
 
 tags: [ "CNPS_master_inventory"
       ]

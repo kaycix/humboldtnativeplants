@@ -1,5 +1,4 @@
 ---
-permalink: /plants/clarkia_amoena
 
 categories: [ "Annual herbs" ]
 

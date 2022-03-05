@@ -1,5 +1,4 @@
 ---
-permalink: /plants/salvia_mellifera
 title: ""
 common_name: "Black Sage"
 scientific_name: "Salvia Mellifera"

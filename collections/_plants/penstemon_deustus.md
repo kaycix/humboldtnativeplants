@@ -1,5 +1,4 @@
 ---
-permalink: /plants/penstemon_deustus
 title: ""
 
 tags: ["Humboldt_County_Native",

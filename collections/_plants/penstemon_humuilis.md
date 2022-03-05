@@ -1,5 +1,4 @@
 ---
-permalink: /plants/penstemon_humuilis
 title: ""
 common_name: "Low Beardtongue"
 scientific_name: "Penstemon humuilis"

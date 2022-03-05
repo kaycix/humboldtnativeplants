@@ -1,5 +1,4 @@
 ---
-permalink: /plants/linum_lewisii
 title: ""
 common_name: "Blue Flax"
 scientific_name: "Linum lewisii"

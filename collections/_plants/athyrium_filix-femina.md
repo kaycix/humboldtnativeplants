@@ -1,5 +1,4 @@
 ---
-permalink: /plants/athyrium_filix_femina
 title: ""
 
 categories: [ "Ferns" ]

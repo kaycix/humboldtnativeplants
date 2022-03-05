@@ -1,5 +1,4 @@
 ---
-permalink: /plants/scrophularia_californica
 title: ""
 common_name: "California Bee Plant"
 scientific_name: "Scrophularia californica"

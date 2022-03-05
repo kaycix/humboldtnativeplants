@@ -1,5 +1,4 @@
 ---
-permalink: /plants/calocedrus_decurrens
 
 categories: [ "Trees" ]
 

@@ -1,6 +1,5 @@
 ---
  
-permalink: /plants/festuca_idahoensis
 title: ""
 common_name: "Idahoe Fescue"
 scientific_name: "Festuca idahoensis"

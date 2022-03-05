@@ -1,6 +1,5 @@
 ---
  
-permalink: /plants/claytonia_sibirica
 title: ""
 common_name: "Candy Flower"
 scientific_name: "Claytonia sibirica"

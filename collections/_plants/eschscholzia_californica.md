@@ -1,5 +1,4 @@
 ---
-permalink: /plants/eschscholzia_californica
 title: ""
 common_name: "California Poppy"
 scientific_name: "Eschscholzia californica"

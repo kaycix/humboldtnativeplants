@@ -1,5 +1,4 @@
 ---
-permalink: /plants/potentilla_gracilis
 title: ""
 common_name: "Slender Cinquefoil"
 scientific_name: "Potentilla gracilis"

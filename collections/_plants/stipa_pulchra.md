@@ -1,5 +1,4 @@
 ---
-permalink: /plants/stipa_pulchra
 title: ""
 common_name: "Purple Needle Grass"
 scientific_name: "Stipa Pulchra"

@@ -1,5 +1,4 @@
 ---
-permalink: /plants/lonicera_hispidula
 title: ""
 common_name: "Hairy Honeysuckle"
 scientific_name: "Lonicera hispidula"

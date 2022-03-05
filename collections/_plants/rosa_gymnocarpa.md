@@ -1,5 +1,4 @@
 ---
-permalink: /plants/rosa_gymnocarpa
 title: ""
 common_name: "Dwarf Rose" 
 scientific_name: "Rosa gymnocarpa"

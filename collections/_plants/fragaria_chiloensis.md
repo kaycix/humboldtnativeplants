@@ -1,5 +1,4 @@
 ---
-permalink: /plants/fragaria_chiloensis
 title: ""
 common_name: "Beach Strawberry"
 scientific_name: "Fragaria chiloensis"

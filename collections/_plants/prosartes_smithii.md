@@ -1,6 +1,5 @@
 ---
  
-permalink: /plants/prosartes_smithii
 title: ""
 common_name: "Large Flowered Fairy Bell"
 scientific_name: "Prosartes smithii"

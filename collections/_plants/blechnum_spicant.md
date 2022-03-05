@@ -1,5 +1,4 @@
 ---
-permalink: /plants/blechnum_spicant
 title: ""
 
 categories: [ "Ferns" ]

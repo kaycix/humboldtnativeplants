@@ -1,5 +1,4 @@
 ---
-permalink: /plants/ceanothus_dark_star
 title: ""
 
 categories: [ "Shrubs" ]

@@ -1,5 +1,4 @@
 ---
-permalink: /plants/iris_douglasiana
 title: ""
 common_name: "Douglas Iris"
 scientific_name: "Iris douglasiana"

@@ -1,5 +1,4 @@
 ---
-permalink: /plants/lupinus_nanus
 
 tags: [ "CNPS_master_inventory"
       ]

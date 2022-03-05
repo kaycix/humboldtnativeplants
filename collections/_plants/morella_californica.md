@@ -1,5 +1,4 @@
 ---
-permalink: /plants/morella_californica
 title: ""
 common_name: "California Wax Myrtle" 
 scientific_name: "Morella Californica"

@@ -1,5 +1,4 @@
 ---
-permalink: /plants/clarkia_concinna
 title: ""
 
 categories: [ "Annual herbs" ]

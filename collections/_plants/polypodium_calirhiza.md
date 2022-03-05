@@ -1,5 +1,4 @@
 ---
-permalink: /plants/polypodium_calirhiza
 title: ""
 common_name: "Nested Polypody Fern"
 scientific_name: "Polypodium calirhiza"

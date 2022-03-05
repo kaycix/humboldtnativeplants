@@ -1,5 +1,4 @@
 ---
-permalink: /plants/lupinus_bicolor
 
 title: ""
 common_name: "Miniature Lupine"

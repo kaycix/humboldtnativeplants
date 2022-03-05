@@ -1,6 +1,5 @@
 ---
  
-permalink: /plants/heuchera_pilosissima
 title: ""
 common_name: "Seaside Alumroot"
 scientific_name: "Heuchera pilosissima"

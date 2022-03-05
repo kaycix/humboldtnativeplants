@@ -1,5 +1,4 @@
 ---
-permalink: /plants/corylus_cornuta
 title: ""
 common_name: "Beaked Hazelnut"
 scientific_name: "Corylus Cornuta"

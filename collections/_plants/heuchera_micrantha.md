@@ -1,6 +1,5 @@
 ---
  
-permalink: /plants/heuchera_micrantha
 title: ""
 common_name: "Crevice Alumroot"
 scientific_name: "Heuchera micrantha"

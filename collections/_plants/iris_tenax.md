@@ -1,5 +1,4 @@
 ---
-permalink: /plants/iris_tenax
 title: ""
 common_name: "Toughleaf Iris"
 scientific_name: "Iris Tenax"

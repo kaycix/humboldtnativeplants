@@ -1,5 +1,4 @@
 ---
-permalink: /plants/tiarella_trifoliata
 title: ""
 common_name: "Sugar Scoop"
 scientific_name: "Tiarella trifoliata"

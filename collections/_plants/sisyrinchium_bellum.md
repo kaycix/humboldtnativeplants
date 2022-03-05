@@ -1,5 +1,4 @@
 ---
-permalink: /plants/sisyrinchium_bellum
 title: ""
 common_name: "Blue Eyed Grass"
 scientific_name: "Sisyrinchium bellum"

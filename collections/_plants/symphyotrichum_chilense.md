@@ -1,5 +1,4 @@
 ---
-permalink: /plants/symphyotrichum_chilense
 title: ""
 common_name: "California Aster"
 scientific_name: "Symphyotrichum Chilense"

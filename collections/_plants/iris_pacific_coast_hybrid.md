@@ -1,5 +1,4 @@
 ---
-permalink: /plants/iris_pacific_coast_hybrid
 title: ""
 common_name: "Iris Pacific Coast Hybrid"
 scientific_name: ""

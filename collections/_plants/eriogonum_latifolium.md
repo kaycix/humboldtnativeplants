@@ -1,5 +1,4 @@
 ---
-permalink: /plants/eriogonum_latifolium
 title: ""
 common_name: "Coast Buckwheat"
 scientific_name: "Eriogonum latifolium"

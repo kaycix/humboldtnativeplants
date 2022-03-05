@@ -1,5 +1,4 @@
 ---
-permalink: /plants/cornus_sericea
 title: ""
 common_name: "Red Osier Dogwood"
 scientific_name: "Cornus Sericea"

@@ -1,5 +1,4 @@
 ---
-permalink: /plants/lysichiton_americanus
 title: ""
 common_name: "Yellow Skunk Cabbage"
 scientific_name: "Lysichiton americanus"

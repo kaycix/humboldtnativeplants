@@ -1,6 +1,5 @@
 ---
  
-permalink: /plants/festuca_rubra
 title: ""
 common_name: "Red Fescue"
 scientific_name: "Festuca rubra"

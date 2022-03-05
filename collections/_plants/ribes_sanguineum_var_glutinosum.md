@@ -1,5 +1,4 @@
 ---
-permalink: /plants/ribes_sanguineum_var_glutinosum
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

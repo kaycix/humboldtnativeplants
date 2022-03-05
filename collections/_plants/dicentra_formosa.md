@@ -1,6 +1,5 @@
 ---
  
-permalink: /plants/dicentra_formosa
 title: ""
 common_name: "Bleeding Heart"
 scientific_name: "Dicentra formosa"

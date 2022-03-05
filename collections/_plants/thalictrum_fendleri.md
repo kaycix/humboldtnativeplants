@@ -1,5 +1,4 @@
 ---
-permalink: /plants/thalictrum_fendleri
 title: ""
 common_name: "Foothill Meadow Rue"
 scientific_name: "Thalictrum fendleri"

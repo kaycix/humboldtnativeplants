@@ -1,5 +1,4 @@
 ---
-permalink: /plants/frangula_purshiana
 title: ""
 common_name: "Cascara Sagrada"
 scientific_name: "Frangula Purshiana"

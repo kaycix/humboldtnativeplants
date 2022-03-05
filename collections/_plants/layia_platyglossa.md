@@ -1,5 +1,4 @@
 ---
-permalink: /plants/layia_platyglossa
 
 tags: [ "CNPS_master_inventory"
       ]

@@ -1,5 +1,4 @@
 ---
-permalink: /plants/rubus_parviflorus
 title: ""
 common_name: "Western Thimbleberry"
 scientific_name: "Rubus Parviflorus"

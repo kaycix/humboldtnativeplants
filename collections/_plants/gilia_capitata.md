@@ -1,5 +1,4 @@
 ---
-permalink: /plants/gilia_capitata
 title: ""
 
 tags: [ "CNPS_master_inventory"

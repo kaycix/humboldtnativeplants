@@ -1,5 +1,4 @@
 ---
-permalink: /plants/clematis_ligusticifolia
 title: ""
 common_name: "Virgin’s Bower"
 scientific_name: "Clematis Ligusticifolia"

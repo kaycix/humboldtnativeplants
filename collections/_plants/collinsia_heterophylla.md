@@ -1,5 +1,4 @@
 ---
-permalink: /plants/collinsia_heterophylla
 title: ""
 common_name: "Chinese Houses"
 scientific_name: "Collinsia heterophylla"
