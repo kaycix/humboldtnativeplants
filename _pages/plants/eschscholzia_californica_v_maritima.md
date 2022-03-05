@@ -11,6 +11,8 @@ sun_requirements:
 plant_size:
   - height: 
     - 1.5
+# icon attribution: https://larnerseeds.com/products/eschscholzia-californica-var-maritima-coastal-poppy 
+icon: "/assets/images/plants/eschscholzia_californica_v_maritima_icon.jpg" 
 calflora_link: "https://www.calfloranursery.com/plants/eschscholzia-californica-maritima"
 
 categories: [ "Annual herbs", "Poppy" ]
