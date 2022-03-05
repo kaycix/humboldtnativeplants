@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/eschscholzia_californica
 title: ""
 common_name: "California Poppy"

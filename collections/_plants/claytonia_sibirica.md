@@ -1,5 +1,4 @@
 ---
-layout: plant
  
 permalink: /plants/claytonia_sibirica
 title: ""

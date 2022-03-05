@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/amsinckia_menziesii
 
 categories: [ "Annual herbs" ]

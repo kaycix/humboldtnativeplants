@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/eriogonum_latifolium
 title: ""
 common_name: "Coast Buckwheat"

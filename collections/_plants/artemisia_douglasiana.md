@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/artemisia_douglasiana
 
 categories: [ "Trees" ]

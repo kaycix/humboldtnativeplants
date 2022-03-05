@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/eriogonum_umbellatum
 title: ""
 common_name: "Sulphur Buckwheat"

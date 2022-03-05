@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/ribes_sanguineum
 
 tags: ["Humboldt_County_Native",

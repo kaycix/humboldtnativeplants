@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/collinsia_heterophylla
 title: ""
 common_name: "Chinese Houses"

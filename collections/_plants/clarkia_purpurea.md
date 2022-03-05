@@ -1,5 +1,4 @@
 ---
-layout: plant
 permalink: /plants/clarkia_purpurea
 title: ""
 categories: [ "Annual herbs" ]

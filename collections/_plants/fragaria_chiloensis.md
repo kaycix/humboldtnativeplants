@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/fragaria_chiloensis
 title: ""
 common_name: "Beach Strawberry"

@@ -1,6 +1,6 @@
 ---
-layout: plant                                                              
-permalink: /plants/abies_grandis
+common_name: "Grand Fir"
+scientific_name: "Abies grandis"
 
 categories: [ "Trees" ]
 
@@ -9,8 +9,6 @@ tags: ["Humboldt_County_Native",
       ]
 
 title: ""
-common_name: "Grand Fir"
-scientific_name: "Abies grandis"
 id: 94
 plant_id: 
 sun_requirements:

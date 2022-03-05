@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/tolmiea_diplomenziesii
 title: ""
 common_name: "Piggyback Plant"

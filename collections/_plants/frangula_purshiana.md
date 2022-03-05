@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/frangula_purshiana
 title: ""
 common_name: "Cascara Sagrada"

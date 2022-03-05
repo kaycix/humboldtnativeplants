@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/calocedrus_decurrens
 
 categories: [ "Trees" ]

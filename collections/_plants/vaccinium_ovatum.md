@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/vaccinium_ovatum
 title: ""
 common_name: "Huckleberry" 

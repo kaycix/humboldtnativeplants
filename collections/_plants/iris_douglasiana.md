@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/iris_douglasiana
 title: ""
 common_name: "Douglas Iris"

@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/lonicera_hispidula
 title: ""
 common_name: "Hairy Honeysuckle"

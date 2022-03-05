@@ -1,5 +1,4 @@
 ---
-layout: plant
  
 permalink: /plants/melica_californica
 title: ""

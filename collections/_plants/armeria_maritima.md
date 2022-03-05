@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/armeria_maritima
 
 categories: [ "Perennial herbs" ]

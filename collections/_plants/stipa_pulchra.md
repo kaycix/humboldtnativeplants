@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/stipa_pulchra
 title: ""
 common_name: "Purple Needle Grass"

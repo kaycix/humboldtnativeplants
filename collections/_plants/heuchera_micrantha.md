@@ -1,5 +1,4 @@
 ---
-layout: plant
  
 permalink: /plants/heuchera_micrantha
 title: ""

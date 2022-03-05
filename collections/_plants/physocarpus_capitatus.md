@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/physocarpus_capitatus
 title: ""
 common_name: "Pacific Ninebark"

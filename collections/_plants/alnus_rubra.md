@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/alnus_rubra
 
 categories: [ "Trees" ]

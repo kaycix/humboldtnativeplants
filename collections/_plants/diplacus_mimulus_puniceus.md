@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/diplacus_mimulus_puniceus
 title: ""
 common_name: "Red Bush Monkey Flower"

@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/ceanothus_thyrsiflorus
 title: ""
 

@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/lysichiton_americanus
 title: ""
 common_name: "Yellow Skunk Cabbage"

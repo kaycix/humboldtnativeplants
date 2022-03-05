@@ -14,7 +14,11 @@ collections              :
     plants: 
         output: true
         permalink: /:collection/:path
-
+defaults:
+ - scope:
+     type: "plants"
+   values:
+     layout: plant
 after_footer_scripts     : 
     - https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
     - https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js

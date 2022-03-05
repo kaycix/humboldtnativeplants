@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/equisetum_arvense
 
 categories: [ "Ferns" ]

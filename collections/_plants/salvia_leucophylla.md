@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/salvia_leucophylla
 title: ""
 common_name: "Purple Sage"

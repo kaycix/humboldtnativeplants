@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/aristolochia_californica
 title: ""
 categories: [ "Vines" ]

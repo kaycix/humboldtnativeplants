@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/potentilla_gracilis
 title: ""
 common_name: "Slender Cinquefoil"

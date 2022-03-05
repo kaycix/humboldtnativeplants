@@ -1,12 +1,10 @@
 ---
-layout: plant                                                              
-permalink: /plants/nemophila_maculata
+common_name: "Fivespot"
+scientific_name: "Nemophila maculata"
 
 tags: [ "CNPS_master_inventory"
       ]
 title: ""
-common_name: "Fivespot"
-scientific_name: "Nemophila maculata"
 id: 59
 plant_id: c12b4
 sun_requirements:

@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/sisyrinchium_bellum
 title: ""
 common_name: "Blue Eyed Grass"

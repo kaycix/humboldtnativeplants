@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/iris_tenax_x_innominata
 title: ""
 common_name: ""

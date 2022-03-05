@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/arctostaphylos_uva_ursi
 title: ""
 categories: [ "Shrubs" ]

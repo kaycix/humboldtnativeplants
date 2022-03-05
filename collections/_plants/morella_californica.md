@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/morella_californica
 title: ""
 common_name: "California Wax Myrtle" 

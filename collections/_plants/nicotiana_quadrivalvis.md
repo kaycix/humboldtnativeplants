@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/nicotiana_quadrivalvis
 
 tags: [ "CNPS_master_inventory"

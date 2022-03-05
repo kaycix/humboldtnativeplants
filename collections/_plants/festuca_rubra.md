@@ -1,5 +1,4 @@
 ---
-layout: plant
  
 permalink: /plants/festuca_rubra
 title: ""

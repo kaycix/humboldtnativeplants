@@ -1,5 +1,4 @@
 ---
-layout: plant
  
 permalink: /plants/calamagrostis_nutkaensis
 title: ""

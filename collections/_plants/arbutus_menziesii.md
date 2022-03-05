@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/arbutus_menziesii
 
 categories: [ "Trees" ]

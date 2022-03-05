@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/madia_elegans
 title: ""
 common_name: "Spring Madia"

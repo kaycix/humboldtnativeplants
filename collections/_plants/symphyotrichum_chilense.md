@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/symphyotrichum_chilense
 title: ""
 common_name: "California Aster"

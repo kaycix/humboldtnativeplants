@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/erigeron_glaucus
 title: ""
 common_name: "Seaside Daisy"

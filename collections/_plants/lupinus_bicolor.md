@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/lupinus_bicolor
 
 title: ""

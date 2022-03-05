@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/gilia_tricolor
 
 tags: [ "CNPS_master_inventory"

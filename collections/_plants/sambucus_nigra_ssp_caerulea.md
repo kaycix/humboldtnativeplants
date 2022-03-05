@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/sambucus_nigra_ssp_caerulea
 
 tags: ["Humboldt_County_Native",

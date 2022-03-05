@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/polypodium_calirhiza
 title: ""
 common_name: "Nested Polypody Fern"

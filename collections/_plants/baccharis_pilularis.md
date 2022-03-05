@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/baccharis_pilularis
 title: ""
 

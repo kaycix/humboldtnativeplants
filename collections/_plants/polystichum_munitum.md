@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/polystichum_munitum
 title: ""
 common_name: "Sword Fern"

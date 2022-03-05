@@ -1,5 +1,4 @@
 ---
-layout: plant
  
 permalink: /plants/prosartes_smithii
 title: ""

@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/penstemon_humuilis
 title: ""
 common_name: "Low Beardtongue"

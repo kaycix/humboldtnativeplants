@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/polygonum_paronychia
 
 tags: ["Humboldt_County_Native",

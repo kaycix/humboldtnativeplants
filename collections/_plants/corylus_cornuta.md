@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/corylus_cornuta
 title: ""
 common_name: "Beaked Hazelnut"

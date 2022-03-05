@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/scrophularia_californica
 title: ""
 common_name: "California Bee Plant"

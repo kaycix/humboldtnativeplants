@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/iris_chrysophylla
 title: ""
 common_name: "Yellowleaf Iris"

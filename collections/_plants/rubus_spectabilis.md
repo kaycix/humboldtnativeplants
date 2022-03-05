@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/rubus_spectabilis
 title: ""
 common_name: "Salmon Berry"

@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/polypodium_scouleri
 title: ""
 common_name: "Leather Fern"

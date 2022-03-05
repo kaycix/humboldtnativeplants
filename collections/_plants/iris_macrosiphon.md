@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/iris_macrosiphon
 title: ""
 common_name: "Ground Iris"

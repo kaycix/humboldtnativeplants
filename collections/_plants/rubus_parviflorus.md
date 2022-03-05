@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/rubus_parviflorus
 title: ""
 common_name: "Western Thimbleberry"

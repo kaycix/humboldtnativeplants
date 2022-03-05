@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/clarkia_purpurea_ssp_quadrivulnera
 title: ""
 common_name: "Purple Clarkia"

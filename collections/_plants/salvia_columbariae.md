@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/salvia_columbariae
 
 tags: [ "CNPS_master_inventory"

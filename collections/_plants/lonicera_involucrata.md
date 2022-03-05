@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/lonicera_involucrata
 title: ""
 common_name: "Twinberry"

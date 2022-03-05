@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/calycanthus_occidentalis
 
 categories: [ "Shrubs" ]

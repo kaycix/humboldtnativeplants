@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/clematis_ligusticifolia
 title: ""
 common_name: "Virgin’s Bower"

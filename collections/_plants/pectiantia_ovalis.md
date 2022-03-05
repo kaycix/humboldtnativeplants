@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/pectiantia_ovalis
 title: ""
 tags: ["Humboldt_County_Native",

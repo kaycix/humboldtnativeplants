@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/helenium_bigelovii
 title: ""
 common_name: "Bigelow's Sneezeweed"

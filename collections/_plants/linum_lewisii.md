@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/linum_lewisii
 title: ""
 common_name: "Blue Flax"

@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/holodiscus_discolor
 title: ""
 common_name: "Oceanspray"

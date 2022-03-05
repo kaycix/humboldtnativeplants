@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/boykinia_occidentalis
 title: ""
 

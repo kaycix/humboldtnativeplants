@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/stachys_ajugoides
 title: ""
 common_name: "Ajuga Hedge Nettle"

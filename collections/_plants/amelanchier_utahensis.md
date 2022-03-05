@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/amelanchier_utahensis
 
 categories: [ "Trees" ]

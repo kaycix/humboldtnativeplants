@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/sisyrinchium_californicum
 title: ""
 common_name: "Yellow Eyed Grass"

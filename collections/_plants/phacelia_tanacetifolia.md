@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/phacelia_tanacetifolia
 
 # not native to Humboldt County

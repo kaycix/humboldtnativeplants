@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/grindelia_stricta_v_platyphylla
 title: ""
 common_name: "Gumweed"

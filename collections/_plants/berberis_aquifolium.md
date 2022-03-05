@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/berberis_aquifolium
 
 categories: [ "Shrubs" ]

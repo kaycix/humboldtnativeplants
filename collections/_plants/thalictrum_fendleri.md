@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/thalictrum_fendleri
 title: ""
 common_name: "Foothill Meadow Rue"

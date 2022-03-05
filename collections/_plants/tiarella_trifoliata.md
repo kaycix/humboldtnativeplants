@@ -1,5 +1,4 @@
 ---
-layout: plant                                                              
 permalink: /plants/tiarella_trifoliata
 title: ""
 common_name: "Sugar Scoop"
