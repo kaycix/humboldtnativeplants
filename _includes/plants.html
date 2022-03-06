@@ -146,9 +146,8 @@
                     {{ height_text }}
                      </div>
                 </td>
-                <td class="{{group.name}}">
+                <td class="{{group.name}}" data-order={{group.name}}>
                     <div class="{{group.name | replace: " ", "_" }}"></div>
-                    <span style="visibility:hidden">{{group.name | capitalize }}</span>
                 </td>
                 <td class="more_info">
                     {% if plant.calscape_link %}
