@@ -1,5 +1,7 @@
 $(function () {
   var plant_table = $('.plant_table').DataTable({
+    /* No ordering applied by DataTables during initialisation */
+    "order": [],
 	"paging" : false
   });
   
@@ -13,13 +15,13 @@ $(function () {
         
         var selected_sun_requirement = $("select.sun_requirement").val();
         var selected_height_requirement = $("select.height_requirement").val();
-        var selected_category_requirement = $("select.category_requirement").val();
+        var selected_type_requirement = $("select.type_requirement").val();
 
         var plant = plant_data[dataIndex];
         
         return (Util.satisfies_sun_req(selected_sun_requirement, plant) &&
                 Util.satisfies_height_req(selected_height_requirement, plant) &&
-                Util.satisfies_category_req(selected_category_requirement, plant));
+                Util.satisfies_type_req(selected_type_requirement, plant));
         }
     );
 
@@ -34,7 +36,7 @@ $(function () {
     });
     
     // When Category Requirement dropdown changes, update plants table
-    $('select.category_requirement').change(function() {
+    $('select.type_requirement').change(function() {
         plant_table.draw();
     });
 

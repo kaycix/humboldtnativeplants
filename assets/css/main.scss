@@ -370,61 +370,54 @@ input[type=checkbox]
     margin-right: 15px;
 }
 
-.annual_herbs {
-    border-radius: 5px;
-    background-color: #ffe6e6;
-    color: #990000;
-    display: inline-block;
-    padding: 5px 10px;
+div.annual_herb {
+    background-image: url("./../images/icons/annual_herb.png");
+    background-repeat: no-repeat; 
+    height: 30px;
+    width: 30px;
 }
 
-.grasses {
-    border-radius: 5px;
-    background-color: #F5FAEB;
-    color: #458B00;
-    display: inline-block;
-    padding: 5px 10px;
+div.grass {
+    background-image: url("./../images/icons/grass.png");
+    background-repeat: no-repeat; 
+    height: 30px;
+    width: 30px;
 }
 
-.trees {
-    border-radius: 5px;
-    background-color: #e4ddd0; 
-    color: #553c0e; 
-    display: inline-block;
-    padding: 5px 10px;
+div.tree {
+    background-image: url("./../images/icons/tree.png");
+    background-repeat: no-repeat; 
+    height: 30px;
+    width: 30px;
 }
 
-.ferns {
-    border-radius: 5px;
-    background-color: #FFF7E6;
-    color: #DAA520;
-    display: inline-block;
-    padding: 5px 10px;
+div.fern {
+    background-image: url("./../images/icons/fern.png");
+    background-repeat: no-repeat; 
+    height: 30px;
+    width: 30px;
 }
 
 
-.perennial_herbs {
-    border-radius: 5px;
-    background-color: #F1EEF6;
-    color: #5D478B;
-    display: inline-block;
-    padding: 5px 10px;
+div.perennial_herb {
+    background-image: url("./../images/icons/perennial_herb.png");
+    background-repeat: no-repeat; 
+    height: 30px;
+    width: 30px;
 }
 
-.shrubs {
-    border-radius: 5px;
-    background-color: #EBFAF6;
-    color: #3B8471;
-    display: inline-block;
-    padding: 5px 10px;
+div.shrub {
+    background-image: url("./../images/icons/shrub.png");
+    background-repeat: no-repeat; 
+    height: 30px;
+    width: 30px;
 }
 
-.vines {
-    border-radius: 5px;
-    background-color: #EEEEEE;
-    color: #222;
-    display: inline-block;
-    padding: 5px 10px;
+div.vine {
+    background-image: url("./../images/icons/vine.png");
+    background-repeat: no-repeat; 
+    height: 30px;
+    width: 30px;
 }
 
 .volunteer .archive__item-teaser {

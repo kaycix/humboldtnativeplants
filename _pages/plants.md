@@ -8,8 +8,7 @@ custom_js:
     - plant_data_table
 ---
 
-{% assign plants_folder = site.plants %} 
-{% assign plants_map = plants_folder | group_by:"top_level_category" | sort:"name" %}
+{% assign plant_groups = site.plants | group_by: "type" %} 
 
 <h5>All Plants</h5> 
 
@@ -17,5 +16,5 @@ custom_js:
 {% include getPlantData.html %}
 	
 {% include plants.html 
-	plants= plants_folder 
+	plant_groups= plant_groups
 %}

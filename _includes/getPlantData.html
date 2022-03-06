@@ -6,7 +6,7 @@
 <script type="text/javascript">
     // gather plant_data in json
    var plant_data = [];
-   {% for plant in plants_folder %}
+   {% for plant in site.plants %}
 
         // gather plant height info
         var plant_min_height = 0;
@@ -22,7 +22,7 @@
                           "scientific_name" : "{{plant.scientific_name}}",
                           "id" : "{{plant.id}}",
                           "icon" : "{{plant.icon | prepend:site.baseurl}}",
-                          "categories" : "{{plant.categories | join: ','}}",
+                          "type" : "{{plant.type}}",
                           "sun_requirements" : "{{plant.sun_requirements | join: ','}}",
                           "height" : [plant_min_height, plant_max_height]
                            

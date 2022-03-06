@@ -55,30 +55,30 @@ var Util = (function() {
     
     // Tests whether plant is in the selected category
     // Must match liquid logic elsewhere
-    Util.satisfies_category_req = function(cat_req, plant) {
-        var categories = plant.categories.toLowerCase();
-        if (cat_req == "any") {
+    Util.satisfies_type_req = function(type_req, plant) {
+        var type = plant.type.toLowerCase();
+        if (type_req == "any") {
             return true;
-        } else if ((cat_req == "perennial_herbs") && 
-                   (categories.indexOf("perennial herbs") != -1)) {
+        } else if ((type_req == "perennial_herbs") && 
+                   (type.indexOf("perennial herbs") != -1)) {
             return true;
-        } else if ((cat_req == "shrubs") &&
-               (categories.indexOf("shrubs") != -1)) {
+        } else if ((type_req == "shrubs") &&
+               (type.indexOf("shrubs") != -1)) {
             return true;
-        } else if ((cat_req == "trees") &&
-               (categories.indexOf("trees") != -1)) {
+        } else if ((type_req == "trees") &&
+               (type.indexOf("trees") != -1)) {
             return true;
-        } else if ((cat_req == "annual_herbs") &&
-               (categories.indexOf("annual herbs") != -1)) {
+        } else if ((type_req == "annual_herbs") &&
+               (type.indexOf("annual herbs") != -1)) {
             return true;
-        } else if ((cat_req == "grasses") &&
-               (categories.indexOf("grasses") != -1)) {
+        } else if ((type_req == "grasses") &&
+               (type.indexOf("grasses") != -1)) {
             return true;
-        } else if ((cat_req == "vines") &&
-               (categories.indexOf("vines") != -1)) {
+        } else if ((type_req == "vines") &&
+               (type.indexOf("vines") != -1)) {
             return true;
-        } else if ((cat_req == "ferns") &&
-               (categories.indexOf("ferns") != -1)) {
+        } else if ((type_req == "ferns") &&
+               (type.indexOf("ferns") != -1)) {
             return true;
         } else {
             return false;
