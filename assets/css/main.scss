@@ -438,27 +438,53 @@ div.vine {
 }
 
 .sun_req div {
-  border-radius: 7.5px;
-  display:none; 
-  height: 15px;
-  width: 15px;
+  border-radius: 15px;
+  height: 30px;
+  width: 30px;
 }
 
-.sun_req div.visible {
-  display: block;
-  margin-bottom:2px;
-}
-
-.sun_req .full_sun {
+.sun_req .a {
   background-color: #FFD700;
 }
 
-.sun_req .part_shade {
-  background-image: linear-gradient(0deg, gray ,#FFD700);
+.sun_req .ab {
+    background: repeating-linear-gradient(
+      to right,
+      #FFD700,
+      #FFD700 15px,
+      #CCC 15px,
+      #CCC 30px
+    );
 }
 
-.sun_req .full_shade {
-  background-color: gray;
+.sun_req .bc {
+    background: repeating-linear-gradient(
+      to right,
+      #CCC,
+      #CCC 15px,
+      #888 15px,
+      #888 30px
+    );
+}
+
+.sun_req .abc {
+    background: repeating-linear-gradient(
+      to right,
+      #FFD700,
+      #FFD700 10px,
+      #CCC 10px,
+      #CCC 20px,
+      #888 20px,
+      #888 30px
+    );
+}
+
+.sun_req .b {
+  background-color: #CCC;
+}
+
+.sun_req .c {
+  background-color: #888;
 }
 
 #learn_more figure {

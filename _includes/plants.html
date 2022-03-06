@@ -96,27 +96,19 @@
                 {% endcomment %}
                 
                 {% assign sort_param = "" %}
-                {% assign full_sun_class = '' %}
-                {% assign part_shade_class = '' %}
-                {% assign full_shade_class = '' %}
 
                 {% if plant.sun_requirements contains 'Full Sun' %}
-                   {% assign full_sun_class = 'visible' %}
                    {% assign sort_param = sort_param | append: "a" %}
                 {% endif %}
                 {% if plant.sun_requirements contains 'Part Shade' %}
-                   {% assign part_shade_class = 'visible' %}
                    {% assign sort_param = sort_param | append: "b" %}
                 {% endif %}
                 {% if plant.sun_requirements contains 'Full Shade' %}
-                   {% assign full_shade_class = 'visible' %}
                    {% assign sort_param = sort_param | append: "c" %}
                 {% endif %}
 
                 <td class="sun sun_req" data-order="{{sort_param}}">
-                    <div class="full_sun {{full_sun_class}}"></div>
-                    <div class="part_shade {{part_shade_class}}"></div>
-                    <div class="full_shade {{full_shade_class}}"></div>
+                    <div class="{{sort_param}}"></div>
                 </td>
                 
                 {% assign height_category = "" %}
