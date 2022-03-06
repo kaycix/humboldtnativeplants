@@ -16,7 +16,7 @@ plant_size:
 icon:  "/assets/images/plants/festuca_californica_icon.jpg"
 calscape_link: "https://calscape.org/Festuca-californica-(California-Fescue)"
 
-categories: [ "Grasses" ]
+type: "grass"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

@@ -15,7 +15,7 @@ plant_size:
 icon: "/assets/images/plants/collinsia_heterophylla_icon.jpg" 
 calscape_link: "https://calscape.org/Collinsia-heterophylla-(Purple-Chinese-Houses)"
 
-categories: [ "Annual herbs" ]
+type: "annual herb"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

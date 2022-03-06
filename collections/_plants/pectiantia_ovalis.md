@@ -18,7 +18,7 @@ plant_size:
 icon: "/assets/images/plants/pectiantia_ovalis_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Coastal%20Miterwort%20(Pectiantia%20ovalis)"
 
-categories: [ "Perennial herbs" ]
+type: "perennial herb"
 
 ---
 

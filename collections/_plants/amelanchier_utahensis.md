@@ -1,14 +1,14 @@
 ---
+common_name: "Service Berry"
+scientific_name: "Amelanchier utahensis"
 
-categories: [ "Trees" ]
+type: "tree"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
 
 title: ""
-common_name: "Service Berry"
-scientific_name: "Amelanchier utahensis"
 id: 97
 plant_id: 
 sun_requirements:

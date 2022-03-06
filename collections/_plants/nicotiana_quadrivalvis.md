@@ -17,7 +17,7 @@ plant_size:
 # icon attribution: https://www.calflora.org/app/up/entry/210/63131.jpg 
 icon: "/assets/images/plants/nicotiana_quadrivalvis_icon.jpg" 
 calscape_link: "https://calscape.org/Nicotiana-quadrivalvis-(Indian-Tobacco)"
-categories: ["Annual herbs" ]
+type: "annual herb"
 ---
 
 

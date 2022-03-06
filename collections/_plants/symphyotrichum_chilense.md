@@ -26,7 +26,7 @@ observations:
     location_detail: "Hammond Trail by Hiller Park" 
     last_spotted: "Winter 2022"
 
-categories: [ "Perennial herbs" ]
+type: "perennial herb"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

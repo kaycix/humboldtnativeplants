@@ -1,6 +1,6 @@
 ---
 title: ""
-categories: [ "Vines" ]
+type: "vine"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

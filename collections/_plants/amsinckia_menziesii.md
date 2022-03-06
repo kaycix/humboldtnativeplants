@@ -1,6 +1,6 @@
 ---
 
-categories: [ "Annual herbs" ]
+type: "annual herb"
 tags: ["CNPS_master_inventory"
       ]
 

@@ -1,14 +1,12 @@
 ---
-
-categories: [ "Trees" ]
+common_name: "California Buckeye"
+scientific_name: "Aesculus californica"
+type: "tree"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
 
-title: ""
-common_name: "California Buckeye"
-scientific_name: "Aesculus californica"
 id: 95
 plant_id: 
 sun_requirements:

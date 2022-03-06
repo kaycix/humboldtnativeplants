@@ -20,7 +20,7 @@ plant_size:
 icon: "/assets/images/plants/nemophila_maculata_icon.jpg" 
 calscape_link: "https://calscape.org/Nemophila-maculata-(Fivespot)"
 
-categories: [ "Annual herbs" ]
+type: "annual herb"
 
 ---
 

@@ -22,7 +22,7 @@ observations:
     location_detail: "Azalea Reserve (Surrounding Areas)"
     last_spotted: "Summer 2021"
 
-categories: [ "Shrubs" ]
+type: "shrub"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

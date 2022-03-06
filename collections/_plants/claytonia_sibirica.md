@@ -15,7 +15,7 @@ plant_size:
 icon:  "/assets/images/plants/asarum_caudatum_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Asarum%20caudatum(%20)"
 
-categories: [ "Perennial Herbs" ]
+type: "perennial herb"
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]

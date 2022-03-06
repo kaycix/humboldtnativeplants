@@ -14,7 +14,7 @@ plant_size:
 icon: "/assets/images/plants/clarkia_purpurea_ssp_purpurea.jpg" 
 calscape_link: "https://calscape.org/Clarkia-purpurea-ssp.-purpurea-(Winecup-Clarkia)"
 
-categories: [ "Annual herbs" ]
+type: "annual herb"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

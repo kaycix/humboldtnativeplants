@@ -21,7 +21,7 @@ plant_size:
 
 icon: "/assets/images/plants/polygonum_paronychia_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Polygonum%20paronychia(%20)"
-categories: [ "Perennial herbs" ]
+type: "perennial herb"
 ---
 
 

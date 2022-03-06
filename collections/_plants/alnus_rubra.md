@@ -1,14 +1,13 @@
 ---
-
-categories: [ "Trees" ]
+common_name: "Red Alder"
+scientific_name: "Alnus rubra"
+type: "tree"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
 
 title: ""
-common_name: "Red Alder"
-scientific_name: "Alnus rubra"
 id: 96
 plant_id: 
 sun_requirements:

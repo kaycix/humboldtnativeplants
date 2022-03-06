@@ -1,14 +1,13 @@
 ---
-
-categories: [ "Perennial herbs" ]
+common_name: "Common Yarrow"
+scientific_name: "Achillea Millefolium"
+type: "perennial herb"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
 
 title: ""
-common_name: "Common Yarrow"
-scientific_name: "Achillea Millefolium"
 id: 1
 plant_id: 28457
 sun_requirements:

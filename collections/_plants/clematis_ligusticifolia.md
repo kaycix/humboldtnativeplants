@@ -15,7 +15,7 @@ plant_size:
 icon:  "/assets/images/plants/clematis_ligusticifolia_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Clematis%20ligusticifolia(%20)"
 
-categories: [ "Vines" ]
+type: "vine"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

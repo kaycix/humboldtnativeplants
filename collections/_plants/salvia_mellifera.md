@@ -14,6 +14,6 @@ plant_size:
 # icon attribution: https://calscape.org/photos/3365?srchcr=sc621da5c615288 
 icon: "/assets/images/plants/salvia_mellifera_icon.jpg" 
 calscape_link: "https://calscape.org/Salvia-mellifera-(Black-Sage)"
-categories: ["Shrubs", "Salvia" ]
+type: "shrub"
 ---
 

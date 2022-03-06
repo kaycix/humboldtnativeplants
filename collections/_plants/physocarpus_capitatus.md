@@ -15,7 +15,7 @@ plant_size:
 icon: "/assets/images/plants/physocarpus_capitatus_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Physocarpus%20capitatus(%20)"
 
-categories: [ "Shrubs" ]
+type: "shrub"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

@@ -19,6 +19,6 @@ plant_size:
   - height: 
     - 13
 
-categories: [ "Shrubs", "Ribes" ]
+type: "shrub"
 ---
 

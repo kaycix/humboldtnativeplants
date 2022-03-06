@@ -1,7 +1,7 @@
 ---
 title: ""
 
-categories: [ "Annual herbs" ]
+type: "annual herb"
 tags: ["CNPS_master_inventory"]
 
 common_name: "Red Ribbons"

@@ -18,7 +18,7 @@ observations:
     location_detail: "Azalea Reserve"
     last_spotted: "Spring 2021"
 
-categories: [ "Perennial herbs" ]
+type: "perennial herb"
 
 tags: ["Humboldt_County_Native" ]
 ---

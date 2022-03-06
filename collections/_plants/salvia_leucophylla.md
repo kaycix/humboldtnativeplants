@@ -15,6 +15,6 @@ plant_size:
 # icon attribution: https://www.calflora.org/entry/occdetail.html?seq_num=mu3350 
 icon: "/assets/images/plants/salvia_leucophylla_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Salvia%20leucophylla(%20)"
-categories: ["Shrubs", "Salvia" ]
+type: "shrub"
 ---
 

@@ -1,8 +1,7 @@
 ---
 common_name: "Grand Fir"
 scientific_name: "Abies grandis"
-
-categories: [ "Trees" ]
+type: "tree"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

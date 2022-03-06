@@ -14,7 +14,7 @@ plant_size:
 icon: "/assets/images/plants/eriogonum_umbellatum_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Eriogonum%20umbellatum(%20)"
 
-categories: [ "Perennial herbs" ]
+type: "perennial herb"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

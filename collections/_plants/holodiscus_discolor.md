@@ -14,7 +14,7 @@ plant_size:
 icon:  "/assets/images/plants/holodiscus_discolor_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Holodiscus%20discolor(%20)"
 
-categories: [ "Shrubs" ]
+type: "shrub"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

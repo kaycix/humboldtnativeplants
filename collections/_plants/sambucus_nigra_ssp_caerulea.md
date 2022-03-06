@@ -24,6 +24,6 @@ observations:
   - location: "McKinleyville"
     location_detail: "Azalea Reserve (Surrounding Areas)"
     last_spotted: "Summer 2021"
-categories: ["Shrubs" ]
+type: "shrub"
 ---
 

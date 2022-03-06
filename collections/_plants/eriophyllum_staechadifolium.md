@@ -16,7 +16,7 @@ sun_requirements:
 icon: "/assets/images/plants/eriophyllum_staechadifolium_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Eriophyllum%20staechadifolium(%20)"
 
-categories: [ "Shrubs" ]
+type: "shrub"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

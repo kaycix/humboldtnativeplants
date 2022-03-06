@@ -1,6 +1,6 @@
 ---
 
-categories: [ "Shrubs" ]
+type: "shrub"
 
 tags: [
        "CNPS_master_inventory"

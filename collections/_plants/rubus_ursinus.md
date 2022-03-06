@@ -24,6 +24,6 @@ observations:
   - location: "McKinleyville"
     location_detail: "Hammond Trail by Hiller Park" 
     last_spotted: "Winter 2022"
-categories: ["Vines" ]
+type: "vine"
 ---
 

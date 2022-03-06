@@ -15,7 +15,7 @@ plant_size:
 icon: "/assets/images/plants/tolmiea_diplomenziesii_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Tolmiea%20diplomenziesii(%20)"
 
-categories: [ "Perennial herbs" ]
+type: "perennial herb"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

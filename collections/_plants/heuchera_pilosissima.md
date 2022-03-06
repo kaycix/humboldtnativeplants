@@ -17,7 +17,7 @@ plant_size:
 icon:  "/assets/images/plants/heuchera_pilosissima_icon.jpg"
 calscape_link: "https://calscape.org/Heuchera-pilosissima-(Seaside-Alumroot)"
 
-categories: [ "Perennial Herbs" ]
+type: "perennial herb"
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]

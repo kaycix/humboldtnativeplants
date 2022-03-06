@@ -1,6 +1,6 @@
 ---
 
-categories: [ "Perennial herbs" ]
+type: "perennial herb"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

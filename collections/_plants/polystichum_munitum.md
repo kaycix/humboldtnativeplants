@@ -27,7 +27,7 @@ observations:
     location_detail: "Hammond Trail by Hiller Park" 
     last_spotted: "Winter 2022"
 
-categories: [ "Ferns" ]
+type: "fern"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

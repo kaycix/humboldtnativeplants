@@ -15,7 +15,7 @@ plant_size:
 icon: "/assets/images/plants/iris_tenax_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Iris%20tenax(%20)"
 
-categories: [ "Perennial herbs" ]
+type: "perennial herb"
 
 tags: [
        "CNPS_master_inventory"

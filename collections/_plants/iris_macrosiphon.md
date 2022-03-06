@@ -17,7 +17,7 @@ icon:  "/assets/images/plants/iris_macrosiphon_icon.jpg"
 
 calscape_link: "https://calscape.org/Iris-macrosiphon-(Long-Tubed-Iris)"
 
-categories: [ "Perennial herbs" ]
+type: "perennial herb"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

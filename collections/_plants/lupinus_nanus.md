@@ -17,7 +17,7 @@ plant_size:
 icon: "/assets/images/plants/lupinus_nanus_icon.jpg" 
 calscape_link: "https://calscape.org/Lupinus-nanus-(Sky-Lupine)"
 
-categories: [ "Annual herbs" ]
+type: "annual herb"
 
 ---
 

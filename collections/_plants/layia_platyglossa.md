@@ -19,6 +19,6 @@ plant_size:
 icon: "/assets/images/plants/layia_platyglossa_icon.jpg" 
 calscape_link: "https://calscape.org/Layia-platyglossa-(Common-Tidy-Tips)"
 
-categories: [ "Annual herbs" ]
+type: "annual herb"
 ---
 

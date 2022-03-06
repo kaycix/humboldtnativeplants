@@ -1,6 +1,6 @@
 ---
 
-categories: [ "Ferns" ]
+type: "fern"
 
 tags: ["Humboldt_County_Native"]
 

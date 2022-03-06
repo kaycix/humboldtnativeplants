@@ -16,7 +16,7 @@ calscape_link: "https://calscape.org/Polypodium-scouleri-()"
 available: 
   - CNPS
 
-categories: [ "Ferns" ]
+type: "fern"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

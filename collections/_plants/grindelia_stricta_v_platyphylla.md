@@ -16,7 +16,7 @@ plant_size:
 icon: "/assets/images/plants/grindelia_stricta_var_platyphylla_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Grindelia%20stricta%20platyphylla(%20)"
 
-categories: [ "Perennial herbs" ]
+type: "perennial herb"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

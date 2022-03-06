@@ -16,7 +16,7 @@ plant_size:
 icon:  "/assets/images/plants/festuca_idahoensis_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Festuca%20idahoensis(%20)"
 
-categories: [ "Grasses" ]
+type: "grass"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

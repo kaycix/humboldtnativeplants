@@ -18,6 +18,6 @@ plant_size:
 icon:  "/assets/images/plants/gilia_tricolor_icon.jpg"
 calscape_link: "https://calscape.org/Gilia-capitata-(Blue-Field-Gilia)"
 
-categories: [ "Annual herbs", "Gilia" ]
+type: "annual herb"
 ---
 

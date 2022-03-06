@@ -16,7 +16,7 @@ plant_size:
 # icon attribution: https://calscape.org/photos/3359?srchcr=sc621da74632284 
 icon: "/assets/images/plants/salvia_columbariae_icon.jpg" 
 calscape_link: "https://calscape.org/Salvia-columbariae-(Chia)"
-categories: ["Annual herbs", "Salvia" ]
+type: "annual herb"
 ---
 
 

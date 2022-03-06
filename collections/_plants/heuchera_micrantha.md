@@ -17,7 +17,7 @@ plant_size:
 icon:  "/assets/images/plants/heuchera_micrantha_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Heuchera%20micrantha(%20)"
 
-categories: [ "Perennial Herbs" ]
+type: "perennial herb"
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]

@@ -15,7 +15,7 @@ plant_size:
 icon: "/assets/images/plants/polypodium_calirhiza_icon.jpg" 
 calscape_link: "https://calscape.org/Polypodium-calirhiza-()"
 
-categories: [ "Ferns" ]
+type: "fern"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

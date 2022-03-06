@@ -16,7 +16,7 @@ plant_size:
 icon: "/assets/images/plants/penstemon_humuilis_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Penstemon%20humuilis(%20)"
 
-categories: [ "Perennial herbs", "Penstemon"]
+type: "perennial herb"
 ---
 
 

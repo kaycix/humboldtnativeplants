@@ -1,6 +1,6 @@
 ---
 title: ""
-categories: [ "Annual herbs" ]
+type: "annual herb"
 common_name: "Purple Clarkia"
 scientific_name: "Clarkia Purpurea"
 id: 16

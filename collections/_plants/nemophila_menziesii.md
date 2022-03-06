@@ -17,7 +17,7 @@ plant_size:
 icon: "/assets/images/plants/nemophila_menziesii.jpg" 
 calscape_link: "https://calscape.org/Nemophila-menziesii-(Baby-Blue-Eyes)"
 
-categories: [ "Annual herbs" ]
+type: "annual herb"
 
 ---
 

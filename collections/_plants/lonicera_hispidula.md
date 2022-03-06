@@ -20,7 +20,7 @@ observations:
     location_detail: "Ma-le'l Dunes"
     last_spotted: "Winter 2021"
 
-categories: [ "Vines" ]
+type: "vine"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

@@ -14,7 +14,7 @@ plant_size:
 icon: "/assets/images/plants/helenium_bigelovii_icon.jpg" 
 calscape_link: "https://calscape.org/Helenium-bigelovii-(Bigelow's-Sneezeweed)"
 
-categories: [ "Perennial herbs" ]
+type: "perennial herb"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

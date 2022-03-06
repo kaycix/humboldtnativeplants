@@ -17,7 +17,7 @@ plant_size:
 icon:  "/assets/images/plants/melica_californica_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Melica%20californica(%20)"
 
-categories: [ "Grasses" ]
+type: "grass"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

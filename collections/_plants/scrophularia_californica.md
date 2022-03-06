@@ -16,6 +16,6 @@ plant_size:
 # icon attribution: https://www.calflora.org/entry/occdetail.html?seq_num=mu297 
 icon: "/assets/images/plants/scrophularia_californica_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Scrophularia%20californica%20(Bee%20Plant)"
-categories: ["Perennial herbs" ]
+type: "perennial herb"
 ---
 

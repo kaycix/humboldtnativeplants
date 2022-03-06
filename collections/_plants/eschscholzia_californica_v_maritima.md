@@ -13,7 +13,7 @@ plant_size:
 icon: "/assets/images/plants/eschscholzia_californica_v_maritima_icon.jpg" 
 calflora_link: "https://www.calfloranursery.com/plants/eschscholzia-californica-maritima"
 
-categories: [ "Annual herbs", "Poppy" ]
+type: "annual herb"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"

@@ -16,7 +16,7 @@ plant_size:
 icon:  "/assets/images/plants/muhlenbergia_rigens_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Muhlenbergia%20rigens(%20)"
 
-categories: [ "Grasses" ]
+type: "grass"
 
 tags: [
        "CNPS_master_inventory"
