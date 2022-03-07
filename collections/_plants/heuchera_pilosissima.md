@@ -4,7 +4,6 @@ title: ""
 common_name: "Seaside Alumroot"
 scientific_name: "Heuchera pilosissima"
 id: 114
-plant_id: 
 sun_requirements:
   - "Part Shade"
   - "Full Shade"

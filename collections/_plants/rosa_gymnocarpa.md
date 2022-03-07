@@ -3,7 +3,6 @@ title: ""
 common_name: "Dwarf Rose" 
 scientific_name: "Rosa gymnocarpa"
 id: 75
-plant_id: 6ea58
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

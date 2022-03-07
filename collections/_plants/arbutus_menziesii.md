@@ -10,7 +10,6 @@ title: ""
 common_name: "Madrone"
 scientific_name: "Arbutus menziesii"
 id: 98
-plant_id: 
 sun_requirements:
   - "Part Shade"
 # min then max in feet

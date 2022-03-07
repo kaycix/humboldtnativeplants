@@ -8,7 +8,6 @@ title: ""
 common_name: "Red Flowering Currant"
 scientific_name: "Ribes sanguineum"
 id: 73
-plant_id: 0c4fe
 sun_requirements:
   - "Part Shade"
 # icon attribution: Kellie 

@@ -4,7 +4,6 @@ title: ""
 common_name: "Wild Ginger"
 scientific_name: "Asarum caudatum"
 id: 109 
-plant_id: 
 sun_requirements:
   - "Part Shade"
   - "Full Shade"

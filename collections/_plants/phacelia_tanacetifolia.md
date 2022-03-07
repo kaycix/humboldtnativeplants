@@ -7,7 +7,6 @@ title: ""
 common_name: "Lacy Phacelia"
 scientific_name: "Phacelia tanacetifolia"
 id: 65
-plant_id: 624bf
 sun_requirements:
   - "Full Sun"
 plant_size:

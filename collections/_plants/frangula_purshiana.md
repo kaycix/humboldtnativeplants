@@ -3,7 +3,6 @@ title: ""
 common_name: "Cascara Sagrada"
 scientific_name: "Frangula Purshiana"
 id: 35
-plant_id: 088f6
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

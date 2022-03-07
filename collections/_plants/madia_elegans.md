@@ -3,7 +3,6 @@ title: ""
 common_name: "Spring Madia"
 scientific_name: "Madia Elegans"
 id: 57
-plant_id: 7c389
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

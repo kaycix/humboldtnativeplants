@@ -9,7 +9,6 @@ tags: ["Humboldt_County_Native",
 
 title: ""
 id: 1
-plant_id: 28457
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

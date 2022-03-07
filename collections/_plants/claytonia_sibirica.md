@@ -4,7 +4,6 @@ title: ""
 common_name: "Candy Flower"
 scientific_name: "Claytonia sibirica"
 id: 110 
-plant_id: 
 sun_requirements:
   - "Part Shade"
 # min then max in feet

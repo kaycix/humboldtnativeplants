@@ -3,7 +3,6 @@ title: ""
 common_name: "Blue Flax"
 scientific_name: "Linum lewisii"
 id: 51
-plant_id: 4403e
 sun_requirements:
   - "Full Sun"
 plant_size:

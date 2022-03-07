@@ -6,7 +6,6 @@ tags: [ "CNPS_master_inventory"
       ]
 title: ""
 id: 59
-plant_id: c12b4
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

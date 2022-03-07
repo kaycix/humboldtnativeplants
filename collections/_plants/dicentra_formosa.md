@@ -4,7 +4,6 @@ title: ""
 common_name: "Bleeding Heart"
 scientific_name: "Dicentra formosa"
 id: 112
-plant_id: 
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

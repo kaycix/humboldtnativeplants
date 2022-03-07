@@ -3,7 +3,6 @@ title: ""
 common_name: "Foothill Meadow Rue"
 scientific_name: "Thalictrum fendleri"
 id: 90
-plant_id: 85057
 sun_requirements:
   - "Shade"
   - "Part Shade"

@@ -8,7 +8,6 @@ tags: ["Humboldt_County_Native",
 common_name: "California Vanilla Grass"
 scientific_name: "Anthoxanthum Occidentale"
 id: 3
-plant_id: 7816f
 sun_requirements:
   - "Full Shade"
 # min then max in feet

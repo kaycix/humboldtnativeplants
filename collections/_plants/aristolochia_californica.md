@@ -8,7 +8,6 @@ tags: ["Humboldt_County_Native",
 common_name: "California Pipevine"
 scientific_name: "Aristolochia Californica"
 id: 6
-plant_id: 4f9d4
 sun_requirements:
   - "Part Shade"
 # min then max in feet

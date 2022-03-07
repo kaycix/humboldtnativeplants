@@ -8,7 +8,6 @@ title: ""
 common_name: "Blue Elderberry"
 scientific_name: "Sambucus nigra ssp. caerulea"
 id: 82
-plant_id: 06d19
 sun_requirements:
   - "Full Shade"
   - "Part Shade"

@@ -5,7 +5,6 @@ tags: ["Humboldt_County_Native"
 common_name: "Pacific Blackberry"
 scientific_name: "Rubus Ursinus"
 id: 78
-plant_id: 7d073
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

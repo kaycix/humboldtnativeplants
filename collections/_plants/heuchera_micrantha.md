@@ -4,7 +4,6 @@ title: ""
 common_name: "Crevice Alumroot"
 scientific_name: "Heuchera micrantha"
 id: 113
-plant_id: 
 sun_requirements:
   - "Part Shade"
   - "Full Shade"

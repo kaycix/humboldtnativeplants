@@ -6,7 +6,6 @@ title: ""
 common_name: "Indian Tobacco"
 scientific_name: "Nicotiana quadrivalvis"
 id: 61
-plant_id: dc9a3
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

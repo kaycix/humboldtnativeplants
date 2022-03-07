@@ -10,7 +10,6 @@ title: ""
 common_name: "Oregon Grape"
 scientific_name: "Berberis aquifolium"
 id: 100
-plant_id: 
 sun_requirements:
   - "Full Sun"
   - "Full Shade"

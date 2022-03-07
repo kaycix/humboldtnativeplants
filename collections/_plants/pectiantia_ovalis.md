@@ -6,7 +6,6 @@ tags: ["Humboldt_County_Native",
 common_name: "Coastal Miterwort"
 scientific_name: "Pectiantia ovalis"
 id: 62
-plant_id: 49621
 sun_requirements:
   - "Full Shade"
 # min then max in feet

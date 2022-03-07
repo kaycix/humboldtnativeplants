@@ -4,7 +4,6 @@ common_name: "California Bee Plant"
 scientific_name: "Scrophularia californica"
 # cal scape says part shade only
 id: 84
-plant_id: a1123
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

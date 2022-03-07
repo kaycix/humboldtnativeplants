@@ -10,7 +10,6 @@ title: ""
 common_name: "Incense Cedar"
 scientific_name: "calocedrus decurrens"
 id: 102
-plant_id: 
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

@@ -6,7 +6,6 @@ tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
 id: 64
-plant_id: b0466
 sun_requirements:
   - "Full Sun"
 plant_size:

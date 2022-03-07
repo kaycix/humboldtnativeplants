@@ -4,7 +4,6 @@ title: ""
 common_name: "Large Flowered Fairy Bell"
 scientific_name: "Prosartes smithii"
 id: 111
-plant_id: 
 sun_requirements:
   - "Full Shade"
 # min then max in feet

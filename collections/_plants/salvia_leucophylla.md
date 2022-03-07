@@ -5,7 +5,6 @@ scientific_name: "Salvia Leucophylla"
 genus_common: "Sages" 
 genus_scientific: "Salvia"
 id: 80
-plant_id: e5e11
 sun_requirements:
   - "Full Sun"
 plant_size:

@@ -3,7 +3,6 @@ title: ""
 common_name: "Sugar Scoop"
 scientific_name: "Tiarella trifoliata"
 id: 91
-plant_id: 3ada1
 sun_requirements:
   - "Shade"
   - "Part Shade"

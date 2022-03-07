@@ -8,7 +8,6 @@ title: ""
 common_name: "Common Horsetail"
 scientific_name: "Equisetum arvense"
 id: 25
-plant_id: fbc8a
 sun_requirements:
   - "Full Shade"
   - "Part Shade"

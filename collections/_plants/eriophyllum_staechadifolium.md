@@ -4,7 +4,6 @@ common_name: "Seaside Woolly Sunflower"
 scientific_name: "Eriophyllum staechadifolium"
 #cal scape says Shade, Part Shade
 id: 29
-plant_id: f070f
 plant_size:
   - height: 
     - 2

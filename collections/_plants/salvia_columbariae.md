@@ -6,7 +6,6 @@ title: ""
 common_name: "Chia"
 scientific_name: "Salvia Columbariae"
 id: 79
-plant_id: b7cbd
 sun_requirements:
   - "Full Sun"
 plant_size:

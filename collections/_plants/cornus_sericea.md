@@ -3,7 +3,6 @@ title: ""
 common_name: "Red Osier Dogwood"
 scientific_name: "Cornus Sericea"
 id: 22
-plant_id: df825
 plant_size:
   - height: 
     - 4

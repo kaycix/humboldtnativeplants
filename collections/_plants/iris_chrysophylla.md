@@ -4,7 +4,6 @@ common_name: "Yellowleaf Iris"
 scientific_name: "Iris chrysophylla"
 # Calscape says part shade
 id: 41
-plant_id: 77f5a
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

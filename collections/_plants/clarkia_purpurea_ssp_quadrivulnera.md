@@ -3,7 +3,6 @@ title: ""
 common_name: "Purple Clarkia"
 scientific_name: "Clarkia purpurea ssp. quadrivulnera"
 id: 18
-plant_id: cfdb9 
 sun_requirements:
   - "Full Sun"
 plant_size:

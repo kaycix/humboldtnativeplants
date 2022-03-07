@@ -6,7 +6,6 @@ title: ""
 common_name: "Common Meadowfoam"
 scientific_name: "Limnanthes douglasii"
 id: 49
-plant_id: 4b58d
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

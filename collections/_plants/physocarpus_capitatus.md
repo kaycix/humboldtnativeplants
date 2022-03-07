@@ -3,7 +3,6 @@ title: ""
 common_name: "Pacific Ninebark"
 scientific_name: "Physocarpus capitatus"
 id: 66
-plant_id: 73ffe
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

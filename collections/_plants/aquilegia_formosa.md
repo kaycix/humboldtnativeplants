@@ -9,7 +9,6 @@ tags: ["Humboldt_County_Native",
 common_name: "Western Columbine"
 scientific_name: "Aquilegia formosa"
 id: 4
-plant_id: 282ff
 sun_requirements:
   - "Part Shade"
   - "Shade"

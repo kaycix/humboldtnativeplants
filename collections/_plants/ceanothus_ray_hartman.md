@@ -10,7 +10,6 @@ title: ""
 common_name: "Ray Hartman Ceanothus"
 scientific_name: "ceanothus 'ray hartman'"
 id: 103
-plant_id: 
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
