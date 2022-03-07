@@ -2,7 +2,7 @@
 title: ""
 common_name: "Twinberry"
 scientific_name: "Lonicera Involucrata"
-id: 53
+plant_id: 53
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

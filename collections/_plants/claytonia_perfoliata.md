@@ -2,7 +2,7 @@
 title: ""
 common_name: "Miner's Lettuce"
 scientific_name: "Claytonia perfoliata"
-id: 19
+plant_id: 19
 sun_requirements:
   - "Part Shade"
 # min then max in feet

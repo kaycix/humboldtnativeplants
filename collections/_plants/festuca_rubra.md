@@ -3,7 +3,7 @@
 title: ""
 common_name: "Red Fescue"
 scientific_name: "Festuca rubra"
-id: 33
+plant_id: 33
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

@@ -7,7 +7,7 @@ tags: ["Humboldt_County_Native"]
 title: ""
 common_name: "Common Horsetail"
 scientific_name: "Equisetum arvense"
-id: 25
+plant_id: 25
 sun_requirements:
   - "Full Shade"
   - "Part Shade"

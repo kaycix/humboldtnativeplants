@@ -9,7 +9,7 @@ tags: ["Humboldt_County_Native",
 title: ""
 common_name: "Incense Cedar"
 scientific_name: "calocedrus decurrens"
-id: 102
+plant_id: 102
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

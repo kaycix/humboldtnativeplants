@@ -8,7 +8,7 @@ tags: ["Humboldt_County_Native",
       ]
 common_name: "Lady Fern"
 scientific_name: "Athyrium filix-femina"
-id: 8
+plant_id: 8
 sun_requirements:
   - "Part Shade"
   - "Full Shade"

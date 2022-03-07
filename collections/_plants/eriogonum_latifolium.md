@@ -2,7 +2,7 @@
 title: ""
 common_name: "Coast Buckwheat"
 scientific_name: "Eriogonum latifolium"
-id: 27
+plant_id: 27
 sun_requirements:
   - "Full Sun"
 # min then max in feet

@@ -3,7 +3,7 @@
 title: ""
 common_name: "California Fescue"
 scientific_name: "Festuca Californica"
-id: 32
+plant_id: 32
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

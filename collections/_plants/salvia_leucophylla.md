@@ -4,7 +4,7 @@ common_name: "Purple Sage"
 scientific_name: "Salvia Leucophylla"
 genus_common: "Sages" 
 genus_scientific: "Salvia"
-id: 80
+plant_id: 80
 sun_requirements:
   - "Full Sun"
 plant_size:

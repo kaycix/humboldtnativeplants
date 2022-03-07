@@ -5,7 +5,7 @@ tags: [ "CNPS_master_inventory"
 title: ""
 common_name: "Chia"
 scientific_name: "Salvia Columbariae"
-id: 79
+plant_id: 79
 sun_requirements:
   - "Full Sun"
 plant_size:

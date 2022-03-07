@@ -5,7 +5,7 @@ tags: [ "CNPS_master_inventory"
 title: ""
 common_name: "Indian Tobacco"
 scientific_name: "Nicotiana quadrivalvis"
-id: 61
+plant_id: 61
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

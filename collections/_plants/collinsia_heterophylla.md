@@ -2,7 +2,7 @@
 title: ""
 common_name: "Chinese Houses"
 scientific_name: "Collinsia heterophylla"
-id: 21
+plant_id: 21
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

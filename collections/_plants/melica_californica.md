@@ -3,7 +3,7 @@
 title: ""
 common_name: "California Melicgrass"
 scientific_name: "Festuca idahoensis"
-id: 107 
+plant_id: 107 
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

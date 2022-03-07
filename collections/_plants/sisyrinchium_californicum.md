@@ -2,7 +2,7 @@
 title: ""
 common_name: "Yellow Eyed Grass"
 scientific_name: "Sisyrinchium californicum"
-id: 86
+plant_id: 86
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

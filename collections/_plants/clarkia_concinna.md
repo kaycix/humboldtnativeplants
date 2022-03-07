@@ -6,7 +6,7 @@ tags: ["CNPS_master_inventory"]
 
 common_name: "Red Ribbons"
 scientific_name: "Clarkia Concinna"
-id: 15
+plant_id: 15
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

@@ -2,7 +2,7 @@
 title: ""
 common_name: "Leather Fern"
 scientific_name: "Polypodium scouleri"
-id: 70
+plant_id: 70
 sun_requirements:
   - "Full Shade"
   - "Part Shade"

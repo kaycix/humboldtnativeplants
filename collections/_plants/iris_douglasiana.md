@@ -2,7 +2,7 @@
 title: ""
 common_name: "Douglas Iris"
 scientific_name: "Iris douglasiana"
-id: 42
+plant_id: 42
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

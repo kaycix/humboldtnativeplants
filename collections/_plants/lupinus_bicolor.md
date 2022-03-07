@@ -3,7 +3,7 @@
 title: ""
 common_name: "Miniature Lupine"
 scientific_name: "Lupinus bicolor"
-id: 54
+plant_id: 54
 sun_requirements:
   - "Full Sun"
 plant_size:

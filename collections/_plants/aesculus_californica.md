@@ -7,7 +7,7 @@ tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
 
-id: 95
+plant_id: 95
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

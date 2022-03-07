@@ -2,7 +2,7 @@
 title: ""
 common_name: "Salmon Berry"
 scientific_name: "Rubus Spectabilis"
-id: 77
+plant_id: 77
 sun_requirements:
   - "Full Shade"
 # icon attribution: https://calphotos.berkeley.edu/cgi/img_query?enlarge=6666+6666+0713+0034 

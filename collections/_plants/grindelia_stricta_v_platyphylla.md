@@ -2,7 +2,7 @@
 title: ""
 common_name: "Gumweed"
 scientific_name: "Grindelia stricta v. platyphylla"
-id: 38
+plant_id: 38
 sun_requirements:
   - "Part Shade"
   - "Full Sun"

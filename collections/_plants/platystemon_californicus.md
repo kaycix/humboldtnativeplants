@@ -5,7 +5,7 @@ tags: [ "CNPS_master_inventory"
 title: ""
 common_name: "Creamcups"
 scientific_name: "Platystemon californicus"
-id: 67
+plant_id: 67
 sun_requirements:
   - "Full Sun"
 plant_size:

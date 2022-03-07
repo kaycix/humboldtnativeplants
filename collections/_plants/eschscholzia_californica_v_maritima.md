@@ -2,7 +2,7 @@
 title: ""
 common_name: "Coastal California Poppy"
 scientific_name: "Eschscholzia californica v. maritima"
-id: 31
+plant_id: 31
 sun_requirements:
   - "Full Sun"
 plant_size:

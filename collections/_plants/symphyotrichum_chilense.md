@@ -2,7 +2,7 @@
 title: ""
 common_name: "California Aster"
 scientific_name: "Symphyotrichum Chilense"
-id: 89
+plant_id: 89
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

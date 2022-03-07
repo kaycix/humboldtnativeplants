@@ -2,7 +2,7 @@
 title: ""
 common_name: "Beach Strawberry"
 scientific_name: "Fragaria chiloensis"
-id: 34
+plant_id: 34
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

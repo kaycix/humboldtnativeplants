@@ -8,7 +8,7 @@ tags: ["Humboldt_County_Native",
       ]
 common_name: "Deer Fern"
 scientific_name: "Blechnum Spicant"
-id: 10
+plant_id: 10
 sun_requirements:
   - "Part Shade"
   - "Full Shade"

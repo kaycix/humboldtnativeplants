@@ -2,7 +2,7 @@
 title: ""
 common_name: "Oceanspray"
 scientific_name: "Holodiscus Discolor"
-id: 40
+plant_id: 40
 sun_requirements:
   - "Shade"
   - "Part Shade"

@@ -9,7 +9,7 @@ tags: ["Humboldt_County_Native",
 title: ""
 common_name: "Douglas' Sagewort/ California Mugwort"
 scientific_name: "Artemisia douglasiana"
-id: 99
+plant_id: 99
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

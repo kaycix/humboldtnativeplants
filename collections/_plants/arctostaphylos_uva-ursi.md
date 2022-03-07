@@ -7,7 +7,7 @@ tags: ["Humboldt_County_Native",
       ]
 common_name: "Kinnikinnick (Bearberry)"
 scientific_name: "Arctostaphylos uva-ursi"
-id: 5
+plant_id: 5
 plant_size:
   - height: 
     - 1.6

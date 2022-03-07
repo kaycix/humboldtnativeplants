@@ -2,7 +2,7 @@
 title: ""
 common_name: "Slender Cinquefoil"
 scientific_name: "Potentilla gracilis"
-id: 72
+plant_id: 72
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

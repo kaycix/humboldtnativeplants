@@ -7,7 +7,7 @@ tags: ["Humboldt_County_Native",
 title: ""
 common_name: "Beach Knotweed"
 scientific_name: "Polygonum paronychia"
-id: 68
+plant_id: 68
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

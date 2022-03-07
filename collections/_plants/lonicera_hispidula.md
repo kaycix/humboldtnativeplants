@@ -2,7 +2,7 @@
 title: ""
 common_name: "Hairy Honeysuckle"
 scientific_name: "Lonicera hispidula"
-id: 52
+plant_id: 52
 sun_requirements:
   - "Part Shade"
 plant_size:

@@ -2,7 +2,7 @@
 title: ""
 common_name: "Western Thimbleberry"
 scientific_name: "Rubus Parviflorus"
-id: 76
+plant_id: 76
 sun_requirements:
   - "Part Shade"
 plant_size:

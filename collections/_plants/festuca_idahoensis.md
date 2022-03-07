@@ -3,7 +3,7 @@
 title: ""
 common_name: "Idahoe Fescue"
 scientific_name: "Festuca idahoensis"
-id: 106 
+plant_id: 106 
 sun_requirements:
   - "Full Sun"
 # min then max in feet

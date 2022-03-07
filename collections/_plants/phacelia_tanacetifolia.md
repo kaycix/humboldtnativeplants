@@ -6,7 +6,7 @@ tags: [ "CNPS_master_inventory"
 title: ""
 common_name: "Lacy Phacelia"
 scientific_name: "Phacelia tanacetifolia"
-id: 65
+plant_id: 65
 sun_requirements:
   - "Full Sun"
 plant_size:

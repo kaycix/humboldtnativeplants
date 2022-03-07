@@ -3,7 +3,7 @@ title: ""
 type: "annual herb"
 common_name: "Purple Clarkia"
 scientific_name: "Clarkia Purpurea"
-id: 16
+plant_id: 16
 sun_requirements:
   - "Full Sun"
 plant_size:

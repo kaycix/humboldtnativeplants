@@ -2,7 +2,7 @@
 title: ""
 common_name: "California Wax Myrtle" 
 scientific_name: "Morella Californica"
-id: 58
+plant_id: 58
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

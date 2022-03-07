@@ -2,7 +2,7 @@
 title: ""
 common_name: "Yellow Skunk Cabbage"
 scientific_name: "Lysichiton americanus"
-id: 56
+plant_id: 56
 sun_requirements:
   - "Part Shade"
   - "Shade"

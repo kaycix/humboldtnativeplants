@@ -2,7 +2,7 @@
 title: ""
 common_name: "Ground Iris"
 scientific_name: "Iris macrosiphon"
-id: 44
+plant_id: 44
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

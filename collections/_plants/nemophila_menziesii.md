@@ -5,7 +5,7 @@ tags: [ "CNPS_master_inventory"
 title: ""
 common_name: "Baby Blue Eyes"
 scientific_name: "Nemophila menziesii"
-id: 60
+plant_id: 60
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

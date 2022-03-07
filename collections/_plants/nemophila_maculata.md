@@ -5,7 +5,7 @@ scientific_name: "Nemophila maculata"
 tags: [ "CNPS_master_inventory"
       ]
 title: ""
-id: 59
+plant_id: 59
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

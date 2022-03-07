@@ -3,7 +3,7 @@ title: ""
 common_name: "Toughleaf Iris"
 scientific_name: "Iris Tenax"
 #calscape says shade/part shade
-id: 46
+plant_id: 46
 sun_requirements:
   - "Full Sun"
 plant_size:

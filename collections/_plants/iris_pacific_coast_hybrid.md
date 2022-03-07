@@ -2,7 +2,7 @@
 title: ""
 common_name: "Iris Pacific Coast Hybrid"
 scientific_name: ""
-id: 45
+plant_id: 45
 sun_requirements:
   - "Full Sun"
 calscape_link: ""

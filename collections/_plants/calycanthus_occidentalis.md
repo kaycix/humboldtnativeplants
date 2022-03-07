@@ -9,7 +9,7 @@ tags: [
 title: ""
 common_name: "Spice Bush"
 scientific_name: "Calycanthus occidentalis"
-id: 101
+plant_id: 101
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

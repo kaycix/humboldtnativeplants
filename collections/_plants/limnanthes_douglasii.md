@@ -5,7 +5,7 @@ tags: [ "CNPS_master_inventory"
 title: ""
 common_name: "Common Meadowfoam"
 scientific_name: "Limnanthes douglasii"
-id: 49
+plant_id: 49
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

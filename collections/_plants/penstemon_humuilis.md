@@ -5,7 +5,7 @@ scientific_name: "Penstemon humuilis"
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
-id: 64
+plant_id: 64
 sun_requirements:
   - "Full Sun"
 plant_size:

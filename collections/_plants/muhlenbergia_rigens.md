@@ -3,7 +3,7 @@
 title: ""
 common_name: "Deergrass"
 scientific_name: "Muhlenbergia rigens"
-id: 108 
+plant_id: 108 
 sun_requirements:
   - "Full Sun"
 # min then max in feet

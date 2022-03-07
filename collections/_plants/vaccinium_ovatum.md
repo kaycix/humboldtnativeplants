@@ -2,7 +2,7 @@
 title: ""
 common_name: "Huckleberry" 
 scientific_name: "Vaccinium Ovatum"
-id: 93
+plant_id: 93
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

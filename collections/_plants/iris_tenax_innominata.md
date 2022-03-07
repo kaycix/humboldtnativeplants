@@ -2,7 +2,7 @@
 title: ""
 common_name: ""
 scientific_name: "Iris tenax x innominata"
-id: 47
+plant_id: 47
 sun_requirements:
   - "Full Sun"
 calscape_link: ""

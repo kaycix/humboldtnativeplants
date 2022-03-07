@@ -2,7 +2,7 @@
 title: ""
 common_name: "Purple Needle Grass"
 scientific_name: "Stipa Pulchra"
-id: 88
+plant_id: 88
 sun_requirements:
   - "Full Sun"
 # min then max in feet

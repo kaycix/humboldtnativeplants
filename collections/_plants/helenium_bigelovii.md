@@ -2,7 +2,7 @@
 title: ""
 common_name: "Bigelow's Sneezeweed"
 scientific_name: "Helenium bigelovii"
-id: 39
+plant_id: 39
 sun_requirements:
   - "Full Sun"
 # min then max in feet

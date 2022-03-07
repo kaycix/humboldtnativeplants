@@ -9,7 +9,7 @@ tags: ["CNPS_master_inventory",
 
 common_name: "Dark Star Ceanothus"
 scientific_name: "ceanothus 'dark star'"
-id: 104
+plant_id: 104
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

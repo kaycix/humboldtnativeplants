@@ -2,7 +2,7 @@
 title: ""
 common_name: "Black Sage"
 scientific_name: "Salvia Mellifera"
-id: 81
+plant_id: 81
 sun_requirements:
   - "Full Sun"
 # min then max in feet

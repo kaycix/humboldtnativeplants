@@ -3,7 +3,7 @@ title: ""
 common_name: "Del Norte County Iris"
 scientific_name: "Iris innominata"
 #cal scape says Part Shade only
-id: 43
+plant_id: 43
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

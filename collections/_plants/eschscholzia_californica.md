@@ -2,7 +2,7 @@
 title: ""
 common_name: "California Poppy"
 scientific_name: "Eschscholzia californica"
-id: 30
+plant_id: 30
 sun_requirements:
   - "Full Sun"
 # min then max in feet

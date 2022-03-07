@@ -2,7 +2,7 @@
 title: ""
 common_name: "Blue Eyed Grass"
 scientific_name: "Sisyrinchium bellum"
-id: 85
+plant_id: 85
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

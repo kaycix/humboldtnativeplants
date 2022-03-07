@@ -9,7 +9,7 @@ tags: ["Humboldt_County_Native",
 title: ""
 common_name: "Madrone"
 scientific_name: "Arbutus menziesii"
-id: 98
+plant_id: 98
 sun_requirements:
   - "Part Shade"
 # min then max in feet

@@ -9,7 +9,7 @@ tags: ["Humboldt_County_Native",
 title: ""
 common_name: "Farewell to Spring"
 scientific_name: "Clarkia Amoena"
-id: 13
+plant_id: 13
 plant_size:
   - height: 
     - 1.5

@@ -8,7 +8,7 @@ tags: ["Humboldt_County_Native",
       ]
 common_name: "California Lilac (Blueblossom)"
 scientific_name: "Ceanothus Thyrsiflorus"
-id: 12
+plant_id: 12
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

@@ -3,7 +3,7 @@
 title: ""
 common_name: "Pacific Reedgrass"
 scientific_name: "Calamagrostis nutkaensis"
-id: 105 
+plant_id: 105 
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

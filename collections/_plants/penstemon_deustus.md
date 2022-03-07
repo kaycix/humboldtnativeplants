@@ -7,7 +7,7 @@ tags: ["Humboldt_County_Native",
 
 common_name: "Scabland Penstemon"
 scientific_name: "Penstemon deustus"
-id: 63
+plant_id: 63
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

@@ -2,7 +2,7 @@
 title: ""
 common_name: "Sulphur Buckwheat"
 scientific_name: "Eriogonum umbellatum"
-id: 28
+plant_id: 28
 sun_requirements:
   - "Full Sun"
 plant_size:

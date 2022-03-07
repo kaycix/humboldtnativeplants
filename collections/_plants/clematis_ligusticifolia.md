@@ -2,7 +2,7 @@
 title: ""
 common_name: "Virgin’s Bower"
 scientific_name: "Clematis Ligusticifolia"
-id: 20
+plant_id: 20
 sun_requirements:
   - "Full Shade"
   - "Part Shade"
