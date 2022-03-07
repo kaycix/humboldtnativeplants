@@ -371,6 +371,7 @@ input[type=checkbox]
 }
 
 div.annual_herb {
+    background-color: #e06377;
     background-image: url("./../images/icons/annual_herb.png");
     background-repeat: no-repeat; 
     height: 30px;
@@ -378,6 +379,7 @@ div.annual_herb {
 }
 
 div.grass {
+    background-color: #86af49;
     background-image: url("./../images/icons/grass.png");
     background-repeat: no-repeat; 
     height: 30px;
@@ -385,6 +387,7 @@ div.grass {
 }
 
 div.tree {
+    background-color: #674d3c;
     background-image: url("./../images/icons/tree.png");
     background-repeat: no-repeat; 
     height: 30px;
@@ -392,6 +395,7 @@ div.tree {
 }
 
 div.fern {
+    background-color: #667292;
     background-image: url("./../images/icons/fern.png");
     background-repeat: no-repeat; 
     height: 30px;
@@ -400,6 +404,7 @@ div.fern {
 
 
 div.perennial_herb {
+    background-color: #622569;
     background-image: url("./../images/icons/perennial_herb.png");
     background-repeat: no-repeat; 
     height: 30px;
@@ -407,6 +412,7 @@ div.perennial_herb {
 }
 
 div.shrub {
+    background-color: #588c7e;
     background-image: url("./../images/icons/shrub.png");
     background-repeat: no-repeat; 
     height: 30px;
@@ -414,6 +420,7 @@ div.shrub {
 }
 
 div.vine {
+    background-color: #bd5734;
     background-image: url("./../images/icons/vine.png");
     background-repeat: no-repeat; 
     height: 30px;
@@ -468,15 +475,10 @@ div.vine {
 }
 
 .sun_req .abc {
-    background: repeating-linear-gradient(
-      to right,
-      #FFD700,
-      #FFD700 10px,
-      #CCC 10px,
-      #CCC 20px,
-      #888 20px,
-      #888 30px
-    );
+    background-image: url("./../images/icons/sun_all.png");
+    background-repeat: no-repeat; 
+    height: 30px;
+    width: 30px;
 }
 
 .sun_req .b {

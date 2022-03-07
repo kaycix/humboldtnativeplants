@@ -65,7 +65,7 @@ var Util = (function() {
         } else if ((type_req == "perennial_herb") && 
                    (type == "perennial herb")) {
             return true;
-        } else if ((type_req == "shrubs") &&
+        } else if ((type_req == "shrub") &&
                (type == "shrub")) {
             return true;
         } else if ((type_req == "tree") &&
