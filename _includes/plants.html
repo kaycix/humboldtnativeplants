@@ -38,13 +38,13 @@
         </div>
         <select class="type_requirement">
             <option value="any" selected="selected">Any</option>
-            <option value="perennial_herbs">Perennial Herbs</option>
-            <option value="shrubs">Shrubs</option>
-            <option value="trees">Trees</option>
-            <option value="annual_herbs">Annual Herbs</option>
-            <option value="grasses">Grasses</option>
-            <option value="vines">Vines</option>
-            <option value="ferns">Ferns</option>
+            <option value="perennial_herb">Perennial Herbs</option>
+            <option value="shrub">Shrubs</option>
+            <option value="tree">Trees</option>
+            <option value="annual_herb">Annual Herbs</option>
+            <option value="grass">Grasses</option>
+            <option value="vine">Vines</option>
+            <option value="fern">Ferns</option>
         </select>
     </div>
 </div>
@@ -55,7 +55,7 @@
 
 <table class="plant_table">
 	<thead>
-		<tr>
+		<tr >
             {% if include.show_select %}
             <th>
             </th>
@@ -70,7 +70,7 @@
 	<tbody>
     {% for group in include.plant_groups %}
             {% for plant in group.items %}
-                <tr>	
+                <tr id="{{plant.plant_id}}">
                 {% if include.show_select %}
                     <td>   
                         <!-- TODO retain state if checkbox is selected? --> 

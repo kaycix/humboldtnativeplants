@@ -57,28 +57,31 @@ var Util = (function() {
     // Must match liquid logic elsewhere
     Util.satisfies_type_req = function(type_req, plant) {
         var type = plant.type.toLowerCase();
+
+        console.log(type_req, type, plant);
+
         if (type_req == "any") {
             return true;
-        } else if ((type_req == "perennial_herbs") && 
-                   (type.indexOf("perennial herbs") != -1)) {
+        } else if ((type_req == "perennial_herb") && 
+                   (type == "perennial herb")) {
             return true;
         } else if ((type_req == "shrubs") &&
-               (type.indexOf("shrubs") != -1)) {
+               (type == "shrub")) {
             return true;
-        } else if ((type_req == "trees") &&
-               (type.indexOf("trees") != -1)) {
+        } else if ((type_req == "tree") &&
+                (type == "tree")) {
             return true;
-        } else if ((type_req == "annual_herbs") &&
-               (type.indexOf("annual herbs") != -1)) {
+        } else if ((type_req == "annual_herb") &&
+               (type == "annual herb")) {
             return true;
-        } else if ((type_req == "grasses") &&
-               (type.indexOf("grasses") != -1)) {
+        } else if ((type_req == "grass") &&
+               (type == "grass")) {
             return true;
-        } else if ((type_req == "vines") &&
-               (type.indexOf("vines") != -1)) {
+        } else if ((type_req == "vine") &&
+               (type == "vine")) {
             return true;
-        } else if ((type_req == "ferns") &&
-               (type.indexOf("ferns") != -1)) {
+        } else if ((type_req == "fern") &&
+               (type == "fern")) {
             return true;
         } else {
             return false;

@@ -17,8 +17,11 @@ $(function () {
         var selected_height_requirement = $("select.height_requirement").val();
         var selected_type_requirement = $("select.type_requirement").val();
 
-        var plant = plant_data[dataIndex];
+        var evaluating_plant_id = rowData['DT_RowId'];
+        var plant = plant_data[evaluating_plant_id];
         
+        console.log("search plant:", evaluating_plant_id, plant);
+       
         return (Util.satisfies_sun_req(selected_sun_requirement, plant) &&
                 Util.satisfies_height_req(selected_height_requirement, plant) &&
                 Util.satisfies_type_req(selected_type_requirement, plant));

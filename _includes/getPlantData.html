@@ -17,16 +17,16 @@
             plant_max_height = '{{attr.height | last }}';
         {% endfor %}
         
-        // add plant data object
-        plant_data.push({ "common_name" : "{{plant.common_name}}",
+        // add plant data object, where key is plant_id
+        plant_data["{{plant.plant_id}}"] = { "common_name" : "{{plant.common_name}}",
                           "scientific_name" : "{{plant.scientific_name}}",
-                          "id" : "{{plant.id}}",
+                          "id" : "{{plant.plant_id}}",
                           "icon" : "{{plant.icon | prepend:site.baseurl}}",
                           "type" : "{{plant.type}}",
                           "sun_requirements" : "{{plant.sun_requirements | join: ','}}",
                           "height" : [plant_min_height, plant_max_height]
                            
-                         });
+                         };
     {% endfor %}
     console.log("list of all plants", plant_data);
 </script>
