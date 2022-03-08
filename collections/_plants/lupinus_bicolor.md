@@ -1,23 +1,25 @@
 ---
-
-title: ""
+plant_id: 54
 common_name: "Miniature Lupine"
 scientific_name: "Lupinus bicolor"
-plant_id: 54
+type: "annual herb"
+tags: ["Humboldt_County_Native",
+       "CNPS_master_inventory"
+      ]
+
+title: ""
 sun_requirements:
   - "Full Sun"
 plant_size:
   - height: 
     - 0.26
     - 1.3
-# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/gp/50/10067.jpg 
+
 icon: "/assets/images/plants/lupinus_bicolor_icon.jpg" 
+icon_attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=io46043"
+
 calscape_link: "https://calscape.org/Lupinus-bicolor-()"
-
-type: "annual herb"
-
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
-      ]
 ---
 

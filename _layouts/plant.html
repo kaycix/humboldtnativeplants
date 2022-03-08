@@ -1,15 +1,29 @@
 ---
-layout: archive
+layout: single
+classes: plant-page wide
 ---
 
 {% assign category_url = "/plants/" | prepend:site.baseurl | append:page.top_level_category | replace:" ","_" | downcase %}
-Plants > 
+
 <a href="{{ category_url }}"> 
 	{{page.top_level_category }}
 </a>
 
 <div class="plant_header" style="margin-bottom:10px">
-	<h6>{{page.common_name}}</h6>
+    {% if page.icon %}
+    <div class="icon_holder">
+        <img src="{{ page.icon | prepend: site.baseurl }}" alt="photo of a {{page.common_name}}"/>
+        {% if page.icon_attribution %}
+            {% if page.icon_attribution["name"] and
+                  page.icon_attribution["url"] %}
+                <div class="attr">Photo by 
+                    <a href="{{page.icon_attribution["url"]}}" target="_blank">{{page.icon_attribution["name"]}}</a>
+                </div>
+            {% endif %}
+         {% endif %}
+    </div>
+    {% endif %}
+	<h1>{{page.common_name}}</h1>
 	{{page.scientific_name}}
 </div>
 Sun requirements: 

@@ -587,6 +587,23 @@ div.vine {
     font-size: 0.7em;
 }
 
+.plant-page div.icon_holder {
+    float: left;
+    margin-right: 32px;
+    margin-bottom: 32px;
+    width: 200px;
+}
+
+.plant-page .attr {
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.plant-page img {
+    border-radius: 100px;
+    margin-bottom: 3px;
+}
+
 #footer {
     color: #FFF;
     background-color: $indigo-color;
