@@ -8,6 +8,7 @@ tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
 
+title: ""
 sun_requirements:
   - "Part Shade"
   - "Full Shade"
@@ -17,7 +18,9 @@ plant_size:
     - 1
     - 2.6
 
-# icon attribution: https://www.calflora.org/app/up/entry/357/107392.jpg 
+icon_attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/app/taxon?crn=240" 
 icon: "/assets/images/plants/allium_unifolium_icon.jpg" 
 calscape_link: "https://calscape.org/Allium-unifolium-(One-Leaf-Onion)"
 ---

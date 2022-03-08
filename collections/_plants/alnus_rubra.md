@@ -1,4 +1,5 @@
 ---
+plant_id: 96
 common_name: "Red Alder"
 scientific_name: "Alnus rubra"
 type: "tree"
@@ -8,7 +9,6 @@ tags: ["Humboldt_County_Native",
       ]
 
 title: ""
-plant_id: 96
 sun_requirements:
   - "Shade"
   - "Part Shade"
@@ -17,7 +17,10 @@ plant_size:
   - height: 
     - 50
     - 98.4
-# icon attribution: https://calscape.org/view.php?pl=175&img=8162 
+
+icon_attribution: 
+    name: "Calscape"
+    url: "https://calscape.org/view.php?pl=175&img=8162" 
 icon: "/assets/images/plants/alnus_rubra_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Alnus%20rubra(%20)"
 ---

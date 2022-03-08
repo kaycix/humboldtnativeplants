@@ -1,4 +1,5 @@
 ---
+plant_id: 95
 common_name: "California Buckeye"
 scientific_name: "Aesculus californica"
 type: "tree"
@@ -7,7 +8,7 @@ tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
 
-plant_id: 95
+title: ""
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -16,8 +17,12 @@ plant_size:
   - height: 
     - 13.1
     - 39.4
-# icon attribution: https://calscape.org/photos/82?srchcr=sc6221a32794609 
-icon: "/assets/images/plants/aesculus_californica_icon.jpg" 
+
+icon attribution: 
+    name: "Calscape"
+    url: "https://calscape.org/photos/82?srchcr=sc6221a32794609" 
+icon: "/assets/images/plants/aesculus_californica_icon.jpg"
+ 
 calscape_link: "https://calscape.org/loc-California/Aesculus%20californica(%20)"
 ---
 

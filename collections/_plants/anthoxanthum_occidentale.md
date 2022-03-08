@@ -1,13 +1,14 @@
 ---
-title: ""
+plant_id: 3
+common_name: "California Vanilla Grass"
+scientific_name: "Anthoxanthum Occidentale"
 type: "grass"
 
 tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
-common_name: "California Vanilla Grass"
-scientific_name: "Anthoxanthum Occidentale"
-plant_id: 3
+
+title: ""
 sun_requirements:
   - "Full Shade"
 # min then max in feet
@@ -15,7 +16,9 @@ plant_size:
   - height: 
     - 3.3
 
-# icon attribution: https://calscape.org/photos/1896?srchcr=sc61fe0d9df2095
+icon_attribution: 
+    name: "Calscape"
+    url: "https://calscape.org/photos/1896?srchcr=sc61fe0d9df2095"
 icon: "/assets/images/plants/anthoxanthum_occidentale_icon.jpg" 
 
 calscape_link: "https://calscape.org/loc-California/California%20Vanilla%20Grass%20(Anthoxanthum%20occidentale)"

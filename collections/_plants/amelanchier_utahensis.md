@@ -1,4 +1,5 @@
 ---
+plant_id: 97
 common_name: "Service Berry"
 scientific_name: "Amelanchier utahensis"
 
@@ -9,7 +10,6 @@ tags: ["Humboldt_County_Native",
       ]
 
 title: ""
-plant_id: 97
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -18,8 +18,12 @@ plant_size:
   - height: 
     - 10
     - 16.4
-# icon attribution: https://calscape.org/photos/199?srchcr=sc6221a574e9aac 
-icon: "/assets/images/plants/amelanchier_utahensis_icon.jpg" 
+
+icon_attribution: 
+    name: "Calscape"
+    url: "https://calscape.org/photos/199?srchcr=sc6221a574e9aac" 
+icon: "/assets/images/plants/amelanchier_utahensis_icon.jpg"
+ 
 calscape_link: "https://calscape.org/loc-California/Amelanchier%20utahensis%20(Service%20Berry)" 
 ---
 
