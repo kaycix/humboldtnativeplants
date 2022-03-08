@@ -24,19 +24,16 @@ classes: plant-page wide
     </div>
     {% endif %}
 	<h1>{{page.common_name}}</h1>
-	{{page.scientific_name}}
+	{{page.scientific_name | capitalize }}
 </div>
-Sun requirements: 
-{% for sun_req in page.sun_requirements %}
-  {% assign sun_url = "/plants/" | prepend:site.baseurl | append:sun_req | replace: " ","_" | downcase %}
-  <a href="{{sun_url}}">
-    {{sun_req}}
-  </a>
-{% endfor %}
+Sun requirements:
+{{page.sun_requirements | join: ", " }} 
 
+<br/>
 <br/>
 View on <a href="{{page.calscape_link}}" target="_blank">Calscape</a>.
 <br/>
+<!--
 {% comment %}Make observation display prettier {%endcomment %}
 {% for observation in page.observations %}
 	Observed in {{observation.location}}
@@ -44,7 +41,7 @@ View on <a href="{{page.calscape_link}}" target="_blank">Calscape</a>.
         ({{observation.last_spotted}})
 	<br/>
 {% endfor %}
-
+-->
 
 {{ content }}
 

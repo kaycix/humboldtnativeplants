@@ -8,6 +8,7 @@ tags: [
        "CNPS_master_inventory"
       ]
 
+title: ""
 sun_requirements:
   - "Part Shade"
   - "Full Sun"
@@ -16,8 +17,11 @@ plant_size:
   - height: 
     - 1
 
-# icon attribution: https://www.calflora.org/app/up/entry/7/1432.jpg 
-icon: "/assets/images/plants/bloomeria_crocea_icon.jpg" 
+icon_attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/app/up/entry/7/1432.jpg" 
+icon: "/assets/images/plants/bloomeria_crocea_icon.jpg"
+ 
 calscape_link: "https://calscape.org/loc-California/Bloomeria%20crocea(%20)"
 ---
 

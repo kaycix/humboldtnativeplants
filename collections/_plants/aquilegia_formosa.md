@@ -8,9 +8,10 @@ tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
 
+title: ""
 sun_requirements:
   - "Part Shade"
-  - "Shade"
+  - "Full Shade"
 # min then max in feet
 plant_size:
   - height: 

@@ -8,6 +8,7 @@ tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
 
+title: ""
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -17,8 +18,11 @@ plant_size:
     - 0.5
     - 2
 
-# icon attribution: https://www.calflora.org/entry/occdetail.html?seq_num=po117536 
-icon: "/assets/images/plants/dichelostemma_capitatum_ssp_capitatum_icon.jpg" 
+icon_attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po117536" 
+icon: "/assets/images/plants/dichelostemma_capitatum_ssp_capitatum_icon.jpg"
+ 
 calscape_link: "https://calscape.org/Dichelostemma-capitatum-()"
 ---
 

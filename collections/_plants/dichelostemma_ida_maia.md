@@ -8,6 +8,7 @@ tags: ["Humboldt_County_Native",
        "CNPS_master_inventory"
       ]
 
+title: ""
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -17,7 +18,9 @@ plant_size:
   - height: 
     - 1.6
 
-# icon attribution: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+1115+3111 
+icon_attribution: 
+    name: "Calflora"
+    url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+1115+3111" 
 icon: "/assets/images/plants/dichelostemma_ida_maia_icon.jpg" 
 calscape_link: "https://calscape.org/Dichelostemma-ida-maia-(Firecracker-Brodiaea)"
 ---
