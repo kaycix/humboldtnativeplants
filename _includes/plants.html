@@ -116,24 +116,25 @@
 
                 {% if plant.plant_size %}
                     {% for plant_size_obj in plant.plant_size %}
+                      
+                       {% assign max_plant_height = plant_size_obj.height | last | plus: 0 | round %}
+                       {% assign min_plant_height = plant_size_obj.height | first | plus: 0 | round %}
                        
-                       {% assign max_plant_height = plant_size_obj.height | last | plus: 0 %}
+                       {% capture height_text%}{{min_plant_height}} - {{max_plant_height}} ft {% endcapture %}
                        {%comment%} Decide what text to display to describe height. {%endcomment%}	
-                       {% if max_plant_height <= 1.5 %}
-                        {% assign height_category = "Very Low" %}
-                        {% assign height_text = "< 1.5 ft " %}
-                       {% elsif max_plant_height <= 3 %}
+                       
+                       {% if min_plant_height == 0 %}
+                         {% capture height_text%}< {{max_plant_height}} ft {% endcapture %}
+                       {% elsif max_plant_height == min_plant_height %}
+                         {% capture height_text%}~ {{max_plant_height}} ft {% endcapture %}
+                       {% endif %}
+
+                       {% if max_plant_height <= 3 %}
                         {% assign height_category = "Low" %}
-                        {% assign height_text = "< 3 ft" %}
                        {% elsif max_plant_height <= 6 %}
                         {% assign height_category = "Moderate" %}
-                        {% assign height_text = "< 6 ft" %}
-                       {% elsif max_plant_height <= 10 %}
-                        {% assign height_category = "Tall" %}
-                        {% assign height_text = "< 10 ft" %}
                        {% else %}
-                        {% assign height_category = "Very Tall" %}
-                        {% assign height_text = " > 10 ft" %}
+                        {% assign height_category = "Tall" %}
                        {% endif %} 		
                     {% endfor %}
                 {% endif %}
@@ -147,7 +148,7 @@
                      </div>
                 </td>
                 <td class="{{group.name}}" data-order={{group.name}}>
-                    <div class="{{group.name | replace: " ", "_" }}"></div>
+                    <div class="{{group.name | replace: " ", "_" }}" title="{{group.name | capitalize}}"></div>
                 </td>
                 <td class="more_info">
                     {% if plant.calscape_link %}
