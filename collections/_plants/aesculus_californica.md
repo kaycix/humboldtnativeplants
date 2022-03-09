@@ -18,7 +18,7 @@ plant_size:
     - 13.1
     - 39.4
 
-icon attribution: 
+icon_attribution: 
     name: "Calscape"
     url: "https://calscape.org/photos/82?srchcr=sc6221a32794609" 
 icon: "/assets/images/plants/aesculus_californica_icon.jpg"

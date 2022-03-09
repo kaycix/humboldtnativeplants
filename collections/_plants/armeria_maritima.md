@@ -1,14 +1,13 @@
 ---
-
+plant_id: 7
+common_name: "Sea Thrift"
+scientific_name: "Ameria Maritima"
 type: "perennial herb"
 
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
-title: ""
-common_name: "Sea Thrift"
-scientific_name: "Ameria Maritima"
-plant_id: 7
+
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -16,7 +15,10 @@ sun_requirements:
 plant_size:
   - height: 
     - 1
-# icon attribution: https://calscape.com/ExtData/allimages/900/Armeria_maritima_900_57.jpg 
+
+icon_attribution: 
+    name: "Calscape"
+    url: "https://calscape.org/photos/374?srchcr=sc622922583ea4e"
 icon: "/assets/images/plants/armeria_maritima_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Sea%20Thrift%20(Armeria%20maritima)"
 ---

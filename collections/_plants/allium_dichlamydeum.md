@@ -16,7 +16,7 @@ plant_size:
   - height: 
     - 1
 
-icon attribution: 
+icon_attribution: 
     name: "Calflora"
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=gp15806" 
 icon: "/assets/images/plants/allium_dichlamydeum_icon.jpg" 

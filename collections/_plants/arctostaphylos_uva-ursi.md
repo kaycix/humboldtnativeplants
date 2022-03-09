@@ -1,21 +1,25 @@
 ---
-title: ""
+plant_id: 5
+common_name: "Kinnikinnick (Bearberry)"
+scientific_name: "Arctostaphylos uva-ursi"
 type: "shrub"
 
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
-common_name: "Kinnikinnick (Bearberry)"
-scientific_name: "Arctostaphylos uva-ursi"
-plant_id: 5
+
 plant_size:
   - height: 
     - 1.6
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
-# icon attribution: https://calscape.com/ExtData/allimages/900/Arctostaphylos_uva-ursi_900_52.jpg 
+
+icon_attribution: 
+    name: "Calscape"
+    url: "https://calscape.org/view.php?pl=347&img=8974"
 icon: "/assets/images/plants/arctostaphylos_uva_ursi_icon.jpg"
+
 calscape_link: "https://calscape.org/Arctostaphylos-uva-ursi-(Southern-Kinnikinnick)?srchcr=sc5f503bb4523a4"
 ---
 
