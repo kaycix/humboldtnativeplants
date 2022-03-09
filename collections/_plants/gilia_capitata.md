@@ -1,7 +1,7 @@
 ---
 title: ""
 
-tags: [ "CNPS_master_inventory"
+categories: [ cnps_master_inventory
       ]
 
 common_name: "Blue Field Gilia"

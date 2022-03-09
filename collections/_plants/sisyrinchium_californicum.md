@@ -15,7 +15,7 @@ icon: "/assets/images/plants/sisyrinchium_californicum_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Sisyrinchium%20californicum(%20)"
 
 type: "perennial herb"
-tags: [ "CNPS_master_inventory"
+categories: [ cnps_master_inventory
       ]
 ---
 

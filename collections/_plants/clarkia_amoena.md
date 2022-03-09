@@ -2,8 +2,8 @@
 
 type: "annual herb"
 
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 
 title: ""

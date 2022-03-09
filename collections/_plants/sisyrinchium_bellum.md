@@ -18,7 +18,7 @@ observations:
     location_detail: "Azalea Reserve (Surrounding Areas)"
     last_spotted: "Summer 2021"
 type: "perennial herb"
-tags: [ "CNPS_master_inventory"
+categories: [ cnps_master_inventory
       ]
 ---
 

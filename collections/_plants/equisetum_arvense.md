@@ -2,7 +2,7 @@
 
 type: "fern"
 
-tags: ["Humboldt_County_Native"]
+categories: [humboldt_county_native]
 
 title: ""
 common_name: "Common Horsetail"

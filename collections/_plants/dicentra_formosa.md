@@ -18,8 +18,8 @@ icon:  "/assets/images/plants/dicentra_formosa_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Dicentra%20formosa(%20)"
 
 type: "perennial herb"
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 ---
 

@@ -2,7 +2,7 @@
 title: ""
 
 type: "annual herb"
-tags: ["CNPS_master_inventory"]
+categories: [cnps_master_inventory]
 
 common_name: "Red Ribbons"
 scientific_name: "Clarkia Concinna"

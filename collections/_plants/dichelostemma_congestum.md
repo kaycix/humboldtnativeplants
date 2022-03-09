@@ -4,8 +4,8 @@ common_name: "Ookow"
 scientific_name: "Dichelostemma congestum"
 type: "perennial herb"
 
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 
 title: ""

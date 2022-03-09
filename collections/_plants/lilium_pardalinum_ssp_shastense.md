@@ -4,8 +4,8 @@ common_name: "Shasta Lily"
 scientific_name: "Lilium pardalinum ssp. shastense"
 type: "perennial herb"                                                        
                                                                               
-tags: [
-       "CNPS_master_inventory"                                                
+categories: [
+       cnps_master_inventory                                                
       ]                                                                       
                                                                               
 sun_requirements:                                                             

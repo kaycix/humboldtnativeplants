@@ -3,8 +3,8 @@ plant_id: 54
 common_name: "Miniature Lupine"
 scientific_name: "Lupinus bicolor"
 type: "annual herb"
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 
 title: ""

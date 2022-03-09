@@ -19,6 +19,6 @@ observations:
 
 type: "perennial herb"
 
-tags: ["Humboldt_County_Native" ]
+categories: [humboldt_county_native ]
 ---
 

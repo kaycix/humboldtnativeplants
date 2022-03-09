@@ -4,7 +4,7 @@ common_name: "Menzies' Fiddleneck"
 scientific_name: "Amsinckia menziesii"
 type: "annual herb"
 
-tags: ["CNPS_master_inventory"
+categories: [cnps_master_inventory
       ]
 
 title: ""

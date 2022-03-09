@@ -4,8 +4,8 @@ common_name: "Henderson's Triteleia"
 scientific_name: "Triteleia hendersonii"
 type: "perennial herb"
 
-tags: [
-       "CNPS_master_inventory"
+categories: [
+       cnps_master_inventory
       ]
 
 sun_requirements:

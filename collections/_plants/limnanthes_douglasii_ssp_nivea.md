@@ -1,6 +1,6 @@
 ---
 
-tags: [ "CNPS_master_inventory"
+categories: [ cnps_master_inventory
       ]
 title: ""
 common_name: "Douglas' Meadowfoam"
@@ -17,8 +17,8 @@ calscape_link: "https://calscape.org/Limnanthes-douglasii-ssp.-nivea-()"
 
 type: "annual herb"
 
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 ---
 

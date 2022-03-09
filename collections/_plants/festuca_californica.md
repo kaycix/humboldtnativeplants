@@ -1,9 +1,14 @@
 ---
+plant_id: 32
  
-title: ""
 common_name: "California Fescue"
 scientific_name: "Festuca Californica"
-plant_id: 32
+type: "grass"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+      ]
+
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -12,13 +17,8 @@ plant_size:
   - height: 
     - 1.3
     - 4
+
 icon:  "/assets/images/plants/festuca_californica_icon.jpg"
 calscape_link: "https://calscape.org/Festuca-californica-(California-Fescue)"
-
-type: "grass"
-
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
-      ]
 ---
 

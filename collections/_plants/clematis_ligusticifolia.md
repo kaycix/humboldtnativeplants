@@ -16,8 +16,8 @@ calscape_link: "https://calscape.org/loc-California/Clematis%20ligusticifolia(%2
 
 type: "vine"
 
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 ---
 

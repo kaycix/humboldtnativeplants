@@ -4,8 +4,8 @@ common_name: "Grand Fir"
 scientific_name: "Abies grandis"
 type: "tree"
 
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 
 title: ""
@@ -25,5 +25,3 @@ icon: "/assets/images/plants/abies_grandis_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Abies%20grandis(%20)"
 ---
-
-

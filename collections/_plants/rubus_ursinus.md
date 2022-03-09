@@ -1,6 +1,6 @@
 ---
 title: ""
-tags: ["Humboldt_County_Native"
+categories: [humboldt_county_native
       ]
 common_name: "Pacific Blackberry"
 scientific_name: "Rubus Ursinus"

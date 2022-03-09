@@ -17,8 +17,8 @@ calscape_link: "https://calscape.org/loc-California/Cornus%20sericea(%20)"
 icon:  "/assets/images/plants/cornus_sericea_icon.jpg"
 type: "shrub"
 
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 ---
 

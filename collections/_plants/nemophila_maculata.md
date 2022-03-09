@@ -2,7 +2,7 @@
 common_name: "Fivespot"
 scientific_name: "Nemophila maculata"
 
-tags: [ "CNPS_master_inventory"
+categories: [ cnps_master_inventory
       ]
 title: ""
 plant_id: 59

@@ -4,8 +4,8 @@ common_name: "Humboldt's Lily"
 scientific_name: "Lilium humboldtii"
 type: "perennial herb"
 
-tags: [
-       "CNPS_master_inventory"
+categories: [
+       cnps_master_inventory
       ]
 
 title: ""

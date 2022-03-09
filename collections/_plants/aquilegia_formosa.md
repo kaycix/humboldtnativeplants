@@ -4,11 +4,11 @@ common_name: "Western Columbine"
 scientific_name: "Aquilegia formosa"
 type: "perennial herb"
 
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
-      ]
+categories: [ 
+            humboldt_county_native, 
+            cnps_master_inventory
+            ]
 
-title: ""
 sun_requirements:
   - "Part Shade"
   - "Full Shade"

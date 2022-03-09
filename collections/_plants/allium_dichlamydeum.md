@@ -4,8 +4,8 @@ common_name: "Coast Onion"
 scientific_name: "Allium dichlamydeum"
 type: "perennial herb"
 
-tags: [
-       "CNPS_master_inventory"
+categories: [
+       cnps_master_inventory
       ]
 
 title: ""

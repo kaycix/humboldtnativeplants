@@ -17,8 +17,8 @@ calscape_link: "https://calscape.org/loc-California/Eriophyllum%20staechadifoliu
 
 type: "shrub"
 
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 ---
 

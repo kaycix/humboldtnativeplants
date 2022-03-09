@@ -17,8 +17,8 @@ calscape_link: "https://calscape.org/loc-California/Muhlenbergia%20rigens(%20)"
 
 type: "grass"
 
-tags: [
-       "CNPS_master_inventory"
+categories: [
+       cnps_master_inventory
       ]
 ---
 

@@ -1,7 +1,7 @@
 ---
 
 # not native to Humboldt County
-tags: [ "CNPS_master_inventory"
+categories: [ cnps_master_inventory
       ]
 title: ""
 common_name: "Lacy Phacelia"

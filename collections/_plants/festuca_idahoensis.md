@@ -17,8 +17,8 @@ calscape_link: "https://calscape.org/loc-California/Festuca%20idahoensis(%20)"
 
 type: "grass"
 
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 ---
 

@@ -2,8 +2,8 @@
 title: ""
 common_name: "Low Beardtongue"
 scientific_name: "Penstemon humuilis"
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 plant_id: 64
 sun_requirements:

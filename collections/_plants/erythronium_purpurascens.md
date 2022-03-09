@@ -4,9 +4,9 @@ common_name: "Purple Fawn Lily"
 scientific_name: "Erythronium purpurascens"
 type: "perennial herb"
 
-tags: [
-       "Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [
+       humboldt_county_native,
+       cnps_master_inventory
       ]
 
 sun_requirements:

@@ -4,8 +4,8 @@ common_name: "Cream Fawn Lily"
 scientific_name: "Erythronium citrinum"
 type: "perennial herb"
 
-tags: [
-       "CNPS_master_inventory"
+categories: [
+       cnps_master_inventory
       ]
 
 sun_requirements:

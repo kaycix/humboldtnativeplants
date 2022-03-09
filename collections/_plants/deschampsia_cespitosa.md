@@ -5,8 +5,8 @@ common_name: "Tufted Hairgrass"
 scientific_name: "Deschampsia cespitosa"
 type: "grass"
 
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 
 sun_requirements:

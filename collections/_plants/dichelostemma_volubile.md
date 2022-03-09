@@ -4,8 +4,8 @@ common_name: "Twining Snakelily"
 scientific_name: "Dichelostemma volubile"
 type: "perennial herb"
 
-tags: [
-       "CNPS_master_inventory"
+categories: [
+       cnps_master_inventory
       ]
 
 sun_requirements:

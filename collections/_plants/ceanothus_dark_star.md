@@ -3,7 +3,7 @@ title: ""
 
 type: "shrub"
 
-tags: ["CNPS_master_inventory",
+categories: [cnps_master_inventory,
        "Cultivar"
       ]
 

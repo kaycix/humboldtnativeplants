@@ -4,8 +4,8 @@ common_name: "Common Goldenstar"
 scientific_name: "Bloomeria crocea"
 type: "perennial herb"
 
-tags: [
-       "CNPS_master_inventory"
+categories: [
+       cnps_master_inventory
       ]
 
 title: ""

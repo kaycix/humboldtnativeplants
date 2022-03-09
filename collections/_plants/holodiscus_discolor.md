@@ -15,8 +15,8 @@ calscape_link: "https://calscape.org/loc-California/Holodiscus%20discolor(%20)"
 
 type: "shrub"
 
-tags: ["Humboldt_County_Native",
-       "CNPS_master_inventory"
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 ---
 
