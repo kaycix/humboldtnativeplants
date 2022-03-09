@@ -1,6 +1,6 @@
 ---
 plant_id: 138 
-common_name: ""
+common_name: "Tiger Lily"
 scientific_name: "Lilium pardalinum"
 type: "perennial herb"
 

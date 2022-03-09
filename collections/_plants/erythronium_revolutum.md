@@ -1,5 +1,5 @@
 ---
-plant_id: 130
+plant_id: 135
 common_name: "Mahogany Fawn Lily"
 scientific_name: "Erythronium revolutum"
 type: "perennial herb"
