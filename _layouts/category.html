@@ -1,0 +1,21 @@
+---
+layout: single
+classes: wide
+---
+
+{% assign category = page.title | downcase %}
+{% assign plants = site.plants | where_exp: "item", 
+                                 "item.categories contains category" %}
+{% assign plant_groups = plants | group_by : "type" %} 
+
+<h1>{{ page.name }} ({{ plants.size}})</h1>
+
+<!-- populate plant_data var -->
+{% include getPlantData.html %}
+	
+{% include plants.html 
+	plant_groups= plant_groups
+%}
+
+{{ content }}
+

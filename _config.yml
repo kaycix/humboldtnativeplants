@@ -14,6 +14,9 @@ collections              :
     plants: 
         output: true
         permalink: /:collection/:path
+    categories:
+        output: true
+        permalink: /category/:name
 defaults:
  - scope:
      type: "plants"
