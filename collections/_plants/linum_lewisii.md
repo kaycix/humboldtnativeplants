@@ -1,8 +1,13 @@
 ---
-title: ""
+plant_id: 51
 common_name: "Blue Flax"
 scientific_name: "Linum lewisii"
-plant_id: 51
+type: "perennial herb"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+      ]
+
 sun_requirements:
   - "Full Sun"
 plant_size:
@@ -10,14 +15,11 @@ plant_size:
     - 1.5
     - 3
 
+icon_attribution: 
+    name: "Calscape"
+    url: "https://calscape.org/view.php?pl=2228&img=17633"
 icon: "/assets/images/plants/linum_lewisii_icon.jpg" 
+
 calscape_link: "https://calscape.org/Linum-lewisii-()"
-
-type: "perennial herb"
-
-categories: [humboldt_county_native,
-       cnps_master_inventory
-      ]
-
 ---
 
