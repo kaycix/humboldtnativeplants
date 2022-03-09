@@ -1,14 +1,13 @@
 ---
-title: ""
+plant_id: 14
+common_name: "Punch Bowl Godetia"
+scientific_name: "Clarkia Bottae"
 type: "annual herb"
 
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
 
-common_name: "Punch Bowl Godetia"
-scientific_name: "Clarkia Bottae"
-plant_id: 14
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -16,8 +15,12 @@ sun_requirements:
 plant_size:
   - height: 
     - 3.3
-# icon attribution: https://www.calflora.org/entry/occdetail.html?seq_num=mu16577 
-icon: "/assets/images/plants/clarkia_bottae_icon.jpg" 
+
+icon_attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=mu16577" 
+icon: "/assets/images/plants/clarkia_bottae_icon.jpg"
+ 
 calscape_link: "https://calscape.org/loc-California/Clarkia-bottae-(Punch-Bowl-Godetia)"
 ---
 

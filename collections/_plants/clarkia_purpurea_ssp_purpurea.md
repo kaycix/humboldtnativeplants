@@ -1,23 +1,27 @@
 ---
+plant_id: 17
 
-title: ""
 common_name: "Winecup Clarkia"
 scientific_name: "Clarkia purpurea ssp. purpurea"
-plant_id: 17
-sun_requirements:
-  - "Full Sun"
-plant_size:
-  - height: 
-    - 3.3
-# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/59/17824.jpg 
-icon: "/assets/images/plants/clarkia_purpurea_ssp_purpurea.jpg" 
-calscape_link: "https://calscape.org/Clarkia-purpurea-ssp.-purpurea-(Winecup-Clarkia)"
-
 type: "annual herb"
 
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
+
+sun_requirements:
+  - "Full Sun"
+plant_size:
+  - height: 
+    - 3.3
+
+icon attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po90161"
+icon: "/assets/images/plants/clarkia_purpurea_ssp_purpurea_icon.jpg" 
+
+calscape_link: "https://calscape.org/Clarkia-purpurea-ssp.-purpurea-(Winecup-Clarkia)"
+
 ---
 
 
