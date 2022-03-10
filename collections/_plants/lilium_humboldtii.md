@@ -4,6 +4,8 @@ common_name: "Humboldt's Lily"
 scientific_name: "Lilium humboldtii"
 type: "perennial herb"
 
+native_to: "California"
+
 categories: [
        cnps_master_inventory
       ]

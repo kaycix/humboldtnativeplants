@@ -4,6 +4,8 @@ common_name: "Lemon Lily"
 scientific_name: "Lilium parryi"
 type: "perennial herb"
 
+native_to: "CA"
+
 categories: [
        cnps_master_inventory
       ]

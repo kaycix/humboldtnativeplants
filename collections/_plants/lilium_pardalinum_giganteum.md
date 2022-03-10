@@ -4,6 +4,8 @@ common_name: "Giganteum Leopard Lily"
 scientific_name: "Lilium pardalinum 'Giganteum'"
 type: "perennial herb"
 
+native_to: "CA"
+
 categories: [
        cnps_master_inventory
       ]

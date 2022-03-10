@@ -4,6 +4,8 @@ common_name: "Henderson's Triteleia"
 scientific_name: "Triteleia hendersonii"
 type: "perennial herb"
 
+native_to: "California"
+
 categories: [
        cnps_master_inventory
       ]

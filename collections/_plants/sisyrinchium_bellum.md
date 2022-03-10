@@ -4,6 +4,12 @@ common_name: "Blue Eyed Grass"
 scientific_name: "Sisyrinchium bellum"
 type: "perennial herb"
 
+native_to: "(Cultivar)"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+      ]
+
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -22,7 +28,5 @@ observations:
   - location: "McKinleyville"
     location_detail: "Azalea Reserve (Surrounding Areas)"
     last_spotted: "Summer 2021"
-categories: [ cnps_master_inventory
-      ]
 ---
 

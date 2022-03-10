@@ -4,9 +4,10 @@ plant_id: 17
 common_name: "Winecup Clarkia"
 scientific_name: "Clarkia purpurea ssp. purpurea"
 type: "annual herb"
-native_to: "Humboldt"
 
-categories: [humboldt_county_native,
+native_to: "California"
+
+categories: [
        cnps_master_inventory
       ]
 
@@ -22,7 +23,6 @@ icon attribution:
 icon: "/assets/images/plants/clarkia_purpurea_ssp_purpurea_icon.jpg" 
 
 calscape_link: "https://calscape.org/Clarkia-purpurea-ssp.-purpurea-(Winecup-Clarkia)"
-
 ---
 
 

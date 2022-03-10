@@ -1,12 +1,15 @@
 ---
-title: ""
-
-categories: [ cnps_master_inventory
-      ]
-
+plant_id: 36
 common_name: "Blue Field Gilia"
 scientific_name: "Gilia capitata"
-plant_id: 36
+type: "annual herb"
+
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+      ]
+
 sun_requirements:
   - "Full Sun"
 # min then max in feet
@@ -14,11 +17,12 @@ plant_size:
   - height: 
     - 0.3
     - 3
+
+icon_attribution: 
+    name: ""
+    url: ""
 icon:  "/assets/images/plants/gilia_capitata_icon.jpg"
 calscape_link: "https://calscape.org/Gilia-capitata-(Blue-Field-Gilia)"
-
-type: "annual herb"
-
 ---
 
 

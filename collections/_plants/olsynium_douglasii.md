@@ -4,7 +4,9 @@ common_name: "Douglas' Grasswidow"
 scientific_name: "Olsynium douglasii"
 type: "perennial herb"
 
-categories: [
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
        cnps_master_inventory
       ]
 

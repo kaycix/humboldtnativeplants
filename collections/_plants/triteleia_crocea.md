@@ -3,6 +3,7 @@ plant_id: 145
 common_name: "Triteleia crocea"
 scientific_name: "Triteleia crocea"
 type: "perennial herb"
+
 native_to: "Humboldt"
 
 categories: [humboldt_county_native,

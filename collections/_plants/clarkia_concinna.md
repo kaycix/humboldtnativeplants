@@ -4,7 +4,11 @@ common_name: "Red Ribbons"
 scientific_name: "Clarkia Concinna"
 type: "annual herb"
 
-categories: [cnps_master_inventory]
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+      ]
 
 sun_requirements:
   - "Full Sun"
