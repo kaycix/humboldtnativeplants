@@ -4,6 +4,8 @@ common_name: "Bigelow's Sneezeweed"
 scientific_name: "Helenium bigelovii"
 type: "perennial herb"
 
+native_to : "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]

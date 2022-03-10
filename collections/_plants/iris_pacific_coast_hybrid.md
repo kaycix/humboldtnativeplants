@@ -1,8 +1,11 @@
 ---
+# remove this file?
 plant_id: 45
 common_name: "Iris Pacific Coast Hybrid"
 scientific_name: ""
 type: "perennial herb"
+
+native_to: "Humboldt"
 
 sun_requirements:
   - "Full Sun"

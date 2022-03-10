@@ -1,9 +1,15 @@
 ---
- 
-title: ""
+plant_id: 114
 common_name: "Seaside Alumroot"
 scientific_name: "Heuchera pilosissima"
-plant_id: 114
+type: "perennial herb"
+
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+      ]
+
 sun_requirements:
   - "Part Shade"
   - "Full Shade"
@@ -12,14 +18,13 @@ plant_size:
   - height: 
     - 0.7
     - 1.6
-# icon_attribution: https://www.calflora.org/entry/occdetail.html?seq_num=po89575 
-icon:  "/assets/images/plants/heuchera_pilosissima_icon.jpg"
-calscape_link: "https://calscape.org/Heuchera-pilosissima-(Seaside-Alumroot)"
 
-type: "perennial herb"
-categories: [humboldt_county_native,
-       cnps_master_inventory
-      ]
+icon_attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po89575" 
+icon:  "/assets/images/plants/heuchera_pilosissima_icon.jpg"
+
+calscape_link: "https://calscape.org/Heuchera-pilosissima-(Seaside-Alumroot)"
 ---
 
 

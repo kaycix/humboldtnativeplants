@@ -1,9 +1,15 @@
 ---
- 
-title: ""
+plant_id: 113
 common_name: "Crevice Alumroot"
 scientific_name: "Heuchera micrantha"
-plant_id: 113
+type: "perennial herb"
+
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+      ]
+
 sun_requirements:
   - "Part Shade"
   - "Full Shade"
@@ -12,14 +18,13 @@ plant_size:
   - height: 
     - 1
     - 3.3
-# icon_attribution: https://calscape.org/view.php?pl=1883&img=15885 
-icon:  "/assets/images/plants/heuchera_micrantha_icon.jpg"
-calscape_link: "https://calscape.org/loc-California/Heuchera%20micrantha(%20)"
 
-type: "perennial herb"
-categories: [humboldt_county_native,
-       cnps_master_inventory
-      ]
+icon_attribution: 
+    name : "Calscape"
+    url: "https://calscape.org/view.php?pl=1883&img=15885" 
+icon:  "/assets/images/plants/heuchera_micrantha_icon.jpg"
+
+calscape_link: "https://calscape.org/loc-California/Heuchera%20micrantha(%20)"
 ---
 
 

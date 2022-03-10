@@ -1,23 +1,30 @@
 ---
-title: ""
+plant_id: 46
 common_name: "Toughleaf Iris"
 scientific_name: "Iris Tenax"
-#calscape says shade/part shade
-plant_id: 46
+type: "perennial herb"
+
+native_to: "Humboldt"
+
+categories: [ 
+            humboldt_county_native, 
+           cnps_master_inventory
+          ]
+
 sun_requirements:
-  - "Full Sun"
+  - "Part Shade"
+  - "Full Shade"
 plant_size:
   - height: 
     - 0.8
     - 1.5
-# icon attribution: https://calphotos.berkeley.edu/imgs/512x768/0000_0000/0512/2333.jpeg 
+
+icon_attribution: 
+    name: "calphotos"
+    url: "https://calphotos.berkeley.edu/imgs/512x768/0000_0000/0512/2333.jpeg" 
 icon: "/assets/images/plants/iris_tenax_icon.jpg"
+
 calscape_link: "https://calscape.org/loc-California/Iris%20tenax(%20)"
 
-type: "perennial herb"
-
-categories: [
-       cnps_master_inventory
-      ]
 ---
 
