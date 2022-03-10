@@ -4,6 +4,8 @@ common_name: "Sierra Fawn Lily"
 scientific_name: "Erythronium multiscapideum"
 type: "perennial herb"
 
+native_to: "California"
+
 categories: [
        cnps_master_inventory
       ]

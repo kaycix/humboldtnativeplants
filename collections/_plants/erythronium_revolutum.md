@@ -4,6 +4,8 @@ common_name: "Mahogany Fawn Lily"
 scientific_name: "Erythronium revolutum"
 type: "perennial herb"
 
+native_to: "Humboldt"
+
 categories: [
        humboldt_county_native,
        cnps_master_inventory

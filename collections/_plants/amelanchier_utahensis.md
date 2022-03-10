@@ -5,11 +5,12 @@ scientific_name: "Amelanchier utahensis"
 
 type: "tree"
 
+native_to: "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
 
-title: ""
 sun_requirements:
   - "Full Sun"
   - "Part Shade"

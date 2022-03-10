@@ -4,6 +4,8 @@ common_name: "White Globe Lily"
 scientific_name: "Calochortus albus"
 type: "perennial herb"
 
+native_to: "California"
+
 categories: [
        cnps_master_inventory
       ]

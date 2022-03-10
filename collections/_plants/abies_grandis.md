@@ -4,11 +4,12 @@ common_name: "Grand Fir"
 scientific_name: "Abies grandis"
 type: "tree"
 
+native_to: "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
 
-title: ""
 sun_requirements:
   - "Full Shade"
   - "Part Shade"

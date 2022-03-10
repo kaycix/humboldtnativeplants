@@ -4,7 +4,9 @@ common_name: "Cream Fawn Lily"
 scientific_name: "Erythronium citrinum"
 type: "perennial herb"
 
-categories: [
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
        cnps_master_inventory
       ]
 

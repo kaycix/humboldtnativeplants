@@ -1,8 +1,10 @@
 ---
 plant_id: 159 
 common_name: "Sea-watch"
-scientific_name: "angelica_lucida"
+scientific_name: "Angelica lucida"
 type: "perennial herb"
+
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

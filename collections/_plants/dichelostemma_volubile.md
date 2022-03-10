@@ -4,6 +4,8 @@ common_name: "Twining Snakelily"
 scientific_name: "Dichelostemma volubile"
 type: "perennial herb"
 
+native_to: "California"
+
 categories: [
        cnps_master_inventory
       ]

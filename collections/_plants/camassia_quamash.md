@@ -4,6 +4,8 @@ common_name: "Common Camas"
 scientific_name: "Camassia quamash"
 type: "perennial herb"
 
+native_to: "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
@@ -17,7 +19,9 @@ plant_size:
     - 1.2
     - 2.3
 
-# icon attribution: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0810+0644 
+icon_attribution: 
+    name: "Calphotos"
+    url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0810+0644" 
 icon: "/assets/images/plants/camassia_quamash_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Camassia%20quamash(%20)"
 ---

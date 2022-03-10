@@ -4,6 +4,8 @@ common_name: "Western Snakeroot"
 scientific_name: "Ageratina occidentalis"
 type: "perennial herb"
 
+native_to: "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
@@ -22,10 +24,4 @@ icon: "/assets/images/plants/ageratina_occidentalis_icon.jpg"
  
 calscape_link: "https://calscape.org/Ageratina-occidentalis-()"
 ---
-
-
-
-
-
-
 

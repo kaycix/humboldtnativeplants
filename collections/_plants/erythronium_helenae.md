@@ -4,11 +4,12 @@ common_name: "St. Helena Fawn Lily"
 scientific_name: "Erythronium helenae"
 type: "perennial herb"
 
+native_to: "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
 
-title: ""
 sun_requirements:
   - "Full Shade"
   - "Part Shade"

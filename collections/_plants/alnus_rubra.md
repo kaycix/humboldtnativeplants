@@ -4,11 +4,12 @@ common_name: "Red Alder"
 scientific_name: "Alnus rubra"
 type: "tree"
 
+native_to: "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
 
-title: ""
 sun_requirements:
   - "Shade"
   - "Part Shade"

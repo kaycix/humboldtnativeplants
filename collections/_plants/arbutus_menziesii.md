@@ -4,6 +4,8 @@ common_name: "Madrone"
 scientific_name: "Arbutus menziesii"
 type: "tree"
 
+native_to: "Humboldt"
+
 categories: [
        humboldt_county_native,
        cnps_master_inventory

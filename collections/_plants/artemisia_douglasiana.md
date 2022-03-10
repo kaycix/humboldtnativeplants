@@ -1,15 +1,15 @@
 ---
-
+plant_id: 99
+common_name: "Douglas' Sagewort"
+scientific_name: "Artemisia douglasiana"
 type: "tree"
+
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
 
-title: ""
-common_name: "Douglas' Sagewort/ California Mugwort"
-scientific_name: "Artemisia douglasiana"
-plant_id: 99
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -18,8 +18,12 @@ sun_requirements:
 plant_size:
   - height: 
     - 8
-# icon attribution: 
-icon: "/assets/images/plants/artemisia_douglasiana_icon.jpg" 
+
+icon_attribution: 
+    name: ""
+    url: ""
+icon: "/assets/images/plants/artemisia_douglasiana_icon.jpg"
+ 
 calscape_link: https://calscape.org/loc-California/Artemisia%20douglasiana(%20) 
 ---
 

@@ -4,6 +4,8 @@ common_name: "California Buckeye"
 scientific_name: "Aesculus californica"
 type: "tree"
 
+native_to: "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]

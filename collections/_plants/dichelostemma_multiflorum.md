@@ -4,6 +4,8 @@ common_name: "Wild Hyacinth"
 scientific_name: "Dichelostemma multiflorum"
 type: "perennial herb"
 
+native_to: "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]

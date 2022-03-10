@@ -4,7 +4,10 @@ common_name: "Common Yarrow"
 scientific_name: "Achillea Millefolium"
 type: "perennial herb"
 
-categories: [humboldt_county_native,
+native_to: "Humboldt"
+
+categories: [
+       humboldt_county_native,
        cnps_master_inventory
       ]
 

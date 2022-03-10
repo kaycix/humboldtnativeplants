@@ -4,6 +4,8 @@ common_name: "Golden Globelily"
 scientific_name: "Calochortus amabilis"
 type: "perennial herb"
 
+native_to: "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
@@ -18,8 +20,11 @@ plant_size:
     - 0.33
     - 1.6
 
-# icon attribution: https://www.calflora.org/app/up/gp/38/7608.jpg 
+icon_attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/app/up/gp/38/7608.jpg" 
 icon: "/assets/images/plants/calochortus_amabilis_icon.jpg" 
+
 calscape_link: "https://calscape.org/loc-California/Calochortus%20amabilis(%20)"
 ---
 

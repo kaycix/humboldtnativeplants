@@ -4,6 +4,8 @@ common_name: "Beach Strawberry"
 scientific_name: "Fragaria chiloensis"
 type: "perennial herb"
 
+native_to: "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]

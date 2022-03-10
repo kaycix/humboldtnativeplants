@@ -4,6 +4,8 @@ common_name: "Firecracker Brodiaea"
 scientific_name: "Dichelostemma ida-maia"
 type: "perennial herb"
 
+native_to: "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]

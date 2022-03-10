@@ -1,21 +1,26 @@
 ---
- 
-title: ""
+plant_id: 110 
 common_name: "Candy Flower"
 scientific_name: "Claytonia sibirica"
-plant_id: 110 
+type: "perennial herb"
+
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+      ]
+
 sun_requirements:
   - "Part Shade"
 # min then max in feet
 plant_size:
   - height: 
     - 2
-# icon_attribution: https://calscape.com/ExtData/allimages/Photos/Claytonia_sibirica_image56.jpg 
-icon:  "/assets/images/plants/asarum_caudatum_icon.jpg"
-calscape_link: "https://calscape.org/loc-California/Asarum%20caudatum(%20)"
 
-type: "perennial herb"
-categories: [humboldt_county_native,
-       cnps_master_inventory
-      ]
+icon_attribution: 
+    name: "Calscape"
+    url: "https://calscape.com/ExtData/allimages/Photos/Claytonia_sibirica_image56.jpg" 
+icon:  "/assets/images/plants/asarum_caudatum_icon.jpg"
+
+calscape_link: "https://calscape.org/loc-California/Asarum%20caudatum(%20)"
 ---

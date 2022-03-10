@@ -4,11 +4,12 @@ common_name: "One Leaf Onion"
 scientific_name: "Allium unifolium"
 type: "perennial herb"
 
+native_to: "Humboldt"
+
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
 
-title: ""
 sun_requirements:
   - "Part Shade"
   - "Full Shade"
