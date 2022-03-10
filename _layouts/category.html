@@ -1,12 +1,13 @@
 ---
 layout: single
-classes: wide
 ---
 
+<!-- using page.title but ideally would get short-name another way? -->
 {% assign category = page.title | downcase %}
 {% assign plants = site.plants | where_exp: "item", 
                                  "item.categories contains category" %}
 {% assign plant_groups = plants | group_by : "type" %} 
+
 
 <h1>{{ page.name }} ({{ plants.size}})</h1>
 
@@ -15,6 +16,7 @@ classes: wide
 	
 {% include plants.html 
 	plant_groups= plant_groups
+    show_native_to_humboldt= true
 %}
 
 {{ content }}

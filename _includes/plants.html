@@ -64,6 +64,9 @@
 			<th class="sun">Sun</th>
 			<th class="height">Height</th>
 			<th class="type">Type</th>
+            {% if include.show_native_to_humboldt %}
+			    <th class="native_to_humbold">Humboldt County Native</th>
+            {% endif %}
             <th class="more_info">More Info</th>
 		</tr>
 	</thead>
@@ -150,6 +153,14 @@
                 <td class="{{group.name}}" data-order={{group.name}}>
                     <div class="{{group.name | replace: " ", "_" }}" title="{{group.name | capitalize}}"></div>
                 </td>
+                {% if include.show_native_to_humboldt %}
+                <td>
+                    {% if plant.categories contains "humboldt_county_native" %}
+                    &#10003;
+                    {% else %}
+                    {% endif %}
+                </td>
+                {% endif %}
                 <td class="more_info">
                     {% if plant.calscape_link %}
                         <a href="{{plant.calscape_link}}" target="_blank">View on Calscape</a>
