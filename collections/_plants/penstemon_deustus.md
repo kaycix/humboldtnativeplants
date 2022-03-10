@@ -20,6 +20,7 @@ icon: "/assets/images/plants/penstemon_deustus_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Penstemon%20deustus(%20)"
 
 type: "perennial herb"
+native_to: "Humboldt"
 
 ---
 

@@ -13,6 +13,7 @@ icon: "/assets/images/plants/eschscholzia_californica_v_maritima_icon.jpg"
 calflora_link: "https://www.calfloranursery.com/plants/eschscholzia-californica-maritima"
 
 type: "annual herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

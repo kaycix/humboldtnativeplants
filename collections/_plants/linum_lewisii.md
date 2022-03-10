@@ -3,6 +3,7 @@ plant_id: 51
 common_name: "Blue Flax"
 scientific_name: "Linum lewisii"
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

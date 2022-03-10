@@ -3,6 +3,7 @@ plant_id: 3
 common_name: "California Vanilla Grass"
 scientific_name: "Anthoxanthum Occidentale"
 type: "grass"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

@@ -27,6 +27,7 @@ observations:
     last_spotted: "Winter 2022"
 
 type: "fern"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

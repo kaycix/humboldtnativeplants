@@ -18,6 +18,7 @@ observations:
     last_spotted: "Spring 2021"
 
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native ]
 ---

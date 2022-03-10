@@ -15,6 +15,7 @@ icon: "/assets/images/plants/potentilla_gracilis_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Potentilla%20gracilis(%20)"
 
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

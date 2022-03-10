@@ -15,6 +15,7 @@ icon: "/assets/images/plants/thalictrum_fendleri_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/thalictrum%20fendleri(%20)"
 
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

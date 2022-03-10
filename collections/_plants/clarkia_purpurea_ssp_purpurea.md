@@ -4,6 +4,7 @@ plant_id: 17
 common_name: "Winecup Clarkia"
 scientific_name: "Clarkia purpurea ssp. purpurea"
 type: "annual herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

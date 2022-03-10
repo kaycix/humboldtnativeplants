@@ -3,6 +3,7 @@ plant_id: 6
 common_name: "California Pipevine"
 scientific_name: "Aristolochia Californica"
 type: "vine"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

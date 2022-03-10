@@ -1,6 +1,7 @@
 ---
 
 type: "fern"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native]
 

@@ -3,6 +3,7 @@ plant_id: 136
 common_name: "Kelley's Lily"
 scientific_name: "Lilium kelleyanum"
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

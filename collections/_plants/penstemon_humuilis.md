@@ -16,6 +16,7 @@ icon: "/assets/images/plants/penstemon_humuilis_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Penstemon%20humuilis(%20)"
 
 type: "perennial herb"
+native_to: "Humboldt"
 ---
 
 

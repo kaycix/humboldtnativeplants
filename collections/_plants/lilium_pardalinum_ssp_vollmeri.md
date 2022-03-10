@@ -3,6 +3,7 @@ plant_id: 141
 common_name: "Vollmer's Lily"
 scientific_name: "Lilium pardalinum ssp. vollmeri"
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

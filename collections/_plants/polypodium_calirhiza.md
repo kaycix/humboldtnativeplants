@@ -15,6 +15,7 @@ icon: "/assets/images/plants/polypodium_calirhiza_icon.jpg"
 calscape_link: "https://calscape.org/Polypodium-calirhiza-()"
 
 type: "fern"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

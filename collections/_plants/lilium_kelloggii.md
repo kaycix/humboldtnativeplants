@@ -3,6 +3,7 @@ plant_id: 137
 common_name: "Kellogg's Lily"
 scientific_name: "Lilium kelloggii"
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

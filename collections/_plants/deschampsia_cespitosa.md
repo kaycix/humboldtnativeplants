@@ -4,6 +4,7 @@ plant_id: 148
 common_name: "Tufted Hairgrass"
 scientific_name: "Deschampsia cespitosa"
 type: "grass"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

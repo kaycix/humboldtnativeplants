@@ -24,5 +24,6 @@ observations:
     location_detail: "Hammond Trail by Hiller Park" 
     last_spotted: "Winter 2022"
 type: "vine"
+native_to: "Humboldt"
 ---
 

@@ -16,6 +16,7 @@ icon:  "/assets/images/plants/prosartes_smithii_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Prosartes%20smithii%20(Large%20Flowered%20Fairy%20Bell)"
 
 type: "perennial herb"
+native_to: "Humboldt"
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]

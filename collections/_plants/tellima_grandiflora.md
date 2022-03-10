@@ -3,6 +3,7 @@ plant_id: 154
 common_name: "Bigflower Tellima"
 scientific_name: "tellima grandiflora"
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [
         humboldt_county_native,

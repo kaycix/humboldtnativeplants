@@ -15,6 +15,7 @@ icon: "/assets/images/plants/madia_elegans_icon.jpg"
 calscape_link: "https://calscape.org/Madia-elegans-()"
 
 type: "annual herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

@@ -23,5 +23,6 @@ observations:
     last_spotted: "Summer 2021"
 
 type: "shrub"
+native_to: "Humboldt"
 ---
 

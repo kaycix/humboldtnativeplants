@@ -9,6 +9,7 @@ sun_requirements:
 calscape_link: ""
 
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

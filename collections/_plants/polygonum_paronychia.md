@@ -3,6 +3,7 @@ plant_id: 68
 common_name: "Beach Knotweed"
 scientific_name: "Polygonum paronychia"
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

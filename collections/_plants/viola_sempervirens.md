@@ -3,6 +3,7 @@ plant_id: 157
 common_name: "Evergreen Violet"
 scientific_name: "viola_sempervirens"
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [
         humboldt_county_native,

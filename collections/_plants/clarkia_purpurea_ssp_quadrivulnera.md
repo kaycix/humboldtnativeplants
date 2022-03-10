@@ -13,6 +13,7 @@ icon:  "/assets/images/plants/clarkia_purpurea_ssp_quadrivulnera_icon.jpg"
 calscape_link: "https://calscape.org/Clarkia-purpurea-ssp.-quadrivulnera-(Purple-Clarkia)"
 
 type: "annual herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

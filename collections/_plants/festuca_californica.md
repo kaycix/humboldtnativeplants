@@ -4,6 +4,7 @@ plant_id: 32
 common_name: "California Fescue"
 scientific_name: "Festuca Californica"
 type: "grass"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

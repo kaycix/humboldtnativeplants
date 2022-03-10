@@ -15,6 +15,7 @@ icon: "/assets/images/plants/eschscholzia_californica_icon.jpg"
 calscape_link: "https://calscape.org/Eschscholzia-californica-(California-Poppy)"
 
 type: "annual herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

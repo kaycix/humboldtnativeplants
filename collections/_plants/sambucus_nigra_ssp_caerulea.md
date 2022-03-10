@@ -24,5 +24,6 @@ observations:
     location_detail: "Azalea Reserve (Surrounding Areas)"
     last_spotted: "Summer 2021"
 type: "shrub"
+native_to: "Humboldt"
 ---
 

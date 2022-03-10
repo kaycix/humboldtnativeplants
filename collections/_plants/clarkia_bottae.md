@@ -3,6 +3,7 @@ plant_id: 14
 common_name: "Punch Bowl Godetia"
 scientific_name: "Clarkia Bottae"
 type: "annual herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

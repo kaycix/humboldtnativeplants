@@ -3,6 +3,7 @@ plant_id: 23
 common_name: "Beaked Hazelnut"
 scientific_name: "Corylus Cornuta"
 type: "shrub"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

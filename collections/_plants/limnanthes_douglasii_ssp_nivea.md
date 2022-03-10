@@ -16,6 +16,7 @@ icon: "/assets/images/plants/limnanthes_douglasii_ssp_nivea_icon.jpg"
 calscape_link: "https://calscape.org/Limnanthes-douglasii-ssp.-nivea-()"
 
 type: "annual herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

@@ -15,6 +15,7 @@ icon:  "/assets/images/plants/claytonia_perfoliata_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Claytonia-perfoliata-(Miner's-Lettuce)"
 
 type: "annual herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

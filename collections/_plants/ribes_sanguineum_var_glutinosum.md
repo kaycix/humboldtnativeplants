@@ -19,5 +19,6 @@ plant_size:
     - 13
 
 type: "shrub"
+native_to: "Humboldt"
 ---
 

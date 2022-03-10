@@ -15,6 +15,7 @@ icon:  "/assets/images/plants/diplacus_mimulus_puniceus_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Diplacus%20%20puniceus(%20)"
 
 type: "shrub"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

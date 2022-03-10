@@ -3,6 +3,7 @@ plant_id: 155
 common_name: "Northern Vancouveria"
 scientific_name: "vancouveria hexandra"
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [
         humboldt_county_native,

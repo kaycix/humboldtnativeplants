@@ -19,5 +19,6 @@ plant_size:
 icon: "/assets/images/plants/sambucus_racemosa_icon.jpg"
 calscape_link: "https://calscape.org/Sambucus-racemosa-(Red-Elderberry)"
 type: "shrub"
+native_to: "Humboldt"
 ---
 

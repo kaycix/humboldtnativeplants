@@ -3,6 +3,7 @@ plant_id: 5
 common_name: "Kinnikinnick (Bearberry)"
 scientific_name: "Arctostaphylos uva-ursi"
 type: "shrub"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

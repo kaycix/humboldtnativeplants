@@ -3,6 +3,7 @@ plant_id: 138
 common_name: "Tiger Lily"
 scientific_name: "Lilium pardalinum"
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

@@ -3,6 +3,7 @@ plant_id: 13
 common_name: "Farewell to Spring"
 scientific_name: "Clarkia Amoena"
 type: "annual herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

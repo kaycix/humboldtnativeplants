@@ -20,6 +20,7 @@ observations:
     last_spotted: "Winter 2021"
 
 type: "vine"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

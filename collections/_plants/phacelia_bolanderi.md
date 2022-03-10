@@ -5,6 +5,7 @@ scientific_name: "phacelia bolanderi"
 
 #calscape also classifies are perennial (in addition to annual) 
 type: "annual herb"
+native_to: "Humboldt"
 
 categories: [
        humboldt_county_native,

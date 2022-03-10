@@ -14,6 +14,7 @@ icon: "/assets/images/plants/stipa_pulchra_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Purple%20Needlegrass%20(Stipa%20pulchra)"
 
 type: "grass"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

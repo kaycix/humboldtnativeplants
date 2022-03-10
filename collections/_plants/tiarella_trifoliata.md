@@ -15,6 +15,7 @@ icon: "/assets/images/plants/tiarella_trifoliata_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Sugar%20Scoop%20(Tiarella%20trifoliata)"
 
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

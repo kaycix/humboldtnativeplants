@@ -3,6 +3,7 @@ plant_id: 149
 common_name: "False Lily Of The Vally"
 scientific_name: "maianthemum dilatatum"
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [
         humboldt_county_native,

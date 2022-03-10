@@ -3,6 +3,7 @@ plant_id: 156
 common_name: "Dog violet"
 scientific_name: "Viola adunca"
 type: "perennial herb"
+native_to: "Humboldt"
 
 categories: [
         humboldt_county_native,

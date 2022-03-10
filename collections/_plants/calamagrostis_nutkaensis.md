@@ -16,6 +16,7 @@ icon:  "/assets/images/plants/calamagrostis_nutkaensis_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Calamagrostis%20nutkaensis(%20)" 
 
 type: "grass"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory
