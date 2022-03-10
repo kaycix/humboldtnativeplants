@@ -1,11 +1,12 @@
 ---
+plant_id: 60
+common_name: "Baby Blue Eyes"
+scientific_name: "Nemophila menziesii"
+type: "annual herb"
 
 categories: [ cnps_master_inventory
       ]
-title: ""
-common_name: "Baby Blue Eyes"
-scientific_name: "Nemophila menziesii"
-plant_id: 60
+
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -13,12 +14,9 @@ plant_size:
   - height: 
     - 0.5
 
-icon: "/assets/images/plants/nemophila_menziesii.jpg" 
+icon_attribution:
+    name: "Calscape"
+    url: "https://calscape.org/photos/2619?srchcr=sc62293ef36a25e"
+icon: "/assets/images/plants/nemophila_menziesii_icon.jpg" 
 calscape_link: "https://calscape.org/Nemophila-menziesii-(Baby-Blue-Eyes)"
-
-type: "annual herb"
-
 ---
-
-
-

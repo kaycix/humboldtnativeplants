@@ -1,8 +1,9 @@
 ---
-title: ""
+plant_id: 85
 common_name: "Blue Eyed Grass"
 scientific_name: "Sisyrinchium bellum"
-plant_id: 85
+type: "perennial herb"
+
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -11,13 +12,16 @@ plant_size:
     - 1
     - 2
 
+icon_attribution:
+    name: "Calscape"
+    url: "https://calscape.org/photos/3522?srchcr=sc622940cb695ad"
 icon: "/assets/images/plants/sisyrinchium_bellum_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Sisyrinchium%20bellum(%20)"
+
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve (Surrounding Areas)"
     last_spotted: "Summer 2021"
-type: "perennial herb"
 categories: [ cnps_master_inventory
       ]
 ---
