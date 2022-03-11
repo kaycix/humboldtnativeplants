@@ -4,7 +4,7 @@ common_name: "Blue Eyed Grass"
 scientific_name: "Sisyrinchium bellum"
 type: "perennial herb"
 
-native_to: "(Cultivar)"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

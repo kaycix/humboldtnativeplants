@@ -1,22 +1,27 @@
 ---
-
-categories: [ cnps_master_inventory
-      ]
-title: ""
+plant_id: 49
 common_name: "Common Meadowfoam"
 scientific_name: "Limnanthes douglasii"
-plant_id: 49
+type: "annual herb"
+
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
+            cnps_master_inventory
+      ]
+
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
 plant_size:
   - height: 
     - 1.6
-# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/303/90955.jpg 
-icon: "/assets/images/plants/limnanthes_douglasii_icon.jpg" 
+
+icon_attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/303/90955.jpg" 
+icon: "/assets/images/plants/limnanthes_douglasii_icon.jpg"
+ 
 calscape_link: "https://calscape.org/Limnanthes-douglasii-()"
-
-type: "annual herb"
-
 ---
 

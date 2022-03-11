@@ -4,7 +4,10 @@ common_name: "Baby Blue Eyes"
 scientific_name: "Nemophila menziesii"
 type: "annual herb"
 
-categories: [ cnps_master_inventory
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
       ]
 
 sun_requirements:
@@ -18,5 +21,6 @@ icon_attribution:
     name: "Calscape"
     url: "https://calscape.org/photos/2619?srchcr=sc62293ef36a25e"
 icon: "/assets/images/plants/nemophila_menziesii_icon.jpg" 
+
 calscape_link: "https://calscape.org/Nemophila-menziesii-(Baby-Blue-Eyes)"
 ---

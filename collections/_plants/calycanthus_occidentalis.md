@@ -1,15 +1,15 @@
 ---
-
+plant_id: 101
+common_name: "Spice Bush"
+scientific_name: "Calycanthus occidentalis"
 type: "shrub"
+
+native_to: "CA"
 
 categories: [
        cnps_master_inventory
       ]
 
-title: ""
-common_name: "Spice Bush"
-scientific_name: "Calycanthus occidentalis"
-plant_id: 101
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -18,7 +18,10 @@ plant_size:
   - height: 
     - 3
     - 13.1
-# icon attribution:
+
+icon_attribution:
+    name: ""
+    url: ""
 icon: "/assets/images/plants/calycanthus_occidentalis_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Calycanthus%20occidentalis(%20)" 
 ---
