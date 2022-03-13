@@ -1,8 +1,16 @@
 ---
-title: ""
+plant_id: 58
 common_name: "California Wax Myrtle" 
 scientific_name: "Morella Californica"
-plant_id: 58
+type: "shrub"
+
+native_to: "Humboldt"
+
+categories: [humboldt_county_native
+       ,cnps_master_inventory
+       ,hedge
+      ]
+
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -10,9 +18,15 @@ plant_size:
   - height: 
     - 6
     - 33
-# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/mg/209/mg62999-1.jpg 
+
+
+icon_attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/mg/209/mg62999-1.jpg" 
 icon: "/assets/images/plants/morella_californica_icon.jpg" 
+
 calscape_link: "https://calscape.org/loc-California/Morella-californica-(California-Wax-Myrtle)"
+
 observations: 
   - Arcata
     - Potawot
@@ -20,12 +34,5 @@ observations:
   - McKinleyville
     - 'Hiller Park'
       - 'Winter 2022'
-
-type: "shrub"
-native_to: "Humboldt"
-
-categories: [humboldt_county_native,
-       cnps_master_inventory
-      ]
 ---
 
