@@ -4,7 +4,7 @@ common_name: "Blue Dicks"
 scientific_name: "Dichelostemma capitatum ssp. capitatum"
 type: "perennial herb"
 
-]native_to: "Humboldt"
+native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory

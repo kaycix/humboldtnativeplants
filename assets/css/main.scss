@@ -319,14 +319,22 @@ select {
     border-radius: 20px;
     box-shadow: none;
     min-width: 120px;
+    /* 
     -webkit-appearance: none;
-    -moz-appearance: none;
+    -moz-appearance: none; */}
+table.dataTable thead .sorting {
+    padding-right: 30px !important;
+}
+
+.plant_table div.name {
+    padding-top: 12px;
 }
 
 html table .scientific_name,
 html table div.height { 
 	color: #888;
 	font-size: 0.9em;
+    font-weight: normal;
 }
 
 html table .scientific_name {
@@ -347,6 +355,10 @@ html table .scientific_name {
 
 .plant_table td.name {
     min-width: 275px
+}
+
+.plant_table td.native_to {
+    text-align: center;
 }
 
 .plant_filters .filter_input {
@@ -378,53 +390,46 @@ div.annual_herb {
     width: 30px;
 }
 
+td.plant_type {
+    min-width: 40px;
+}
+
+td.plant_type .type_icon {
+    background-repeat: no-repeat;
+    margin: 0 auto; 
+    height: 30px;
+    width: 30px;
+} 
+
 div.grass {
     background-color: #86af49;
     background-image: url("./../images/icons/grass.png");
-    background-repeat: no-repeat; 
-    height: 30px;
-    width: 30px;
 }
 
 div.tree {
     background-color: #674d3c;
     background-image: url("./../images/icons/tree.png");
-    background-repeat: no-repeat; 
-    height: 30px;
-    width: 30px;
 }
 
 div.fern {
     background-color: #667292;
     background-image: url("./../images/icons/fern.png");
-    background-repeat: no-repeat; 
-    height: 30px;
-    width: 30px;
 }
 
 
 div.perennial_herb {
     background-color: #622569;
     background-image: url("./../images/icons/perennial_herb.png");
-    background-repeat: no-repeat; 
-    height: 30px;
-    width: 30px;
 }
 
 div.shrub {
     background-color: #588c7e;
     background-image: url("./../images/icons/shrub.png");
-    background-repeat: no-repeat; 
-    height: 30px;
-    width: 30px;
 }
 
 div.vine {
     background-color: #bd5734;
     background-image: url("./../images/icons/vine.png");
-    background-repeat: no-repeat; 
-    height: 30px;
-    width: 30px;
 }
 
 .volunteer .archive__item-teaser {
@@ -445,9 +450,10 @@ div.vine {
 }
 
 .sun_req div {
-  border-radius: 15px;
-  height: 30px;
-  width: 30px;
+    border-radius: 15px;
+    height: 30px;
+    margin: 0 auto;
+    width: 30px;
 }
 
 .sun_req .a {
@@ -554,10 +560,6 @@ div.vine {
 }
 
 .layout--single .initial-content {
-    background-color: $light-blue-color;
-}
-
-.layout--single .initial-content #main {
     background-color: $light-blue-color;
 }
 

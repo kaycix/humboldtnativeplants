@@ -1,21 +1,32 @@
 ---
-title: ""
+plant_id: 77
 common_name: "Salmon Berry"
 scientific_name: "Rubus Spectabilis"
-plant_id: 77
+type: "shrub"
+
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+      ]
+
 sun_requirements:
   - "Full Shade"
-# icon attribution: https://calphotos.berkeley.edu/cgi/img_query?enlarge=6666+6666+0713+0034 
-icon: "/assets/images/plants/rubus_spectabilis_icon.jpg" 
-calscape_link: "https://calscape.org/Rubus-spectabilis-(Salmon-Berry)"
 plant_size:
   - height: 
     - 3.3
     - 13.1
+
+icon_attribution: 
+    name: "Calphotos"
+    url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=6666+6666+0713+0034" 
+icon: "/assets/images/plants/rubus_spectabilis_icon.jpg"
+ 
+calscape_link: "https://calscape.org/Rubus-spectabilis-(Salmon-Berry)"
+
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve"
     last_spotted: "Spring 2021"
-type: "shrub"
 ---
 

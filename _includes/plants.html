@@ -60,14 +60,14 @@
             <th>
             </th>
             {% endif %}
-			<th class="name">Name</th>
+			<th class="name">
+                Common Name
+                <span class="scientific_name">Scientific Name</span>
+            </th>
 			<th class="sun">Sun</th>
 			<th class="height">Height</th>
 			<th class="type">Type</th>
-            {% if include.show_native_to_humboldt %}
-			    <th class="native_to_humbold">Humboldt County Native</th>
-            {% endif %}
-            <th class="more_info">More Info</th>
+            <th class="native_to">Humboldt Native</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -81,6 +81,13 @@
                     </td>
                 {% endif %}
                 <td class="name">
+                    <!--
+                    {% if plant.calscape_link %}
+                        <a href="{{plant.calscape_link}}" target="_blank">View on Calscape</a>
+                    {% elsif plant.calflora_link %}
+                        <a href="{{plant.calflora_link}}" target="_blank">View on Calflora</a>
+                    {% endif %}
+                    --> 
                     {% if plant.icon %}
                         <img src="{{ plant.icon | prepend: site.baseurl }}" alt="{{plant.common_name}}"/>
                     {% endif %}
@@ -88,7 +95,7 @@
                         <a href="{{ plant.url | prepend:site.baseurl }}">
                             {{plant.common_name}}
                         </a>
-                        <div class="scientific_name">{{plant.scientific_name}}</div>
+                        <span class="scientific_name">&nbsp;&nbsp;{{plant.scientific_name | capitalize}}</span>
                     </div>
                 </td>
                 {% comment %}
@@ -150,23 +157,14 @@
                     {{ height_text }}
                      </div>
                 </td>
-                <td class="{{group.name}}" data-order={{group.name}}>
-                    <div class="{{group.name | replace: " ", "_" }}" title="{{group.name | capitalize}}"></div>
+                <td class="plant_type {{plant.type}}" data-order={{plant.type}}>
+                    <div class="type_icon {{plant.type | replace: " ", "_" }}" title="{{plant.type | capitalize}}"></div>
                 </td>
-                {% if include.show_native_to_humboldt %}
-                <td>
-                    {% if plant.categories contains "humboldt_county_native" %}
-                    &#10003;
-                    {% else %}
+                <td class="native_to">
+                    {% assign native_to = plant.native_to | downcase %}
+                    {% if native_to == "humboldt" %} 
+                        &#10003;
                     {% endif %}
-                </td>
-                {% endif %}
-                <td class="more_info">
-                    {% if plant.calscape_link %}
-                        <a href="{{plant.calscape_link}}" target="_blank">View on Calscape</a>
-                    {% elsif plant.calflora_link %}
-                        <a href="{{plant.calflora_link}}" target="_blank">View on Calflora</a>
-                    {% endif %} 
                 </td>
             </tr>
         {% endfor %}
