@@ -12,6 +12,11 @@ $light-blue-color: #ebf1f4; /* brighter blue #eefcfb */
 $deep-green-color: #03775E;
 $orange-color: #AA3704;
 
+$dark-red-color: #77031C;
+$dark-blue-color: #035677;
+$purple-color: #7D4E57;
+$salmon-color: #D66853;
+
 html {
 	font-size: 16px;
 	color: #000;
@@ -309,9 +314,17 @@ html table  thead {
 }
 
 input[type="search"] {
+    background-image: url("./../images/icons/search-icon.png");
+    background-repeat: no-repeat;
+    background-position: 10px 8px !important;
     border: 1px solid #dadce0;
     border-radius: 20px;
     box-shadow: none;
+    padding: 10px 10px 10px 50px;
+}
+
+input[type="search"]::placeholder {
+    color: #777;
 }
 
 select {
@@ -361,9 +374,12 @@ html table .scientific_name {
     text-align: center;
 }
 
+.plant_filters .filters {
+    display: flex;
+}
+
 .plant_filters .filter_input {
-    float: left;
-    margin-right: 15px;
+    margin: 10px 20px 10px 0;
 }
 
 input[type=checkbox]
@@ -378,16 +394,8 @@ input[type=checkbox]
 }
 
 #new_search_location {
-    float: left;
-    margin-right: 15px;
-}
-
-div.annual_herb {
-    background-color: #e06377;
-    background-image: url("./../images/icons/annual_herb.png");
-    background-repeat: no-repeat; 
-    height: 30px;
-    width: 30px;
+    min-width: 100px;
+    max-width: 340px;
 }
 
 td.plant_type {
@@ -401,34 +409,39 @@ td.plant_type .type_icon {
     width: 30px;
 } 
 
+div.annual_herb {
+    background-color: $salmon-color;
+    background-image: url("./../images/icons/annual_herb.png");
+}
+
 div.grass {
-    background-color: #86af49;
+    background-color: $deep-green-color;
     background-image: url("./../images/icons/grass.png");
 }
 
 div.tree {
-    background-color: #674d3c;
+    background-color: $dark-red-color;
     background-image: url("./../images/icons/tree.png");
 }
 
 div.fern {
-    background-color: #667292;
+    background-color: $dark-blue-color;
     background-image: url("./../images/icons/fern.png");
 }
 
 
 div.perennial_herb {
-    background-color: #622569;
+    background-color: $indigo-color;
     background-image: url("./../images/icons/perennial_herb.png");
 }
 
 div.shrub {
-    background-color: #588c7e;
+    background-color: $purple-color;
     background-image: url("./../images/icons/shrub.png");
 }
 
 div.vine {
-    background-color: #bd5734;
+    background-color: $orange-color;
     background-image: url("./../images/icons/vine.png");
 }
 

@@ -2,7 +2,11 @@ $(function () {
   var plant_table = $('.plant_table').DataTable({
     /* No ordering applied by DataTables during initialisation */
     "order": [],
-	"paging" : false
+	"paging" : false,
+    language: {
+        search: "_INPUT_",
+        searchPlaceholder: "Search plants"
+    }
   });
   
   // hack? move search box dom element

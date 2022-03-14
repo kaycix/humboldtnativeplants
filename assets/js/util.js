@@ -37,6 +37,10 @@ var Util = (function() {
 
     // 
     Util.satisfies_sun_req = function(sun_req, plant) {
+        console.log('evaluating sun reqs', sun_req, plant);
+        if (!sun_req || !plant) {
+            return false;
+        } 
         if (sun_req == "any") {
             return true;
         } else if ((sun_req == "full_sun") && 
