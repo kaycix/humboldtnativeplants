@@ -11,7 +11,7 @@
     <div class="filters">
         <div class="filter_input">
             <select class="sun_requirement">
-                <option disabled selected hidden>Sun Requirements</option> 
+                <option disabled selected hidden>Sun</option> 
                 <option value="any" >Any</option>
                 <option value="full_sun">Full Sun</option>
                 <option value="part_shade">Part Shade</option>
@@ -84,12 +84,14 @@
                     --> 
                     {% if plant.icon %}
                         <img src="{{ plant.icon | prepend: site.baseurl }}" alt="{{plant.common_name}}"/>
+                    {% else %}
+                        <div class="empty_icon">&nbsp;</div>
                     {% endif %}
                     <div class="name">
                         <a href="{{ plant.url | prepend:site.baseurl }}">
                             {{plant.common_name}}
                         </a>
-                        <span class="scientific_name">&nbsp;&nbsp;{{plant.scientific_name | capitalize}}</span>
+                        <div class="scientific_name">{{plant.scientific_name | capitalize}}</div>
                     </div>
                 </td>
                 {% comment %}
