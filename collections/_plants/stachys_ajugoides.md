@@ -1,8 +1,16 @@
 ---
-title: ""
+plant_id: 87
 common_name: "Ajuga Hedge Nettle"
 scientific_name: "Stachys Ajugoides"
-plant_id: 87
+type: "perennial herb"
+
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+      ,cnps_2022_winter
+      ]
+
 sun_requirements:
   - "Full Sun"
 # min then max in feet
@@ -11,14 +19,11 @@ plant_size:
     - 0.3
     - 1
 
-icon: "/assets/images/plants/stachys_ajugoides_icon.jpg" 
+icon_attribution: 
+    name: ""
+    url: ""
+icon: "/assets/images/plants/stachys_ajugoides_icon.jpg"
+ 
 calscape_link: "https://calscape.org/loc-California/Stachys%20ajugoides(%20)"
-
-type: "perennial herb"
-native_to: "Humboldt"
-
-categories: [humboldt_county_native,
-       cnps_master_inventory
-      ]
 ---
 

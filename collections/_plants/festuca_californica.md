@@ -6,8 +6,10 @@ scientific_name: "Festuca Californica"
 type: "grass"
 native_to: "Humboldt"
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
+categories: [
+        humboldt_county_native
+        ,cnps_master_inventory
+        ,cnps_2022_winter
       ]
 
 sun_requirements:
@@ -19,6 +21,9 @@ plant_size:
     - 1.3
     - 4
 
+icon_attribution: 
+    name: ""
+    url: ""
 icon:  "/assets/images/plants/festuca_californica_icon.jpg"
 calscape_link: "https://calscape.org/Festuca-californica-(California-Fescue)"
 ---

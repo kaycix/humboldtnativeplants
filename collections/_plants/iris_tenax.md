@@ -4,11 +4,11 @@ common_name: "Toughleaf Iris"
 scientific_name: "Iris Tenax"
 type: "perennial herb"
 
-native_to: "Humboldt"
+native_to: ""
 
 categories: [ 
-            humboldt_county_native, 
-           cnps_master_inventory
+            cnps_master_inventory
+            ,cnps_2022_winter
           ]
 
 sun_requirements:

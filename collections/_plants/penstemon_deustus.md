@@ -1,13 +1,16 @@
 ---
-title: ""
-
-categories: [humboldt_county_native,
-       cnps_master_inventory
-      ]
-
+plant_id: 63
 common_name: "Scabland Penstemon"
 scientific_name: "Penstemon deustus"
-plant_id: 63
+type: "perennial herb"
+
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
+        ,cnps_master_inventory
+        ,cnps_2022_winter
+      ]
+
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -15,12 +18,11 @@ sun_requirements:
 plant_size:
   - height: 
     - 1.1
-# icon attribution: https://www.calflora.org/entry/occdetail.html?seq_num=mg41297 
+icon_attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=mg41297" 
 icon: "/assets/images/plants/penstemon_deustus_icon.jpg"
+
 calscape_link: "https://calscape.org/loc-California/Penstemon%20deustus(%20)"
-
-type: "perennial herb"
-native_to: "Humboldt"
-
 ---
 

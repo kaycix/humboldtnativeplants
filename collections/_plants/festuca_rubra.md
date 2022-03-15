@@ -1,9 +1,17 @@
 ---
- 
-title: ""
+plant_id: 33
 common_name: "Red Fescue"
 scientific_name: "Festuca rubra"
-plant_id: 33
+type: "grass"
+
+native_to: "Humboldt"
+
+categories: [
+    humboldt_county_native
+    ,cnps_master_inventory
+    ,cnps_2022_winter
+      ]
+
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -12,14 +20,11 @@ plant_size:
   - height: 
     - 1.3
     - 2.6
+
+icon_attribution: 
+    name: ""
+    url: ""
 icon:  "/assets/images/plants/festuca_rubra_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Festuca%20rubra%20(Red%20Fescue)"
-
-type: "grass"
-native_to: "Humboldt"
-
-categories: [humboldt_county_native,
-       cnps_master_inventory
-      ]
 ---
 

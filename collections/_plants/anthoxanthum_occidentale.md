@@ -5,8 +5,9 @@ scientific_name: "Anthoxanthum Occidentale"
 type: "grass"
 native_to: "Humboldt"
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
+categories: [humboldt_county_native
+        ,cnps_master_inventory
+        ,cnps_2022_winter
       ]
 
 title: ""

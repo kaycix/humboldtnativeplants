@@ -1,26 +1,29 @@
 ---
-title: ""
+plant_id: 29
 common_name: "Seaside Woolly Sunflower"
 scientific_name: "Eriophyllum staechadifolium"
-#cal scape says Shade, Part Shade
-plant_id: 29
+type: "shrub"
+
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+        ,cnps_2022_winter
+      ]
+
 plant_size:
   - height: 
     - 2
     - 5
 sun_requirements:
   - "Part Shade"
-  - "Full Sun"
-# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/214/64475.jpg 
+  - "Full Shade"
+
+icon_attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/214/64475.jpg" 
 icon: "/assets/images/plants/eriophyllum_staechadifolium_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Eriophyllum%20staechadifolium(%20)"
-
-type: "shrub"
-native_to: "Humboldt"
-
-categories: [humboldt_county_native,
-       cnps_master_inventory
-      ]
 ---
 
 
