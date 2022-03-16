@@ -63,20 +63,22 @@ h1 a {
 
 .site-logo img {
     margin-right: 0;
+    max-height: 3rem !important;
 }
 
 .site-title .location {
     font-size: 0.9em;
-    letter-spacing: 8px;
+    letter-spacing: 10px;
     line-height: 1em;
-    margin-left: 2px;
     text-transform: uppercase;
 }
 
 .site-title .title {
-    font-family: 'Laila', sans-serif;
+    color: #1c351d;
     font-size: 1.3em;
+    font-weight: 500;
     line-height: 1.1em;
+    text-transform: uppercase;
 }
 
 .greedy-nav a {
@@ -331,7 +333,7 @@ select {
     border: 1px solid #dadce0;
     border-radius: 20px;
     box-shadow: none;
-    min-width: 120px;
+    min-width: 110px;
     /* 
     -webkit-appearance: none;
     -moz-appearance: none; */}
@@ -376,8 +378,9 @@ html table .scientific_name {
     text-align: center;
 }
 
-.plant_filters .filters {
+.plant_filters {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .plant_filters .filter_input {
