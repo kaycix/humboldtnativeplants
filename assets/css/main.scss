@@ -67,16 +67,18 @@ h1 a {
 }
 
 .site-title .location {
+    color: #187733;
     font-size: 0.9em;
     letter-spacing: 10px;
     line-height: 1em;
+    margin-left: 3px;
     text-transform: uppercase;
 }
 
 .site-title .title {
     color: #1c351d;
+    font-family: 'Lato', sans-serif;
     font-size: 1.3em;
-    font-weight: 500;
     line-height: 1.1em;
     text-transform: uppercase;
 }
@@ -86,7 +88,7 @@ h1 a {
 }
 
 .greedy-nav .visible-links a {
-    color: $indigo-color;
+    font-family: 'Lato', sans-serif;
     font-weight: 600;
     text-transform: uppercase;
 }
@@ -131,6 +133,7 @@ html .masthead #site-title {
 
 .layout--splash .page__hero--overlay {
     border-bottom: 10px solid #666;
+    margin-bottom: 0;
 }
 
 .page__hero--overlay .page__lead {

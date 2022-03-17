@@ -58,7 +58,7 @@ TODO A future enhancement would be to use the actual jekyll template.
                     </li>
                 </ul>
             </div>
-            <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p>
+   <!--         <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p> -->
         </div>
       </div>
     </div>
@@ -84,7 +84,7 @@ TODO A future enhancement would be to use the actual jekyll template.
                 </li>
             </ul>
             </div>
-            <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p>
+   <!--         <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p> -->
         </div>
       </div>
     </div>
@@ -107,7 +107,7 @@ TODO A future enhancement would be to use the actual jekyll template.
                 </li>
             </ul> 
            </div>
-            <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p>
+            <!-- <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p> -->
         </div>
       </div>
     </div>
