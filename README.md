@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://kaycix.github.io/humboldtnativeplants/assets/images/leaf-icon.png" alt="Humboldt Native Plants" width="100" />
+    <img src="https://kaycix.github.io/humboldtnativeplants/assets/images/icon_with_name.png" alt="Humboldt Native Plants" width="389" />
 </p>
 
 <p align="center">Fight climate change, support local wildlife, and restore beautiful Humboldt County with native plants.</p>
