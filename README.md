@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://kaycix.github.io/humboldtnativeplants/assets/images/icon_with_name.png" alt="Humboldt Native Plants" width="389" />
+    <img src="https://raw.githubusercontent.com/kaycix/humboldtnativeplants/main/assets/images/icon_with_name.png" alt="Humboldt Native Plants" width="389" />
 </p>
 <p align="center">Build better landscapes with native plants.</p>
 
