@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "About"
-    url: "https://github.com/kaycix/humboldtnativeplants"
+    url : /about/
   - title: "Contribute"
-    url: "https://github.com/kaycix/humboldtnativeplants/issues"
+    url: "/contribute/"
   - title: "Contact"
-    url: "https://github.com/kaycix/humboldtnativeplants/discussions/landing"
+    url: "/contact/"

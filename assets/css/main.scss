@@ -22,10 +22,6 @@ html {
 	color: #000;
 }
 
-#main {
-    background-color: #fff;
-}
-
 html h1, h2, h3, h4, h5, h6 {
 	color: #333;
 }
@@ -582,10 +578,6 @@ div.vine {
     text-align: center;
 }
 
-.layout--single .initial-content {
-    background-color: $light-blue-color;
-}
-
 .layout--single h2 {
     font-size: 1.125em;
     font-weight: 600;
@@ -631,6 +623,11 @@ div.vine {
 
 .layout--category header h1 {
     display: none;
+}
+
+body.about-page {
+    background-color: #ebf1f4;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('');
 }
 
 #footer {
