@@ -1,5 +1,6 @@
 ---
 layout: splash
+classes: "index-page"
 title: "Native plants are <span class='animate'>better</span> for 
         <div id='container'>
             <div id='flip'><div>
