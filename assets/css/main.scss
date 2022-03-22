@@ -138,7 +138,8 @@ html .masthead #site-title {
     margin-bottom: 0;
 }
 
-.layout--splash.about-page .page__title b {
+.layout--splash.about-page .page__title b,
+.layout--splash.contribute-page .page__title b {
     color: $dark-green-color; 
 }
 

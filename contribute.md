@@ -1,9 +1,15 @@
 ---
-layout: single 
-title: "Contribute"
+layout: splash
+title: "
+&ldquo;The one thing we need more than hope is <b>action</b>. Once we start to act, hope is everywhere. So instead of looking for hope, look for action. Then, and only then, <b>hope will come.</b>&ldquo;
+"
 classes: "contribute-page"
+header:
+    overlay_color: "#ebf1f4"
+    overlay_filter: "0"
+excerpt: "&mdash; Greta Thundberg &mdash;" 
 ---
-Every person can make a difference and every little contribution helps. Send me a message via <a href="https://github.com/kaycix/humboldtnativeplants/discussions/13" target="_blank">GitHub Discussions</a> if you are interested in contributing to this website in some way. 
+Leave me a message via <a href="https://github.com/kaycix/humboldtnativeplants/discussions/13" target="_blank">GitHub Discussions</a> if you are interested in contributing to this website in some way. 
 
 Data Entry - 
 - Look up information and input data into text files. 
