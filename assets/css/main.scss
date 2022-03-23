@@ -143,20 +143,40 @@ html .masthead #site-title {
     color: $dark-green-color; 
 }
 
-.layout--splash.about-page .card.home .image {
+.layout--splash.about-page h2 {
+    color: $deep-green-color;
+}
+
+.layout--splash.about-page p {
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+}
+
+.layout--splash.about-page .card {
+    display: flex;
+    margin-top: 4em;
+}
+
+.layout--splash.about-page .card .image {
+    text-align: center;
+}
+
+.layout--splash.about-page .card .image,
+.layout--splash.about-page .card .info {
+    width: 50%;
+}
+
+.layout--splash.about-page .card img {
+    background: linear-gradient(-225deg, $indigo-color 0%, $deep-green-color 29%, $orange-color 67%, $indigo-color 100%);
     background-repeat: no-repeat;
-    background-color: $indigo-color;
-    background-image: url("./../images/icons/home.png");
-    float: right;
+}
+
+.layout--splash.about-page .card.home img {
     height: 194px;
     width: 200px;
 }
 
-.layout--splash.about-page .card.computer .image {
-    background-repeat: no-repeat;
-    background-color: $indigo-color;
-    background-image: url("./../images/icons/computer.png");
-    float: left;
+.layout--splash.about-page .card.computer img {
     height: 131px;
     width: 200px;
 }

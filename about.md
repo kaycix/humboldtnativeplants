@@ -11,39 +11,41 @@ excerpt: "&mdash; Douglas Tallemy &mdash;"
 ---
 <div class="cards">
     <div class="card home">
-        <div class="image">
-
-        </div>
         <div class="info">
             <h2>
             Conservation at Home
             </h2>
             <p>
-            Humboldt Native Plant’s mission is to empower people to participate in conservation in their own backyards and surrounding neighborhoods. Even a small native garden can have a big impact to native species, as part of a larger web of restored land. 
+            Humboldt Native Plants' mission is to empower people to participate in conservation in their own backyards and surrounding neighborhoods. Even a small native garden can have a big impact to native species, as part of a larger web of restored land. 
             Our ultimate goal is to unite our community in biodiversity conservation for current and future generations. 
             </p>
+        </div>
+        <div class="image">
+            <img src="{{'/assets/images/icons/home.png' | prepend:site.baseurl}}" />
         </div>
     </div>
     <div class="card computer">
         <div class="image">
+            <img src="{{'/assets/images/icons/computer.png' | prepend:site.baseurl}}" />
         </div>
         <div class="info">
             <h2>
             The Power of Open Source
             </h2>
             <p>
-            We are an open-source website - which means that anyone can access and contribute to this project. All help is welcome!  
+            Humboldt Native Plants is an open-source website. Anyone can contribute to this website. All you need is a free GitHub account. See the Contribute page for more details. All help is welcome!  
             </p>
         </div>
     </div>
     <div class="card">
-        <div class="image">
-        </div>
         <div class="info">
             <h2>Inspiration</h2>
             <p>
-            So many people that have inspired this website. Douglas Tallemy, Judith Larner Lowry, Greta Thundberg, Anne Marie Bonneau to name a few.
+            So many people have inspired this website. Ecologist Douglas Tallemy, California native plant expert Judith Larner Lowry, youth activist Greta Thundberg, and Zero Waste blogger Anne Marie Bonneau to name a few.
             </p>
+        </div>
+        <div class="image">
+            <img src="{{'/assets/images/icons/people.png' | prepend:site.baseurl}}" />
         </div>
     </div>
 </div>
