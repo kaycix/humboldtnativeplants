@@ -1,8 +1,15 @@
 ---
-title: ""
+plant_id: 21
 common_name: "Chinese Houses"
 scientific_name: "Collinsia heterophylla"
-plant_id: 21
+type: "annual herb"
+
+native_to: "Humboldt"
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+      ]
+
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -10,16 +17,15 @@ plant_size:
   - height: 
     - 0.3
     - 1.6
-# icon attribution: https://www.calflora.org/app/up/entry/84/25279.jpg 
+
+icon_attribution: 
+    name: "Calflora"
+    url: "https://www.calflora.org/app/up/entry/84/25279.jpg"
 icon: "/assets/images/plants/collinsia_heterophylla_icon.jpg" 
+
 calscape_link: "https://calscape.org/Collinsia-heterophylla-(Purple-Chinese-Houses)"
 
-type: "annual herb"
-native_to: "Humboldt"
-
-categories: [humboldt_county_native,
-       cnps_master_inventory
-      ]
+gardens: [ 
+    "arcata_marsh"
+        ]
 ---
-
-

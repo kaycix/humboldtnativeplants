@@ -22,5 +22,9 @@ icon_attribution:
 icon: "/assets/images/plants/clarkia_amoena_icon.jpg" 
 
 calscape_link: "https://calscape.org/Clarkia-amoena-(Farewell-To-Spring)"
+
+gardens: [ 
+    "arcata_marsh"
+        ]
 ---
 

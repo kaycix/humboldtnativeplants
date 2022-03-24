@@ -22,5 +22,9 @@ icon_attribution:
 icon: "/assets/images/plants/arctostaphylos_uva_ursi_icon.jpg"
 
 calscape_link: "https://calscape.org/Arctostaphylos-uva-ursi-(Southern-Kinnikinnick)?srchcr=sc5f503bb4523a4"
+
+gardens: [ 
+    "arcata_marsh"
+        ]
 ---
 

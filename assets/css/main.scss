@@ -122,6 +122,10 @@ html .masthead #site-title {
 	font-weight: 700;
 }
 
+.index-page li {
+    list-style-type: circle;
+}
+
 .layout--splash h1#page-title {
     text-shadow: none;
     color: #333;
@@ -656,6 +660,7 @@ div.vine {
 
 .layout--single .feature__item {
     background-color: #FFF;
+    border: 1px solid #CCC;
     border-radius: 7px;
     margin-bottom: 40px;
 }

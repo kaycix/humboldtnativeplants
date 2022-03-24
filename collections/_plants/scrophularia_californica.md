@@ -26,5 +26,9 @@ icon_attribution:
 icon: "/assets/images/plants/scrophularia_californica_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Scrophularia%20californica%20(Bee%20Plant)"
----
 
+gardens: [ 
+    "arcata_marsh"
+    ,"kellie" 
+        ]
+---

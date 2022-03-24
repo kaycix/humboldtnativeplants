@@ -25,6 +25,10 @@ icon_attribution:
 icon: "/assets/images/plants/grindelia_stricta_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Grindelia%20stricta(%20)"
+
+gardens: [ 
+    "arcata_marsh"
+        ]
 ---
 
 

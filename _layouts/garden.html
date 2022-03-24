@@ -1,0 +1,24 @@
+---
+layout: single
+title: ""
+---
+
+{% assign garden = page.garden_tag_name | downcase %}
+{% assign plants = site.plants | where_exp: "item", 
+                                 "item.gardens contains garden" %}
+{% assign plant_groups = plants | group_by : "type" %} 
+
+<h1>{{ page.name }} ({{ plants.size}})</h1>
+Location: {{ page.location}}
+
+<!-- populate plant_data var -->
+{% include getPlantData.html %}
+	
+{% include plants.html 
+	plant_groups= plant_groups
+    show_native_to_humboldt= true
+%}
+
+{{ content }}
+
+

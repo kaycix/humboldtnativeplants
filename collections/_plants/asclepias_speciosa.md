@@ -25,6 +25,10 @@ icon_attribution:
 icon: "/assets/images/plants/asclepias_speciosa_icon.jpg"
  
 calscape_link: "https://calscape.org/Asclepias-speciosa-()"
+
+gardens: [
+    "arcata_marsh" 
+        ]
 ---
 
 

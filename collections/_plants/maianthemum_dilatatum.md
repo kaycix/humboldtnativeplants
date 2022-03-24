@@ -24,5 +24,9 @@ icon_attribution:
 icon: "/assets/images/plants/maianthemum_dilatatum_icon.jpg"
  
 calscape_link: "https://calscape.org/Maianthemum-dilatatum-()"
+
+gardens: [ 
+    "arcata_marsh"
+        ]
 ---
 

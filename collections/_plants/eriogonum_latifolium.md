@@ -24,6 +24,10 @@ icon_attribution:
     url: "https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/302/90899.jpg" 
 icon: "/assets/images/plants/eriogonum_latifolium_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Eriogonum%20latifolium(%20)"
+
+gardens: [
+    "arcata_marsh" 
+]
 ---
 
 

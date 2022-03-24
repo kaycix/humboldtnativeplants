@@ -24,5 +24,7 @@ icon_attribution:
     name: ""
     url: "https://www.calflora.org/app/up/entry/57/17273.jpg"
 icon:  "/assets/images/plants/cornus_sericea_icon.jpg"
----
 
+gardens: [
+    "arcata_marsh" 
+        ]

@@ -23,6 +23,10 @@ icon_attribution:
     url: ""
 icon:  "/assets/images/plants/gilia_capitata_icon.jpg"
 calscape_link: "https://calscape.org/Gilia-capitata-(Blue-Field-Gilia)"
+
+gardens: [ 
+    "arcata_marsh"
+        ]
 ---
 
 

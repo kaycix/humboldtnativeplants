@@ -25,4 +25,8 @@ icon_attribution:
 icon: "/assets/images/plants/eriophyllum_lanatum_icon.jpg"
  
 calscape_link: "https://calscape.org/Common-woolly-sunflower-(Eriophyllum-lanatum)"
+
+gardens: [ 
+    "arcata_marsh"
+        ]
 ---

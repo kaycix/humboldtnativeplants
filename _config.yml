@@ -17,6 +17,9 @@ collections              :
     categories:
         output: true
         permalink: /category/:name
+    gardens:
+        output: true
+        permalink: /garden/:name
 defaults:
  - scope:
      type: "plants"

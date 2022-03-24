@@ -25,6 +25,10 @@ icon_attribution:
 icon: "/assets/images/plants/stipa_pulchra_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Purple%20Needlegrass%20(Stipa%20pulchra)"
+
+gardens: [ 
+    "arcata_marsh"
+        ]
 ---
 
 

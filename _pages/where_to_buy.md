@@ -57,11 +57,14 @@ online_seed_suppliers:
 ---
 <h2> Humboldt County Native Plant Nurseries</h2>
 <p>
-These native plant nurseries are located in Humboldt County. Employees and volunteers of these organizations are also valuable resources for all things native plant related. Other commercial nurseries have some Humboldt County natives but often don't distinguish between California natives and Humboldt County natives.
+These native plant nurseries are located in Humboldt County. Employees and volunteers of these organizations are valuable resources for all things native plant related. Other commercial nurseries do carry Humboldt County natives and can be a great resource. However, they often don't distinguish between California natives and Humboldt County natives and it's best to arrive a little prepared (or with extra time to do some on-the-spot phone research).
 </p>
 {% include feature_row id="local_nurseries" %}
 
 <h2>Where to Purchase California Native Seeds and Plants Online</h2>
+<p>
+These nurseries are excellent sources of native plant seeds and plants. Their websites also contain valuable information and seed-starting tips.
+</p>
 {% include feature_row id="online_seed_suppliers" %}
 
 <!--

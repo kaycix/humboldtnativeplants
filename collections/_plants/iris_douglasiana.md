@@ -25,5 +25,9 @@ icon_attribution:
     url: ""
 icon:  "/assets/images/plants/iris_douglasiana_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Iris%20douglasiana(%20)"
+
+gardens: [ 
+    "arcata_marsh"
+        ]
 ---
 

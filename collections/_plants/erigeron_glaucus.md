@@ -27,5 +27,9 @@ icon: "/assets/images/plants/erigeron_glaucus_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Seaside%20Daisy%20(Erigeron%20glaucus)"
 
+gardens: [
+    "arcata_marsh" 
+    ,"kellie" 
+        ]
 ---
 

@@ -25,5 +25,9 @@ icon_attribution:
 icon: "/assets/images/plants/boykinia_occidentalis_icon.jpg"
 
 calscape_link: "https://calscape.org/Boykinia-occidentalis-()"
+
+gardens: [ 
+    "arcata_marsh"
+        ]
 ---
 

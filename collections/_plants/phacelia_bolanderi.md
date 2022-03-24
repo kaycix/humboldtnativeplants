@@ -27,11 +27,9 @@ icon_attribution:
 icon: "/assets/images/plants/phacelia_bolanderi_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Phacelia%20bolanderi(%20)"
+
+
+gardens: [ 
+    "arcata_marsh"
+    ]
 ---
-
-
-
-
-
-
-
