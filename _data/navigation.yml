@@ -4,5 +4,3 @@ main:
     url : "/about"
   - title: "Contribute"
     url: "/contribute"
-  - title: "Contact"
-    url: "/contact"

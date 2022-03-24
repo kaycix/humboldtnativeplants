@@ -3,7 +3,7 @@ layout: splash
 title: "
 &ldquo;What is nature’s best hope? <b>You.</b> There’s an Earth stewardship responsibility that we have as <b>citizens of the planet</b>. We can no longer leave conservation to the conservationists. There aren’t enough—<b>by far.</b>&rdquo;
 "
-classes: "about-page"
+classes: "about-page header-page"
 header:
     overlay_color: "#ebf1f4"
     overlay_filter: "0"
@@ -16,7 +16,7 @@ excerpt: "&mdash; Douglas Tallemy &mdash;"
             Conservation at Home
             </h2>
             <p>
-            Humboldt Native Plants' mission is to empower people to participate in conservation in their own backyards and surrounding neighborhoods. Even a small native garden can have a big impact to native species, as part of a larger web of restored land. 
+            Humboldt Native Plants' mission is to empower people to participate in conservation in their own backyards and neighborhoods. Even a small native garden can have a big impact to native species, as part of a larger web of restored land. 
             Our ultimate goal is to unite our community in biodiversity conservation for current and future generations. 
             </p>
         </div>
@@ -41,7 +41,7 @@ excerpt: "&mdash; Douglas Tallemy &mdash;"
         <div class="info">
             <h2>Inspiration</h2>
             <p>
-            So many people have inspired this website. Ecologist Douglas Tallemy, California native plant expert Judith Larner Lowry, youth activist Greta Thundberg, and Zero Waste blogger Anne Marie Bonneau to name a few.
+            So many people have inspired this website. Ecologist Douglas Tallemy, California native plant expert Judith Larner Lowry, youth activist Greta Thundberg, Zero Waste blogger Anne Marie Bonneau, many knowledgeable generous local native plant experts from the CNPS, North Coast chapyer.
             </p>
         </div>
         <div class="image">

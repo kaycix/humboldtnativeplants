@@ -143,17 +143,25 @@ html .masthead #site-title {
     color: $dark-green-color; 
 }
 
-.layout--splash.about-page h2 {
+.layout--splash.header-page h2 {
     color: $deep-green-color;
 }
 
-.layout--splash.about-page p {
-    font-size: 1.5rem;
-    line-height: 2.5rem;
+.layout--splash.header-page #main p,
+.layout--splash.header-page #main li {
+    font-size: 1.2rem;
+    line-height: 2rem;
 }
 
-.layout--splash.about-page .card {
+.layout--splash.header-page .card {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
     margin-top: 4em;
 }
 
@@ -435,7 +443,13 @@ html table .scientific_name {
 }
 
 .plant_filters {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
     flex-wrap: wrap;
 }
 
