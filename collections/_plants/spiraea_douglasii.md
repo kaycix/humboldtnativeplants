@@ -1,8 +1,8 @@
 ---
-plant_id: 189 
-common_name: "Common Rush"
-scientific_name: "Juncus patens"
-type: "perennial herb"
+plant_id: 212 
+common_name: "Douglas's Spirea"
+scientific_name: "Spiraea Douglasii"
+type: "shrub"
 
 native_to: "Humboldt"
 
@@ -17,15 +17,15 @@ sun_requirements:
 # min then max in feet
 plant_size:
   - height: 
-    - 1 
-    - 3
+    - 5 
+    - 7
 
 icon_attribution: 
     name: "Calscape"
-    url: "https://calscape.org/photos/2034?srchcr=sc623ded7c6b2be"
-icon: "/assets/images/plants/juncus_patens_icon.jpg"
+    url: "https://calscape.org/photos/3587?srchcr=sc623e33e199f10"
+icon: "/assets/images/plants/spiraea_douglasii_icon.jpg"
  
-calscape_link: "https://calscape.org/Juncus-patens-(Common-Rush)"
+calscape_link: "https://calscape.org/Spiraea-douglasii-()"
 
 gardens: [
         ]
