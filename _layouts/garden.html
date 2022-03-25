@@ -20,6 +20,8 @@ Website: <a href="{{page.website.url}}" target="_blank">
 
 <div style="clear:both"></div>
 
+{{ content }}
+
 <!-- todo use feature_row template? -->
 {% for group in plant_groups %}
     <div class="cards plant_type header">
@@ -50,7 +52,5 @@ Website: <a href="{{page.website.url}}" target="_blank">
         {% endfor %}
     </div>
 {% endfor %}
-
-{{ content }}
 
 

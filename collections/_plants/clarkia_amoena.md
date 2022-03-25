@@ -5,8 +5,9 @@ scientific_name: "Clarkia Amoena"
 type: "annual herb"
 native_to: "Humboldt"
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
+categories: [humboldt_county_native
+        ,cnps_master_inventory
+        ,cnps_2022_spring
       ]
 
 plant_size:

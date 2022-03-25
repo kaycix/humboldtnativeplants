@@ -6,14 +6,12 @@ location: Arcata
 
 garden_tag_name: "arcata_marsh"
 
-type: "demonstration garden"
-
+type: "demo"
 
 website: 
     name: "Friends of the Arcata Marsh"
     url: "https://www.arcatamarshfriends.org/amic-native-plant-garden/" 
 ---
-
 <!--
 Bog Lupine	Lupinus polyphyllus	
 California Fuschia or Margarita Fuchsia	Epilobium canum	Butseburougulh (earring)

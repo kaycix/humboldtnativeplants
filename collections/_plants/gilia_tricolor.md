@@ -7,6 +7,7 @@ type: "annual herb"
 native_to: "Humboldt"
 
 categories: [ cnps_master_inventory
+              ,cnps_2022_spring
       ]
 
 sun_requirements:
