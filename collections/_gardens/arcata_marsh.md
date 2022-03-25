@@ -1,12 +1,20 @@
 ---
 name: "Arcata Marsh Native Plant Garden"
-layout: garden
+icon: "/assets/images/friends_of_the_arcata_marsh.png" 
+
+location: Arcata
 
 garden_tag_name: "arcata_marsh"
+
 type: "demonstration garden"
-location: Arcata
-website: "https://www.arcatamarshfriends.org/amic-native-plant-garden/" 
+
+
+website: 
+    name: "Friends of the Arcata Marsh"
+    url: "https://www.arcatamarshfriends.org/amic-native-plant-garden/" 
 ---
+
+<!--
 Bog Lupine	Lupinus polyphyllus	
 California Fuschia or Margarita Fuchsia	Epilobium canum	Butseburougulh (earring)
 California Hairgrass	Deschampsia cespitosa ss. holciformis	
@@ -33,3 +41,4 @@ West Coast Goldenrod	Solidago elongata
 Western Azalea	Rhododendron occidentale	
 Western Trillium	Trillium ovatum	
 Yerba Buena	Clinopodium douglasii
+-->

@@ -17,7 +17,7 @@ plant_size:
   - height: 
     - 3.3
 
-icon attribution: 
+icon_attribution: 
     name: "Calflora"
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=po90161"
 icon: "/assets/images/plants/clarkia_purpurea_ssp_purpurea_icon.jpg" 

@@ -107,7 +107,7 @@ TODO A future enhancement would be to use the actual jekyll template.
                     </a>
                 </li>
                 <li>
-                    <a href="{{"/plants" | prepend:site.baseurl }}">
+                    <a href="{{"/gardens" | prepend:site.baseurl }}">
                         Local Native Plant Gardens
                     </a>
                 </li>

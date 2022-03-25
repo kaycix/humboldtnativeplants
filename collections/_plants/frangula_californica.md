@@ -19,10 +19,11 @@ plant_size:
     - 6
     - 15
 
-icon_attrbution: 
+icon_attribution: 
     name: "Calflora"
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=gp18760"
 icon:  "/assets/images/plants/frangula_californica_icon.jpg"
+
 calscape_link: "https://calscape.org/loc-California/Coffee%20Berry%20(Frangula%20californica)"
 
 observations: 

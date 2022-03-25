@@ -34,6 +34,12 @@ defaults:
      custom_js:
         - util 
         - plant_data_table
+ - scope:
+     type: "gardens"
+   values:
+     classes: garden-page wide
+     title: ""
+     layout: garden
 after_footer_scripts     : 
     - https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
     - https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js
