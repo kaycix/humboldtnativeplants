@@ -24,6 +24,10 @@ icon_attribution:
 icon: "/assets/images/plants/triteleia_laxa_icon.jpg"
  
 calscape_link: "https://calscape.org/Triteleia-laxa-(Ithuriel%27s-Spear)"
+
+gardens: [ 
+    "arcata_marsh"
+]
 ---
 
 

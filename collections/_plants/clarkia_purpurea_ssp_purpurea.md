@@ -23,6 +23,10 @@ icon attribution:
 icon: "/assets/images/plants/clarkia_purpurea_ssp_purpurea_icon.jpg" 
 
 calscape_link: "https://calscape.org/Clarkia-purpurea-ssp.-purpurea-(Winecup-Clarkia)"
+
+gardens: [ 
+    "arcata_marsh"
+        ]
 ---
 
 

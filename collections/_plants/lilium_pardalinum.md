@@ -24,6 +24,10 @@ icon_attribution:
 icon: "/assets/images/plants/lilium_pardalinum_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Lilium%20pardalinum(%20)"
+
+gardens: [ 
+    "arcata_marsh"
+]
 ---
 
 

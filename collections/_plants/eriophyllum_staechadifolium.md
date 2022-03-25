@@ -24,6 +24,11 @@ icon_attribution:
     url: "https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/214/64475.jpg" 
 icon: "/assets/images/plants/eriophyllum_staechadifolium_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Eriophyllum%20staechadifolium(%20)"
+
+gardens: [ 
+    "arcata_marsh"
+    ,"kellie" 
+        ]
 ---
 
 

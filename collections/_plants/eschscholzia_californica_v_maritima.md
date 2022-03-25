@@ -1,22 +1,31 @@
 ---
-title: ""
+plant_id: 31
 common_name: "Coastal California Poppy"
 scientific_name: "Eschscholzia californica v. maritima"
-plant_id: 31
-sun_requirements:
-  - "Full Sun"
-plant_size:
-  - height: 
-    - 1.5
-# icon attribution: https://larnerseeds.com/products/eschscholzia-californica-var-maritima-coastal-poppy 
-icon: "/assets/images/plants/eschscholzia_californica_v_maritima_icon.jpg" 
-calflora_link: "https://www.calfloranursery.com/plants/eschscholzia-californica-maritima"
-
 type: "annual herb"
+
 native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
+
+sun_requirements:
+  - "Full Sun"
+plant_size:
+  - height: 
+    - 1.5
+
+icon_attribution: 
+    name: "Larner Seeds"
+    url: "https://larnerseeds.com/products/eschscholzia-californica-var-maritima-coastal-poppy"
+ 
+icon: "/assets/images/plants/eschscholzia_californica_v_maritima_icon.jpg" 
+
+calflora_link: "https://www.calfloranursery.com/plants/eschscholzia-californica-maritima"
+
+gardens: [ 
+    "arcata_marsh"
+]
 ---
 

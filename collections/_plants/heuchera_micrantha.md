@@ -25,6 +25,10 @@ icon_attribution:
 icon:  "/assets/images/plants/heuchera_micrantha_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Heuchera%20micrantha(%20)"
+
+gardens: [ 
+    "arcata_marsh"
+        ]
 ---
 
 
