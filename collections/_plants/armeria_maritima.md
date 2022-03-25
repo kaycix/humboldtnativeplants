@@ -1,7 +1,7 @@
 ---
 plant_id: 7
 common_name: "Sea Thrift"
-scientific_name: "Ameria Maritima"
+scientific_name: "Armeria Maritima"
 type: "perennial herb"
 
 native_to: "Humboldt"
