@@ -1,7 +1,7 @@
 ---
-plant_id: 192 
-common_name: "Creek Dogwood"
-scientific_name: "Cornus sericea"
+plant_id: 196 
+common_name: "Salal"
+scientific_name: "Gaultheria shallon"
 type: "shrub"
 
 native_to: "Humboldt"
@@ -14,19 +14,18 @@ categories: [humboldt_county_native
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
-  - "Full Shade"
 # min then max in feet
 plant_size:
   - height: 
-    - 4 
-    - 13.1
+    - 1 
+    - 7
 
 icon_attribution: 
     name: "Calscape"
-    url: "https://calscape.org/view.php?pl=1113&img=12257"
-icon: "/assets/images/plants/cornus_sericea_icon.jpg"
+    url: "https://calscape.org/view.php?pl=1733&img=15245"
+icon: "/assets/images/plants/gaultheria_shallon_icon.jpg"
  
-calscape_link: "https://calscape.org/Cornus-sericea-(Creek-Dogwood)"
+calscape_link: "https://calscape.org/Gaultheria-shallon-(Salal)"
 
 gardens: [
         ]
