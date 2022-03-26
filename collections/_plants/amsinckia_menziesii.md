@@ -4,11 +4,12 @@ common_name: "Menzies' Fiddleneck"
 scientific_name: "Amsinckia menziesii"
 type: "annual herb"
 
-native_to: "California"
+native_to: "Humboldt"
 
 categories: [
-    cnps_master_inventory
-    ,cnps_2022_spring
+        humboldt_county_native
+        ,cnps_master_inventory
+        ,cnps_2022_spring
       ]
 
 sun_requirements:

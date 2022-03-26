@@ -23,7 +23,7 @@ plant_size:
 icon_attribution: 
     name: "Calscape"
     url: "https://calscape.org/photos/3630?srchcr=sc623e34b0e25ea"
-icon: "/assets/images/plants/_icon.jpg"
+icon: "/assets/images/plants/symphoricarpos_albus_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Symphoricarpos%20albus%20(Common%20Snowberry)"
 

@@ -23,7 +23,7 @@ plant_size:
 icon_attribution: 
     name: "Calscape"
     url: "https://calscape.org/photos/2236?srchcr=sc623e005b62f64"
-icon: "/assets/images/plants/_icon.jpg"
+icon: "/assets/images/plants/notholithocarpus_densiflorus_icon.jpg"
  
 calscape_link: "https://calscape.org/Notholithocarpus-densiflorus-()"
 
