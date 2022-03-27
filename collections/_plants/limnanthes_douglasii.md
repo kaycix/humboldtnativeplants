@@ -1,6 +1,6 @@
 ---
 plant_id: 49
-common_name: "Common Meadowfoam"
+common_name: "Common Meadow Foam"
 scientific_name: "Limnanthes douglasii"
 type: "annual herb"
 

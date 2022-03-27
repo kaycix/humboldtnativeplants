@@ -1,6 +1,6 @@
 ---
 plant_id: 244 
-common_name: "California indian pink"
+common_name: "Cardinal Catchfly"
 scientific_name: "Silene californica"
 type: "annual herb"
 

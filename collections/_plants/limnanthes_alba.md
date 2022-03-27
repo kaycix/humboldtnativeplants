@@ -1,6 +1,6 @@
 ---
 plant_id: 218 
-common_name: "White Meadowfoam"
+common_name: "White Meadow Foam"
 scientific_name: "Limnanthes alba"
 type: "annual herb"
 

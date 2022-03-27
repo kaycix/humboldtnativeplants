@@ -22,6 +22,6 @@ icon_attribution:
     name : ""
     url  : ""
 icon:  "/assets/images/plants/gilia_tricolor_icon.jpg"
-calscape_link: "https://calscape.org/Gilia-capitata-(Blue-Field-Gilia)"
+calscape_link: "https://calscape.org/Gilia-tricolor-(Tricolor-Gilia)"
 ---
 

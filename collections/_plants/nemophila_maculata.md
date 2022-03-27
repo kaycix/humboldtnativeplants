@@ -1,6 +1,6 @@
 ---
 plant_id: 59
-common_name: "Fivespot"
+common_name: "Five-Spot"
 scientific_name: "Nemophila maculata"
 type: "annual herb"
 

@@ -1,6 +1,6 @@
 ---
 plant_id: 67
-common_name: "Creamcups"
+common_name: "Cream Cups"
 scientific_name: "Platystemon californicus"
 type: "annual herb"
 

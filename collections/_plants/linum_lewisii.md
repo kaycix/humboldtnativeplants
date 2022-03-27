@@ -1,6 +1,6 @@
 ---
 plant_id: 51
-common_name: "Blue Flax"
+common_name: "Prairie Flax"
 scientific_name: "Linum lewisii"
 type: "perennial herb"
 native_to: "Humboldt"
