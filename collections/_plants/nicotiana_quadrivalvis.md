@@ -4,9 +4,10 @@ common_name: "Indian Tobacco"
 scientific_name: "Nicotiana quadrivalvis"
 type: "annual herb"
 
-native_to: "CA"
+native_to: "California"
 
 categories: [ cnps_master_inventory
+        ,cnps_2022_spring
       ]
 
 native_to: "CA"

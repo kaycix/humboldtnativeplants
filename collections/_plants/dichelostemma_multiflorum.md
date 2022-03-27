@@ -8,6 +8,7 @@ native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory
+        ,cnps_2022_spring
       ]
 
 sun_requirements:
@@ -18,8 +19,11 @@ plant_size:
   - height: 
     - 2.8
 
-# icon attribution: 
+icon_attribution:
+    name: ""
+    url: "" 
 icon: "/assets/images/plants/dichelostemma_multiflorum_icon.jpg" 
+
 calscape_link: "https://calscape.org/loc-California/Dichelostemma%20multiflorum(%20)"
 ---
 

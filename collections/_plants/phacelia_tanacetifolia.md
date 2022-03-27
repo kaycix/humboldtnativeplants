@@ -4,9 +4,10 @@ common_name: "Lacy Phacelia"
 scientific_name: "Phacelia tanacetifolia"
 type: "annual herb"
 
-native_to: "CA"
+native_to: "California"
 
 categories: [ cnps_master_inventory
+        ,cnps_2022_spring
       ]
 
 sun_requirements:
