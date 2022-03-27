@@ -8,9 +8,6 @@ layout: single
                                  "item.categories contains category" %}
 {% assign plant_groups = plants | group_by : "type" %} 
 
-
-<h1>{{ page.name }} ({{ plants.size}})</h1>
-
 <!-- populate plant_data var -->
 {% include getPlantData.html %}
 	

@@ -1,5 +1,5 @@
 ---
-name: CNPS Spring 2022 Inventory 
+name: "Spring Native Plant Sale"
 layout: category
 ---
 
