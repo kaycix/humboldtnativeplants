@@ -2,7 +2,7 @@
 plant_id: 242 
 common_name: "Broad-leaved Stonecrop"
 scientific_name: "Sedum spathulifolium"
-type: "Succulent"
+type: "succulent"
 
 native_to: "Humboldt"
 

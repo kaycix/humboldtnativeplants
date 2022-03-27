@@ -2,7 +2,7 @@
 plant_id: 225 
 common_name: "San Luis Obispo Dudleya"
 scientific_name: "Dudleya abramsii ssp. murina"
-type: "succulents"
+type: "succulent"
 
 native_to: "California"
 

@@ -2,7 +2,7 @@
 plant_id: 226 
 common_name: "Canyon Dudleya"
 scientific_name: "Dudleya cymosa"
-type: "succulents"
+type: "succulent"
 
 native_to: "California"
 
