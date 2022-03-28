@@ -1,7 +1,7 @@
 ---
 plant_id: 48
 
-common_name: "Tidy Tips"
+common_name: "Common Tidy Tips"
 scientific_name: "Layia platyglossa"
 type: "annual herb"
 
@@ -9,6 +9,7 @@ native_to: "California"
 
 categories: [ cnps_master_inventory
               ,cnps_2022_spring
+              ,butterfly
       ]
 
 sun_requirements:

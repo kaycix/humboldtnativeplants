@@ -7,6 +7,7 @@ type: "grass"
 categories: [humboldt_county_native,
        cnps_master_inventory
         ,cnps_2022_spring
+        ,butterfly
       ]
 
 native_to: "Humboldt"

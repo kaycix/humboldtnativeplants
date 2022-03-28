@@ -11,6 +11,10 @@ categories: [
     ,cnps_master_inventory
     ,cnps_2022_winter
     ,cnps_2022_spring
+        ,butterfly
+        ,bee
+        ,bird
+        ,hummingbird 
       ]
 
 sun_requirements:

@@ -8,6 +8,8 @@ native_to: "California"
 
 categories: [ cnps_master_inventory
         ,cnps_2022_spring
+        ,butterfly
+        ,bee
       ]
 
 sun_requirements:
@@ -24,6 +26,3 @@ icon: "/assets/images/plants/phacelia_tanacetifolia_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Phacelia-tanacetifolia-(Lacy-Phacelia)"
 ---
-
-
-

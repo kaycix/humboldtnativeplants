@@ -9,6 +9,7 @@ native_to: "CA"
 categories: [
        cnps_master_inventory
         ,cnps_2022_spring
+        ,butterfly
       ]
 
 sun_requirements:

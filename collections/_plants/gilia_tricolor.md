@@ -8,6 +8,8 @@ native_to: "Humboldt"
 
 categories: [ cnps_master_inventory
               ,cnps_2022_spring
+            ,butterfly
+            ,bee
       ]
 
 sun_requirements:

@@ -9,7 +9,10 @@ native_to: "California"
 categories: [
        cnps_master_inventory
         ,cnps_2022_spring
-      ]
+        ,butterfly
+        ,bird
+        ,bee  
+    ]
 
 sun_requirements:
   - "Full Sun"

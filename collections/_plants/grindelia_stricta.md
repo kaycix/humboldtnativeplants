@@ -8,6 +8,7 @@ native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory
+        ,butterfly
       ]
 
 sun_requirements:

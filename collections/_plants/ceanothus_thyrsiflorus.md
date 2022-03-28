@@ -10,6 +10,9 @@ categories: [humboldt_county_native
        ,cnps_master_inventory
         ,cnps_2022_spring
        ,hedge
+        ,butterfly
+        ,bee
+        ,bird
       ]
 
 sun_requirements:
