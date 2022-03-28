@@ -29,11 +29,12 @@ Source: <a href="{{page.source.url}}" target="_blank">
 
 <div style="clear:both"></div>
 <br/>
+
 <!-- populate plant_data var -->
 {% include getPlantData.html %}
-	
+
 {% include plants.html 
-	plant_groups= plant_groups
+    plant_groups= plant_groups
     show_native_to_humboldt= true
 %}
 

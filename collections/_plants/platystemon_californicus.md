@@ -12,6 +12,7 @@ categories: [
             ,cnps_2022_spring
             ,butterfly
             ,bee
+            ,beginner
             ]
 
 sun_requirements:

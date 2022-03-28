@@ -14,6 +14,7 @@ categories: [humboldt_county_native,
         ,bee
         ,bird
         ,hummingbird 
+        ,beginner
       ]
 
 sun_requirements:

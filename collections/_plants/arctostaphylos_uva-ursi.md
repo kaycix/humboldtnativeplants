@@ -11,6 +11,7 @@ categories: [humboldt_county_native,
         ,bee
         ,bird
         ,hummingbird 
+        ,groundcover
       ]
 
 plant_size:

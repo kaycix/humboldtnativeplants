@@ -14,6 +14,8 @@ categories: [
         ,bee
         ,butterfly
         ,bird
+        ,beginner
+        ,groundcover
       ]
 
 sun_requirements:

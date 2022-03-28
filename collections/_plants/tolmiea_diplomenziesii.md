@@ -9,6 +9,7 @@ categories: [
     ,cnps_master_inventory
     ,cnps_2022_winter
     ,cnps_2022_spring
+    ,beginner
       ]
 
 # very little info on this plant, not sure on sun requirements

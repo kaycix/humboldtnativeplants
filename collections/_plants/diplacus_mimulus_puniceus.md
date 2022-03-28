@@ -13,6 +13,7 @@ categories: [
         ,bee
         ,bird
         ,hummingbird 
+        ,beginner
       ]
 
 sun_requirements:

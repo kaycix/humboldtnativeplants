@@ -13,6 +13,7 @@ categories: [humboldt_county_native
         ,butterfly
         ,bee
         ,bird
+        ,beginner
       ]
 
 sun_requirements:

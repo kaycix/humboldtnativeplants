@@ -6,7 +6,8 @@ $(function () {
     language: {
         search: "_INPUT_",
         searchPlaceholder: "Search plants"
-    }
+    },
+    "sDom": '<"top"<"actions">ilfp<"clear">><"clear">rt<"bottom">'
   });
   
   // hack? move search box dom element

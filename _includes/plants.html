@@ -86,9 +86,22 @@
                         <div class="empty_icon">&nbsp;</div>
                     {% endif %}
                     <div class="name">
+                        {% if plant.calscape_link %}
+                            <a href="{{plant.calscape_link}}" target="_blank">
+                                {{plant.common_name}}
+                            </a>
+                        {% elsif plant.calflora_link %}
+                            <a href="{{plant.calflora_link}}" target="_blank">
+                                {{plant.common_name}}
+                            </a>
+                        {% else %}
+                            {{plant.common_name}}
+                        {% endif %}
+                        <!--
                         <a href="{{ plant.url | prepend:site.baseurl }}">
                             {{plant.common_name}}
                         </a>
+                        -->
                         <div class="scientific_name">{{plant.scientific_name | capitalize}}</div>
                     </div>
                 </td>

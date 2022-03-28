@@ -12,6 +12,7 @@ categories: [humboldt_county_native
         ,butterfly
         ,bee
         ,bird
+        ,edible
       ]
 
 sun_requirements:

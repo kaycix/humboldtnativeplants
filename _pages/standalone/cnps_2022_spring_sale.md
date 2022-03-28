@@ -29,6 +29,11 @@ This website is currently under construction! Report any issues for fixing and p
 Browse plants by categories: 
 </h3>
 <ul class="categories">
+    <li>    
+        <a href="{{'/category/beginner' | prepend:site.baseurl }}">
+       Beginner-Friendly Native Plants
+        </a>
+    </li>
     <li>
         <a href="{{'/category/hummingbird' | prepend:site.baseurl }}">
         Hummingbird Garden
@@ -40,13 +45,23 @@ Browse plants by categories:
         </a>
     </li>
     <li>    
-       Containers
+        <a href="{{'/category/container' | prepend:site.baseurl }}">
+        Container-Gardening
+        </a>
     </li>
     <li>    
-       Edibles
+        <a href="{{'/category/bee' | prepend:site.baseurl }}">
+            Bee
+        </a>
     </li>
+    <!--
     <li>    
-       CNPS Demonstration Garden
+        <a href="{{'/category/edible' | prepend:site.baseurl }}">
+            Edibles
+        </a>
+    </li>-->
+    <li>    
+       CNPS Demonstration Garden in Eureka
     </li>
     <li>    
        Trinidad Native Plant Garden
@@ -54,6 +69,11 @@ Browse plants by categories:
     <li>
         <a href="{{'/garden/arcata-marsh' | prepend:site.baseurl }}">
         Arcata Marsh Native Plant Garden
+        </a>
+    </li>
+    <li>
+        <a href="{{'/category/groundcover' | prepend:site.baseurl }}">
+            Ground Covers 
         </a>
     </li>
     <li>
