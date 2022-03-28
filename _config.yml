@@ -30,6 +30,7 @@ defaults:
      type: "categories"
    values:
      classes: category-page wide
+     title: ""
      layout: category
      custom_js:
         - util 

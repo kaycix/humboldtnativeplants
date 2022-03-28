@@ -8,14 +8,22 @@ layout: single
 {% assign plant_groups = plants | group_by : "type" %} 
 
 {% if page.icon %}
-    <img class="garden_icon" src="{{page.icon | prepend: site.baseurl }}" title="{{page.name}} icon"/>
+    <img class="title_icon" src="{{page.icon | prepend: site.baseurl }}" title="{{page.name}} icon"/>
 {% endif %}
 
 <h1>{{ page.name }} </h1>
+{% if page.subtext %}
+<p>
+    {{page.subtext}}
+</p>
+{% endif %}
+
 {% if page.website %}
+<p>
 Website: <a href="{{page.website.url}}" target="_blank">
             {{page.website.name}}
          </a>
+</p>
 {% endif %}
 
 <div style="clear:both"></div>

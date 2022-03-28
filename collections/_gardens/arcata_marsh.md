@@ -6,15 +6,15 @@ location: Arcata
 
 garden_tag_name: "arcata_marsh"
 
+subtext: "
+These are some of the native plants chosen for the dune, prairie and woodland habitats found in the Arcata Marsh Native Plant Garden. The garden is located beside the Marsh Interpretive Center."
+
 type: "demo"
 
 website: 
     name: "Friends of the Arcata Marsh"
     url: "https://www.arcatamarshfriends.org/amic-native-plant-garden/" 
 ---
-<p>
-These are some of the native plants to be found at the Arcata Marsh Native Plant Garden. The garden is located beside the Marsh Interpretive Center.
-</p>
 <!--
 Bog Lupine	Lupinus polyphyllus	
 California Fuschia or Margarita Fuchsia	Epilobium canum	Butseburougulh (earring)

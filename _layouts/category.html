@@ -1,13 +1,34 @@
 ---
 layout: single
 ---
-
-<!-- using page.title but ideally would get short-name another way? -->
-{% assign category = page.title | downcase %}
+<!-- hack? can't use page.title beacuse i dont want it to display -->
+{% assign category = page.category_tag_name | downcase %}
 {% assign plants = site.plants | where_exp: "item", 
                                  "item.categories contains category" %}
 {% assign plant_groups = plants | group_by : "type" %} 
 
+
+{% if page.icon %}
+    <img class="title_icon" src="{{page.icon | prepend: site.baseurl }}" title="{{page.name}} icon"/>
+{% endif %}
+
+<h1>{{ page.name }} </h1>
+{% if page.subtext %}
+<p>
+    {{page.subtext}}
+</p>
+{% endif %}
+
+{% if page.source %}
+<p>
+Source: <a href="{{page.source.url}}" target="_blank">
+            {{page.source.name}}
+         </a>
+</p>
+{% endif %}
+
+<div style="clear:both"></div>
+<br/>
 <!-- populate plant_data var -->
 {% include getPlantData.html %}
 	

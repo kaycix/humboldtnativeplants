@@ -2,7 +2,10 @@
 layout: single
 permalink: /cnps_2022_spring_sale/
 title: ""
-classes: "standalone event"
+classes: "standalone event wide"
+custom_js:
+    - util
+    - plant_data_table
 ---
 <!--
 <p>
@@ -13,7 +16,6 @@ This website is currently under construction! Report any issues for fixing and p
     <img src="{{'/assets/images/cnps_northcoast.jpg' | prepend:site.baseurl }}" />
 </div>
 <h1>Spring Native Plant Sale</h1>
-Hosted by the <b>California Native Plant Society, North Coast Chapter</b>
 
 <p>
     Date: April 30 & May 1, 2022
@@ -23,20 +25,31 @@ Hosted by the <b>California Native Plant Society, North Coast Chapter</b>
 
 <hr/>
 
-<h3>Plant Sale Inventory List</h3>
-<p>
-Filter by sun requirements, plant type, and height to find the perfect native plants for your garden.
-</p>
-<iframe src="{{'/category/cnps-2022-spring' | prepend:site.baseurl }}" 
-    style="border: 1px solid gray" width="800" height="600" frameborder="0" scrolling="yes">
-</iframe> 
-
 <h3>
-Need help choosing native plants? Check out some of these plant lists below.
+Browse plants by categories: 
 </h3>
-<ul>
+<ul class="categories">
     <li>
-        CNPS Demonstration Garden
+        <a href="{{'/category/hummingbird' | prepend:site.baseurl }}">
+        Hummingbird Garden
+        </a>
+    </li>
+    <li>    
+        <a href="{{'/category/butterfly' | prepend:site.baseurl }}">
+       Butterfly Garden
+        </a>
+    </li>
+    <li>    
+       Containers
+    </li>
+    <li>    
+       Edibles
+    </li>
+    <li>    
+       CNPS Demonstration Garden
+    </li>
+    <li>    
+       Trinidad Native Plant Garden
     </li>
     <li>
         <a href="{{'/garden/arcata-marsh' | prepend:site.baseurl }}">
@@ -44,18 +57,27 @@ Need help choosing native plants? Check out some of these plant lists below.
         </a>
     </li>
     <li>
-        Trinidad Native Plant Garden
-    </li>
-</ul>
-<h3>Browse by category:</h3>
-<ul>
-    <li>
+        <a href="{{'/category/hedge' | prepend:site.baseurl }}">
         Hedge Plants
-    </li>
-    <li>
-       Hummingbird Garden
-    </li>
-    <li>    
-       Butterfly Garden
+        </a>
     </li>
 </ul>
+
+<div style="clear:both"></div>
+
+<h3>View All Spring Sale Plants</h3>
+<p>
+Filter by sun requirements, plant type, and height to find the perfect native plants for your garden.
+</p>
+{% assign category = "cnps_2022_spring"  %}
+{% assign plants = site.plants | where_exp: "item", 
+                                 "item.categories contains category" %}
+{% assign plant_groups = plants | group_by : "type" %} 
+
+<!-- populate plant_data var -->
+{% include getPlantData.html %}
+	
+{% include plants.html 
+	plant_groups= plant_groups
+    show_native_to_humboldt= true
+%}
