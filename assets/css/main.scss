@@ -739,6 +739,11 @@ div.vine {
 .standalone ul.categories {
     margin-bottom: 20px;
 }
+
+nav.pagination {
+    display: none;
+}
+
 #footer {
     color: #FFF;
     background-color: $indigo-color;

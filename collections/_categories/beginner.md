@@ -1,10 +1,11 @@
 ---
 name: "Beginner-Friendly Native Plants"
+icon: "/assets/images/plants/achillea_millefolium_icon.jpg" 
 layout: category
 
 category_tag_name: "beginner"
 
-subtext: "Native plants are all generally beginner-friendly - as they are perfectly matched to our current environment. However, here is a list of plants that might be extra fun and rewarding for the beginner native plant gardener"
+subtext: "Native plants are generally easier to grow because they don't need soil amendments or extra irrigation once they are established. However, these are a list of plants that might be extra forgiving and rewarding for the beginner gardener"
 ---
 
 

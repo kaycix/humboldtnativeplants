@@ -30,7 +30,7 @@ icon: "/assets/images/plants/phacelia_californica_icon.jpg"
 calscape_link: ""
 
 gardens: [
-    ,cnps_demo
+    cnps_demo
     ,cnps_demo_coastal
         ]
 ---

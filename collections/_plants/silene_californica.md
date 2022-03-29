@@ -28,7 +28,7 @@ icon: "/assets/images/plants/silene_californica_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Silene-laciniata-ssp.-californica-(Cardinal-Catchfly)"
 
 gardens: [
-    ,cnps_demo
+    cnps_demo
     ,cnps_demo_redwood
         ]
 ---

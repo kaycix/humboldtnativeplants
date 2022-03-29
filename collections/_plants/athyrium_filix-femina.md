@@ -26,7 +26,7 @@ icon: "/assets/images/plants/athyrium_filix_femina_icon.jpg"
 calscape_link: "https://calscape.org/Athyrium-filix-femina-()"
 
 gardens: [
-    ,cnps_demo
+    cnps_demo
     ,cnps_demo_redwood
         ]
 ---
