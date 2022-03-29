@@ -92,6 +92,9 @@ var Util = (function() {
         } else if ((type_req == "fern") &&
                (type == "fern")) {
             return true;
+        } else if ((type_req == "succulent") &&
+               (type == "succulent")) {
+            return true;
         } else {
             return false;
         } 	
@@ -104,14 +107,17 @@ var Util = (function() {
         } 
         
         console.log('evaluating height reqs', height_req, plant);
-        var max_height = plant.height[plant.height.length - 1]; 
+        var max_height = Math.round(plant.height[plant.height.length - 1]); 
         if (!height_req || height_req == "any") {
             return true;
         } else if ((height_req == "low") && (max_height <= 3)) {
             return true;
-        } else if ((height_req == "medium") && (max_height <= 6)) {
+        } else if ((height_req == "medium") && 
+                   (max_height > 3) &&
+                   (max_height <= 6)) {
             return true;
-        } else if ((height_req == "tall")) { 
+        } else if ((height_req == "tall") && 
+                   (max_height > 6)) { 
             return true;
         } 
         return false;
