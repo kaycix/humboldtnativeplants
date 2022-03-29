@@ -39,18 +39,33 @@ var Util = (function() {
     Util.satisfies_sun_req = function(sun_req, plant) {
         console.log('evaluating sun reqs', sun_req, plant);
         if (!plant) {
-            console.log('returning false');
             return false;
         } 
+        
+        if (!plant.sun_requirements) {
+            return false;
+        }
+        // TOFIX: don't depend on proper casing of reqs from md file 
         if (!sun_req || sun_req == "any") {
-            console.log('sun_req = any, returning true');
+            return true;
+        } else if ((sun_req == "full_sun_only") && 
+                   (plant.sun_requirements.indexOf("Full Sun") != -1) &&
+                   (plant.sun_requirements.split(",").length == 1)) {
             return true;
         } else if ((sun_req == "full_sun") && 
                    (plant.sun_requirements.indexOf("Full Sun") != -1)) {
             return true;
+        } else if ((sun_req == "part_shade_only") &&
+               (plant.sun_requirements.indexOf("Part Shade") != -1) &&
+               (plant.sun_requirements.split(",").length == 1)) {
+            return true;
         } else if ((sun_req == "part_shade") &&
                (plant.sun_requirements.indexOf("Part Shade") != -1)) {
             return true;
+        } else if ((sun_req == "full_shade_only") && 
+               (plant.sun_requirements.indexOf("Full Shade") != -1) &
+               (plant.sun_requirements.split(",").length == 1)) {
+                return true;
         } else if ((sun_req == "full_shade") && 
                (plant.sun_requirements.indexOf("Full Shade") != -1)) {
                 return true;

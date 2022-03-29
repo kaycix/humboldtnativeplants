@@ -14,7 +14,7 @@ categories: [humboldt_county_native,
       ]
 
 sun_requirements:
-  - "Shade"
+  - "Full Shade"
   - "Part Shade"
 # min then max in feet
 plant_size:
