@@ -58,12 +58,12 @@ h1 a {
     margin-right: 0;
 }
 
-.site-logo img {
+#site-nav img {
     margin-right: 0;
     max-height: 3rem !important;
 }
 
-.site-title .location {
+.site-title-wrapper .location {
     color: $dark-green-color;
     font-size: 0.9em;
     letter-spacing: 10px;
@@ -72,7 +72,7 @@ h1 a {
     text-transform: uppercase;
 }
 
-.site-title .title {
+.site-title-wrapper .title {
     color: #1c351d;
     font-family: 'Lato', sans-serif;
     font-size: 1.3em;

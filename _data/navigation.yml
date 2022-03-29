@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "About"
-    url : "/about"
-  - title: "Contribute"
-    url: "/contribute"
+  #- title: "About"
+  #  url : "/about"
+  #- title: "Contribute"
+  #  url: "/contribute"
