@@ -26,7 +26,7 @@ plant_size:
 icon_attribution: 
     name: "Calflora"
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=mu22049"
-icon: "/assets/images/plants/sidalcea_malviflora._icon.jpg"
+icon: "/assets/images/plants/sidalcea_malviflora_icon.jpg"
  
 calscape_link: "https://calscape.org/Sidalcea-malviflora-()"
 
