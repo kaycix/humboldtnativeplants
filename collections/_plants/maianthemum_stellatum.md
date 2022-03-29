@@ -24,11 +24,9 @@ icon_attribution:
 icon: "/assets/images/plants/maianthemum_stellatum_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Maianthemum%20stellatum(%20)"
+
+gardens: [
+    cnps_demo
+    ,cnps_demo_redwood
+        ]
 ---
-
-
-
-
-
-
-

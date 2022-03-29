@@ -25,6 +25,11 @@ icon_attribution:
 icon: "/assets/images/plants/pectiantia_ovalis_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Coastal%20Miterwort%20(Pectiantia%20ovalis)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_riparian
+]
 ---
 
 

@@ -26,6 +26,8 @@ icon: "/assets/images/plants/darlingtonia_californica_icon.jpg"
 calscape_link: "https://calscape.org/Darlingtonia-californica-()"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_riparian
         ]
 ---
 

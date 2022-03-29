@@ -30,6 +30,8 @@ icon:  "/assets/images/plants/dicentra_formosa_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Dicentra%20formosa(%20)"
 
 gardens: [ 
-    "arcata_marsh"
+    arcata_marsh
+    ,cnps_demo
+    ,cnps_demo_riparian
 ]
 ---

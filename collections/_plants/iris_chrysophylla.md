@@ -25,6 +25,9 @@ icon_attribution:
 icon:  "/assets/images/plants/iris_chrysophylla_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Iris%20chrysophylla(%20)"
 
+gardens: [
+    cnps_demo
+    ,cnps_demo_redwood
+   ]
 ---
-
 

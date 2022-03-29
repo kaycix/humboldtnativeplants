@@ -26,11 +26,9 @@ icon_attribution:
 icon: "/assets/images/plants/viola_adunca_icon.jpg"
  
 calscape_link: "https://calscape.org/Viola-adunca-(Dog-Violet)"
+
+gardens: [
+    cnps_demo
+    ,cnps_demo_redwood
+        ]
 ---
-
-
-
-
-
-
-

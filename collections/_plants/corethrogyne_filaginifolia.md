@@ -31,12 +31,7 @@ icon: "/assets/images/plants/corethrogyne_filaginifolia_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Corethrogyne-filaginifolia-(California-Aster)"
 
 gardens: [
+    ,cnps_demo
+    ,cnps_demo_coastal
         ]
 ---
-
-
-
-
-
-
-

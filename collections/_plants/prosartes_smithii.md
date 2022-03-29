@@ -28,6 +28,8 @@ calscape_link: "https://calscape.org/loc-California/Prosartes%20smithii%20(Large
 
 gardens: [ 
     "arcata_marsh"
+    ,cnps_demo
+    ,cnps_demo_riparian
 ]
 ---
 

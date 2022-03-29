@@ -26,6 +26,10 @@ icon_attribution:
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=mu18178" 
 icon: "/assets/images/plants/tolmiea_diplomenziesii_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Tolmiea%20diplomenziesii(%20)"
----
 
+gardens: [
+    cnps_demo
+    ,cnps_demo_redwood
+        ]
+---
 

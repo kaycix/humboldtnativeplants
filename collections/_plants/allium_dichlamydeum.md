@@ -25,7 +25,9 @@ icon_attribution:
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=gp15806" 
 icon: "/assets/images/plants/allium_dichlamydeum_icon.jpg" 
 calscape_link: "https://calscape.org/Allium-dichlamydeum-()"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_riparian
+]
 ---
-
-
-

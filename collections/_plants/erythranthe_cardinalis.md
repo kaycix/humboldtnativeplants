@@ -32,12 +32,7 @@ icon: "/assets/images/plants/erythranthe_cardinalis_icon.jpg"
 calscape_link: "https://calscape.org/Erythranthe-cardinalis-()"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_riparian
         ]
 ---
-
-
-
-
-
-
-

@@ -29,12 +29,7 @@ icon: "/assets/images/plants/dudleya_cymosa_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Dudleya-cymosa-(Canyon-Dudleya)"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_coastal
         ]
 ---
-
-
-
-
-
-
-

@@ -33,7 +33,8 @@ calscape_link: "https://calscape.org/loc-California/Fragaria%20chiloensis%20(Bea
 
 gardens: [ 
     "arcata_marsh"
-    ,"kellie" 
+    ,cnps_demo
+    ,cnps_demo_coastal
         ]
 ---
 

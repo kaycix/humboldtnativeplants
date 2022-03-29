@@ -26,9 +26,9 @@ icon_attribution:
 icon: "/assets/images/plants/dichelostemma_capitatum_ssp_capitatum_icon.jpg"
  
 calscape_link: "https://calscape.org/Dichelostemma-capitatum-()"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_riparian
+]
 ---
-
-
-
-
-

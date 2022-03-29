@@ -28,12 +28,7 @@ icon: "/assets/images/plants/xerophyllum_tenax_icon.jpg"
 calflora_link: "https://www.calflora.org/app/taxon?crn=8368"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_redwood
         ]
 ---
-
-
-
-
-
-
-

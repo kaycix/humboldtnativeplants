@@ -28,6 +28,9 @@ icon_attribution:
     url: ""
 icon: "/assets/images/plants/polygonum_paronychia_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Polygonum%20paronychia(%20)"
+
+gardens: [
+    ,cnps_demo
+    ,cnps_demo_coastal
+        ]
 ---
-
-

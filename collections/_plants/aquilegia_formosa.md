@@ -36,7 +36,8 @@ observations:
 
 gardens: [
     "arcata_marsh" 
-    ,"kellie" 
+    ,cnps_demo
+    ,cnps_demo_riparian
         ]
 ---
 

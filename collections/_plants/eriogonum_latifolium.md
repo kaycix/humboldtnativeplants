@@ -31,6 +31,8 @@ calscape_link: "https://calscape.org/loc-California/Eriogonum%20latifolium(%20)"
 
 gardens: [
     "arcata_marsh" 
+    ,cnps_demo
+    ,cnps_demo_coastal
 ]
 ---
 

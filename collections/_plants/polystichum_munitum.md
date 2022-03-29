@@ -27,8 +27,11 @@ icon: "/assets/images/plants/polystichum_munitum_icon.jpg"
  
 calscape_link: "https://calscape.org/Polystichum-munitum-()"
 
-available: 
-  - CNPS_master_inventory
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_riparian
+]
+
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve"

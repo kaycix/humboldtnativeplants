@@ -29,12 +29,7 @@ icon: "/assets/images/plants/monardella_odoratissima_icon.jpg"
 calscape_link: "https://calscape.org/Monardella-odoratissima-()"
 
 gardens: [
+    cnps_demo
+   ,cnps_demo_riparian
         ]
 ---
-
-
-
-
-
-
-

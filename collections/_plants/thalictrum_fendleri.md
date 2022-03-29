@@ -28,5 +28,10 @@ icon_attribution:
 icon: "/assets/images/plants/thalictrum_fendleri_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/thalictrum%20fendleri(%20)"
+
+gardens: [
+    cnps_demo
+    ,cnps_demo_redwood
+        ]
 ---
 

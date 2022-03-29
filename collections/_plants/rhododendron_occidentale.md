@@ -27,12 +27,7 @@ icon: "/assets/images/plants/rhododendron_occidentale_icon.jpg"
 calscape_link: "https://calscape.org/Rhododendron-occidentale-(Western-Azalea)"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_redwood
         ]
 ---
-
-
-
-
-
-
-

@@ -26,6 +26,10 @@ icon_attribution:
     url: "https://calscape.org/photos/374?srchcr=sc622922583ea4e"
 icon: "/assets/images/plants/armeria_maritima_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Sea%20Thrift%20(Armeria%20maritima)"
----
 
+gardens: [
+    ,cnps_demo
+    ,cnps_demo_coastal
+        ]
+---
 

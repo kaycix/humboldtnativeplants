@@ -28,5 +28,9 @@ icon: "/assets/images/plants/iris_tenax_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Iris%20tenax(%20)"
 
+gardens: [
+    cnps_demo
+    ,cnps_demo_redwood
+        ]
 ---
 

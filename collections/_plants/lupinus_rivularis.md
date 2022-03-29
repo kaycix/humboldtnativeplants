@@ -29,12 +29,7 @@ icon: ""
 calscape_link: "https://calscape.org/Lupinus-rivularis-()"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_riparian
         ]
 ---
-
-
-
-
-
-
-

@@ -25,8 +25,10 @@ icon:  "/assets/images/plants/asarum_caudatum_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Asarum%20caudatum(%20)"
 
-
 gardens: [
-    "arcata_marsh" 
+    arcata_marsh 
+    ,cnps_demo
+    ,cnps_demo_riparian
 ]
+
 ---

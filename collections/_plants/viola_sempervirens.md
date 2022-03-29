@@ -26,6 +26,16 @@ icon_attribution:
 icon: "/assets/images/plants/viola_sempervirens_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Viola%20sempervirens(%20)"
+
+gardens: [
+    cnps_demo
+    ,cnps_demo_riparian
+        ]
+
+# doesn't support multiple gardens :(
+subgarden: [
+    "riparian/bog"
+]
 ---
 
 

@@ -25,11 +25,9 @@ icon_attribution:
 icon: "/assets/images/plants/romanzoffia_californica_icon.jpg"
  
 calscape_link: "https://calscape.org/Romanzoffia-californica-()"
+
+gardens: [
+    cnps_demo
+    ,cnps_demo_redwood
+        ]
 ---
-
-
-
-
-
-
-

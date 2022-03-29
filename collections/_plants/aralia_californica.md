@@ -30,5 +30,7 @@ icon: "/assets/images/plants/aralia_californica_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Aralia%20californica%20(Elk's%20Clover)"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_riparian
         ]
 ---

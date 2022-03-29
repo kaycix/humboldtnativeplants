@@ -26,5 +26,10 @@ icon_attribution:
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=mg99973"
 icon: "/assets/images/plants/helenium_bigelovii_icon.jpg" 
 calscape_link: "https://calscape.org/Helenium-bigelovii-(Bigelow's-Sneezeweed)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_riparian
+]
 ---
 

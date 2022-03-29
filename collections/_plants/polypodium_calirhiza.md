@@ -25,5 +25,15 @@ icon_attribution:
 icon: "/assets/images/plants/polypodium_calirhiza_icon.jpg"
  
 calscape_link: "https://calscape.org/Polypodium-calirhiza-()"
+
+gardens: [
+    cnps_demo
+    ,cnps_demo_riparian
+]
+
+# doesn't support multiple gardens :(
+subgarden: [
+    "riparian/bog"
+]
 ---
 

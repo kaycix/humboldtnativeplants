@@ -27,4 +27,9 @@ icon_attribution:
 icon:  "/assets/images/plants/iris_macrosiphon_icon.jpg"
 
 calscape_link: "https://calscape.org/Iris-macrosiphon-(Long-Tubed-Iris)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_riparian
+]
 ---

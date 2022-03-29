@@ -27,6 +27,11 @@ icon_attribution:
 icon: "/assets/images/plants/tiarella_trifoliata_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Sugar%20Scoop%20(Tiarella%20trifoliata)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_riparian
+]
 ---
 
 

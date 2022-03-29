@@ -35,5 +35,10 @@ observations:
   - location: "McKinleyville"
     location_detail: "Azalea Reserve (Surrounding Areas)"
     last_spotted: "Summer 2021"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_riparian
+]
 ---
 

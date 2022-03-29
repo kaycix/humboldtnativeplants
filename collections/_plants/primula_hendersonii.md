@@ -29,12 +29,7 @@ icon: "/assets/images/plants/primula_hendersonii_icon.jpg"
 calscape_link: "https://calscape.org/Primula-hendersonii-(Mosquito-Bills)"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_redwood
         ]
 ---
-
-
-
-
-
-
-
