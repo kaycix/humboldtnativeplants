@@ -70,11 +70,15 @@ This event is sponsored by:
             </a>
         </li>-->
         <li>    
+            <!--    
            North Coast CNPS Garden (Eureka)
+            -->
         </li>
-        <li>    
+        <li>
+            <!--    
            Trinidad Native Plant Garden
-        </li>
+            -->
+         </li>
         <li>
             <a href="{{'/garden/arcata-marsh' | prepend:site.baseurl }}">
             Arcata Marsh Native Plant Garden

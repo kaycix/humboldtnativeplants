@@ -4,9 +4,10 @@ common_name: "Yerba Mansa"
 scientific_name: "anemopsis californica"
 type: "perennial herb"
 
-native_to: "California"
+# Calscape says not native to Humboldt. Barbara saw it here. will probably change it to adhere to calscape later
+native_to: "Humboldt"
 
-categories: [
+categories: [humboldt_county_native
         cnps_master_inventory
         ,cnps_2022_spring
       ]

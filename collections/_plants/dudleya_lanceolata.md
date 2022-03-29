@@ -8,6 +8,7 @@ native_to: "Humboldt"
 
 categories: [
         cnps_master_inventory
+        ,container
       ]
 
 sun_requirements:
