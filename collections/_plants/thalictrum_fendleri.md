@@ -15,7 +15,7 @@ categories: [
       ]
 
 sun_requirements:
-  - "Shade"
+  - "Full Shade"
   - "Part Shade"
 plant_size:
   - height: 

@@ -5,7 +5,7 @@ scientific_name: "Lysichiton americanus"
 plant_id: 56
 sun_requirements:
   - "Part Shade"
-  - "Shade"
+  - "Full Shade"
 plant_size:
   - height: 
     - 5
