@@ -23,8 +23,8 @@ plant_size:
 
 icon_attribution: 
     name: "Calscape"
-    url: ""
-icon: ""
+    url: "Calflora"
+icon: "/assets/images/plants/lupinus_rivularis_icon.jpg"
  
 calscape_link: "https://calscape.org/Lupinus-rivularis-()"
 
