@@ -714,31 +714,29 @@ div.vine {
     width: 200px;
 }
 
-.plant-page .attr {
+.main_icon_holder .attr {
     font-size: 0.8em;
     text-align: center;
 }
 
-.plant-page img {
-    border-radius: 100px;
-    margin-bottom: 3px;
-}
-
-.standalone .title_icon,
-.garden-page .title_icon,
-.category-page .title_icon {
-    border-radius: 100px;
+.main_icon_holder {
     float: left;
     margin-right: 20px;
 }
 
+.main_icon_holder img {
+    border-radius: 100px;
+    width: 200px;
+}
+
 @media screen and (max-width: 480px) {
-    .standalone .title_icon,
-    .garden-page .title_icon,
-    .category-page .title_icon {
-        border-radius: 50px;
-        float: left;
+
+    .main_icon_holder {
         margin-right: 10px;
+    }
+
+    .main_icon_holder img {
+        border-radius: 50px;
         width: 100px;
     }
 }

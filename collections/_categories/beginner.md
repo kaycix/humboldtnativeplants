@@ -1,9 +1,12 @@
 ---
 name: "Beginner-Friendly Native Plants"
-icon: "/assets/images/plants/achillea_millefolium_icon.jpg" 
+category_tag_name: "beginner"
 layout: category
 
-category_tag_name: "beginner"
+icon: "/assets/images/plants/achillea_millefolium_icon.jpg" 
+icon_attribution: 
+    name: "Calscape"
+    url: "https://calscape.org/photos/47?srchcr=sc61fdc48beaf01"
 
 subtext: "This is a list of easy and rewarding native plants for the beginner gardener."
 

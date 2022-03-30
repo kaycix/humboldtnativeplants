@@ -11,8 +11,8 @@ classes: plant-page wide
 
 <div class="plant_header" style="margin-bottom:10px">
     {% if page.icon %}
-    <div class="icon_holder">
-        <img src="{{ page.icon | prepend: site.baseurl }}" alt="photo of a {{page.common_name}}"/>
+    <div class="main_icon_holder">
+        <img class="title_icon" src="{{ page.icon | prepend: site.baseurl }}" alt="photo of a {{page.common_name}}"/>
         {% if page.icon_attribution %}
             {% if page.icon_attribution["name"] and
                   page.icon_attribution["url"] %}

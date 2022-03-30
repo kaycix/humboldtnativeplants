@@ -8,7 +8,9 @@ layout: single
 {% assign plant_groups = plants | group_by : "type" %} 
 
 {% if page.icon %}
+<div class="main_icon_holder">
     <img class="title_icon" src="{{page.icon | prepend: site.baseurl }}" title="{{page.name}} icon"/>
+</div>
 {% endif %}
 
 <h1>{{ page.name }} </h1>

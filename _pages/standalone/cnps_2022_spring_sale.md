@@ -12,7 +12,9 @@ custom_js:
 This website is currently under construction! Report any issues for fixing and please check back for updates.
 </p>
 -->
-    <img class="title_icon" src="{{'/assets/images/lupinus_rivularis.jpg' | prepend:site.baseurl }}" style="border-radius: 100px; margin-bottom: 15px" />
+<div class="main_icon_holder">
+    <img class="title_icon" src="{{'/assets/images/lupinus_rivularis.jpg' | prepend:site.baseurl }}">
+</div>
 
 <h1>Spring Native Plant Sale</h1>
 

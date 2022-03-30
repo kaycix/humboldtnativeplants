@@ -9,7 +9,17 @@ layout: single
 
 
 {% if page.icon %}
+<div class="main_icon_holder">
     <img class="title_icon" src="{{page.icon | prepend: site.baseurl }}" title="{{page.name}} icon"/>
+    {% if page.icon_attribution %}
+        {% if page.icon_attribution["name"] and
+              page.icon_attribution["url"] %}
+            <div class="attr">Photo by 
+                <a href="{{page.icon_attribution["url"]}}" target="_blank">{{page.icon_attribution["name"]}}</a>
+            </div>
+        {% endif %}
+     {% endif %}
+</div>
 {% endif %}
 
 <h1>{{ page.name }} </h1>
