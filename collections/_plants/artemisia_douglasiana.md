@@ -10,6 +10,7 @@ categories: [humboldt_county_native,
        cnps_master_inventory
         ,butterfly
         ,bird
+        ,groundcover
       ]
 
 sun_requirements:

@@ -1,6 +1,6 @@
 ---
 plant_id: 151 
-common_name: "sorrel"
+common_name: "Sorrel"
 scientific_name: "oxalis oregana"
 type: "perennial herb"
 native_to: "Humboldt"

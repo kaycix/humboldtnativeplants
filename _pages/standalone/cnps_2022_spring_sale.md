@@ -33,70 +33,70 @@ This event is sponsored by:
 
 <div style="clear:both"></div>
 <hr/>
-<section class="categories">
+<section>
     <h3>
     Browse plants by categories: 
     </h3>
-    <ul class="categories">
-        <li>    
+    <div class="list_categories">
+        <div class="list_category">
             <a href="{{'/category/beginner' | prepend:site.baseurl }}">
            Beginner-Friendly Native Plants
             </a>
-        </li>
-        <li>
+        </div>
+        <div class="list_category">
             <a href="{{'/category/hummingbird' | prepend:site.baseurl }}">
-            Hummingbird Garden
+            Hummingbird Gardens
             </a>
-        </li>
-        <li>    
+        </div>
+        <div class="list_category">
             <a href="{{'/category/butterfly' | prepend:site.baseurl }}">
-           Butterfly Garden
+           Butterfly Gardens
             </a>
-        </li>
-        <li>    
+        </div>
+        <!--
+            <div class="list_category">
             <a href="{{'/category/container' | prepend:site.baseurl }}">
             Container-Gardening
             </a>
-        </li>
-        <li>    
+            </div>
+            -->
+        <div class="list_category">
             <a href="{{'/category/bee' | prepend:site.baseurl }}">
-                Bee
+                Bee-Friendly Gardens
             </a>
-        </li>
+        </div>
         <!--
         <li>    
             <a href="{{'/category/edible' | prepend:site.baseurl }}">
                 Edibles
             </a>
         </li>-->
-        <li>    
             <!--    
-           North Coast CNPS Garden (Eureka)
+            <div class="list_category">
+               North Coast CNPS Garden (Eureka)
+            </div>
             -->
-        </li>
-        <li>
             <!--    
            Trinidad Native Plant Garden
             -->
-         </li>
-        <li>
+        <div class="list_category">
             <a href="{{'/garden/arcata-marsh' | prepend:site.baseurl }}">
             Arcata Marsh Native Plant Garden
             </a>
-        </li>
-        <li>
+        </div>
+        <div class="list_category">
             <a href="{{'/category/groundcover' | prepend:site.baseurl }}">
                 Ground Covers 
             </a>
-        </li>
-        <li>
+        </div>
+        <div class="list_category">
             <a href="{{'/category/hedge' | prepend:site.baseurl }}">
             Hedge Plants
             </a>
-        </li>
-    </ul>
-    <div style="clear:both"></div>
+        </div>
+    </div>
 </section>
+<div style="clear:both"></div>
 
 <h3>View All Spring Sale Plants</h3>
 <p>

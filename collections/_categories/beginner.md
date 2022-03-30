@@ -5,7 +5,12 @@ layout: category
 
 category_tag_name: "beginner"
 
-subtext: "Native plants are generally easier to grow because they don't need soil amendments or extra irrigation once they are established. However, these are a list of plants that might be extra forgiving and rewarding for the beginner gardener"
+subtext: "Here are several native plants that are fun and rewarding for the beginner native plant gardener."
+
+source: 
+    name: "North Coast CNPS Nursery Committee"
+    url: "https://northcoastcnps.org"
+
 ---
 
 

@@ -475,7 +475,6 @@ input[type=checkbox]
 #new_search_location {
     min-width: 100px;
     max-width: 340px;
-    float: left;
     margin-right: 30px; 
 }
 
@@ -732,12 +731,9 @@ div.vine {
     border-radius: 100px;
 }
 
-.standalone ul.categories li {
+.standalone .list_category {
     float: left;
-    width: 50%;
-}
-.standalone ul.categories {
-    margin-bottom: 20px;
+    min-width: 300px;
 }
 
 nav.pagination {
