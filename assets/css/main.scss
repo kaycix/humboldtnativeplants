@@ -733,16 +733,13 @@ div.vine {
 }
 
 @media screen and (max-width: 480px) {
-    .title_icon img {
-         width: 100px;
-    }
-
     .standalone .title_icon,
     .garden-page .title_icon,
     .category-page .title_icon {
         border-radius: 50px;
         float: left;
         margin-right: 10px;
+        width: 100px;
     }
 }
 
