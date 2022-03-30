@@ -86,7 +86,7 @@ This event is sponsored by:
         </div>
         <div class="list_category">
             <a href="{{'/category/groundcover' | prepend:site.baseurl }}">
-                Ground Covers 
+                Groundcovers 
             </a>
         </div>
         <div class="list_category">
