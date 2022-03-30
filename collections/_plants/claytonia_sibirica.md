@@ -1,6 +1,6 @@
 ---
 plant_id: 110 
-common_name: "Candy Flower"
+common_name: "Indian Lettuce"
 scientific_name: "Claytonia sibirica"
 type: "perennial herb"
 
@@ -24,5 +24,5 @@ icon_attribution:
     url: "https://calscape.com/ExtData/allimages/Photos/Claytonia_sibirica_image56.jpg" 
 icon:  "/assets/images/plants/asarum_caudatum_icon.jpg"
 
-calscape_link: "https://calscape.org/loc-California/Asarum%20caudatum(%20)"
+calscape_link: "https://calscape.org/Claytonia-sibirica-(Indian-Lettuce,Candy-Flower)"
 ---

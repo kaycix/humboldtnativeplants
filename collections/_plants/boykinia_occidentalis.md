@@ -1,6 +1,6 @@
 ---
 plant_id: 11
-common_name: "Western Boykinia"
+common_name: "Brook Foam"
 scientific_name: "Boykinia Occidentalis"
 type: "perennial herb"
 
