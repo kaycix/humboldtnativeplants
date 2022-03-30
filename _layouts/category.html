@@ -21,9 +21,12 @@ layout: single
 
 {% if page.source %}
 <p>
-Source: <a href="{{page.source.url}}" target="_blank">
-            {{page.source.name}}
-         </a>
+Source: 
+    {% for source in page.source %}
+    <a href="{{source.url}}" target="_blank">
+        {{source.name}}
+    </a><br/>
+    {% endfor %}
 </p>
 {% endif %}
 

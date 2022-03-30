@@ -16,6 +16,7 @@ categories: [
         ,bird
         ,beginner
         ,groundcover
+        ,edible
       ]
 
 sun_requirements:

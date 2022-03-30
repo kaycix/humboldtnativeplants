@@ -14,6 +14,7 @@ categories: [humboldt_county_native,
         ,bee
         ,groundcover
         ,beginner
+        ,edible
       ]
 
 sun_requirements:

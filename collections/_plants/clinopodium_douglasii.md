@@ -11,6 +11,7 @@ categories: [humboldt_county_native,
         ,cnps_2022_spring
         ,butterfly
         ,groundcover
+        ,edible
       ]
 
 sun_requirements:
