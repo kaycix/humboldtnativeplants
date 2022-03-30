@@ -23,10 +23,10 @@ plant_size:
 icon_attribution: 
     name: ""
     url: ""
-icon: "/assets/images/plants/epilobium_canum_margarita_icon.jpg"
+#icon: "/assets/images/plants/epilobium_canum_margarita_icon.jpg"
 
 # no link found for this cultivar 
-calscape_link: ""
+# calscape_link: ""
 
 gardens: [
         ]

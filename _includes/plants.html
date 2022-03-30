@@ -77,13 +77,6 @@
                     </td>
                 {% endif %}
                 <td class="name">
-                    <!--
-                    {% if plant.calscape_link %}
-                        <a href="{{plant.calscape_link}}" target="_blank">View on Calscape</a>
-                    {% elsif plant.calflora_link %}
-                        <a href="{{plant.calflora_link}}" target="_blank">View on Calflora</a>
-                    {% endif %}
-                    --> 
                     {% if plant.icon %}
                         <img src="{{ plant.icon | prepend: site.baseurl }}" alt="{{plant.common_name}}"/>
                     {% else %}

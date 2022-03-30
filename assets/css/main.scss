@@ -433,7 +433,10 @@ html table .scientific_name {
 }
 
 .plant_table td.name .empty_icon {
+    background-color: #EFEFEF;
+    border-radius: 20px;
     float: left;
+    height: 40px;
     margin-right: 16px;
     width: 40px;
 }
