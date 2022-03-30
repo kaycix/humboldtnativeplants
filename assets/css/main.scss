@@ -724,14 +724,26 @@ div.vine {
     margin-bottom: 3px;
 }
 
+.standalone .title_icon,
 .garden-page .title_icon,
 .category-page .title_icon {
+    border-radius: 100px;
     float: left;
     margin-right: 20px;
 }
 
-.category-page .title_icon {
-    border-radius: 100px;
+@media screen and (max-width: 480px) {
+    .title_icon img {
+         width: 100px;
+    }
+
+    .standalone .title_icon,
+    .garden-page .title_icon,
+    .category-page .title_icon {
+        border-radius: 50px;
+        float: left;
+        margin-right: 10px;
+    }
 }
 
 .standalone .list_category {
