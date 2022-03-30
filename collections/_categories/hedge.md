@@ -5,7 +5,7 @@ layout: category
 
 category_tag_name: "hedge"
 
-subtext: "Planting a native hedgerow will add both beauty and biodiversity to your yard. While a hedgerow can be created with various groupings of native plants, these are some our favorite recommendations for adding some privacy to yard."
+subtext: "Planting a native hedgerow will add both beauty and biodiversity to your yard. A hedgerow can be created with various groupings of native plants in a layered canopy and the possibilities are endless. These are a few of our go-to recommendations for adding some privacy to yard."
 
 ---
 

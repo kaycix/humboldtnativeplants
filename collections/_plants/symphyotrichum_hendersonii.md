@@ -25,7 +25,7 @@ plant_size:
 icon_attribution: 
     name: ""
     url: ""
-icon: ""
+# icon: ""
 #assets/images/plants/symphyotrichum_hendersonii_icon.jpg"
  
 calscape_link: "https://calscape.org/Symphyotrichum-hendersonii-()"

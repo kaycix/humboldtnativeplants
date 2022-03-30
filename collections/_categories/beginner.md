@@ -5,7 +5,7 @@ layout: category
 
 category_tag_name: "beginner"
 
-subtext: "Here are several native plants that are fun and rewarding for the beginner native plant gardener."
+subtext: "This is a list of easy and rewarding native plants for the beginner gardener."
 
 source: 
     name: "North Coast CNPS Nursery Committee"

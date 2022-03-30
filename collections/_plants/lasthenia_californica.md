@@ -25,7 +25,7 @@ plant_size:
 icon_attribution: 
     name: "Calscape"
     url: ""
-icon: "/assets/images/plants/_icon.jpg"
+icon: "/assets/images/plants/lasthenia_californica_icon.jpg"
  
 calscape_link: "https://calscape.org/Lasthenia-californica-(California-Goldfields)"
 
