@@ -11,6 +11,7 @@ categories: [ cnps_master_inventory
               ,cnps_2022_spring
               ,butterfly
               ,beginner
+              ,container
       ]
 
 sun_requirements:

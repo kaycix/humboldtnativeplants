@@ -10,6 +10,7 @@ categories: [ cnps_master_inventory
         ,cnps_2022_spring
         ,butterfly
         ,bee
+        ,container
       ]
 
 sun_requirements:

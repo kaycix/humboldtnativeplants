@@ -15,6 +15,7 @@ categories: [humboldt_county_native
         ,bird
         ,beginner
         ,groundcover
+        ,container
       ]
 
 sun_requirements:

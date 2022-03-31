@@ -12,6 +12,7 @@ categories: [humboldt_county_native
         ,butterfly
         ,groundcover
         ,beginner
+        ,container
       ]
 
 sun_requirements:
@@ -25,7 +26,7 @@ plant_size:
 
 icon_attribution: 
     name: "Calflora"
-    url: ""
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=gp4930"
 icon: "/assets/images/plants/sedum_spathulifolium_icon.jpg"
  
 calscape_link: "https://calscape.org/Sedum-spathulifolium-()"

@@ -12,6 +12,7 @@ categories: [
             ,cnps_2022_spring
             ,butterfly
             ,bird
+            ,container
             ]
 
 sun_requirements:

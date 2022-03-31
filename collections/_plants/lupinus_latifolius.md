@@ -1,6 +1,6 @@
 ---
 plant_id: 232 
-common_name: "Riverbank Lupine"
+common_name: "Broadleaf Lupine"
 scientific_name: "Lupinus latifolius"
 type: "perennial herb"
 

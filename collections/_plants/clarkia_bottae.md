@@ -10,6 +10,7 @@ categories: [humboldt_county_native,
         ,cnps_2022_spring
         ,butterfly
         ,bee  
+        ,container
     ]
 
 sun_requirements:
