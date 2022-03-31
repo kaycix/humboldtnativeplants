@@ -14,8 +14,10 @@ categories: [humboldt_county_native,
         ,edible
       ]
 
+# this isn't what Calscape says but Chris says:
 sun_requirements:
   - "Part Shade"
+  - "Full Sun"
 # min then max in feet
 plant_size:
   - height: 

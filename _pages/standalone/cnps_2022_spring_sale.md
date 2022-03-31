@@ -64,6 +64,16 @@ This event is sponsored by: <a href="https://northcoastcnps.org">North Coast Cal
                 Bee-Friendly Gardens
             </a>
         </div>
+        <div class="list_category">
+            <a href="{{'/category/groundcover' | prepend:site.baseurl }}">
+                Groundcovers 
+            </a>
+        </div>
+        <div class="list_category">
+            <a href="{{'/category/hedge' | prepend:site.baseurl }}">
+            Hedge Plants
+            </a>
+        </div>
         <!--
         <li>    
             <a href="{{'/category/edible' | prepend:site.baseurl }}">
@@ -81,16 +91,6 @@ This event is sponsored by: <a href="https://northcoastcnps.org">North Coast Cal
         <div class="list_category">
             <a href="{{'/garden/arcata-marsh' | prepend:site.baseurl }}">
             Arcata Marsh Native Plant Garden
-            </a>
-        </div>
-        <div class="list_category">
-            <a href="{{'/category/groundcover' | prepend:site.baseurl }}">
-                Groundcovers 
-            </a>
-        </div>
-        <div class="list_category">
-            <a href="{{'/category/hedge' | prepend:site.baseurl }}">
-            Hedge Plants
             </a>
         </div>
     </div>
