@@ -15,7 +15,6 @@ $orange-color: #AA3704;
 
 $dark-red-color: #77031C;
 $dark-blue-color: #035677;
-$purple-color: #7D4E57;
 $salmon-color: #D66853;
 
 html {
@@ -487,8 +486,12 @@ input[type=checkbox]
 
 .plant_type .type_icon {
     background-repeat: no-repeat;
-    margin: 0 auto; 
+    color: #FFF;
+    font-size: 0.8rem;
     height: 30px;
+    line-height: 30px;
+    margin: 0 auto; 
+    text-align: center;
     width: 30px;
 } 
 
@@ -498,33 +501,38 @@ div.annual_herb {
 }
 
 div.grass {
-    background-color: $deep-green-color;
+    background-color: #2d9c42;
     background-image: url("./../images/icons/grass.png");
 }
 
 div.tree {
-    background-color: $dark-red-color;
+    background-color: #278c20;
     background-image: url("./../images/icons/tree.png");
 }
 
 div.fern {
-    background-color: $dark-blue-color;
+    background-color: #236013;
     background-image: url("./../images/icons/fern.png");
 }
 
 
 div.perennial_herb {
-    background-color: $indigo-color;
+    background-color: #32198a;
     background-image: url("./../images/icons/perennial_herb.png");
 }
 
 div.shrub {
-    background-color: $purple-color;
+    background-color: #223c8a;
     background-image: url("./../images/icons/shrub.png");
 }
 
+div.succulent {
+    background-color: #881c3f;
+    background-image: url("./../images/icons/succulent.png");
+}
+
 div.vine {
-    background-color: $orange-color;
+    background-color: #65168a;
     background-image: url("./../images/icons/vine.png");
 }
 
