@@ -8,12 +8,10 @@ icon_attribution:
     name: "Calscape"
     url: "https://calscape.org/photos/47?srchcr=sc61fdc48beaf01"
 
-subtext: "This is a list of easy and rewarding native plants for the beginner gardener."
+subtext: "Native plants are beautiful, easy to maintain and will support our local ecosystem. We've selected this list of easy and rewarding native plants for the beginner gardener."
 
 source:
     - name: "North Coast CNPS Nursery Committee"
       url: "https://northcoastcnps.org"
 
 ---
-
-

@@ -56,13 +56,11 @@ This event is sponsored by:
            Butterfly Gardens
             </a>
         </div>
-        <!--
-            <div class="list_category">
+        <div class="list_category">
             <a href="{{'/category/container' | prepend:site.baseurl }}">
             Container-Gardening
             </a>
-            </div>
-            -->
+        </div>
         <div class="list_category">
             <a href="{{'/category/bee' | prepend:site.baseurl }}">
                 Bee-Friendly Gardens
