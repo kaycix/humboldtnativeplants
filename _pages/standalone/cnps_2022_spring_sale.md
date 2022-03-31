@@ -29,9 +29,7 @@ This website is currently under construction! Report any issues for fixing and p
     Event Website: <a href="https://northcoastcnps.org/index.php/44-topmenucontent/288-plant-sale-event-page">North Coast CNPS: Spring Plant Sale</a> 
 </p>
 <p>
-This event is sponsored by:
-<br/>
-<a href="https://northcoastcnps.org">North Coast Califonia Native Plant Society</a>
+This event is sponsored by: <a href="https://northcoastcnps.org">North Coast Califonia Native Plant Society</a>
 </p>
 
 <div style="clear:both"></div>
