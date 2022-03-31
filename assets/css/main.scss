@@ -734,7 +734,8 @@ div.vine {
 
 .main_icon_holder img {
     border-radius: 100px;
-    width: 200px;
+    max-height: 200px;
+    max-width: 200px;
 }
 
 @media screen and (max-width: 480px) {

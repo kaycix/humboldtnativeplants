@@ -70,11 +70,11 @@ This event is sponsored by: <a href="https://northcoastcnps.org">North Coast Cal
                 Edibles
             </a>
         </li>-->
-            <!--    
-            <div class="list_category">
-               North Coast CNPS Garden (Eureka)
-            </div>
-            -->
+        <div class="list_category">
+            <a href="{{'/garden/cnps-demo' | prepend:site.baseurl }}">
+           North Coast CNPS Garden (Eureka)
+            </a>
+        </div>
             <!--    
            Trinidad Native Plant Garden
             -->

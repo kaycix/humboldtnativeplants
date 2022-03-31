@@ -7,7 +7,7 @@ location: Eurea
 garden_tag_name: "cnps_demo"
 
 subtext: "
-The North Coast CNPS demonstration garden is modest in size but boasts a dazzling array of Humboldt County natives. It is open weekly during volunteer and sale hours. It's a great place to pick up some ideas for your home garden. If you plan your visit during Volunteer Hours, there will be knowledgeable CNPS volunteers on hand to answer any questions."
+The North Coast CNPS demonstration garden is modest in size but boasts a dazzling array of Humboldt County natives. It is open weekly during volunteer and sale hours.<br/>This list is currently under construction. Check back soon for the full list!" 
 
 type: "demo"
 
