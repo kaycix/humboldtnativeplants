@@ -31,7 +31,7 @@ hours:
     - day: "Sun"
       time: "10:00 a.m. - 12:30 p.m."
 
-hours_text: "The nursery and demonstration garden are open to the public during Volunteer Hours. Plant sales are on hold until the Spring Plant Sale."
+hours_text: "The nursery and demonstration garden are open to the public during Volunteer Hours. Plant sales are currently on hold until the <a href='/cnps_2022_spring_sale'>Spring Plant Sale</a>."
 
 more:
     - name: "Volunteer at the Nursery"
