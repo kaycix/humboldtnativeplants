@@ -1,0 +1,97 @@
+---
+layout: single
+---
+
+{% if page.icon %}
+<div class="main_icon_holder">
+    <img class="title_icon" src="{{page.icon | prepend: site.baseurl }}" title="{{page.name}} icon"/>
+    {% if page.icon_attribution %}
+        {% if page.icon_attribution["name"] and
+              page.icon_attribution["url"] %}
+            <div class="attr">Photo by 
+                <a href="{{page.icon_attribution["url"]}}" target="_blank">{{page.icon_attribution["name"]}}</a>
+            </div>
+        {% endif %}
+     {% endif %}
+</div>
+{% endif %}
+
+<h1>{{ page.name }} </h1>
+{% if page.subtext %}
+<p>
+    {{page.subtext}}
+</p>
+{% endif %}
+
+{% if page.website %}
+<p>
+Website: <a href="{{page.website.url}}" target="_blank">
+            {{page.website.name}}
+         </a>
+</p>
+{% endif %}
+
+<div style="clear:both"></div>
+
+<section class="nursery-summary-content">
+    {% if page.address %}
+    <div class="nursery-summary-address">
+        <h2>Address</h2>
+        <address>
+        {% if page.address.line1 %}
+            {{page.address.line1}}
+        {% endif %}
+        {% if page.address.line2 %}
+            <br/>
+            {{page.address.line2}}
+        {% endif %}
+        </address>
+        {% if page.address.map %}
+            <br/>
+            <a href="{{page.address.map}}">
+                See map and directions
+            </a>
+        {% endif %}
+    </div>
+    {% endif %}
+    <div class="nursery-summary-hours">
+        <h2>Hours:</h2>
+        {% if page.hours %}
+            <table class="nursery-hours-table">
+            {% for hour in page.hours %}
+                <tr>
+                    <td>
+                        {{hour.day}}
+                    </td>
+                    <td>
+                        {{hour.time}}
+                    </td>
+                </tr>
+            {% endfor %}
+            </table>
+        {% endif %}
+        {% if page.hours_text %}
+            {{page.hours_text}}
+        {% endif %}
+    </div>
+    <div class="nursery-summary-more">
+        <h2>More Information:</h2>
+        {% if page.more %}
+            <ul>
+            {% for more in page.more %}
+                <li>
+                <a href="{{more.url}}" target="_blank">
+                    {{more.name}}
+                </a>
+                </li>
+            {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+</section>
+
+<div style="clear:both"></div>
+
+{{ content }}
+
+

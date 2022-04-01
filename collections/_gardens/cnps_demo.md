@@ -2,17 +2,17 @@
 name: "North Coast CNPS Native Plant Demonstration Garden"
 icon: "/assets/images/cnps_northcoast.jpg" 
 
-location: Eurea
+location: Eureka
 
 garden_tag_name: "cnps_demo"
 
 subtext: "
-The North Coast CNPS demonstration garden is modest in size but boasts a dazzling array of Humboldt County natives. It is open weekly during volunteer and sale hours.<br/>This list is currently under construction. Check back soon for the full list!" 
+The North Coast CNPS demonstration garden is a small garden located inside the nursery and boasts an impressive list of Humboldt County natives. It contains Mixed Evergreen, Redwood Forest, Chaparral, Grassland and Riparian habitats. The garden is open weekly during volunteer and sale hours.<br/>This list is currently under construction. Check back soon for the full list!" 
 
 type: "demo"
 
 website: 
     name: "North Coast California Native Plant Society"
-    url: ""
+    url: "https://northcoastcnps.org/index.php/nursery/demonstration-garden"
 ---
 

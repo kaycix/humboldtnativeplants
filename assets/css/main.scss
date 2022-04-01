@@ -759,6 +759,29 @@ nav.pagination {
     display: none;
 }
 
+.nursery-summary-content { 
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 4em;
+}
+
+.nursery-summary-content h2 { 
+    font-size: 1.5em;
+}
+
+.nursery-summary-content .nursery-summary-address, 
+.nursery-summary-content .nursery-summary-hours, 
+.nursery-summary-content .nursery-summary-more { 
+    width: calc(30%);
+    min-width: 290px;
+}
+
 #footer {
     color: #FFF;
     background-color: $indigo-color;

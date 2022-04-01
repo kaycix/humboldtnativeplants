@@ -24,12 +24,12 @@ This website is currently under construction! Report any issues for fixing and p
     Sunday May 1, 9a - 3p.
     <br/>
     <br/>
-    Sign Up to Shop! 25 Spots per half-hour time slots.
+    <a href="https://www.signupgenius.com/go/904054da5a823a2f94-spring" target="_blank">Sign Up to Shop</a> via SignUp Genius. 25 Spots per half-hour time slots.
     <br/>
-    Event Website: <a href="https://northcoastcnps.org/index.php/44-topmenucontent/288-plant-sale-event-page">North Coast CNPS: Spring Plant Sale</a> 
+     Website: <a href="https://northcoastcnps.org/index.php/44-topmenucontent/288-plant-sale-event-page" target="_blank">North Coast CNPS: Spring Plant Sale</a> 
 </p>
 <p>
-This event is sponsored by: <a href="https://northcoastcnps.org">North Coast Califonia Native Plant Society</a>
+This event is sponsored by: <a href="{{'/nursery/northcoast-cnps' | prepend:site.baseurl }}">North Coast CNPS Nursery</a>
 </p>
 
 <div style="clear:both"></div>

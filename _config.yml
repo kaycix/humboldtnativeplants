@@ -20,6 +20,9 @@ collections              :
     gardens:
         output: true
         permalink: /garden/:name
+    nurseries:
+        output: true
+        permalink: /nursery/:name
 defaults:
  - scope:
      type: "plants"
@@ -41,6 +44,12 @@ defaults:
      classes: garden-page wide
      title: ""
      layout: garden
+ - scope:
+     type: "nurseries"
+   values:
+     classes: nursery-page wide
+     title: ""
+     layout: nursery
 after_footer_scripts     : 
     - https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
     - https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js
