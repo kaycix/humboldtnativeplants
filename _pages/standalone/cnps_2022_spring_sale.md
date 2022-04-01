@@ -29,7 +29,7 @@ This website is currently under construction! Report any issues for fixing and p
      Website: <a href="https://northcoastcnps.org/index.php/44-topmenucontent/288-plant-sale-event-page" target="_blank">North Coast CNPS: Spring Plant Sale</a> 
 </p>
 <p>
-This event is sponsored by: <a href="{{'/nursery/northcoast-cnps' | prepend:site.baseurl }}">North Coast CNPS Nursery</a>
+Public event by <a href="{{'/nursery/northcoast-cnps' | prepend:site.baseurl }}">North Coast CNPS Nursery</a>
 </p>
 
 <div style="clear:both"></div>

@@ -8,8 +8,8 @@ local_nurseries:
     alt: "California Native Plant Society Nursery"
     title: "California Native Plant Society Nursery"
     excerpt: "5851 Mrytle Ave, Eureka, CA 95503"
-    url: "https://northcoastcnps.org/index.php/nursery"
-    btn_label: "See Website"
+    url: "/nursery/northcoast-cnps"
+    btn_label: "More Information"
     btn_class: "btn--primary"
   - image_path: /assets/images/samara_restoration_nursery.jpg 
     alt: "Samara Restoration" 
@@ -55,10 +55,12 @@ online_seed_suppliers:
     btn_label: "See Website"
     btn_class: "btn--primary"
 ---
-<h2> Humboldt County Native Plant Nurseries</h2>
+<h2> Local Native Plant Nurseries</h2>
+<!--
 <p>
 These native plant nurseries are located in Humboldt County. Employees and volunteers of these organizations are valuable resources for all things native plant related. Other commercial nurseries do carry Humboldt County natives and can be a great resource. However, they often don't distinguish between California natives and Humboldt County natives and it's best to arrive a little prepared (or with extra time to do some on-the-spot phone research).
 </p>
+-->
 {% include feature_row id="local_nurseries" %}
 
 <h2>Where to Purchase California Native Seeds and Plants Online</h2>

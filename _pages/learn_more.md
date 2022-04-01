@@ -9,7 +9,7 @@ title: ""
 
     <figure class="left">
         <img class="redwood" src="{{'/assets/images/redwood_pixabay.jpg' | prepend:site.baseurl}}" />
-        <figcaption>Redwood</figcaption>
+        <figcaption>Redwood by PixaBay</figcaption>
     </figure>
     <h4>What are native plants?</h4>
     <p>
@@ -18,13 +18,13 @@ title: ""
     <h4>Ecological Benefits of native plants.</h4>
     <figure class="right">
         <img class="butterfly" src="{{'/assets/images/butterfly_painted_lady_pixabay_sm.jpg' | prepend:site.baseurl}}" />
-        <figcaption>Painted Lady butterfly</figcaption>
+        <figcaption>Painted Lady butterfly by PixaBay</figcaption>
     </figure>
     <p>
     Most of us have heard of Monarch Butterflies and their dependency on milkweed as their host plant. However, most insects, not just Monarchs,  depend on a narrow range of plants for their survival. Native insects can simply not substitute in non-native plants for their needs. They have evolved together for thousands of years.
     </p>
     <p>
-    Planting native plants provides critical forage for our insects, which in turn provides food for the wildlife that depends on them. Humans also rely on pollinators to pollinate their crops.
+    Planting native plants provides critical forage for our insects, which in turn provides food for birds and other wildlife that depends on them. Humans also rely on pollinators to pollinate their crops.
     </p>
     <h4>Ideal for Landscaping</h4>
     <p>
@@ -34,15 +34,15 @@ title: ""
         Here in Humboldt, there are so many beautiful and varied native plants to choose from. 
         <figure class="ceanothus left">
             <img class="ceanothus" src="{{'/assets/images/ceanothus_bee_pixabay_sm.jpg' | prepend:site.baseurl}}" />
-            <figcaption>Ceanothus</figcaption>
+            <figcaption>Ceanothus by Pixabay</figcaption>
         </figure>
         <figure class="lupine left"> 
             <img class="lupine" src="{{'/assets/images/lupine_pixabay_sm.jpg' | prepend:site.baseurl}}" />
-            <figcaption>Lupine</figcaption>
+            <figcaption>Lupine by Pixabay</figcaption>
         </figure>
         <figure class="left yarrow">
-            <img class="yarrow" src="{{'/assets/images/yarrow_fly_pixabay.jpg' | prepend:site.baseurl}}" />
-            <figcaption>Yarrow</figcaption>
+            <img class="yarrow" src="{{'/assets/images/yarrow_fly_pixabay_sm.jpg' | prepend:site.baseurl}}" />
+            <figcaption>Yarrow by PixaBay</figcaption>
         </figure>
     </p>
 </div>
