@@ -25,11 +25,11 @@ address:
 
 hours:
     - day: "Wed"
-      time: " 10:00 a.m. - 1:00 p.m."
+      time: " 10:00 a.m. - 12:30 p.m."
     - day: "Fri"
-      time: "10:00 a.m. - 1:00 p.m."
+      time: "10:00 a.m. - 12:30 p.m."
     - day: "Sun"
-      time: "10:00 a.m. - 1:00 p.m."
+      time: "10:00 a.m. - 12:30 p.m."
 
 hours_text: "The nursery and demonstration garden are open to the public during Volunteer Hours. Plant sales are on hold until the Spring Plant Sale."
 
