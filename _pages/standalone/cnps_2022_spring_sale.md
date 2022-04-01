@@ -38,6 +38,7 @@ This event is sponsored by: <a href="{{'/nursery/northcoast-cnps' | prepend:site
     <h3>
     Browse categories: 
     </h3>
+    <p>Not sure where to start? Check out these plant lists for ideas.</p>  
     <div class="list_categories">
         <div class="list_category">
             <a href="{{'/category/beginner' | prepend:site.baseurl }}">
