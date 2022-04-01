@@ -66,7 +66,7 @@ This event is sponsored by: <a href="{{'/nursery/northcoast-cnps' | prepend:site
         </div>
         <div class="list_category">
             <a href="{{'/category/groundcover' | prepend:site.baseurl }}">
-                Groundcovers 
+                Groundcover Plants 
             </a>
         </div>
         <div class="list_category">
