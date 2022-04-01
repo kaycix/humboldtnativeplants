@@ -2,13 +2,14 @@
 plant_id: 221 
 common_name: "Siskiyou Blue Fescue"
 scientific_name: "Festuca idahoensis 'Siskiyou Blue'"
-type: "perennial herb"
+type: "grass"
 
 native_to: ""
 
 categories: [cultivar
         ,cnps_master_inventory
         ,cnps_2022_spring
+        ,container
       ]
 
 sun_requirements:
@@ -17,7 +18,8 @@ sun_requirements:
 # min then max in feet
 plant_size:
   - height: 
-    - 1 
+    - 1
+    - 1.5 
 
 icon_attribution: 
     name: "Theodore Payne"
