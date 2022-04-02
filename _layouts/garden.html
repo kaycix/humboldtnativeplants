@@ -3,9 +3,6 @@ layout: single
 ---
 
 {% assign garden = page.garden_tag_name | downcase %}
-{% assign plants = site.plants | where_exp: "item", 
-                                 "item.gardens contains garden" %}
-{% assign plant_groups = plants | group_by : "type" %} 
 
 {% if page.icon %}
 <div class="main_icon_holder">
@@ -32,7 +29,28 @@ Website: <a href="{{page.website.url}}" target="_blank">
 
 {{ content }}
 
-{% include plant_cards.html 
-	plant_groups= plant_groups
-%}
+{% if page.garden_categories %}
+    {% for garden_category in page.garden_categories %}
+        {% assign tag = garden_category.tag %}
+        {% assign plants = site.plants | where_exp: "item", 
+                                         "item.gardens contains tag" %}
+        {% assign plant_groups = plants | group_by : "type" %} 
+
+        <h3>{{ garden_category.name }}</h3>
+
+        {% include plant_cards.html 
+            plants = plants
+        %}
+    {% endfor %}
+{% else %}
+        {% assign plants = site.plants | where_exp: "item", 
+                                         "item.gardens contains garden" %}
+        {% assign plant_groups = plants | group_by : "type" %} 
+
+        {{ garden_category.name }}
+
+        {% include plant_cards.html 
+            plants = plants
+        %}
+{% endif %}
 

@@ -41,7 +41,8 @@ observations:
       - 2022
 
 gardens: [ 
-    "kellie" 
+    cnps_demo
+    ,cnps_demo_grassland
         ]
 ---
 

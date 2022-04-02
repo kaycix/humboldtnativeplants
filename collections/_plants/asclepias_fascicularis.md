@@ -26,4 +26,9 @@ icon_attribution:
 icon: "/assets/images/plants/asclepias_fascicularis_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Asclepias-fascicularis-(Narrow-Leaf-Milkweed)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_grassland
+        ]
 ---

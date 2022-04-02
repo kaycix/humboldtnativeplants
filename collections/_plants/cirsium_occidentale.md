@@ -27,6 +27,11 @@ icon_attribution:
 icon: "/assets/images/plants/cirsium_occidentale_icon.jpg"
  
 calscape_link: "https://calscape.org/Cirsium-occidentale-()"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_grassland
+        ]
 ---
 
 

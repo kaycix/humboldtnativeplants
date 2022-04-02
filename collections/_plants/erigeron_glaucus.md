@@ -34,6 +34,8 @@ calscape_link: "https://calscape.org/loc-California/Seaside%20Daisy%20(Erigeron%
 gardens: [
     "arcata_marsh" 
     ,"kellie" 
+    ,cnps_demo
+    ,cnps_demo_grassland
         ]
 ---
 

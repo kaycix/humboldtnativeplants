@@ -30,10 +30,10 @@ excerpt: "&mdash; Douglas Tallemy &mdash;"
         </div>
         <div class="info">
             <h2>
-            The Power of Open Source
+            Join Us 
             </h2>
             <p>
-            Humboldt Native Plants is an open-source website. Anyone can contribute to this website. All you need is a free GitHub account. See the Contribute page for more details. All help is welcome!  
+            Humboldt Native Plants is an open-source website hosted on <a href="https://github.com/kaycix/humboldtnativeplants" target="_blank">Github</a>. 
             </p>
         </div>
     </div>
@@ -41,7 +41,8 @@ excerpt: "&mdash; Douglas Tallemy &mdash;"
         <div class="info">
             <h2>Inspiration</h2>
             <p>
-            So many people have inspired this website. Ecologist Douglas Tallemy, California native plant expert Judith Larner Lowry, youth activist Greta Thundberg, Zero Waste blogger Anne Marie Bonneau, many knowledgeable generous local native plant experts from the CNPS, North Coast chapyer.
+            So many people have inspired this website: Ecologist Douglas Tallemy, California native plant expert Judith Larner Lowry, youth activist Greta Thundberg, Zero Waste blogger Anne Marie Bonneau, many knowledgeable generous local native plant experts from the CNPS, North Coast chapter.
+
             </p>
         </div>
         <div class="image">

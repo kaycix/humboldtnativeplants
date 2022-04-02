@@ -1,33 +1,29 @@
 <!-- todo use feature_row template? -->
-{% for group in include.plant_groups %}
-    <div class="cards plant_type header">
-        <div class="type_icon {{group.name | replace: " ", "_" }}" title="{{group.name | capitalize}}"></div>
-        <h3>{{group.name | capitalize}} ({{group.items.size}})</h3>
-    </div>
+<div class="cards plant_type header">
     <div class="feature__wrapper">
-        {% for plant in group.items %}
-            <div class="feature__item plant card">
-                <div class="archive__item">
-                    <div class="archive__item-teaser">
-                        <img src='{{plant.icon | prepend: site.baseurl }}' />
-                        <span class="archive__item-caption">
-                            Photo by 
-                            <a href="{{plant.icon_attribution.url}}" target="_blank">{{plant.icon_attribution.name }}</a>
-                        </span>
-                    </div>
-                    <div class="archive__item-body">
-                        <h2 class="archive__item-title">
-                            {{plant.common_name}}
-                        </h2>
-                        <div class="archive__item-excerpt">
-                            {{plant.scientific_name | capitalize }}
-                        </div>
+{% for plant in include.plants %}
+        <div class="feature__item plant card">
+            <div class="archive__item">
+                <div class="archive__item-teaser">
+                    <img src='{{plant.icon | prepend: site.baseurl }}' />
+                    <span class="archive__item-caption">
+                        Photo by 
+                        <a href="{{plant.icon_attribution.url}}" target="_blank">{{plant.icon_attribution.name }}</a>
+                    </span>
+                </div>
+                <div class="archive__item-body">
+                    <h2 class="archive__item-title">
+                        {{plant.common_name}}
+                    </h2>
+                    <div class="archive__item-excerpt">
+                        {{plant.scientific_name | capitalize }}
                     </div>
                 </div>
             </div>
-        {% endfor %}
-    </div>
+        </div>
 {% endfor %}
+    </div>
+</div>
 
 
 

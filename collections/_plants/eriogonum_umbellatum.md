@@ -28,5 +28,10 @@ icon_attribution:
 icon: "/assets/images/plants/eriogonum_umbellatum_icon.jpg" 
 
 calscape_link: "https://calscape.org/loc-California/Eriogonum%20umbellatum(%20)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_grassland
+        ]
 ---
 

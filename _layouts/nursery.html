@@ -48,14 +48,14 @@ Website: <a href="{{page.website.url}}" target="_blank">
         </address>
         {% if page.address.map %}
             <br/>
-            <a href="{{page.address.map}}">
+            <a href="{{page.address.map}}" target="_blank" >
                 See map and directions
             </a>
         {% endif %}
     </div>
     {% endif %}
     <div class="nursery-summary-hours">
-        <h2>Hours:</h2>
+        <h2>Hours</h2>
         {% if page.hours %}
             <table class="nursery-hours-table">
             {% for hour in page.hours %}
@@ -75,7 +75,7 @@ Website: <a href="{{page.website.url}}" target="_blank">
         {% endif %}
     </div>
     <div class="nursery-summary-more">
-        <h2>More Information:</h2>
+        <h2>More Information</h2>
         {% if page.more %}
             <ul>
             {% for more in page.more %}

@@ -32,6 +32,7 @@ calscape_link: "https://calscape.org/loc-California/Iris%20douglasiana(%20)"
 gardens: [ 
     "arcata_marsh"
     ,cnps_demo
+    ,cnps_demo_grassland
     ,cnps_demo_riparian
         ]
 ---

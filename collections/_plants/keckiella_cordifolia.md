@@ -32,6 +32,8 @@ icon: "/assets/images/plants/keckiella_cordifolia_icon.jpg"
 calscape_link: "https://calscape.org/Keckiella-cordifolia-()"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_grassland
         ]
 ---
 

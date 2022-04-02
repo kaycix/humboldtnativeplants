@@ -32,6 +32,8 @@ icon: "/assets/images/plants/salvia_apiana_icon.jpg"
 calscape_link: "https://calscape.org/Salvia-apiana-(White-Sage)"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_grassland
         ]
 ---
 

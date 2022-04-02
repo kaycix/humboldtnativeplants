@@ -28,5 +28,10 @@ icon_attribution:
     url: ""
 icon:  "/assets/images/plants/festuca_californica_icon.jpg"
 calscape_link: "https://calscape.org/Festuca-californica-(California-Fescue)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_grassland
+        ]
 ---
 

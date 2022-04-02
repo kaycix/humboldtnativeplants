@@ -27,13 +27,9 @@ icon_attribution:
 icon: "/assets/images/plants/erythronium_revolutum_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Erythronium%20revolutum(%20)"
+
+gardens: [
+    cnps_demo
+    ,cnps_demo_redwood
+        ]
 ---
-
-
-
-
-
-
-
-
-

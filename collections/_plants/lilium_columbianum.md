@@ -28,4 +28,9 @@ icon_attribution:
     url: "https://calscape.org/photos/2185?srchcr=sc6227a0c15bef2"
 icon: "/assets/images/plants/lilium_columbianum_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Lillium%20columbianum(%20)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_grassland
+        ]
 ---

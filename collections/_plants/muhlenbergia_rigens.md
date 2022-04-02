@@ -28,7 +28,9 @@ icon:  "/assets/images/plants/muhlenbergia_rigens_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Muhlenbergia%20rigens(%20)"
 
 gardens: [ 
-    "arcata_marsh"
+    arcata_marsh
+    ,cnps_demo
+    ,cnps_demo_grassland
         ]
 ---
 

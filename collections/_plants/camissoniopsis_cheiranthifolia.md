@@ -27,6 +27,11 @@ icon_attribution:
 icon: "/assets/images/plants/camissoniopsis_cheiranthifolia_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Camissoniopsis%20cheiranthifolia%20(Beach%20Primrose)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_grassland
+        ]
 ---
 
 

@@ -24,5 +24,10 @@ icon_attribution:
     url: "https://www.calflora.org/app/taxon?crn=240" 
 icon: "/assets/images/plants/allium_unifolium_icon.jpg" 
 calscape_link: "https://calscape.org/Allium-unifolium-(One-Leaf-Onion)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_grassland
+        ]
 ---
 

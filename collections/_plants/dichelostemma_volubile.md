@@ -25,6 +25,11 @@ icon_attribution:
 icon: "/assets/images/plants/dichelostemma_capitatum_ssp_capitatum_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Dichelostemma%20volubile(%20)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_grassland
+        ]
 ---
 
 
