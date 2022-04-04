@@ -16,12 +16,16 @@ website:
     url: "https://northcoastcnps.org/index.php/nursery/demonstration-garden"
 
 garden_categories:
-    - name: "Redwood Forest"
-      tag: "cnps_demo_redwood"  
     - name: "Coastal"
       tag: "cnps_demo_coastal"  
     - name: "Grassland"
       tag: cnps_demo_grassland
+    - name: "Mixed Evergreen"
+      tag: "cnps_demo_evergreen"  
+    - name: "Container"
+      tag: "cnps_demo_container"  
+    - name: "Redwood Forest"
+      tag: "cnps_demo_redwood"  
     - name: "Riparian"
       tag: "cnps_demo_riparian"  
 ---

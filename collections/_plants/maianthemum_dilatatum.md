@@ -29,6 +29,8 @@ calscape_link: "https://calscape.org/Maianthemum-dilatatum-()"
 
 gardens: [ 
     "arcata_marsh"
+    ,cnps_demo
+    ,cnps_demo_redwood
         ]
 ---
 

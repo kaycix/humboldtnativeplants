@@ -11,6 +11,7 @@ categories: [humboldt_county_native
         ,cnps_2022_spring
         ,butterfly
         ,bee
+        ,container
       ]
 
 sun_requirements:
@@ -29,6 +30,8 @@ icon: "/assets/images/plants/clarkia_rhomboidea_icon.jpg"
 calscape_link: "https://calscape.org/Clarkia-rhomboidea-()"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_container
         ]
 ---
 

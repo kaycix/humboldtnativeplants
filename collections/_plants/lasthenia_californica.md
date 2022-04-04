@@ -12,6 +12,7 @@ categories: [humboldt_county_native
         ,butterfly
         ,bee
         ,container
+        ,beginner
       ]
 
 sun_requirements:
@@ -31,12 +32,7 @@ icon: "/assets/images/plants/lasthenia_californica_icon.jpg"
 calscape_link: "https://calscape.org/Lasthenia-californica-(California-Goldfields)"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_container
         ]
 ---
-
-
-
-
-
-
-

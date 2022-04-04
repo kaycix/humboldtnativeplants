@@ -29,5 +29,10 @@ icon_attribution:
 icon: "/assets/images/plants/lupinus_nanus_icon.jpg" 
 
 calscape_link: "https://calscape.org/Lupinus-nanus-(Sky-Lupine)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_container
+        ]
 ---
 

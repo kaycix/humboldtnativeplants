@@ -30,6 +30,6 @@ calscape_link: "https://calscape.org/loc-California/Vancouveria%20hexandra(%20)"
 gardens: [ 
     arcata_marsh
     ,cnps_demo
-    ,cnps_demo_riparian
+    ,cnps_demo_redwood
 ]
 ---

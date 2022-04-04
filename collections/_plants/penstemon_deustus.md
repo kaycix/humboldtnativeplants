@@ -30,5 +30,10 @@ icon_attribution:
 icon: "/assets/images/plants/penstemon_deustus_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Penstemon%20deustus(%20)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_container
+        ]
 ---
 

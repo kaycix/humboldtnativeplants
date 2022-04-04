@@ -27,4 +27,9 @@ icon_attribution:
 icon: "/assets/images/plants/nemophila_menziesii_icon.jpg" 
 
 calscape_link: "https://calscape.org/Nemophila-menziesii-(Baby-Blue-Eyes)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_container
+        ]
 ---

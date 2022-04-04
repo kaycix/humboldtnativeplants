@@ -24,6 +24,11 @@ icon_attribution:
     url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0810+0644" 
 icon: "/assets/images/plants/camassia_quamash_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Camassia%20quamash(%20)"
+
+gardens: [
+    cnps_demo
+    ,cnps_demo_evergreen
+        ]
 ---
 
 

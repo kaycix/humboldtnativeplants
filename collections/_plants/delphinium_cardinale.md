@@ -4,8 +4,9 @@ common_name: "Scarlet Larkspur"
 scientific_name: "Delphinium Cardinale"
 type: "perennial herb"
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
+categories: [humboldt_county_native
+         ,cnps_master_inventory
+         ,container 
       ]
 
 sun_requirements:
@@ -23,6 +24,11 @@ icon_attribution:
 icon: "/assets/images/plants/delphinium_cardinale_icon.jpg"
  
 calscape_link: ""
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_container
+        ]
 ---
 
 

@@ -39,7 +39,7 @@ observations:
 
 gardens: [ 
     cnps_demo
-    ,cnps_demo_riparian
+    ,cnps_demo_redwood
 ]
 ---
 

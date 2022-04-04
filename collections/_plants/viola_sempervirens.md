@@ -29,13 +29,8 @@ calscape_link: "https://calscape.org/loc-California/Viola%20sempervirens(%20)"
 
 gardens: [
     cnps_demo
-    ,cnps_demo_riparian
+    ,cnps_demo_redwood
         ]
-
-# doesn't support multiple gardens :(
-subgarden: [
-    "riparian/bog"
-]
 ---
 
 

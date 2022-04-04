@@ -27,6 +27,11 @@ icon_attribution:
 icon: "/assets/images/plants/penstemon_humuilis_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Penstemon%20humuilis(%20)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_container
+        ]
 ---
 
 

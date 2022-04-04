@@ -29,6 +29,8 @@ calscape_link: "https://calscape.org/Clarkia-amoena-(Farewell-To-Spring)"
 
 gardens: [ 
     "arcata_marsh"
+    ,cnps_demo
+    ,cnps_demo_container
         ]
 ---
 

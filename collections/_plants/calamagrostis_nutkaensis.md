@@ -25,6 +25,11 @@ icon_attribution:
 icon:  "/assets/images/plants/calamagrostis_nutkaensis_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Calamagrostis%20nutkaensis(%20)" 
+
+gardens: [
+    cnps_demo
+    ,cnps_demo_evergreen
+        ]
 ---
 
 

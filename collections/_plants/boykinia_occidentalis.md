@@ -30,7 +30,7 @@ calscape_link: "https://calscape.org/Boykinia-occidentalis-()"
 gardens: [ 
     "arcata_marsh"
     ,cnps_demo
-    ,cnps_demo_riparian
+    ,cnps_demo_redwood
         ]
 ---
 

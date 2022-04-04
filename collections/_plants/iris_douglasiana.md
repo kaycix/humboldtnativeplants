@@ -33,7 +33,7 @@ gardens: [
     "arcata_marsh"
     ,cnps_demo
     ,cnps_demo_grassland
-    ,cnps_demo_riparian
+    ,cnps_demo_redwood
         ]
 ---
 

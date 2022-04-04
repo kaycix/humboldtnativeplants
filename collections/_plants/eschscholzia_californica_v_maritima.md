@@ -28,6 +28,8 @@ calflora_link: "https://www.calfloranursery.com/plants/eschscholzia-californica-
 
 gardens: [ 
     "arcata_marsh"
+    ,cnps_demo
+    ,cnps_demo_container
 ]
 ---
 

@@ -26,6 +26,11 @@ icon_attribution:
 icon: "/assets/images/plants/calochortus_amabilis_icon.jpg" 
 
 calscape_link: "https://calscape.org/loc-California/Calochortus%20amabilis(%20)"
+
+gardens: [
+    cnps_demo
+    ,cnps_demo_evergreen
+        ]
 ---
 
 

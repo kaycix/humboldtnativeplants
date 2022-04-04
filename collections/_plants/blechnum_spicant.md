@@ -28,6 +28,8 @@ calscape_link: "https://calscape.org/Blechnum-spicant-()"
 
 gardens: [ 
     "arcata_marsh"
+    ,cnps_demo
+    ,cnps_demo_redwood
         ]
 ---
 

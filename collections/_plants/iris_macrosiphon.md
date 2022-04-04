@@ -30,6 +30,6 @@ calscape_link: "https://calscape.org/Iris-macrosiphon-(Long-Tubed-Iris)"
 
 gardens: [ 
     cnps_demo
-    ,cnps_demo_riparian
+    ,cnps_demo_redwood
 ]
 ---

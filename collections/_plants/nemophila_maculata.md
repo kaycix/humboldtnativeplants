@@ -27,6 +27,11 @@ icon_attribution:
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=io41642" 
 icon: "/assets/images/plants/nemophila_maculata_icon.jpg" 
 calscape_link: "https://calscape.org/Nemophila-maculata-(Fivespot)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_container
+        ]
 ---
 
 

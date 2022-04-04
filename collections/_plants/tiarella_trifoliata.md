@@ -30,7 +30,7 @@ calscape_link: "https://calscape.org/loc-California/Sugar%20Scoop%20(Tiarella%20
 
 gardens: [ 
     cnps_demo
-    ,cnps_demo_riparian
+    ,cnps_demo_redwood
 ]
 ---
 

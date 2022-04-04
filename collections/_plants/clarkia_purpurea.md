@@ -24,4 +24,9 @@ icon)attribution:
     url: "https://calscape.org/photos/1040?srchcr=sc61fdf53c8c2bd"
 icon:  "/assets/images/plants/clarkia_purpurea_icon.jpg"
 calscape_link: "https://calscape.org/Clarkia-purpurea-(Purple-Clarkia)"
+
+gardens: [
+    cnps_demo
+    ,cnps_demo_evergreen
+        ]
 ---

@@ -10,6 +10,7 @@ categories: [humboldt_county_native
         ,cnps_master_inventory
         ,cnps_2022_spring
         ,butterfly
+        ,container
       ]
 
 sun_requirements:
@@ -29,5 +30,7 @@ icon: "/assets/images/plants/philadelphus_lewisii_icon.jpg"
 calscape_link: "https://calscape.org/Philadelphus-lewisii-()"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_container
         ]
 ---

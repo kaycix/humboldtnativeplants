@@ -33,7 +33,7 @@ calscape_link: "https://calscape.org/loc-California/Heuchera%20micrantha(%20)"
 gardens: [ 
     "arcata_marsh"
     ,cnps_demo
-    ,cnps_demo_riparian
+    ,cnps_demo_redwood
         ]
 ---
 
