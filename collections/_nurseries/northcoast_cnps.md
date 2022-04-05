@@ -1,12 +1,6 @@
 ---
 name: "North Coast CNPS Nursery"
 
-icon_attribution: 
-    name: "Calflora"
-    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po148768"
-icon: "/assets/images/plants/garrya_elliptica_icon.jpg"
-#icon: "/assets/images/cnps_northcoast.jpg" 
-
 location: Eureka
 
 garden_tag_name: "northcoast_cnps"
@@ -17,6 +11,7 @@ website:
     name: "North Coast CNPS Nursery"
     url: "https://northcoastcnps.org/index.php/nursery/native-plant-nursery"
 
+image: "/assets/images/cnps_nursery.jpg"
 
 address:
     line1: "5851 Myrtle Ave"

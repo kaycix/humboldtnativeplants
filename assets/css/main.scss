@@ -165,7 +165,7 @@ html .masthead #site-title {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-top: 4em;
+    margin-top: 2em;
 }
 
 .layout--splash.about-page .card .image {
@@ -760,7 +760,7 @@ nav.pagination {
     display: none;
 }
 
-.nursery-summary-content { 
+.summary-content { 
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-box;
@@ -772,13 +772,13 @@ nav.pagination {
     margin-top: 4em;
 }
 
-.nursery-summary-content h2 { 
+.summary-content h2 { 
     font-size: 1.5em;
 }
 
-.nursery-summary-content .nursery-summary-address, 
-.nursery-summary-content .nursery-summary-hours, 
-.nursery-summary-content .nursery-summary-more { 
+.summary-content .summary-address, 
+.summary-content .summary-hours, 
+.summary-content .summary-more { 
     width: calc(30%);
     min-width: 290px;
     margin-bottom: 12px;

@@ -33,9 +33,13 @@ Website: <a href="{{page.website.url}}" target="_blank">
 
 <div style="clear:both"></div>
 
-<section class="nursery-summary-content">
+{% if page.image %}
+<img src="{{page.image}}" />
+{% endif %}
+
+<section class="summary-content">
     {% if page.address %}
-    <div class="nursery-summary-address">
+    <div class="summary-address">
         <h2>Address</h2>
         <address>
         {% if page.address.line1 %}
@@ -54,10 +58,10 @@ Website: <a href="{{page.website.url}}" target="_blank">
         {% endif %}
     </div>
     {% endif %}
-    <div class="nursery-summary-hours">
+    <div class="summary-hours">
         <h2>Hours</h2>
         {% if page.hours %}
-            <table class="nursery-hours-table">
+            <table class="hours-table">
             {% for hour in page.hours %}
                 <tr>
                     <td>
@@ -74,7 +78,7 @@ Website: <a href="{{page.website.url}}" target="_blank">
             {{page.hours_text}}
         {% endif %}
     </div>
-    <div class="nursery-summary-more">
+    <div class="summary-more">
         <h2>More Information</h2>
         {% if page.more %}
             <ul>

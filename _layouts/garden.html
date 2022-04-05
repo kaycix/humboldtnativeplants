@@ -27,6 +27,63 @@ Website: <a href="{{page.website.url}}" target="_blank">
 
 <div style="clear:both"></div>
 
+<section class="summary-content">
+    {% if page.address %}
+    <div class="summary-address">
+        <h2>Address</h2>
+        <address>
+        {% if page.address.line1 %}
+            {{page.address.line1}}
+        {% endif %}
+        {% if page.address.line2 %}
+            <br/>
+            {{page.address.line2}}
+        {% endif %}
+        </address>
+        {% if page.address.map %}
+            <br/>
+            <a href="{{page.address.map}}" target="_blank" >
+                See map and directions
+            </a>
+        {% endif %}
+    </div>
+    {% endif %}
+    {% if page.hours %}
+    <div class="summary-hours">
+        <h2>Hours</h2>
+            <table class="hours-table">
+            {% for hour in page.hours %}
+                <tr>
+                    <td>
+                        {{hour.day}}
+                    </td>
+                    <td>
+                        {{hour.time}}
+                    </td>
+                </tr>
+            {% endfor %}
+            </table>
+        {% if page.hours_text %}
+            {{page.hours_text}}
+        {% endif %}
+    </div>
+    {% endif %}
+    {% if page.more %}
+    <div class="summary-more">
+        <h2>More Information</h2>
+            <ul>
+            {% for more in page.more %}
+                <li>
+                <a href="{{more.url}}" target="_blank">
+                    {{more.name}}
+                </a>
+                </li>
+            {% endfor %}
+            </ul>
+    </div>
+    {% endif %}
+</section>
+
 {{ content }}
 
 {% if page.garden_categories %}
