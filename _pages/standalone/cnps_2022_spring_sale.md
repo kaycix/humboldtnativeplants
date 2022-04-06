@@ -19,12 +19,12 @@ This website is currently under construction! Report any issues for fixing and p
 <h1>Spring Native Plant Sale</h1>
 
 <p>
-    Saturday April 30, 9a - 4p.
-    <br/>
-    Sunday May 1, 9a - 3p.
-    <br/>
+    Saturday April 30, 9a - 4p & Sunday May 1, 9a - 3p.
     <br/>
     <a href="https://www.signupgenius.com/go/904054da5a823a2f94-spring" target="_blank">Sign Up to Shop</a> via SignUp Genius. 25 Spots per half-hour time slots.
+    <br/>
+    <br/>
+     Pricing: $5 for 4-inch pots, $10 for gallons - unless otherwise marked.
     <br/>
      Website: <a href="https://northcoastcnps.org/index.php/44-topmenucontent/288-plant-sale-event-page" target="_blank">North Coast CNPS: Spring Plant Sale</a> 
 </p>
