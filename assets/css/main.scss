@@ -784,6 +784,30 @@ nav.pagination {
     margin-bottom: 12px;
 }
 
+.garden-page h3 {
+    border-radius: 10px;
+    height: 60px;
+    line-height: 60px;
+    margin-bottom: 12px;
+    padding-left: 20px;
+}
+
+.garden-page h3.coastal {
+    background-image: url("./../images/habitat-coastal.jpg");
+}
+
+.garden-page h3.grassland {
+    background-image: url("./../images/habitat-grassland.jpg");
+}
+
+.garden-page h3.redwood_forest {
+    background-image: url("./../images/habitat-redwood.jpg");
+}
+
+.garden-page h3.riparian {
+    background-image: url("./../images/habitat-riparian.jpg");
+}
+
 #footer {
     color: #FFF;
     background-color: $indigo-color;

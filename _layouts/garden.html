@@ -93,7 +93,7 @@ Website: <a href="{{page.website.url}}" target="_blank">
                                          "item.gardens contains tag" %}
         {% assign plant_groups = plants | group_by : "type" %} 
 
-        <h3>{{ garden_category.name }}</h3>
+        <h3 class="{{garden_category.name | downcase | replace: " ", "_"  }}">{{ garden_category.name }}</h3>
 
         {% include plant_cards.html 
             plants = plants
