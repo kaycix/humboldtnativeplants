@@ -34,7 +34,7 @@ Public event by <a href="{{'/nursery/northcoast-cnps' | prepend:site.baseurl }}"
 
 <div style="clear:both"></div>
 <hr/>
-<section>
+<section class="browse">
     <h3>
     Browse categories: 
     </h3>

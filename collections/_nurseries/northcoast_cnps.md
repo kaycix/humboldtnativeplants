@@ -11,6 +11,8 @@ website:
     name: "North Coast CNPS Nursery"
     url: "https://northcoastcnps.org/index.php/nursery/native-plant-nursery"
 
+icon: "/assets/images/cnps_northcoast.jpg" 
+
 image: "/assets/images/cnps_nursery.jpg"
 
 address:

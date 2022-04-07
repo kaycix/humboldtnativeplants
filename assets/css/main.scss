@@ -751,7 +751,7 @@ div.vine {
     }
 }
 
-.standalone .list_category {
+.browse .list_category {
     float: left;
     min-width: 300px;
 }
@@ -806,6 +806,12 @@ nav.pagination {
 
 .garden-page h3.riparian {
     background-image: url("./../images/habitat-riparian.jpg");
+}
+
+.nursery-page .title_icon {
+    max-height: 60px;
+    max-width: 60px;
+    margin-height: 12px;
 }
 
 #footer {
