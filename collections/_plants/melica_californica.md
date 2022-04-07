@@ -29,12 +29,7 @@ icon: "/assets/images/plants/melica_californica_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Melica%20californica%20(California%20Melicgrass)"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_chaparral
         ]
 ---
-
-
-
-
-
-
-

@@ -31,5 +31,7 @@ calscape_link: "https://calscape.org/Collinsia-heterophylla-(Purple-Chinese-Hous
 
 gardens: [ 
     "arcata_marsh"
+    ,cnps_demo
+    ,cnps_demo_chaparral
         ]
 ---

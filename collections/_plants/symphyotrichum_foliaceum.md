@@ -28,12 +28,7 @@ icon: "/assets/images/plants/symphyotrichum_foliaceum_icon.jpg"
 calscape_link: "https://calscape.org/Symphyotrichum-foliaceum-()"
 
 gardens: [
+    cnps_demo
+    ,cnps_demo_chaparral
         ]
 ---
-
-
-
-
-
-
-

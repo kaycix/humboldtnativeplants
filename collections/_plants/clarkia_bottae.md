@@ -27,6 +27,11 @@ icon_attribution:
 icon: "/assets/images/plants/clarkia_bottae_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Clarkia-bottae-(Punch-Bowl-Godetia)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_chaparral
+        ]
 ---
 
 

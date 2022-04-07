@@ -30,11 +30,9 @@ icon_attribution:
 icon: "/assets/images/plants/clinopodium_douglasii_icon.jpg"
  
 calscape_link: "https://calscape.org/Clinopodium-douglasii-()"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_chaparral
+        ]
 ---
-
-
-
-
-
-
-

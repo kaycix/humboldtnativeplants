@@ -25,7 +25,9 @@ plant_size:
 # icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/149/44860.jpg 
 icon: "/assets/images/plants/calochortus_albus_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Calochortus%20albus%20(White%20Globe%20Lily)"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_chaparral
+        ]
 ---
-
-
-

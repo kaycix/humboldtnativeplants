@@ -25,5 +25,10 @@ icon_attribution:
 icon: "/assets/images/plants/limnanthes_douglasii_icon.jpg"
  
 calscape_link: "https://calscape.org/Limnanthes-douglasii-()"
+
+gardens: [ 
+    cnps_demo
+    ,cnps_demo_chaparral
+        ]
 ---
 
