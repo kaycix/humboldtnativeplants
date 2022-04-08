@@ -30,5 +30,9 @@ icon_attribution:
 icon: "/assets/images/plants/ceanothus_thyrsiflorus_icon.jpg"
 
 calscape_link: "https://calscape.org/Ceanothus-thyrsiflorus-(Blueblossom-Ceanothus)"
----
 
+gardens: [ 
+    trinidad_museum
+    ,trinidad_museum_coastal
+        ]
+---

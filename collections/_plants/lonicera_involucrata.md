@@ -36,5 +36,10 @@ observations:
   - location: "McKinleyville"
     location_detail: "Azalea Reserve (Surrounding Areas)"
     last_spotted: "Summer 2021"
+
+gardens: [ 
+    trinidad_museum
+    ,trinidad_museum_coastal
+        ]
 ---
 

@@ -29,6 +29,8 @@ icon: "/assets/images/plants/spiraea_douglasii_icon.jpg"
 calscape_link: "https://calscape.org/Spiraea-douglasii-()"
 
 gardens: [
+    trinidad_museum
+    ,trinidad_museum_pond
         ]
 ---
 

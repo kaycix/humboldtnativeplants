@@ -30,6 +30,8 @@ calscape_link: "https://calscape.org/Arctostaphylos-uva-ursi-(Southern-Kinnikinn
 
 gardens: [ 
     "arcata_marsh"
+    ,trinidad_museum
+    ,trinidad_museum_coastal
         ]
 ---
 

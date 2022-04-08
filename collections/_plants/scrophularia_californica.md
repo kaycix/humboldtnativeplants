@@ -36,5 +36,7 @@ calscape_link: "https://calscape.org/loc-California/Scrophularia%20californica%2
 gardens: [ 
     "arcata_marsh"
     ,"kellie" 
+    ,trinidad_museum
+    ,trinidad_museum_meadow
         ]
 ---

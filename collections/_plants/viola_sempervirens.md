@@ -10,6 +10,8 @@ categories: [
         cnps_master_inventory
         ,cnps_2022_spring
         ,butterfly
+        ,trinidad_museum
+        ,trinidad_museum_woodland
       ]
 
 sun_requirements:

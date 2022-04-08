@@ -86,9 +86,17 @@ Website: <a href="{{page.website.url}}" target="_blank">
 </section>
 {% endif %}
 {{ content }}
+{% if page.gallery %}
+<div class="gallery">
+    {% for item in page.gallery %}
+    <img src="{{item.url}}" />
+    {% endfor %}
+</div>
+{% endif %}
+
 {% if page.garden_categories %}
     <section class="browse">
-        <h3>Browse by habitat:</h3>
+        <h3>Browse plants  by habitat:</h3>
         <div class="list_categories">
             {% for garden_category in page.garden_categories %}
             <div class="list_category">

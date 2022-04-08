@@ -30,6 +30,8 @@ calscape_link: "https://calscape.org/Polystichum-munitum-()"
 gardens: [ 
     cnps_demo
     ,cnps_demo_riparian
+    ,trinidad_museum
+    ,trinidad_museum_woodland
 ]
 
 observations: 

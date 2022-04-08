@@ -43,6 +43,8 @@ observations:
 gardens: [ 
     cnps_demo
     ,cnps_demo_grassland
+    ,trinidad_museum
+    ,trinidad_museum_meadow
         ]
 ---
 

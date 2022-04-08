@@ -25,5 +25,10 @@ icon_attribution:
 icon: "/assets/images/plants/sambucus_racemosa_icon.jpg"
 
 calscape_link: "https://calscape.org/Sambucus-racemosa-(Red-Elderberry)"
+
+gardens: [
+    trinidad_museum
+    ,trinidad_museum_pond
+        ]
 ---
 

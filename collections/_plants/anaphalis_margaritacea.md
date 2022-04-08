@@ -27,11 +27,9 @@ icon_attribution:
 icon: "/assets/images/plants/anaphalis_margaritacea_icon.jpg"
  
 calscape_link: "https://calscape.org/Anaphalis-margaritacea-()"
+
+gardens: [
+    trinidad_museum
+    ,trinidad_museum_meadow
+        ]
 ---
-
-
-
-
-
-
-

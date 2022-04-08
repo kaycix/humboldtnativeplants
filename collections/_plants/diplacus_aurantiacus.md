@@ -35,6 +35,8 @@ calscape_link: "https://calscape.org/Mimulus-aurantiacus-(Bush-Monkey-Flower)"
 gardens: [
     cnps_demo
     ,cnps_demo_evergreen
+    ,trinidad_museum
+    ,trinidad_museum_meadow
 ]
 ---
 

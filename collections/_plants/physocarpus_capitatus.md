@@ -28,6 +28,8 @@ calscape_link: "https://calscape.org/loc-California/Physocarpus%20capitatus(%20)
 
 gardens: [ 
     "arcata_marsh"
+    ,trinidad_museum
+    ,trinidad_museum_coastal
         ]
 ---
 

@@ -29,12 +29,7 @@ icon: "/assets/images/plants/petasites_frigidus_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Petasites%20frigidus%20(Arctic%20Sweet%20Coltsfoot)"
 
 gardens: [
+    trinidad_museum
+    ,trinidad_museum_coastal
         ]
 ---
-
-
-
-
-
-
-

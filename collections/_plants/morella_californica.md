@@ -37,5 +37,10 @@ observations:
   - McKinleyville
     - 'Hiller Park'
       - 'Winter 2022'
+
+gardens: [ 
+    trinidad_museum
+    ,trinidad_museum_coastal
+        ]
 ---
 

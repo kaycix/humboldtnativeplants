@@ -29,6 +29,8 @@ calscape_link: "https://calscape.org/loc-California/Calamagrostis%20nutkaensis(%
 gardens: [
     cnps_demo
     ,cnps_demo_evergreen
+    ,trinidad_museum
+    ,trinidad_museum_meadow
         ]
 ---
 

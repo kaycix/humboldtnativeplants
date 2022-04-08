@@ -9,6 +9,7 @@ native_to: "Humboldt"
 categories: [humboldt_county_native,
        cnps_master_inventory
         ,cnps_2022_spring
+        ,hedge
         ,butterfly
         ,bee
         ,bird
@@ -31,5 +32,7 @@ calscape_link: "https://calscape.org/Baccharis-pilularis-(Coyote-Bush)"
 
 gardens: [ 
     "arcata_marsh"
+    ,trinidad_museum
+    ,trinidad_museum_coastal
         ]
 ---

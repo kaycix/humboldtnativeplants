@@ -34,6 +34,3 @@ gardens: [
     ,cnps_demo_chaparral
         ]
 ---
-
-
-

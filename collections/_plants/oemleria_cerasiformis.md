@@ -28,6 +28,8 @@ icon: "/assets/images/plants/oemleria_cerasiformis_icon.jpg"
 calscape_link: "https://calscape.org/Oemleria-cerasiformis-(Indian-Plum)"
 
 gardens: [
+    trinidad_museum
+    ,trinidad_museum_pond
         ]
 ---
 

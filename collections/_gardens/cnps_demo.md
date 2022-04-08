@@ -7,13 +7,30 @@ location: Eureka
 garden_tag_name: "cnps_demo"
 
 subtext: "
-This small native plant garden is located inside the nursery and showcases a wide array of Humboldt County and California native plants. The garden also functions as a living seed bank for the nursery. Visitors can view the garden during weekly volunteer and sale hours."
+This small native plant garden is located inside the <a href='/nursery/northcoast-cnps'>North Coast CNPS Nursery</a> and showcases a wide array of Humboldt County and California native plants. The garden also functions as a living seed bank for the nursery. Visitors can view the garden during weekly volunteer and sale hours. <br/>*The plant list is currently under construction. Check back soon for updates *"
 
 type: "demo"
 
 website: 
     name: "North Coast California Native Plant Society"
     url: "https://northcoastcnps.org/index.php/nursery/demonstration-garden"
+
+gallery: 
+    - attribution: ""
+      url: "/assets/images/cnps/garden_carol.jpg"
+      description: ""
+    - attribution: ""
+      url: "/assets/images/cnps/garden_brian.jpg"
+      description: ""
+    - attribution: ""
+      url: "/assets/images/cnps/garden_brian_2.jpg"
+      description: ""
+    - attribution: ""
+      url: "/assets/images/cnps/garden_brian_3.jpg"
+      description: ""
+    - attribution: ""
+      url: "/assets/images/cnps/garden_brian_4.jpg"
+      description: ""
 
 garden_categories:
     - name: "Coastal"

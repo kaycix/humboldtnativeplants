@@ -27,14 +27,7 @@ calscape_link: "https://calscape.org/Triteleia-laxa-(Ithuriel%27s-Spear)"
 
 gardens: [ 
     "arcata_marsh"
+    ,trinidad_museum
+    ,trinidad_museum_meadow
 ]
 ---
-
-
-
-
-
-
-
-
-

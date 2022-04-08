@@ -35,6 +35,8 @@ observations:
 gardens: [ 
     cnps_demo
     ,cnps_demo_redwood
+    trinidad_museum
+    ,trinidad_museum_coastal
 ]
 ---
 

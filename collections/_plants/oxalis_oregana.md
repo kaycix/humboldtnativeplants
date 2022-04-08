@@ -27,11 +27,9 @@ icon_attribution:
 icon: "/assets/images/plants/oxalis_oregana_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Oxalis%20oregana(%20)"
+
+gardens: [
+    trinidad_museum
+    ,trinidad_museum_woodland
+        ]
 ---
-
-
-
-
-
-
-

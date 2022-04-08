@@ -22,9 +22,14 @@ plant_size:
     - 1
 
 icon_attribution: 
-    url: "Calscape"
-    name: "https://calscape.org/photos/3523?srchcr=sc621daaffa2805" 
+    name: "Calscape"
+    url: "https://calscape.org/photos/3523?srchcr=sc621daaffa2805" 
 icon: "/assets/images/plants/sisyrinchium_californicum_icon.jpg" 
 calscape_link: "https://calscape.org/loc-California/Sisyrinchium%20californicum(%20)"
+
+gardens: [
+    trinidad_museum
+    ,trinidad_museum_pond
+        ]
 ---
 

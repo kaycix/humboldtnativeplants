@@ -25,6 +25,11 @@ icon_attribution:
     url: "https://calscape.org/photos/47?srchcr=sc61fdc48beaf01"
 icon:  "/assets/images/plants/deschampsia_cespitosa_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Deschampsia%20cespitosa(%20)"
+
+gardens: [
+    trinidad_museum
+    ,trinidad_museum_meadow
+        ]
 ---
 
 

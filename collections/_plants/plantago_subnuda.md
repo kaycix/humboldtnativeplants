@@ -27,6 +27,8 @@ icon: "/assets/images/plants/plantago_subnuda_icon.jpg"
 calscape_link: "https://calscape.org/Plantago-subnuda-(Naked-Plantain)"
 
 gardens: [
+    trinidad_museum
+    ,trinidad_museum_pond
         ]
 ---
 

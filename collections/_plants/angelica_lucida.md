@@ -26,11 +26,9 @@ icon_attribution:
 icon: "/assets/images/plants/angelica_lucida_icon.jpg"
  
 calscape_link: "https://calscape.org/Angelica-lucida-()"
+
+gardens: [ 
+    trinidad_museum
+    ,trinidad_museum_coastal
+        ]
 ---
-
-
-
-
-
-
-
