@@ -22,8 +22,8 @@ local_nurseries:
     alt: "Lost Foods Nursery" 
     title: "Lost Foods Nursery"
     excerpt: "3750 Harris Street, Gate 3. Eureka, CA 95503." 
-    url: "http://lostfoods.org/" 
-    btn_label: "See Website"
+    url: "/nursery/lost-foods" 
+    btn_label: "More Information"
     btn_class: "btn--primary"
   - image_path: /assets/images/mattole_nursery.jpg 
     alt: "Mattole Restoration Council Native Plant Nursery" 

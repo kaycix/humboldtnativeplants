@@ -78,9 +78,9 @@ Website: <a href="{{page.website.url}}" target="_blank">
             {{page.hours_text}}
         {% endif %}
     </div>
+    {% if page.more %}
     <div class="summary-more">
         <h2>More Information</h2>
-        {% if page.more %}
             <ul>
             {% for more in page.more %}
                 <li>
@@ -90,8 +90,8 @@ Website: <a href="{{page.website.url}}" target="_blank">
                 </li>
             {% endfor %}
             </ul>
-        {% endif %}
     </div>
+    {% endif %}
 </section>
 
 <div style="clear:both"></div>
