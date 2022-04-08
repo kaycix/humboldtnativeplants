@@ -1,6 +1,6 @@
 ---
 name: "Trinidad Museum Native Plant Garden"
-icon: "" 
+icon: "/assets/images/trinidad_museum.png" 
 
 location: Trinidad
 
