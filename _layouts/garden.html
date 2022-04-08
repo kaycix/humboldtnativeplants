@@ -89,8 +89,12 @@ Website: <a href="{{page.website.url}}" target="_blank">
 {% if page.gallery %}
 <div class="gallery">
     {% for item in page.gallery %}
-    <img src="{{item.url}}" />
+    <div class="gallery_image">
+        <img src="{{item.url}}" />
+        <span class="caption">Photo by {{item.attribution}}</span>
+    </div>
     {% endfor %}
+    <div style="clear:both"></div>
 </div>
 {% endif %}
 
