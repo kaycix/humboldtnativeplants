@@ -11,17 +11,17 @@ layout: single
 {% endif %}
 
 <h1>{{ page.name }} </h1>
-{% if page.subtext %}
-<p>
-    {{page.subtext}}
-</p>
-{% endif %}
 
 {% if page.website %}
 <p>
 Website: <a href="{{page.website.url}}" target="_blank">
             {{page.website.name}}
          </a>
+</p>
+{% endif %}
+{% if page.subtext %}
+<p>
+    {{page.subtext}}
 </p>
 {% endif %}
 
