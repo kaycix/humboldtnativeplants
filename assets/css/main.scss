@@ -125,7 +125,9 @@ html .masthead #site-title {
     list-style-type: circle;
 }
 
-.layout--splash h1#page-title {
+.layout--splash.index-page h1#page-title,
+.layout--splash.about-page h1#page-title,
+.layout--splash.contribute-page h1#page-title {
     text-shadow: none;
     color: #333;
     line-height: 1.2;
@@ -136,7 +138,9 @@ html .masthead #site-title {
 	font-size: 2em;
 }
 
-.layout--splash .page__hero--overlay {
+.layout--splash.index-page .page__hero--overlay,
+.layout--splash.about-page .page__hero--overlay,
+.layout--splash.contribute-page .page__hero--overlay {
     border-bottom: 10px solid #666;
     margin-bottom: 0;
 }
