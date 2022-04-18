@@ -13,8 +13,7 @@ tagline: "" #Hack: excerpt is printed twice unless tagline is specified
 location: Eureka
 
 intro: 
-    - excerpt: "The demonstration garden was created in 2019 by sustainable landscape designer Christine Kelly, with the help of CNPS nursery and Helping Humboldt volunteers. It occupies a corner of the CNPS nursery and represents several different ecosystems of Humboldt County. It is a valuable demonstration of what homeowners can accomplish on a small suburban lot. Visitors can view the garden during Volunteer Hours. Walking through the nursery also allows visitors a behind-the-scenes glimpse of this extensive native plant nursery.
-<br/>*The plant list is currently being updated. Check back soon!*" 
+    - excerpt: "The demonstration garden was created in 2019 by sustainable landscape designer Christine Kelly, with the help of CNPS nursery and Helping Humboldt volunteers. It occupies a corner of the CNPS nursery and represents several different ecosystems of Humboldt County. It is a valuable demonstration of what homeowners can accomplish on a small suburban lot. Visitors can view the garden during Volunteer Hours. Walking through the nursery also allows visitors a behind-the-scenes glimpse of this extensive native plant nursery."
 
 map: /assets/images/cnps/garden/map.jpg
 
@@ -41,15 +40,15 @@ garden_categories:
     - name: "Grassland & Chapparal"
       habitat_category: "meadow"
       tag: cnps_demo_grassland
-    - name: "Container"
-      habitat_category: "container"
-      tag: "cnps_demo_container"  
     - name: "Redwood & Mixed Evergreen Forest"
       habitat_category: "woodland" 
       tag: "cnps_demo_redwood"  
     - name: "Riparian"
       habitat_category: "riparian" 
       tag: "cnps_demo_riparian"
+    - name: "Container"
+      habitat_category: "container"
+      tag: "cnps_demo_container"  
 
 ---
 {% include feature_row id="intro" type="center" %}

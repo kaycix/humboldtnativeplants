@@ -24,7 +24,7 @@ This website is currently under construction! Report any issues for fixing and p
     <a href="https://www.signupgenius.com/go/904054da5a823a2f94-spring" target="_blank">Sign Up to Shop</a> via SignUp Genius. 25 Spots per half-hour time slots.
     <br/>
     <br/>
-     Pricing: $5 for 4-inch pots, $10 for gallons - unless otherwise marked.
+     Pricing: $5 for 4-inch pots, $10-$12 for 1 gallon pots, $15 for 2 gallon pots.
     <br/>
      Website: <a href="https://northcoastcnps.org/index.php/44-topmenucontent/288-plant-sale-event-page" target="_blank">North Coast CNPS: Spring Plant Sale</a> 
 </p>
