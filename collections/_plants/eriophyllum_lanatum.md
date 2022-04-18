@@ -31,6 +31,6 @@ calscape_link: "https://calscape.org/Common-woolly-sunflower-(Eriophyllum-lanatu
 gardens: [ 
     "arcata_marsh"
     ,cnps_demo
-    ,cnps_demo_chaparral
+    ,cnps_demo_grassland
         ]
 ---

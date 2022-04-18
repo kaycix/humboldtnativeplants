@@ -27,6 +27,6 @@ calscape_link: "https://calscape.org/Clarkia-purpurea-(Purple-Clarkia)"
 
 gardens: [
     cnps_demo
-    ,cnps_demo_evergreen
+    ,cnps_demo_redwood
         ]
 ---

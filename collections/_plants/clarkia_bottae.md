@@ -30,8 +30,6 @@ calscape_link: "https://calscape.org/loc-California/Clarkia-bottae-(Punch-Bowl-G
 
 gardens: [ 
     cnps_demo
-    ,cnps_demo_chaparral
+    ,cnps_demo_grassland
         ]
 ---
-
-

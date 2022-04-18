@@ -31,6 +31,6 @@ calscape_link: "https://calscape.org/Asclepias-speciosa-()"
 gardens: [
     "arcata_marsh" 
     ,cnps_demo
-    ,cnps_demo_chaparral
+    ,cnps_demo_grassland
         ]
 ---

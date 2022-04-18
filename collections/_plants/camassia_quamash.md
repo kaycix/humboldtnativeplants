@@ -27,12 +27,8 @@ calscape_link: "https://calscape.org/loc-California/Camassia%20quamash(%20)"
 
 gardens: [
     cnps_demo
-    ,cnps_demo_evergreen
+    ,cnps_demo_redwood
     ,trinidad_museum
     ,trinidad_museum_pond
         ]
 ---
-
-
-
-

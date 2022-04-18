@@ -29,6 +29,6 @@ calscape_link: "https://calscape.org/Symphyotrichum-foliaceum-()"
 
 gardens: [
     cnps_demo
-    ,cnps_demo_chaparral
+    ,cnps_demo_grassland
         ]
 ---

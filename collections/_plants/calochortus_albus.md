@@ -28,6 +28,6 @@ calscape_link: "https://calscape.org/loc-California/Calochortus%20albus%20(White
 
 gardens: [ 
     cnps_demo
-    ,cnps_demo_chaparral
+    ,cnps_demo_grassland
         ]
 ---

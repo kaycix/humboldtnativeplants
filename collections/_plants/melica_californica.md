@@ -30,6 +30,6 @@ calscape_link: "https://calscape.org/loc-California/Melica%20californica%20(Cali
 
 gardens: [
     cnps_demo
-    ,cnps_demo_chaparral
+    ,cnps_demo_grassland
         ]
 ---

@@ -27,7 +27,7 @@ calscape_link: "https://calscape.org/loc-California/Potentilla%20gracilis(%20)"
 
 gardens: [
     cnps_demo
-    ,cnps_demo_evergreen
+    ,cnps_demo_redwood
         ]
 ---
 
