@@ -16,6 +16,8 @@ intro:
     - excerpt: "The demonstration garden was created in 2019 by sustainable landscape designer Christine Kelly, with the help of CNPS nursery and Helping Humboldt volunteers. It occupies a corner of the CNPS nursery and represents several different ecosystems of Humboldt County. It is a valuable demonstration of what homeowners can accomplish on a small suburban lot. Visitors can view the garden during Volunteer Hours. Walking through the nursery also allows visitors a behind-the-scenes glimpse of this extensive native plant nursery.
 <br/>*The plant list is currently being updated. Check back soon!*" 
 
+map: /assets/images/cnps/garden/map.jpg
+
 gallery:
   - url: /assets/images/cnps/garden/colorful_annuals.jpg
     image_path: /assets/images/cnps/garden/colorful_annuals.jpg
@@ -33,21 +35,30 @@ gallery:
 garden_tag_name: "cnps_demo"
 
 garden_categories:
-    - name: "Coastal"
+    - name: "Coastal Bluffs"
+      habitat_category: "coastal"
       tag: "cnps_demo_coastal"  
-    - name: "Grassland & Chaparral"
+    - name: "Grassland & Chapparal"
+      habitat_category: "meadow"
       tag: cnps_demo_grassland
     - name: "Container"
+      habitat_category: "container"
       tag: "cnps_demo_container"  
     - name: "Redwood & Mixed Evergreen Forest"
+      habitat_category: "woodland" 
       tag: "cnps_demo_redwood"  
     - name: "Riparian"
+      habitat_category: "riparian" 
       tag: "cnps_demo_riparian"
 
 ---
 {% include feature_row id="intro" type="center" %}
 
 {% include gallery caption="" %}
+
+{% if page.map %}
+<img src="{{ page.map }}" />
+{% endif %}
 
 {% if page.garden_categories %}
 <section class="browse">
@@ -68,7 +79,7 @@ garden_categories:
                                      "item.gardens contains tag" %}
     {% assign plant_groups = plants | group_by : "type" %} 
 
-<h3 id="{{garden_category.tag}}" class="{{garden_category.name | downcase | replace: " ", "_"  }}">{{ garden_category.name }}</h3>
+<h3 id="{{garden_category.tag}}" class="{{garden_category.habitat_category}}">{{ garden_category.name }}</h3>
 
 {% include plant_cards.html 
     plants = plants

@@ -24,5 +24,3 @@ garden_categories:
     - name: "Pond"
       tag: trinidad_museum_pond
 ---
-
-
