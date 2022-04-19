@@ -116,11 +116,6 @@ html .masthead #site-title {
     text-align: center;
 }
 
-.layout--splash.index-page h1#page-title {
-    font-size: 3.5em;
-	font-weight: 700;
-}
-
 .index-page li {
     list-style-type: circle;
 }
@@ -135,7 +130,11 @@ html .masthead #site-title {
     font-size: 2em;
 	font-weight: normal;
 	text-align: center;
-	font-size: 2em;
+}
+
+.layout--splash.index-page h1#page-title {
+    font-size: 3.5em;
+	font-weight: 700;
 }
 
 .layout--splash.index-page .page__hero--overlay,
