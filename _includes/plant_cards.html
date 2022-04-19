@@ -13,10 +13,38 @@
                 </div>
                 <div class="archive__item-body">
                     <h2 class="archive__item-title">
-                        {{plant.common_name}}
+                        <!-- Same logic as plants.html. Should probably be in a util function -->
+                        {% if plant.calscape_link %}
+                            <a href="{{plant.calscape_link}}" target="_blank">
+                                {{plant.common_name}}
+                            </a>
+                        {% elsif plant.calflora_link %}
+                            <a href="{{plant.calflora_link}}" target="_blank">
+                                {{plant.common_name}}
+                            </a>
+                        {% else %}
+                            {{plant.common_name}}
+                        {% endif %}
                     </h2>
                     <div class="archive__item-excerpt">
                         {{plant.scientific_name | capitalize }}
+                       
+                        <!-- 
+                        {% assign sort_param = "" %}
+                        {% if plant.sun_requirements contains 'Full Sun' %}
+                           {% assign sort_param = sort_param | append: "a" %}
+                        {% endif %}
+                        {% if plant.sun_requirements contains 'Part Shade' %}
+                           {% assign sort_param = sort_param | append: "b" %}
+                        {% endif %}
+                        {% if plant.sun_requirements contains 'Full Shade' %}
+                           {% assign sort_param = sort_param | append: "c" %}
+                        {% endif %}
+
+                        <div class="sun sun_req" data-order="{{sort_param}}">
+                            <div class="{{sort_param}}"></div>
+                        </div>
+                        -->
                     </div>
                 </div>
             </div>
