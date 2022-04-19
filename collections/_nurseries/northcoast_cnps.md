@@ -22,11 +22,11 @@ address:
 
 hours:
     - day: "Wed"
-      time: " 10:00 a.m. - 12:30 p.m."
+      time: " 10:00 a.m. - 1:00 p.m."
     - day: "Fri"
-      time: "10:00 a.m. - 12:30 p.m."
+      time: "10:00 a.m. - 1:00 p.m."
     - day: "Sun"
-      time: "10:00 a.m. - 12:30 p.m."
+      time: "10:00 a.m. - 1:00 p.m."
 
 hours_text: "The nursery and demonstration garden are open to the public during Volunteer Hours. Plant sales are currently on hold until the <a href='/cnps_2022_spring_sale'>Spring Plant Sale</a>."
 
