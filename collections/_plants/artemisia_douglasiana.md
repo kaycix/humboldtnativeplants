@@ -2,15 +2,17 @@
 plant_id: 99
 common_name: "Douglas' Sagewort"
 scientific_name: "Artemisia douglasiana"
-type: "tree"
+type: "perennial herb"
 
 native_to: "Humboldt"
 
 categories: [humboldt_county_native,
        cnps_master_inventory
+        ,cnps_2022_spring
         ,butterfly
         ,bird
         ,groundcover
+        ,medicinal
       ]
 
 sun_requirements:
