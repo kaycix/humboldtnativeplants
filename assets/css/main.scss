@@ -108,12 +108,15 @@ html .masthead #site-title {
     margin: 0 auto;
 }
 
+.layout--splash .wrapper {
+    text-align: center;
+}
+
 .layout--splash.index-page .wrapper {
     background-image: url("./../images/humboldt_county_map.png");
     background-position: top 0 left 10%; /* TODO test on larger screens */
     background-repeat: no-repeat;
     min-height: 322px;
-    text-align: center;
 }
 
 .index-page li {
@@ -205,13 +208,18 @@ html .masthead #site-title {
 }
 
 .page__hero--overlay .page__lead {
-    color: #333;
+    color: #FFF;
     display: inline;
     font-size: 1.03125em; /* TODO use h5? */
     font-weight: 700;
     text-align: center;
     text-shadow: none;
     width: 100%; /* width and display center it vertically without letting button next to it */
+}
+
+.index-page .page__hero--overlay .page__lead,
+.header-page .page__hero--overlay .page__lead {
+    color: #333;
 }
 
 html h6 {
@@ -816,6 +824,11 @@ nav.pagination {
 .garden-page h3.pond,
 .garden-page h3.riparian {
     background-image: url("./../images/habitat-riparian.jpg");
+}
+
+.nursery-page .archive__item-teaser img {
+    height: 147px;
+    object-fit: cover;
 }
 
 .nursery-page .title_icon {

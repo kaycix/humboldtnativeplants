@@ -1,14 +1,14 @@
 ---
 layout: splash
 
-title: "CNPS Demonstration Garden"
+title: "Demonstration Garden"
 
 header:
  overlay_color: "#000"
  overlay_filter: "0.5"
  overlay_image: /assets/images/cnps/garden/path_with_columbines.jpg
 
-tagline: "" #Hack: excerpt is printed twice unless tagline is specified
+tagline: "at the <a href='/nursery/northcoast-cnps'>North Coast CNPS Nursery</a>" #Note: excerpt is printed twice unless tagline is specified
 
 location: Eureka
 
@@ -21,15 +21,15 @@ gallery:
   - url: /assets/images/cnps/garden/colorful_annuals.jpg
     image_path: /assets/images/cnps/garden/colorful_annuals.jpg
     alt: "Colorful Annuals"
-    title: "Colorful Annuals"
+    title: "Photo by Christine Kelly"
   - url: /assets/images/cnps/garden/grass_purple_flower.jpg
     image_path: /assets/images/cnps/garden/grass_purple_flower.jpg
     alt: "Iris"
-    title: "Iris"
+    title: "Photo by Christine Kelly"
   - url: /assets/images/cnps/garden/columbines.jpg
     image_path: /assets/images/cnps/garden/columbines.jpg
     alt: "Columbines"
-    title: "Columbines"
+    title: "Photo by Christine Kelly"
 
 garden_tag_name: "cnps_demo"
 
