@@ -20,16 +20,16 @@ map: /assets/images/cnps/garden/map.jpg
 gallery:
   - url: /assets/images/cnps/garden/colorful_annuals.jpg
     image_path: /assets/images/cnps/garden/colorful_annuals.jpg
-    alt: "Colorful Annuals"
-    title: "Photo by Christine Kelly"
+    alt: "North Coast CNPS Demonstration Garden"
+    title: "North Coast CNPS Demonstration Garden"
   - url: /assets/images/cnps/garden/grass_purple_flower.jpg
     image_path: /assets/images/cnps/garden/grass_purple_flower.jpg
-    alt: "Iris"
-    title: "Photo by Christine Kelly"
+    alt: "North Coast CNPS Demonstration Garden"
+    title: "North Coast CNPS Demonstration Garden"
   - url: /assets/images/cnps/garden/columbines.jpg
     image_path: /assets/images/cnps/garden/columbines.jpg
-    alt: "Columbines"
-    title: "Photo by Christine Kelly"
+    alt: "North Coast CNPS Demonstration Garden"
+    title: "North Coast CNPS Demonstration Garden"
 
 garden_tag_name: "cnps_demo"
 
@@ -53,7 +53,7 @@ garden_categories:
 ---
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery caption="" %}
+{% include gallery caption="Photos by Christine Kelly." %}
 
 {% if page.map %}
 <img src="{{ page.map }}" />

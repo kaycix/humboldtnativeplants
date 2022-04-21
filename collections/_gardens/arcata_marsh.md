@@ -42,7 +42,7 @@ website:
 ---
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery caption="" %}
+{% include gallery caption="Photos by Lynn Jones" %}
 
 {% include plants_by_garden_category.html 
            garden = page.garden_tag_name %}
