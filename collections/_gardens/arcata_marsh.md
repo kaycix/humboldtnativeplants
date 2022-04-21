@@ -11,7 +11,7 @@ header:
 tagline: "Maintained by <a target='_blank' href='https://www.arcatamarshfriends.org/amic-native-plant-garden/'>Friends of the Arcata Marsh</a>" #Note: excerpt is printed twice unless tagline is specified
 
 intro: 
-    - excerpt: "This garden is publicly accessible from dawn to dusk. It is located beside the Marsh Interpretive Center and encompasses dune and prairie habitats. The designers are sibling duo Lynne and Paul Abels who broke ground on the project in 2020."
+    - excerpt: "This garden is publicly accessible from dawn to dusk. It is located beside the Marsh Interpretive Center and encompasses dune and prairie habitats. The designers are sibling duo Lynne and Paul Abels who broke ground on the project in 2020. Its well-defined walkways and clean lines demonstrate how a native plant landscape can still look tidy and well-maintained."
 
 
 icon: "/assets/images/friends_of_the_arcata_marsh.png" 
