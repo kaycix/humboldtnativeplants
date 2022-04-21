@@ -1,13 +1,38 @@
 ---
-name: "Arcata Marsh Native Plant Garden"
+layout: splash
+
+title: "Arcata Marsh Native Plant Garden"
+
+header:
+ overlay_color: "#000"
+ overlay_filter: "0.5"
+ overlay_image: /assets/images/arcata_marsh/garden/walkway_wide.jpg
+
+tagline: "Maintained by <a target='_blank' href='https://www.arcatamarshfriends.org/amic-native-plant-garden/'>Friends of the Arcata Marsh</a>" #Note: excerpt is printed twice unless tagline is specified
+
+intro: 
+    - excerpt: "This garden is publicly accessible from dawn to dusk. It is located beside the Marsh Interpretive Center and encompasses dune and prairie habitats. The designers are sibling duo Lynne and Paul Abels who broke ground on the project in 2020."
+
+
 icon: "/assets/images/friends_of_the_arcata_marsh.png" 
 
 location: Arcata
 
-garden_tag_name: "arcata_marsh"
+gallery:
+  - url: /assets/images/arcata_marsh/garden/shrubs.jpg
+    image_path: /assets/images/arcata_marsh/garden/shrubs.jpg
+    alt: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
+    title: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
+  - url: /assets/images/arcata_marsh/garden/beach_strawberry.jpg
+    image_path: /assets/images/arcata_marsh/garden/beach_strawberry.jpg
+    alt: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
+    title: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
+  - url: /assets/images/arcata_marsh/garden/walkway.jpg
+    image_path: /assets/images/arcata_marsh/garden/walkway.jpg
+    alt: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
+    title: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
 
-subtext: "
-These are some of the native plants chosen for the dune, prairie and woodland habitats found in the Arcata Marsh Native Plant Garden. The garden is located beside the Marsh Interpretive Center."
+garden_tag_name: "arcata_marsh"
 
 type: "demo"
 
@@ -15,12 +40,18 @@ website:
     name: "Friends of the Arcata Marsh"
     url: "https://www.arcatamarshfriends.org/amic-native-plant-garden/" 
 ---
+{% include feature_row id="intro" type="center" %}
+
+{% include gallery caption="" %}
+
+{% include plants_by_garden_category.html 
+           garden = page.garden_tag_name %}
+
 <!--
 Bog Lupine	Lupinus polyphyllus	
 California Fuschia or Margarita Fuchsia	Epilobium canum	Butseburougulh (earring)
 California Hairgrass	Deschampsia cespitosa ss. holciformis	
 Ceanothus	Ceanothus sp.	
-Checkerbloom or Checker Mallow	Sidalcea malviflora	
 Coast Goldenrod or Dune Goldenrod	Solidago spathulata	
 Coast Phacelia	Phacelia californica	
 Five-fingered Fern	Adiantum aleuticum	siswaqi’

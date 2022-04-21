@@ -59,40 +59,6 @@ garden_categories:
 <img src="{{ page.map }}" />
 {% endif %}
 
-{% if page.garden_categories %}
-<section class="browse">
-    <h3>Browse plants  by habitat:</h3>
-    <div class="list_categories">
-        {% for garden_category in page.garden_categories %}
-        <div class="list_category">
-            <a href="#{{garden_category.tag}}">{{garden_category.name}}</a>
-        </div>
-        {% endfor %}
-    </div>
-    <div style="clear:both"></div>
-</section>
-<h3>View all plants:</h3>
-{% for garden_category in page.garden_categories %}
-    {% assign tag = garden_category.tag %}
-    {% assign plants = site.plants | where_exp: "item", 
-                                     "item.gardens contains tag" %}
-    {% assign plant_groups = plants | group_by : "type" %} 
-
-<h3 id="{{garden_category.tag}}" class="{{garden_category.habitat_category}}">{{ garden_category.name }}</h3>
-
-{% include plant_cards.html 
-    plants = plants
-%}
-{% endfor %}
-{% else %}
-    {% assign plants = site.plants | where_exp: "item", 
-                                     "item.gardens contains garden" %}
-    {% assign plant_groups = plants | group_by : "type" %} 
-
-    {{ garden_category.name }}
-
-    {% include plant_cards.html 
-        plants = plants
-    %}
-{% endif %}
-
+{% include plants_by_garden_category.html 
+           garden_categories = page.garden_categories 
+           %}
