@@ -23,7 +23,7 @@ public_gardens:
   - image_path: /assets/images/cnps/garden/flower.jpg
     title: "Landscaping Ideas"
     excerpt: "Browse public native plant gardens in your area for ideas and inspiration."
-    url: "/garden/cnps-demo"
+    url: "/gardens"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -31,7 +31,7 @@ wildlife_gardens:
   - image_path: /assets/images/cnps/garden/ladybug.jpg
     title: "Gardening for Wildlife"
     excerpt: "Find out what native plants to attract pollinators and benefit other  wildlife."
-    url: "/category/bee"
+    url: "/wildlife"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
