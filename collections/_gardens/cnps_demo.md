@@ -62,3 +62,25 @@ garden_categories:
 {% include plants_by_garden_category.html 
            garden_categories = page.garden_categories 
            %}
+
+<h3>Garden Contributors</h3>
+<ul>
+<li>
+This garden is maintained by CNPS Nursery Directors Chris & Barbara and the CNPS nursery volunteer committee.
+</li>
+<li>
+Garden designer: Christine
+</li>
+<li>
+Photographer: Christine
+</li>
+<li>
+Plant labels: <a href="https://www.kincaidplantmarkers.com">Kincaide Plant Markers</a> 
+</li>
+<li>
+Garden signs:
+</li>
+<li>
+Garden map diagram: Kate
+</li>
+</ul>
