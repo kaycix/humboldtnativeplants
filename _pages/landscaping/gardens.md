@@ -1,6 +1,6 @@
 ---
 layout: list                                                            
-permalink: /gardens
+#permalink: /gardens
 title: "Local Native Plant Gardens"
 ---
 
