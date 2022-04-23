@@ -71,49 +71,7 @@ hours_text: "The nursery and demonstration garden are open to the public during 
 
 {% include feature_row %}
 
-<section class="summary-content">
-    {% if page.address %}
-    <div class="summary-address">
-        <h2>Address</h2>
-        <address>
-        {% if page.address.line1 %}
-            {{page.address.line1}}
-        {% endif %}
-        {% if page.address.line2 %}
-            <br/>
-            {{page.address.line2}}
-        {% endif %}
-        </address>
-        {% if page.address.map %}
-            <br/>
-            <a href="{{page.address.map}}" target="_blank" >
-                See map and directions
-            </a>
-        {% endif %}
-    </div>
-    {% endif %}
-    <div class="summary-hours">
-        <h2>Hours</h2>
-        {% if page.hours %}
-            <table class="hours-table">
-            {% for hour in page.hours %}
-                <tr>
-                    <td>
-                        {{hour.day}}
-                    </td>
-                    <td>
-                        {{hour.time}}
-                    </td>
-                </tr>
-            {% endfor %}
-            </table>
-        {% endif %}
-        {% if page.hours_text %}
-            {{page.hours_text}}
-        {% endif %}
-    </div>
-</section>
-<div style="clear:both"></div>
-
-
-
+{% include business_info.html 
+    address= page.address
+    hours=page.hours
+%}

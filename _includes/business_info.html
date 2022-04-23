@@ -1,0 +1,47 @@
+<section class="summary-content">
+    {% if include.address %}
+    <div class="summary-address">
+        <h2>Address</h2>
+        <address>
+        {% if include.address.line1 %}
+            {{include.address.line1}}
+        {% endif %}
+        {% if include.address.line2 %}
+            <br/>
+            {{include.address.line2}}
+        {% endif %}
+        </address>
+        {% if include.address.map %}
+            <br/>
+            <a href="{{include.address.map}}" target="_blank" >
+                See map and directions
+            </a>
+        {% endif %}
+    </div>
+    {% endif %}
+    <div class="summary-hours">
+        <h2>Hours</h2>
+        {% if include.hours %}
+            <table class="hours-table">
+            {% for hour in include.hours %}
+                <tr>
+                    <td>
+                        {{hour.day}}
+                    </td>
+                    <td>
+                        {{hour.time}}
+                    </td>
+                </tr>
+            {% endfor %}
+            </table>
+        {% endif %}
+        {% if include.hours_text %}
+            {{include.hours_text}}
+        {% endif %}
+    </div>
+</section>
+<div style="clear:both"></div>
+
+
+
+
