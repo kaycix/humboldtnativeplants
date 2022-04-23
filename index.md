@@ -1,45 +1,59 @@
 ---
- layout: splash
- classes: "index-page"
- title: "Native plants are <span class='animate'>better</span> for 
+layout: splash
+classes: "index-page"
+title: "Native plants are <span class='animate'>better</span> for 
          <div id='container'>
              <div id='flip'><div>
              <div>pollinators.</div></div>
              <div><div>drought.</div></div>
              <div><div>the planet.</div></div>
          </div></div>"    
- header:
-     overlay_color: "#ebf1f4"
-     overlay_filter: "0"
-     actions:
+header:
+    overlay_color: "#ebf1f4"
+    overlay_filter: "0"
+    actions:
          - label: "Learn More"
            url: /learn_more
- excerpt: Native plants are beautiful, easy to grow, and provide a critical foundation for our local ecosystem. 
+    excerpt: Native plants are beautiful, easy to grow, and provide a critical foundation for our local ecosystem. 
+
+intro:
+    - excerpt: "This website is under construction. Please check back soon for updates!"
+
+public_gardens:
+  - image_path: /assets/images/cnps/garden/flower.jpg
+    title: "Landscaping Ideas"
+    excerpt: "Browse public native plant gardens in your area for ideas and inspiration."
+    url: "/garden/cnps-demo"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+wildlife_gardens:
+  - image_path: /assets/images/cnps/garden/ladybug.jpg
+    title: "Gardening for Wildlife"
+    excerpt: "Find out what native plants to attract pollinators and benefit other  wildlife."
+    url: "/category/bee"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+where_to_buy:
+  - image_path: /assets/images/cnps_northcoast_nursery.jpg 
+    title: "Where to Buy Native Plants"
+    excerpt: "There are many local nurseries that carry native plants - and sources for native seeds online."
+    url: "/where_to_buy"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="public_gardens" type="left" %}
+
+{% include feature_row id="wildlife_gardens" type="right" %}
+
+{% include feature_row id="where_to_buy" type="left" %}
+
 <!-- 
- This is the html template that Minimal Mistakes uses to display a Feature Row. 
- We can't use Feature Row easily because Jekyll does not support Liquid variables in front matter. 
- But to make use of the css, we will copy the struction and class names. 
- TODO A future enhancement would be to use the actual jekyll template.
-  
- <div class="feature__wrapper">
-     <div class="feature__item">
-       <div class="archive__item">
-           <div class="archive__item-teaser">
-             <img src="/humboldtnativeplants/assets/splash/some-picture.jpg" alt="">
-           </div>
-         <div class="archive__item-body">
-             <h2 class="archive__item-title">Title Goes Here</h2>
-             <div class="archive__item-excerpt">
-                 Some text describing this Row Item
-             </div>
-             <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p>
-         </div>
-       </div>
-     </div>
---->
- <div class="feature__wrapper">
+<div class="feature__wrapper">
      <div class="feature__item">
        <div class="archive__item">
            <div class="archive__item-teaser">
@@ -67,9 +81,14 @@
                         Arcata Marsh Native Plant Garden
                         </a>
                      </li>
+                     <li>
+                        <a href="{{'/garden/trinidad-museum' | prepend:site.baseurl }}">
+                            Trinidad Museum Native Plant Garden
+                        </a>
+                     </li>
                  </ul>
              </div>
-    <!--         <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p> -->
+            <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p>
          </div>
        </div>
      </div>
@@ -88,15 +107,14 @@
                      Volunteer Opportunities
                      </a>
                  </li>
-                <!--
                  <li>
                      <a href="{{"/plant_list" | prepend:site.baseurl }}">
                      Create a Plant List to Share
                      </a>
-                 </li>-->
+                 </li>
              </ul>
              </div>
-    <!--         <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p> -->
+             <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p>
          </div>
        </div>
      </div>
@@ -116,9 +134,9 @@
                     <a href="{{'/category/beginner' | prepend:site.baseurl }}">
                         Beginner-Friendly Native Plants
                     </a>
-                     <!--<a href="{{"/plants" | prepend:site.baseurl }}">
+                    <a href="{{"/plants" | prepend:site.baseurl }}">
                          Browse All Native Plants 
-                     </a>-->
+                     </a>
                  </li>
                  <li>
                     <a href="{{'/category/hummingbird' | prepend:site.baseurl }}">
@@ -150,15 +168,16 @@
                     Hedge Plants
                     </a>
                  </li>
-                 <!--<li>
+                 <li>
                      <a href="{{"/gardens" | prepend:site.baseurl }}">
                          Local Native Plant Gardens
                      </a>
-                 </li>-->
+                 </li>
              </ul> 
             </div>
-             <!-- <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p> -->
+            <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p>
          </div>
        </div>
      </div>
  </div>
+-->

@@ -83,4 +83,7 @@ Garden signs:
 <li>
 Garden map diagram: Kate
 </li>
+<li>
+Book references: Designing California Native Gardens
+</li>
 </ul>
