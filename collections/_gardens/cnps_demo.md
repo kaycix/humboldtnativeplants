@@ -63,16 +63,13 @@ garden_categories:
            garden_categories = page.garden_categories 
            %}
 
-<h3>Garden Contributors</h3>
+<div class="notice--info">
 <ul>
 <li>
 This garden is maintained by CNPS Nursery Directors Chris & Barbara and the CNPS nursery volunteer committee.
 </li>
 <li>
-Garden designer: Christine
-</li>
-<li>
-Photographer: Christine
+Garden designer: Christine Kelly
 </li>
 <li>
 Plant labels: <a href="https://www.kincaidplantmarkers.com">Kincaide Plant Markers</a> 
@@ -81,9 +78,10 @@ Plant labels: <a href="https://www.kincaidplantmarkers.com">Kincaide Plant Marke
 Garden signs:
 </li>
 <li>
-Garden map diagram: Kate
+Garden map diagram: Kate Rowe
 </li>
 <li>
 Book references: Designing California Native Gardens
 </li>
 </ul>
+</div>

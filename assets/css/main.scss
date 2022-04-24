@@ -764,7 +764,8 @@ div.vine {
 
 .browse .list_category {
     float: left;
-    min-width: 300px;
+    margin-bottom: 12px;
+    min-width: 400px;
 }
 
 nav.pagination {
@@ -799,30 +800,41 @@ nav.pagination {
     text-align: center;
 }
 
-.garden-page h3 {
-    border-radius: 10px;
-    height: 60px;
+.garden-page .list_category h3 {
     line-height: 60px;
-    margin-bottom: 12px;
-    padding-left: 20px;
+    margin: 0
 }
 
-.garden-page h3.coastal {
+.garden-page .habitat_category_icon {
+    border-radius: 30px;
+    height: 60px;
+    float: left;
+    width: 60px;
+    margin-right: 12px;
+}
+
+.garden-page h3.habitat_category {
+    height: 60px;
+    line-height: 60px;
+    padding-left: 12px;
+}
+
+.garden-page .coastal {
     background-image: url("./../images/habitat-coastal.jpg");
 }
 
-.garden-page h3.meadow,
-.garden-page h3.grassland {
+.garden-page .meadow,
+.garden-page .grassland {
     background-image: url("./../images/habitat-grassland.jpg");
 }
 
-.garden-page h3.woodland,
-.garden-page h3.redwood_forest {
+.garden-page .woodland,
+.garden-page .redwood_forest {
     background-image: url("./../images/habitat-redwood.jpg");
 }
 
-.garden-page h3.pond,
-.garden-page h3.riparian {
+.garden-page .pond,
+.garden-page .riparian {
     background-image: url("./../images/habitat-riparian.jpg");
 }
 

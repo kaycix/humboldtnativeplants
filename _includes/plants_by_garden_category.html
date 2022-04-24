@@ -1,10 +1,13 @@
 {% if include.garden_categories %}
 <section class="browse">
-    <h3>Browse plants  by habitat:</h3>
+    <h3>Browse plants  by zones:</h3>
     <div class="list_categories">
         {% for garden_category in include.garden_categories %}
         <div class="list_category">
-            <a href="#{{garden_category.tag}}">{{garden_category.name}}</a>
+            <div class="habitat_category_icon {{garden_category.habitat_category}}"></div>
+            <a href="#{{garden_category.tag}}">
+                <h3>{{garden_category.name}}</h3>
+            </a>
         </div>
         {% endfor %}
     </div>
@@ -17,7 +20,7 @@
                                      "item.gardens contains tag" %}
     {% assign plant_groups = plants | group_by : "type" %} 
 
-<h3 id="{{garden_category.tag}}" class="{{garden_category.habitat_category}}">{{ garden_category.name }}</h3>
+<h3 id="{{garden_category.tag}}" class="habitat_category {{garden_category.habitat_category}}">{{ garden_category.name }}</h3>
 
 {% include plant_cards.html 
     plants = plants
