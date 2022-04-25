@@ -21,28 +21,28 @@ location: Arcata
 gallery:
   - url: /assets/images/arcata_marsh/garden/walkway.jpg
     image_path: /assets/images/arcata_marsh/garden/walkway.jpg
-    alt: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
-    title: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
+    alt: "Arcata Marsh Native Plant Garden. LJ Photography"
+    title: "Arcata Marsh Native Plant Garden. LJ Photography"
   - url: /assets/images/arcata_marsh/garden/flower.jpg
     image_path: /assets/images/arcata_marsh/garden/flower.jpg
-    alt: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
-    title: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
+    alt: "Arcata Marsh Native Plant Garden. LJ Photography"
+    title: "Arcata Marsh Native Plant Garden. LJ Photography"
   - url: /assets/images/arcata_marsh/garden/coastal.jpg
     image_path: /assets/images/arcata_marsh/garden/coastal.jpg
-    alt: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
-    title: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
+    alt: "Arcata Marsh Native Plant Garden. LJ Photography"
+    title: "Arcata Marsh Native Plant Garden. LJ Photography"
   - url: /assets/images/arcata_marsh/garden/lupine.jpg
     image_path: /assets/images/arcata_marsh/garden/lupine.jpg
-    alt: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
-    title: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
+    alt: "Arcata Marsh Native Plant Garden. LJ Photography"
+    title: "Arcata Marsh Native Plant Garden. LJ Photography"
   - url: /assets/images/arcata_marsh/garden/yarrow.jpg
     image_path: /assets/images/arcata_marsh/garden/yarrow.jpg
-    alt: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
-    title: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
+    alt: "Arcata Marsh Native Plant Garden. LJ Photography"
+    title: "Arcata Marsh Native Plant Garden. LJ Photography"
   - url: /assets/images/arcata_marsh/garden/shrubs.jpg
     image_path: /assets/images/arcata_marsh/garden/shrubs.jpg
-    alt: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
-    title: "Arcata Marsh Native Plant Garden. Photo by Lynn Jones"
+    alt: "Arcata Marsh Native Plant Garden. LJ Photography"
+    title: "Arcata Marsh Native Plant Garden. LJ Photography"
 
 garden_tag_name: "arcata_marsh"
 
@@ -54,7 +54,7 @@ website:
 ---
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery caption="Photos by Lynn Jones" %}
+{% include gallery caption="LJ Photography" %}
 
 {% include plants_by_garden_category.html 
            garden = page.garden_tag_name %}
