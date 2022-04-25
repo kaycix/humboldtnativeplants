@@ -11,12 +11,13 @@ header:
 
 tagline: "Maintained by the <a href='http://www.trinidadmuseum.org/native-plant-garden/trinidad-museum-native-plant-garden-plant-list/' target='_blank'>Trinidad Museum</a>" 
 
+intro: 
+    - excerpt: "The Trinidad Museum garden includes a small pond, bee hotel and meandering paths. The beauty and tranquility of this natural landscaping, coupled with the gentle chirps and buzzes of wildlife, makes a gentle but persuasive case for native landscaping."
+
+
 location: Trinidad
 
 garden_tag_name: "trinidad_museum"
-
-intro: 
-    - excerpt: ""
 
 type: "demo"
 
@@ -44,6 +45,8 @@ garden_categories:
     - name: "Pond"
       tag: trinidad_museum_pond
 ---
+{% include feature_row id="intro" type="center" %}
+
 {% include gallery caption="Photos taken April 2022" %}
 
 {% include plants_by_garden_category.html 
