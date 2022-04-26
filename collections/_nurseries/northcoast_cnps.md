@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/cnps/nursery_brian_7.jpg
     alt: "Plant Inventory"
     title: "Plant Inventory"
-    excerpt: "Plant sales at the nursery are currently on hold as volunteers prepare for the upcoming <a href='/cnps_2022_spring_sale/'>Spring 2022 Sale</a>. Click below to browse the master inventory, an extensive list of plants that have been offered at this nursery in the recent past."
+    excerpt: "<div class='notice--info' style='font-size:1rem !important; margin-top: 0px !important'>Plant sales at the nursery are currently on hold as volunteers prepare for the upcoming <a href='/cnps_2022_spring_sale/'>Spring 2022 Sale</a>.</div>Click below to browse the master inventory, an extensive list of plants that have been offered at this nursery in the recent past."
     url: "/category/cnps-master-inventory"
     btn_label: "Browse Master Inventory"
     btn_class: "btn--primary"
