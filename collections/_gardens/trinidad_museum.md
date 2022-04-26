@@ -12,7 +12,7 @@ header:
 tagline: "Maintained by the <a href='http://www.trinidadmuseum.org/native-plant-garden/trinidad-museum-native-plant-garden-plant-list/' target='_blank'>Trinidad Museum</a>" 
 
 intro: 
-    - excerpt: "The Trinidad Museum garden includes a small pond, bee hotel and meandering paths. The beauty and tranquility of this natural landscaping, coupled with the gentle chirps and buzzes of wildlife, makes a gentle but persuasive case for native landscaping."
+    - excerpt: "The Trinidad Museum garden includes a small pond, bee hotel and meandering paths. The beauty and tranquility of this natural landscaping, combined with the gentle chirps and buzzes of wildlife, make this garden a delight to stroll through."
 
 
 location: Trinidad
@@ -22,16 +22,28 @@ garden_tag_name: "trinidad_museum"
 type: "demo"
 
 gallery:
-  - url: /assets/images/trinidad_museum/garden_pond.jpeg
-    image_path: /assets/images/trinidad_museum/garden_pond.jpeg
+  - url: /assets/images/trinidad_museum/pond.jpg
+    image_path: /assets/images/trinidad_museum/pond.jpg
+    alt: "Trindad Museum Native Plant Garden"
+    title: "Trinidad Museum Native Plant Garden"
+  - url: /assets/images/trinidad_museum/people.jpg
+    image_path: /assets/images/trinidad_museum/people.jpg
+    alt: "Trindad Museum Native Plant Garden"
+    title: "Trinidad Museum Native Plant Garden"
+  - url: /assets/images/trinidad_museum/rock_entrance.jpeg
+    image_path: /assets/images/trinidad_museum/rock_entrance.jpeg
+    alt: "Trindad Museum Native Plant Garden"
+    title: "Trinidad Museum Native Plant Garden"
+  - url: /assets/images/trinidad_museum/bridge.jpg
+    image_path: /assets/images/trinidad_museum/bridge.jpg
     alt: "Trindad Museum Native Plant Garden"
     title: "Trinidad Museum Native Plant Garden"
   - url: /assets/images/trinidad_museum/bee_hotel.jpeg
     image_path: /assets/images/trinidad_museum/bee_hotel.jpeg
     alt: "Trindad Museum Native Plant Garden"
     title: "Trinidad Museum Native Plant Garden"
-  - url: /assets/images/trinidad_museum/rock_entrance.jpeg
-    image_path: /assets/images/trinidad_museum/rock_entrance.jpeg
+  - url: /assets/images/trinidad_museum/building.jpg
+    image_path: /assets/images/trinidad_museum/building.jpg
     alt: "Trindad Museum Native Plant Garden"
     title: "Trinidad Museum Native Plant Garden"
 
