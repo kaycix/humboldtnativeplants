@@ -82,16 +82,8 @@ Public event by <a href="{{'/nursery/northcoast-cnps' | prepend:site.baseurl }}"
             </a>
         </li>-->
         <div class="list_category">
-            <a href="{{'/garden/cnps-demo' | prepend:site.baseurl }}">
-           North Coast CNPS Garden (Eureka)
-            </a>
-        </div>
-            <!--    
-           Trinidad Native Plant Garden
-            -->
-        <div class="list_category">
-            <a href="{{'/garden/arcata-marsh' | prepend:site.baseurl }}">
-            Arcata Marsh Native Plant Garden
+            <a href="{{'/gardens' | prepend:site.baseurl }}">
+            Local Native Plant Gardens
             </a>
         </div>
     </div>

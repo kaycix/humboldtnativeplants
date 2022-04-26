@@ -420,14 +420,14 @@ table.dataTable thead .sorting {
     padding-right: 30px !important;
 }
 
-html table .scientific_name,
+.scientific_name,
 html table div.height { 
 	color: #888;
 	font-size: 0.9em;
     font-weight: normal;
 }
 
-html table .scientific_name {
+.scientific_name {
 	font-style: italic;
 }
 
@@ -565,10 +565,14 @@ div.vine {
 	margin-right: 20px;
 }
 
+table .sun_req div {
+    margin: 0 auto;
+
+}
+
 .sun_req div {
     border-radius: 15px;
     height: 30px;
-    margin: 0 auto;
     width: 30px;
 }
 
@@ -664,6 +668,10 @@ div.vine {
 }
 
 .plant.card .archive__item-teaser {
+    float: left;
+}
+
+.plant.card .archive__item-excerpt {
     float: left;
 }
 

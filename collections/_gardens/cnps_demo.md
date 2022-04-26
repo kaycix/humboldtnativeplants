@@ -13,7 +13,7 @@ tagline: "at the <a href='/nursery/northcoast-cnps'>North Coast CNPS Nursery</a>
 location: Eureka
 
 intro: 
-    - excerpt: "The demonstration garden occupies a corner of the CNPS nursery and is a valuable example of what homeowners can accomplish on a small suburban lot. It was created in 2019 by sustainable landscape designer Christine Kelly, with the help of CNPS and Helping Humboldt volunteers. Visitors can view the garden during Nursery Hours. Walking through the nursery also allows visitors a behind-the-scenes glimpse of this extensive native plant nursery."
+    - excerpt: "The demonstration garden occupies a corner of the CNPS nursery and is a valuable example of what homeowners can accomplish on a small suburban lot. Diligent plant labeling makes it an extremely useful resource for beginniner native plant appreciators. This garden was created in 2019 by sustainable landscape designer Christine Kelly, with the help of CNPS and Helping Humboldt volunteers. Visitors can view the garden during Nursery Hours. Walking through the nursery also allows visitors a behind-the-scenes glimpse of this extensive native plant nursery."
 
 map: /assets/images/cnps/garden/map.jpg
 
@@ -53,7 +53,7 @@ garden_categories:
 ---
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery caption="Photos by Christine Kelly." %}
+{% include gallery caption="CK Photography" %}
 
 {% if page.map %}
 <img src="{{ page.map }}" />
@@ -66,10 +66,7 @@ garden_categories:
 <div class="notice--info">
 <ul>
 <li>
-This garden is maintained by CNPS Nursery Directors Chris & Barbara and the CNPS nursery volunteer committee.
-</li>
-<li>
-Garden designer: Christine Kelly
+This garden is maintained by the CNPS nursery volunteer committee.
 </li>
 <li>
 Plant labels: <a href="https://www.kincaidplantmarkers.com">Kincaide Plant Markers</a> 
@@ -78,10 +75,7 @@ Plant labels: <a href="https://www.kincaidplantmarkers.com">Kincaide Plant Marke
 Garden signs:
 </li>
 <li>
-Garden map diagram: Kate Rowe
-</li>
-<li>
-Book references: Designing California Native Gardens
+Book references: <a href="http://www.humboldtnativeplants.org/garden/cnps-demo" target="_blank">Designing California Native Gardens</a>
 </li>
 </ul>
 </div>

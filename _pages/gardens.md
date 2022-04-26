@@ -26,14 +26,14 @@ feature_row:
     url: "/garden/trinidad-museum"
     btn_label: "See Details"
     btn_class: "btn--primary"
-  - image_path: /assets/images/icons/coming-soon.png
+  - image_path: /assets/images/icons/coming-soon.jpg
     alt: "Arcata Community Center Garden"
     title: "Arcata Community Center Garden"
     excerpt: "Practical low-maintenance native landscaping in an urban setting. This small oasis is a glimpse of what we would love to achieve in more public places."
-  - image_path: /assets/images/icons/coming-soon.png
+  - image_path: /assets/images/icons/coming-soon.jpg
     alt: "Sue-meg State Park"
     title: "Sue-meg State Park"
-  - image_path: /assets/images/icons/coming-soon.png
+  - image_path: /assets/images/icons/coming-soon.jpg
     alt: "Humboldt Botanical Garden"
     title: "Humboldt Botanical Garden"
 

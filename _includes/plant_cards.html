@@ -27,9 +27,10 @@
                         {% endif %}
                     </h2>
                     <div class="archive__item-excerpt">
+                        <div class="scientific_name" style="margin-bottom:10px">
                         {{plant.scientific_name | capitalize }}
-                       
-                        <!-- 
+                        </div>
+
                         {% assign sort_param = "" %}
                         {% if plant.sun_requirements contains 'Full Sun' %}
                            {% assign sort_param = sort_param | append: "a" %}
@@ -44,8 +45,8 @@
                         <div class="sun sun_req" data-order="{{sort_param}}">
                             <div class="{{sort_param}}"></div>
                         </div>
-                        -->
-                    </div>
+                    
+                     </div>
                 </div>
             </div>
         </div>
