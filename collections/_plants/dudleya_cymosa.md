@@ -8,6 +8,7 @@ native_to: "California"
 
 categories: [
         cnps_master_inventory
+        ,cnps_2022_spring
         ,container
       ]
 

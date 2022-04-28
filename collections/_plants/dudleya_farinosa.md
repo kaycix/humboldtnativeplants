@@ -7,6 +7,7 @@ type: "Succulent"
 native_to: "Humboldt"
 
 categories: [humboldt_county_native
+            ,cnps_2022_spring
         ,butterfly
         ,bird
         ,hummingbird
