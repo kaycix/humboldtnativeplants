@@ -12,7 +12,7 @@ header:
 tagline: "California Native Plant Society, North Coast Chapter: <a href='https://northcoastcnps.org'>See Website</a>"
 
 intro: 
-    - excerpt: "This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery additionally hosts two seasonal sales a year in the Fall and Spring in which hundreds of Humboldt County native and California native plants are offered."
+    - excerpt: "<div class='notice--info' style='font-size:1rem !important; margin-top: 0px !important'>Looking for information on our upcoming Spring 2022 Plant Sale? <a href='/cnps_2022_spring_sale/'>Click here</a></div>This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery additionally hosts two seasonal sales a year in the Fall and Spring in which hundreds of Humboldt County native and California native plants are offered."
 
 location: Eureka
 
@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/cnps/nursery_brian_7.jpg
     alt: "Plant Inventory"
     title: "Plant Inventory"
-    excerpt: "<div class='notice--info' style='font-size:1rem !important; margin-top: 0px !important'>Plant sales at the nursery are currently on hold as volunteers prepare for the upcoming <a href='/cnps_2022_spring_sale/'>Spring 2022 Sale</a>.</div>Click below to browse the master inventory, an extensive list of plants that have been offered at this nursery in the recent past."
+    excerpt: "Click below to browse the master inventory, an extensive list of plants that have been offered at this nursery in the recent past."
     url: "/category/cnps-master-inventory"
     btn_label: "Browse Master Inventory"
     btn_class: "btn--primary"
@@ -38,7 +38,7 @@ feature_row:
   - image_path: /assets/images/cnps/nurser_brian_6.jpg
     alt: "Volunteer"
     title: "Volunteer"
-    excerpt: "Join us in our efforts of restoring beautiful Humboldt ecosystems by providing affordable native plants for the home gardener. There are so many ways volunteers can help, whether you prefer to be hands-on in the nursery or garden, or at home remotely."
+    excerpt: "Join us in our efforts of restoring beautiful Humboldt ecosystems by providing affordable native plants for the home gardener."
     url: "/volunteer/cnps"
     btn_label: "More Information"
     btn_class: "btn--primary"

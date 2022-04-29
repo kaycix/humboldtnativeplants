@@ -17,11 +17,11 @@ header:
     excerpt: Native plants are beautiful, easy to grow, and provide a critical foundation for our local ecosystem. 
 
 intro:
-    - excerpt: "This website is under construction. Please check back soon for updates!"
+    - excerpt: "<div class='notice--primary' style='font-size:1rem !important;'>This website is under construction. New content is added weekly - check back soon for updates!</div>"
 
 public_gardens:
   - image_path: /assets/images/cnps/garden/flower.jpg
-    title: "Landscaping Ideas"
+    title: "Local Native Plant Gardens"
     excerpt: "Browse public native plant gardens in your area for ideas and inspiration."
     url: "/gardens"
     btn_label: "Read More"
@@ -30,7 +30,7 @@ public_gardens:
 wildlife_gardens:
   - image_path: /assets/images/cnps/garden/ladybug.jpg
     title: "Gardening for Wildlife"
-    excerpt: "Find out what native plants to attract pollinators and benefit other  wildlife."
+    excerpt: "Find out what native plants attract pollinators and benefit other  wildlife."
     url: "/wildlife"
     btn_label: "Read More"
     btn_class: "btn--primary"
