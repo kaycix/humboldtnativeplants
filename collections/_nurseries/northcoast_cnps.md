@@ -31,16 +31,16 @@ feature_row:
   - image_path: /assets/images/cnps/garden/path_with_columbines.jpg
     alt: "Demonstration Garden"
     title: "Demonstration Garden"
-    excerpt: "The demonstration garden on site represents several different ecosystems of Humboldt County."
+    excerpt: "The demonstration garden occupies a corner of the CNPS nursery and is a valuable example of what homeowners can accomplish on a small suburban lot."
     url: "/garden/cnps-demo"
-    btn_label: "See Details"
+    btn_label: "More Information"
     btn_class: "btn--primary"
   - image_path: /assets/images/cnps/nurser_brian_6.jpg
     alt: "Volunteer"
     title: "Volunteer"
     excerpt: "Join us in our efforts of restoring beautiful Humboldt ecosystems by providing affordable native plants for the home gardener. There are so many ways volunteers can help, whether you prefer to be hands-on in the nursery or garden, or at home remotely."
-    url: "https://northcoastcnps.org/index.php/get-involved/volunteer-at-the-nursery"
-    btn_label: "See Website"
+    url: "/volunteer/cnps"
+    btn_label: "More Information"
     btn_class: "btn--primary"
 
 website: 

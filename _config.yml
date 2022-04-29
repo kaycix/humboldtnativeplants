@@ -23,6 +23,9 @@ collections              :
     nurseries:
         output: true
         permalink: /nursery/:name
+    volunteer_opportunities: 
+        output: true
+        permalink: /volunteer/:name
 defaults:
  - scope:
      type: "plants"
@@ -50,6 +53,12 @@ defaults:
      classes: nursery-page wide
      title: ""
      layout: nursery
+ - scope:
+     type: "volunteer_opportunities"
+   values:
+     classes: volunteer-page wide
+     title: ""
+     layout: splash
 after_footer_scripts     : 
     - https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
     - https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js
