@@ -29,5 +29,6 @@ icon: "/assets/images/plants/solidago_spathulata_icon.jpg"
 calscape_link: "https://calscape.org/Solidago-spathulata-()"
 
 gardens: [
+    arcata_marsh
         ]
 ---

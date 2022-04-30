@@ -32,7 +32,8 @@ icon: "/assets/images/plants/sedum_spathulifolium_icon.jpg"
 calscape_link: "https://calscape.org/Sedum-spathulifolium-()"
 
 gardens: [
-    cnps_demo
+    arcata_marsh
+    ,cnps_demo
     ,cnps_demo_coastal
         ]
 ---

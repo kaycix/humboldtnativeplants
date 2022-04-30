@@ -31,7 +31,7 @@ title: ""
     Native plants are naturally adapted to this region and require very little maintanence. Native plants need no water once established, thereby making them extremely drought-friendly. There is also no need for the soil amendments, pesticides, herbicides that abound in traditional lawns and gardens.
     </p>
     <p>
-        Here in Humboldt, there are so many beautiful and varied native plants to choose from. 
+        Here in Humboldt, there are so many beautiful and varied native plants to choose from. Browse the many plant lists on this site to find the perfect native plants for your garden. 
         <figure class="ceanothus left">
             <img class="ceanothus" src="{{'/assets/images/ceanothus_bee_pixabay_sm.jpg' | prepend:site.baseurl}}" />
             <figcaption>Ceanothus by Pixabay</figcaption>

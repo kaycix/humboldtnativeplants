@@ -31,6 +31,7 @@ icon: "/assets/images/plants/symphoricarpos_albus_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Symphoricarpos%20albus%20(Common%20Snowberry)"
 
 gardens: [
+        arcata_marsh
         ]
 ---
 

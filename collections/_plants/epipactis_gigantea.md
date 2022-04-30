@@ -21,12 +21,13 @@ plant_size:
 
 icon_attribution: 
     name: "Calscape"
-    url: https://calscape.org/photos/1424?srchcr=sc623df039011fa"
+    url: https://calscape.org/photos/1424?srchcr=sc623df039011fa
 icon: "/assets/images/plants/epipactis_gigantea_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Epipactis%20gigantea%20(Stream%20Orchid)"
 
 gardens: [
+    arcata_marsh
         ]
 ---
 

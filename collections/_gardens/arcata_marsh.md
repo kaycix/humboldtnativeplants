@@ -60,29 +60,12 @@ website:
            garden = page.garden_tag_name %}
 
 <!--
-Bog Lupine	Lupinus polyphyllus	
 California Fuschia or Margarita Fuchsia	Epilobium canum	Butseburougulh (earring)
 California Hairgrass	Deschampsia cespitosa ss. holciformis	
 Ceanothus	Ceanothus sp.	
-Coast Goldenrod or Dune Goldenrod	Solidago spathulata	
-Coast Phacelia	Phacelia californica	
 Five-fingered Fern	Adiantum aleuticum	siswaqi’
-Pacific Silverweed	Potentilla anserina ssp. pacifica	
-Pacific Stonecrop	Sedum spathulifolium	
-Pig-a-back Plant	Tolmiea menziesii	
-Powdery Liveforever or Bluff Lettuce	Dudleya farinosa	
 Seapink or Thrift	Armeria maritima ssp. californica	
-Seep Monkeyflower	Erythranthe guttatus	
 Shore Pine	Pinus contorta ssp. contorta	Wulaguluplhik
 Short Oregon Grape	Berberis nervosa	
-Silk Tassel	Garrya elliptica	
-Snowberry	Symphoricarpos alba	
-Spikenard or Elk Clover	Aralia californica	
-Sticky Monkey Flower	Diplacus aurantiacus	
-Stream Orchid	Epipactis gigantea	
-Tufted hairgrass	Deschampsia cespitosa	
-West Coast Goldenrod	Solidago elongata	
-Western Azalea	Rhododendron occidentale	
 Western Trillium	Trillium ovatum	
-Yerba Buena	Clinopodium douglasii
 -->

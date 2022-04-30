@@ -29,6 +29,7 @@ icon: "/assets/images/plants/solidago_elongata_icon.jpg"
 calscape_link: "https://calscape.org/Solidago-elongata-()"
 
 gardens: [
+    arcata_marsh
         ]
 ---
 

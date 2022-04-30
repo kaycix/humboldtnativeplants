@@ -27,7 +27,8 @@ icon:  "/assets/images/plants/deschampsia_cespitosa_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Deschampsia%20cespitosa(%20)"
 
 gardens: [
-    trinidad_museum
+    arcata_marsh
+    ,trinidad_museum
     ,trinidad_museum_meadow
         ]
 ---

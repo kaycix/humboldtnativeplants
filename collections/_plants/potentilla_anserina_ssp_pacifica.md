@@ -27,5 +27,6 @@ icon: "/assets/images/plants/potentilla_anserina_ssp_pacific_icon.jpg"
 calscape_link: "https://calscape.org/Potentilla-anserina-ssp.-pacifica-(Pacific-Potentilla)?srchcr=sc5819b477e8576"
 
 gardens: [
+    arcata_marsh
         ]
 ---

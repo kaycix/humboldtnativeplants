@@ -32,7 +32,8 @@ icon: "/assets/images/plants/erythranthe_guttata_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Erythranthe-guttata-(Seep-Monkey-Flower)"
 
 gardens: [
-    trinidad_museum
+    arcata_marsh
+    ,trinidad_museum
     ,trinidad_museum_pond
         ]
 ---

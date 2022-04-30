@@ -30,7 +30,8 @@ icon: "/assets/images/plants/lupinus_polyphyllus_icon.jpg"
 calscape_link: "https://calscape.org/Lupinus-polyphyllus-()"
 
 gardens: [
-    cnps_demo
+    arcata_marsh
+    ,cnps_demo
     ,cnps_demo_redwood
         ]
 ---

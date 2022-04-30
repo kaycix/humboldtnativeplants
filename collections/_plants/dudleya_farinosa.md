@@ -31,7 +31,8 @@ icon: "/assets/images/plants/dudleya_farinosa_icon.jpg"
 calscape_link: "https://calscape.org/Dudleya-farinosa-(Bluff-Lettuce)"
 
 gardens: [
-    cnps_demo
+    arcata_marsh
+    ,cnps_demo
     ,cnps_demo_coastal
         ]
 ---
