@@ -93,5 +93,5 @@ gallery:
         </li>
     </ul>
 </p>
-<h3>Calendar:</h3>
+<h3><a id="calendar">Calendar:</a></h3>
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showNav=1&showDate=1&showPrint=0&showTabs=0&showCalendars=0&mode=MONTH&src=bm9ydGhjb2FzdGNucHNAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
