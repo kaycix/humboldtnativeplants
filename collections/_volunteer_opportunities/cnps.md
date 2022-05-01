@@ -10,9 +10,6 @@ header:
  overlay_filter: "0.5"
  overlay_image: /assets/images/cnps_nursery.jpg
 
-intro: 
-    - excerpt: "Volunteers gain valuable knowledge and hands-on experience in native plant propagation and cultivation. Join a community of native plant enthusiasts and planet warriors. Weekly Drop-In hours are Wednesday, Friday, Sunday 10a - 1p. New volunteers please RSVP at northcoastcnps@gmail.com . No experience necessary. All training and tools provided."
-
 gallery:
   - url: /assets/images/cnps/nursery/nursery_brian_8.jpg
     image_path: /assets/images/cnps/nursery/nursery_brian_8.jpg
@@ -28,9 +25,73 @@ gallery:
     title: "North Coast CNPS - Volunteers"
 
 ---
-{% include feature_row id="intro" type="center" %}
-
 {% include gallery caption="" %}
+<h1>New Volunteer Information</h1>
+<h3>Volunteeer Drop-In Hours:</h3>
+<p>
+    <ul>
+        <li>
+            Every Wednesday, Friday and Sunday from 10a - 1p.
+        </li>
+        <li>
+            Come join us, everyone is welcome - whether you come weekly or occasionally. Every little bit helps!
+        </li>
+    </ul>
+</p>
 
-Calendar:
+<h3>What to Bring:</h3>   
+<p>
+    <ul>
+        <li>Wear comfortable clothes that you don't mind getting a little dirty. Bring a water bottle and sun protection. On rainy days, we often work in the hoop house - rain gear is not required.  
+        </li>
+    </ul>
+</p>
+
+<h3>Responsibilities include:</h3>
+<p>
+    <ul>
+        <li>
+            &#10003; Seed collection and cleaning.
+        </li>
+        <li>
+            &#10003; Transplanting seedlings.
+        </li>
+         <li>
+            &#10003; Care of our living seed bank/native plant garden.
+        </li>
+        <li>
+        </li>
+    </ul>
+</p>
+
+<h3>Volunteer Perks:</h3>
+<p>
+    <ul>
+        <li>
+            &hearts; Volunteers get to take home the occasional native plant seedlings.
+        </li>
+        <li>
+            &hearts; Gain valuable hands-on experience with hundreds of native plant species, their propagation and plant care.
+        </li>
+        <li>
+            &hearts; Surround yourself with other  native plant experts, enthusiasts and beginners.
+        </li>
+        <li>
+            &hearts; Meet other people who want to make a difference! 
+        </li>
+        <li>
+            &hearts; Volunteering is a surefire boost of endorphins. Volunteering in a beautiful outdoor space, while you can get your hands dirty, and nerd out on plants is just about the best thing you can do for your mind, body, and soul.
+        </li>
+    </ul>
+</p>
+
+<h3>Contact Us:</h3>
+<p>
+    <ul>
+        <li>
+    New Volunteers please RSVP at <a href="mailto:northcoastcnps@gmail.com">northcoastcnps@gmail.com</a> so we can give you an introduction and mini-tour. 
+        </li>
+    </ul>
+</p>
+<h3>Calendar:</h3>
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showNav=1&showDate=1&showPrint=0&showTabs=0&showCalendars=0&mode=MONTH&src=bm9ydGhjb2FzdGNucHNAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
