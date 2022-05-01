@@ -21,27 +21,24 @@ intro:
 
 public_gardens:
   - image_path: /assets/images/cnps/garden/flower.jpg
-    title: "Native Plant Gardens"
+    title: "Visit Native Plant Gardens"
     excerpt: "Browse pictures and plant lists from local native plant gardens for ideas and inspiration - from Eureka to Trinidad."
     url: "/gardens"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_label: "READ MORE &#8594;"
 
 wildlife_gardens:
   - image_path: /assets/images/cnps/garden/ladybug.jpg
     title: "Gardening for Wildlife"
     excerpt: "Discover native plants that will attract pollinators and benefit other wildlife in your area."
     url: "/wildlife"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_label: "READ MORE &#8594;"
 
 where_to_buy:
   - image_path: /assets/images/cnps_northcoast_nursery.jpg 
     title: "Where to Buy Native Plants"
     excerpt: "Get to know local nurseries that carry native plants and online sources for native seeds and plants."
     url: "/where_to_buy"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_label: "READ MORE &#8594;"
 ---
 
 {% include feature_row id="intro" type="center" %}
