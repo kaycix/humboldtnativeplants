@@ -28,9 +28,5 @@ observations:
     last_spotted: "2022"
 
 gardens: [ 
-    cnps_demo
-    ,cnps_demo_container
-    ,trinidad_museum
-    ,trinidad_museum_coastal
         ]
 ---
