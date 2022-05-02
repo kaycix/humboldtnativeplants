@@ -9,12 +9,12 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
-	    <a class="site-title" href="{{ '/cnps_2022_spring_sale' | relative_url }}">
+	    <a class="site-title" href="{{ '/' | relative_url }}">
             <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
          </a>
         {% endunless %}
         <div class="site-title-wrapper">
-	    <a class="site-title" href="{{ '/cnps_2022_spring_sale' | relative_url }}">
+	    <a class="site-title" href="{{ '/' | relative_url }}">
                     <div class="location">Humboldt</div>
                     <div class="title">Native Plants</div>
         </a>

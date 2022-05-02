@@ -12,7 +12,7 @@ header:
 tagline: "California Native Plant Society, North Coast Chapter: <a href='https://northcoastcnps.org'>See Website</a>"
 
 intro: 
-    - excerpt: "<div class='notice--info' style='font-size:1rem !important; margin-top: 0px !important'>Looking for information on our upcoming Spring 2022 Plant Sale? <a href='/cnps_2022_spring_sale/'>Click here</a></div>This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery additionally hosts two seasonal sales a year in the Fall and Spring in which hundreds of Humboldt County native and California native plants are offered."
+    - excerpt: "<div class='notice--info' style='font-size:1rem !important; margin-top: 0px !important'>Our <a href='/cnps_2022_spring_sale/'>Spring 2022 Plant Sale</a> has concluded. Please contact us with any questions and information regarding plant purchases.</div>This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery additionally hosts two seasonal sales a year in the Fall and Spring in which hundreds of Humboldt County native and California native plants are offered."
 
 location: Eureka
 

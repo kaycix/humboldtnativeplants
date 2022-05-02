@@ -22,24 +22,24 @@ gallery:
     image_path: /assets/images/cnps/garden/path_with_columbines2.jpg
     alt: "North Coast CNPS Demonstration Garden"
     title: "North Coast CNPS Demonstration Garden"
-  - url: /assets/images/cnps/garden/colorful_annuals.jpg
-    image_path: /assets/images/cnps/garden/colorful_annuals.jpg
-    alt: "North Coast CNPS Demonstration Garden"
-    title: "North Coast CNPS Demonstration Garden"
   - url: /assets/images/cnps/garden/grass_purple_flower.jpg
     image_path: /assets/images/cnps/garden/grass_purple_flower.jpg
+    alt: "North Coast CNPS Demonstration Garden"
+    title: "North Coast CNPS Demonstration Garden"
+  - url: /assets/images/cnps/garden/colorful_annuals.jpg
+    image_path: /assets/images/cnps/garden/colorful_annuals.jpg
     alt: "North Coast CNPS Demonstration Garden"
     title: "North Coast CNPS Demonstration Garden"
   - url: /assets/images/cnps/garden/grassy_yerba_buena.jpg
     image_path: /assets/images/cnps/garden/grassy_yerba_buena.jpg
     alt: "North Coast CNPS Demonstration Garden"
     title: "North Coast CNPS Demonstration Garden"
-  - url: /assets/images/cnps/garden/woodland_flowers.jpg
-    image_path: /assets/images/cnps/garden/woodland_flowers.jpg
-    alt: "North Coast CNPS Demonstration Garden"
-    title: "North Coast CNPS Demonstration Garden"
   - url: /assets/images/cnps/garden/pink_flowers.jpg
     image_path: /assets/images/cnps/garden/pink_flowers.jpg
+    alt: "North Coast CNPS Demonstration Garden"
+    title: "North Coast CNPS Demonstration Garden"
+  - url: /assets/images/cnps/garden/woodland_flowers.jpg
+    image_path: /assets/images/cnps/garden/woodland_flowers.jpg
     alt: "North Coast CNPS Demonstration Garden"
     title: "North Coast CNPS Demonstration Garden"
 
