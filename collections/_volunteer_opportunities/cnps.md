@@ -60,6 +60,7 @@ gallery:
             &#10003; Care of our living seed bank/native plant garden.
         </li>
         <li>
+            &#10003; Brainstorm outreach opportunities to share native plant knowledge 
         </li>
     </ul>
 </p>

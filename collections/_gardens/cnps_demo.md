@@ -13,11 +13,15 @@ tagline: "at the <a href='/nursery/northcoast-cnps'>North Coast CNPS Nursery</a>
 location: Eureka
 
 intro: 
-    - excerpt: "The demonstration garden occupies a corner of the CNPS nursery and is a valuable example of what homeowners can accomplish on a small suburban lot. Diligent plant labeling makes it an extremely useful resource for beginniner native plant appreciators. This garden was created in 2019 by sustainable landscape designer Christine Kelly, with the help of CNPS and Helping Humboldt volunteers. Visitors can view the garden during Nursery Hours. Walking through the nursery also allows visitors a behind-the-scenes glimpse of this extensive native plant nursery."
+    - excerpt: "The demonstration garden occupies a corner of the CNPS nursery and is a valuable example of what homeowners can accomplish on a small suburban lot. Diligent plant labeling makes it especially useful for beginniner botanists. This garden was created in 2019 by sustainable landscape designer Christine Kelly, with the help of CNPS and Helping Humboldt volunteers. Visitors can view the garden during weekly Nursery Volunteer Hours and also get a glimpse of nursery activity behind the scenes."
 
 map: /assets/images/cnps/garden/map.jpg
 
 gallery:
+  - url: /assets/images/cnps/garden/path_with_columbines2.jpg
+    image_path: /assets/images/cnps/garden/path_with_columbines2.jpg
+    alt: "North Coast CNPS Demonstration Garden"
+    title: "North Coast CNPS Demonstration Garden"
   - url: /assets/images/cnps/garden/colorful_annuals.jpg
     image_path: /assets/images/cnps/garden/colorful_annuals.jpg
     alt: "North Coast CNPS Demonstration Garden"
@@ -26,8 +30,16 @@ gallery:
     image_path: /assets/images/cnps/garden/grass_purple_flower.jpg
     alt: "North Coast CNPS Demonstration Garden"
     title: "North Coast CNPS Demonstration Garden"
-  - url: /assets/images/cnps/garden/columbines.jpg
-    image_path: /assets/images/cnps/garden/columbines.jpg
+  - url: /assets/images/cnps/garden/grassy_yerba_buena.jpg
+    image_path: /assets/images/cnps/garden/grassy_yerba_buena.jpg
+    alt: "North Coast CNPS Demonstration Garden"
+    title: "North Coast CNPS Demonstration Garden"
+  - url: /assets/images/cnps/garden/woodland_flowers.jpg
+    image_path: /assets/images/cnps/garden/woodland_flowers.jpg
+    alt: "North Coast CNPS Demonstration Garden"
+    title: "North Coast CNPS Demonstration Garden"
+  - url: /assets/images/cnps/garden/pink_flowers.jpg
+    image_path: /assets/images/cnps/garden/pink_flowers.jpg
     alt: "North Coast CNPS Demonstration Garden"
     title: "North Coast CNPS Demonstration Garden"
 
