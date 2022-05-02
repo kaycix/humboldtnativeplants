@@ -30,6 +30,6 @@ calscape_link: "https://calscape.org/Monardella-odoratissima-()"
 
 gardens: [
     cnps_demo
-   ,cnps_demo_riparian
+    ,cnps_demo_grassland
         ]
 ---
