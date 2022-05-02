@@ -12,7 +12,7 @@ header:
 tagline: "California Native Plant Society, North Coast Chapter: <a href='https://northcoastcnps.org'>See Website</a>"
 
 intro: 
-    - excerpt: "<div class='notice--info' style='font-size:1rem !important; margin-top: 0px !important'>Our <a href='/cnps_2022_spring_sale/'>Spring 2022 Plant Sale</a> has concluded. Please contact us with any questions regarding plant purchases.</div>This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery additionally hosts two seasonal sales a year in the Fall and Spring in which hundreds of Humboldt County native and California native plants are offered."
+    - excerpt: "<div class='notice--info' style='font-size:1rem !important; margin-top: 0px !important'>The <a href='/cnps_2022_spring_sale/'>CNPS Spring 2022 Plant Sale</a> has concluded. Please <a href='mailto:northcoastcnps@gmail.com'>contact the nursery</a> with any questions regarding current inventory and plant purchases.</div>This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery additionally hosts two seasonal sales a year in the Fall and Spring in which hundreds of Humboldt County native and California native plants are offered."
 
 location: Eureka
 
@@ -38,7 +38,7 @@ feature_row:
   - image_path: /assets/images/cnps/nurser_brian_6.jpg
     alt: "Volunteer"
     title: "Volunteer"
-    excerpt: "Join us in our efforts of restoring beautiful Humboldt ecosystems by providing affordable native plants for the home gardener."
+    excerpt: "Join the CNPS in their efforts of restoring beautiful Humboldt ecosystems by providing affordable native plants for the home gardener."
     url: "/volunteer/cnps"
     btn_label: "More Information"
     btn_class: "btn--primary"
@@ -64,7 +64,10 @@ hours:
     - day: "Sun"
       time: "10:00 a.m. - 1:00 p.m."
 
-hours_text: "The nursery and demonstration garden are open to the public during Volunteer Hours. Plant sales are currently on hold until the <a href='/cnps_2022_spring_sale'>Spring Plant Sale</a>."
+hours_text: "The nursery and demonstration garden are open to the public during Volunteer Hours."
+
+contact:
+    email: "northcoastcnps@gmail.com"
 
 ---
 {% include feature_row id="intro" type="center" %}
@@ -74,4 +77,6 @@ hours_text: "The nursery and demonstration garden are open to the public during 
 {% include business_info.html 
     address= page.address
     hours=page.hours
+    hours_text=page.hours_text
+    contact= page.contact
 %}

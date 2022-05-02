@@ -39,6 +39,14 @@
             {{include.hours_text}}
         {% endif %}
     </div>
+    {% if include.contact %}
+    <div class="summary-contact">
+        <h2>Contact</h2>
+        {% if include.contact.email %}
+            <a href="mailto:{{include.contact.email}}">{{include.contact.email}}</a>
+        {% endif %}
+    </div>
+    {% endif %}
 </section>
 <div style="clear:both"></div>
 
