@@ -15,9 +15,8 @@ feature_row:
     alt: "California Native Plant Society"
     title: "California Native Plant Society"
     excerpt: "Volunteer Opportunities include joining the Nursery Committee, growing native plants and maintaining the native plant living seed bank."
-    url: "https://northcoastcnps.org/index.php/get-involved/volunteer-at-the-nursery"
-    btn_label: "See Website"
-    btn_class: "btn--primary"
+    url: "/volunteer/cnps"
+    btn_label: "More Information &#8594;"
   - image_path: /assets/images/friends_of_the_dunes.jpg 
     alt: "Friends of the Dunes"
     title: "Friends of the Dunes"

@@ -69,7 +69,7 @@ gallery:
 <p>
     <ul>
         <li>
-            &hearts; Volunteers get to take home the occasional native plant seedlings.
+            &hearts; Volunteers get to take home the occasional native plant seedling for their home garden.
         </li>
         <li>
             &hearts; Gain valuable hands-on experience with hundreds of native plant species, their propagation and plant care.

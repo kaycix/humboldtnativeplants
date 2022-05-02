@@ -13,7 +13,7 @@ tagline: "at the <a href='/nursery/northcoast-cnps'>North Coast CNPS Nursery</a>
 location: Eureka
 
 intro: 
-    - excerpt: "The demonstration garden occupies a corner of the CNPS nursery and is a valuable example of what homeowners can accomplish on a small suburban lot. Diligent plant labeling makes it especially useful for beginniner botanists. This garden was created in 2019 by sustainable landscape designer Christine Kelly, with the help of CNPS and Helping Humboldt volunteers. Visitors can view the garden during weekly Nursery Volunteer Hours and also get a glimpse of nursery activity behind the scenes."
+    - excerpt: "The demonstration garden occupies a corner of the CNPS nursery and is a valuable example of what homeowners can accomplish on a small suburban lot. Diligent plant labeling makes it especially useful for beginner botanists. This garden was created in 2019 by sustainable landscape designer Christine Kelly, with the help of CNPS and Helping Humboldt volunteers. Visitors can view the garden during weekly Nursery Volunteer Hours and also get a glimpse of nursery activity behind the scenes."
 
 map: /assets/images/cnps/garden/map.jpg
 
