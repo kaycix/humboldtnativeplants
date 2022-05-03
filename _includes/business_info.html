@@ -43,7 +43,7 @@
     <div class="summary-contact">
         <h2>Contact</h2>
         {% if include.contact.email %}
-            <a href="mailto:{{include.contact.email}}">{{include.contact.email}}</a>
+            <a href="mailto:{{include.contact.email}}?subject={{include.contact.default_subject}}">{{include.contact.email}}</a>
         {% endif %}
     </div>
     {% endif %}

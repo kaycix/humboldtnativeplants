@@ -32,6 +32,15 @@ local_nurseries:
     url: "https://www.mattole.org/resources/native-plants/" 
     btn_label: "See Website"
     btn_class: "btn--primary"
+local_vendors:
+  - image_path: /assets/images/beresford_bulbs/iris.jpg 
+    alt: "Beresford Bulbs" 
+    title: "Beresford Bulbs"
+    excerpt: "Email <a href='mailto:northcoastcnps@gmail.com?subject=Beresford Bulbs Inquiry'>northcoastcnps@gmail.com</a> for more information."
+  - image_path: /assets/images/robert_vogt/douglas_fir.jpg 
+    alt: "Robert Vogt Trees" 
+    title: "Robert Vogt Trees"
+    excerpt: "Found at <a href='https://www.facebook.com/RockNRoseGarden/'>Rock n Rose</a> at the Arcata Farmer's Market"
 online_seed_suppliers:
   - image_path: /assets/images/klamath_siskiyou_seeds_bg.jpg 
     alt: "Klamath Siskiyou Seeds" 
@@ -56,16 +65,21 @@ online_seed_suppliers:
     btn_class: "btn--primary"
 ---
 <h2> Local Native Plant Nurseries</h2>
-<!--
 <p>
-These native plant nurseries are located in Humboldt County. Employees and volunteers of these organizations are valuable resources for all things native plant related. Other commercial nurseries do carry Humboldt County natives and can be a great resource. However, they often don't distinguish between California natives and Humboldt County natives and it's best to arrive a little prepared (or with extra time to do some on-the-spot phone research).
+These native plant nurseries carry hundreds of species of Humboldt County Native and California Native plants. Employees and volunteers are also amazing resources and will often be able to give you specific recommendations and planting instructions to ensure the success of your new plants.
 </p>
--->
 {% include feature_row id="local_nurseries" %}
 
-<h2>Where to Purchase California Native Seeds and Plants Online</h2>
+<h2> Local Native Plant Vendors</h2>
+
 <p>
-These nurseries are excellent sources of native plant seeds and plants. Their websites also contain valuable information and seed-starting tips.
+These vendors can be found at the Fall and Spring North Coast CNPS Nursery Sales. Or contact them directly for inventory inquiries and purchasing information. 
+</p>
+{% include feature_row id="local_vendors" %}
+
+<h2>Online Sources for Native Plants and Seeds</h2>
+<p>
+These nurseries are go-to sources for native plant seeds and plants. Their websites also provide valuable information and seed-starting tips.
 </p>
 {% include feature_row id="online_seed_suppliers" %}
 
