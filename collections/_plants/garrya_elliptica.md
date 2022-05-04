@@ -29,7 +29,8 @@ icon: "/assets/images/plants/garrya_elliptica_icon.jpg"
 calscape_link: "https://calscape.org/Garrya-elliptica-(Wavyleaf-Silktassel)"
 
 gardens: [
-    arcata_marsh
+    arcata_community_center
+    ,arcata_marsh
     ,trinidad_museum
     ,trinidad_museum_coastal
         ]

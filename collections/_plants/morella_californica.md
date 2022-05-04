@@ -39,7 +39,8 @@ observations:
       - 'Winter 2022'
 
 gardens: [ 
-    trinidad_museum
+    arcata_community_center
+    ,trinidad_museum
     ,trinidad_museum_coastal
         ]
 ---

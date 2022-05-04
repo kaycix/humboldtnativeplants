@@ -1,6 +1,6 @@
 ---
 plant_id: 5
-common_name: "Kinnikinnick (Bearberry)"
+common_name: "Kinnikinnick"
 scientific_name: "Arctostaphylos uva-ursi"
 type: "shrub"
 native_to: "Humboldt"
@@ -29,7 +29,8 @@ icon: "/assets/images/plants/arctostaphylos_uva_ursi_icon.jpg"
 calscape_link: "https://calscape.org/Arctostaphylos-uva-ursi-(Southern-Kinnikinnick)?srchcr=sc5f503bb4523a4"
 
 gardens: [ 
-    "arcata_marsh"
+    arcata_community_center
+    ,arcata_marsh
     ,trinidad_museum
     ,trinidad_museum_coastal
         ]

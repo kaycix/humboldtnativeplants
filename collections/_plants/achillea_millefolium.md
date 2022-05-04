@@ -41,7 +41,8 @@ observations:
       - 2022
 
 gardens: [ 
-    cnps_demo
+    arcata_community_center
+    ,cnps_demo
     ,cnps_demo_grassland
     ,trinidad_museum
     ,trinidad_museum_meadow

@@ -1,6 +1,6 @@
 ---
 plant_id: 194 
-common_name: "Orange Bush Monkeyflower"
+common_name: "Bush Monkeyflower"
 scientific_name: "Diplacus aurantiacus"
 type: "shrub"
 
@@ -33,7 +33,8 @@ icon: "/assets/images/plants/diplacus_aurantiacus_icon.jpg"
 calscape_link: "https://calscape.org/Mimulus-aurantiacus-(Bush-Monkey-Flower)"
 
 gardens: [
-    arcata_marsh
+    arcata_community_center
+    ,arcata_marsh
     ,cnps_demo
     ,cnps_demo_redwood
     ,trinidad_museum

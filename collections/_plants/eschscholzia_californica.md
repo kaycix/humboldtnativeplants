@@ -34,7 +34,8 @@ icon: "/assets/images/plants/eschscholzia_californica_icon.jpg"
 calscape_link: "https://calscape.org/Eschscholzia-californica-(California-Poppy)"
 
 gardens: [ 
-    trinidad_museum
+    arcata_community_center
+    ,trinidad_museum
     ,trinidad_museum_coastal
         ]
 ---

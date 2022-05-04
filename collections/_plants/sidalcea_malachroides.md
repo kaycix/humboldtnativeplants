@@ -30,6 +30,7 @@ icon: "/assets/images/plants/sidalcea_malachroides_icon.jpg"
 calscape_link: "https://calscape.org/Sidalcea-malachroides-()"
 
 gardens: [
+    arcata_community_center
         ]
 ---
 

@@ -31,9 +31,10 @@ icon: "/assets/images/plants/sidalcea_malviflora_icon.jpg"
 calscape_link: "https://calscape.org/Sidalcea-malviflora-()"
 
 gardens: [
-    cnps_demo
-    ,cnps_demo_redwood
+    arcata_community_center
     ,arcata_marsh
+    ,cnps_demo
+    ,cnps_demo_redwood
         ]
 ---
 

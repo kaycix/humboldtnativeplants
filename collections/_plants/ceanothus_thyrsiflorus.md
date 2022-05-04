@@ -1,6 +1,6 @@
 ---
 plant_id: 12
-common_name: "California Lilac (Blueblossom)"
+common_name: "California Lilac"
 scientific_name: "Ceanothus Thyrsiflorus"
 type: "shrub"
 
@@ -32,7 +32,8 @@ icon: "/assets/images/plants/ceanothus_thyrsiflorus_icon.jpg"
 calscape_link: "https://calscape.org/Ceanothus-thyrsiflorus-(Blueblossom-Ceanothus)"
 
 gardens: [ 
-    trinidad_museum
+    arcata_community_center
+    ,trinidad_museum
     ,trinidad_museum_coastal
         ]
 ---

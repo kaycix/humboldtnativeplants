@@ -28,6 +28,7 @@ icon: "/assets/images/plants/angelica_hendersonii_icon.jpg"
 calscape_link: "https://calscape.org/Angelica-hendersonii-()"
 
 gardens: [
+    arcata_community_center
         ]
 ---
 

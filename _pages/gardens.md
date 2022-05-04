@@ -26,10 +26,13 @@ feature_row:
     url: "/garden/trinidad-museum"
     btn_label: "See Details"
     btn_class: "btn--primary"
-  - image_path: /assets/images/icons/coming-soon.jpg
+  - image_path: /assets/images/arcata_community_center/feature_image.jpeg
     alt: "Arcata Community Center Garden"
     title: "Arcata Community Center Garden"
-    excerpt: "Practical low-maintenance native landscaping in an urban setting. This small oasis is a glimpse of what we would love to achieve in more public places."
+    excerpt: "Practical low-maintenance native landscaping in an urban setting. This small oasis is a glimpse of how native landscaping could redefine the way we see public spaces."
+    url: "/garden/arcata-community-center"
+    btn_label: "See Details"
+    btn_class: "btn--primary"
   - image_path: /assets/images/icons/coming-soon.jpg
     alt: "Sue-meg State Park"
     title: "Sue-meg State Park"

@@ -31,15 +31,8 @@ icon: "/assets/images/plants/symphyotrichum_chilense_icon.jpg"
 
 calscape_link: "https://calscape.org/Symphyotrichum-chilense-(California-Aster)"
 
-observations: 
-  - location: "Arcata"
-    location_detail: "Arcata Marsh"
-    last_spotted: "Fall 2021"
-  - location: "Eureka"
-    location_detail: "Freshwaters Farm Reserve"
-    last_spotted: "Fall 2021"
-  - location: "McKinleyville"
-    location_detail: "Hammond Trail by Hiller Park" 
-    last_spotted: "Winter 2022"
+gardens: [ 
+    arcata_community_center
+]
 ---
 

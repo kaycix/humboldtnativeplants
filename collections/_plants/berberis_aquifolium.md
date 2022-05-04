@@ -32,8 +32,8 @@ icon: "/assets/images/plants/berberis_aquifolium_icon.jpg"
  
 calscape_link: https://calscape.org/Berberis-aquifolium-(Oregon-Grape) 
 gardens: [
-    "arcata_marsh" 
-    ,"kellie" 
+    arcata_community_center
+    ,arcata_marsh
         ]
 ---
 
