@@ -8,6 +8,7 @@ native_to: "Humboldt"
 
 categories: [humboldt_county_native
         ,cnps_master_inventory
+        ,robert_vogt_spring2022_inventory
         ,cnps_2022_spring
         ,bird
         ,butterfly

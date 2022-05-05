@@ -6,9 +6,10 @@ type: "tree"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
+categories: [humboldt_county_native
+        ,cnps_master_inventory
         ,cnps_2022_spring
+        ,robert_vogt_spring2022_inventory
         ,butterfly
         ,bird
       ]
