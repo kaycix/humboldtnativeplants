@@ -17,19 +17,19 @@ header:
     excerpt: Native plants are beautiful, easy to grow, and provide a critical foundation for our local ecosystem. 
 
 intro:
-    - excerpt: "<div class='notice--primary' style='font-size:1rem !important;'>This website is under construction. New content is added weekly - check back soon for updates!</div>"
+    - excerpt: "<div class='notice--info' style='font-size:1rem !important;'>This website is under construction. New content is added weekly - check back soon for updates!</div>"
 
 public_gardens:
   - image_path: /assets/images/cnps/garden/flower.jpg
     title: "Visit Native Plant Gardens"
-    excerpt: "Browse pictures and plant lists from local native plant gardens for ideas and inspiration - from Eureka to Trinidad."
+    excerpt: "Browse pictures and plant lists from local native plant gardens for ideas and inspiration - from Eureka to Trinidad. Explore the wide variety of native plant landscapes that are sustainable and promote biodiversity, while still reflecting the unique ideals  of their creators."
     url: "/gardens"
     btn_label: "READ MORE &#8594;"
 
 wildlife_gardens:
   - image_path: /assets/images/cnps/garden/ladybug.jpg
     title: "Gardening for Wildlife"
-    excerpt: "Discover native plants that will attract pollinators and benefit other wildlife in your area."
+    excerpt: "Discover native plants that will attract pollinators and benefit other wildlife in your area. Exotic gardens are beautiful but often otherwise lifeless. A native plant garden will be alive with the sounds and movements of bees, butterflies and birds."
     url: "/wildlife"
     btn_label: "READ MORE &#8594;"
 
