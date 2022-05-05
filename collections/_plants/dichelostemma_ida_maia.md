@@ -6,10 +6,12 @@ type: "perennial herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
+categories: [
+        beresford_bulbs_spring2022_inventory
+        ,cnps_master_inventory
         ,cnps_2022_spring
         ,butterfly
+        ,humboldt_county_native
       ]
 
 title: ""

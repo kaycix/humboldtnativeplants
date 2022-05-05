@@ -37,10 +37,16 @@ local_vendors:
     alt: "Beresford Bulbs" 
     title: "Beresford Bulbs"
     excerpt: "Email <a href='mailto:northcoastcnps@gmail.com?subject=Beresford Bulbs Inquiry'>northcoastcnps@gmail.com</a> for more information."
+    url: "/category/beresford-bulbs-spring2022-inventory" 
+    btn_label: "Browse Inventory"
+    btn_class: "btn--primary"
   - image_path: /assets/images/robert_vogt/douglas_fir.jpg 
     alt: "Robert Vogt Trees" 
     title: "Robert Vogt Trees"
     excerpt: "Found at <a href='https://www.facebook.com/RockNRoseGarden/'>Rock n Rose</a> at the Arcata Farmer's Market"
+    url: "/category/robert-vogt-spring2022-inventory" 
+    btn_label: "Browse Inventory"
+    btn_class: "btn--primary"
 online_seed_suppliers:
   - image_path: /assets/images/klamath_siskiyou_seeds_bg.jpg 
     alt: "Klamath Siskiyou Seeds" 
@@ -70,7 +76,7 @@ These native plant nurseries carry hundreds of species of Humboldt County Native
 </p>
 {% include feature_row id="local_nurseries" %}
 
-<h2> Local Native Plant Vendors</h2>
+<h2><a id="local_vendors">Local Native Plant Vendors</a></h2>
 
 <p>
 These vendors can be found at the Fall and Spring North Coast CNPS Nursery Sales. Or contact them directly for inventory inquiries and purchasing information. 

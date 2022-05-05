@@ -7,7 +7,8 @@ type: "perennial herb"
 native_to: "California"
 
 categories: [
-       cnps_master_inventory
+        beresford_bulbs_spring2022_inventory
+        ,cnps_master_inventory
         ,cnps_2022_spring
         ,butterfly
         ,bird

@@ -33,12 +33,12 @@ feature_row:
     url: "/garden/arcata-community-center"
     btn_label: "See Details"
     btn_class: "btn--primary"
-  - image_path: /assets/images/icons/coming-soon.jpg
-    alt: "Sue-meg State Park"
-    title: "Sue-meg State Park"
-  - image_path: /assets/images/icons/coming-soon.jpg
-    alt: "Humboldt Botanical Garden"
-    title: "Humboldt Botanical Garden"
+#  - image_path: /assets/images/icons/coming-soon.jpg
+#    alt: "Sue-meg State Park"
+#    title: "Sue-meg State Park"
+#  - image_path: /assets/images/icons/coming-soon.jpg
+#    alt: "Humboldt Botanical Garden"
+#    title: "Humboldt Botanical Garden"
 
 ---
 
