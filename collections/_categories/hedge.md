@@ -1,5 +1,5 @@
 ---
-name: "Native Plant Hedge"
+title: "Native Plant Hedge"
 layout: category
 category_tag_name: "hedge"
 

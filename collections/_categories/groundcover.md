@@ -1,5 +1,5 @@
 ---
-name: "Groundcover Plants"
+title: "Groundcover Plants"
 icon: "/assets/images/plants/clinopodium_douglasii_icon.jpg" 
 layout: category
 

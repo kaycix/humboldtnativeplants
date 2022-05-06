@@ -1,8 +1,12 @@
 ---
 layout: single
 permalink: /wildlife
-title: ""
+
+title: "Gardening for Wildlife"
 classes: wide
+
+intro: 
+    - excerpt: "Discover native plants that will attract pollinators and benefit other wildlife in your area. Pristine lawns and exotic gardens are beautiful but often otherwise lifeless. A native plant garden will be alive with the sounds and movements of bees, butterflies and birds."
 
 feature_row:
   - image_path: /assets/images/wildlife/bee/bumble_bee_feature.jpg
@@ -29,7 +33,7 @@ feature_row:
 
 ---
 
-<h2>Gardening for Wildlife</h2> 
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 

@@ -13,7 +13,6 @@ tagline: "Maintained by the <a target='_blank' href='https://www.cityofarcata.or
 intro: 
     - excerpt: "This garden is a small strip of land located beside Health Sport and across from the Arcata Community Center."
 
-
 location: Arcata
 
 gallery:

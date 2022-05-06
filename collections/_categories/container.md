@@ -1,5 +1,5 @@
 ---
-name: "Container-Gardening"
+title: "Container-Gardening"
 layout: category
 category_tag_name: "container"
 
