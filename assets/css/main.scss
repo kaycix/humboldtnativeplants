@@ -181,37 +181,14 @@ h1#page-title {
     margin-top: 2em;
 }
 
-.layout--splash.about-page .card .image {
-    text-align: center;
-    margin-top: 15px;
-}
-
-.layout--splash.about-page .card .image,
-.layout--splash.about-page .card .info {
-    width: 50%;
-}
-
-.layout--splash.about-page .card img {
+.layout--splash.about-page .page__content img {
     background: linear-gradient(-225deg, $indigo-color 0%, $deep-green-color 29%, $orange-color 67%, $indigo-color 100%);
     background-repeat: no-repeat;
-}
-
-.layout--splash.about-page .card.home img {
-    height: 194px;
-    width: 200px;
 }
 
 .layout--splash.about-page .card.computer img {
     height: 131px;
     width: 200px;
-}
-
-.layout--splash.about-page .card {
-    margin-top: 2em;
-}
-
-.layout--splash.about-page .card .info {
-    width: 50%;
 }
 
 .page__hero--overlay .page__lead {

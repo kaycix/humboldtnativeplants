@@ -8,52 +8,27 @@ header:
     overlay_color: "#ebf1f4"
     overlay_filter: "0"
 excerpt: "&mdash; Douglas Tallemy &mdash;" 
----
-<div class="cards">
-    <div class="card home">
-        <div class="info">
-            <h2>
-            Conservation at Home
-            </h2>
-            <p>
-            Humboldt Native Plants' mission is to empower people to participate in conservation in their own backyards and neighborhoods. Even a small native garden can have a big impact to native species, as part of a larger web of restored land. 
-            Our ultimate goal is to unite our community in biodiversity conservation for current and future generations. 
-            </p>
-        </div>
-        <div class="image">
-            <img src="{{'/assets/images/icons/home.png' | prepend:site.baseurl}}" />
-        </div>
-    </div>
-    <div class="card computer">
-        <div class="image">
-            <img src="{{'/assets/images/icons/computer.png' | prepend:site.baseurl}}" />
-        </div>
-        <div class="info">
-            <h2>
-            Join Us 
-            </h2>
-            <p>
-            Humboldt Native Plants is an open-source website hosted on <a href="https://github.com/kaycix/humboldtnativeplants" target="_blank">Github</a>. Some knowledge of HTML and CSS is helpful but not necessary. If you can edit text in a text file, you can modify and contribute to this website. If you live outside Humboldt County and can code, you can clone this website and start your own native plant website for your region.  
-            </p>
-        </div>
-    </div>
-    <div class="card">
-        <div class="info">
-            <h2>Inspiration</h2>
-            <p>
-            So many people have inspired this website: Ecologist Douglas Tallemy, California native plant author Judith Larner Lowry, youth activist Greta Thundberg, Zero Waste blogger Anne Marie Bonneau, and many knowledgeable generous local native plant experts including Brian and Chris from the North Coast CNPS Nursery.
 
-            </p>
-        </div>
-        <div class="image">
-            <img src="{{'/assets/images/icons/people.png' | prepend:site.baseurl}}" />
-        </div>
-    </div>
-</div>
-<!--
-If you live outside Humboldt County and would like to develop a native plant website for your region, you are welcome to clone this website and make the necessary changes to customize it to your locale.  
-<p>
-If you have ever felt helpless or overwhelmed by the ongoing news or the drought and climate crisis, don't let it overpower you. Let it fuel you. There are things you can do today to make a difference. There are people you can connect to today who feel the same way. Let us hold each other up, and help one another. Don't give in to grief, there is still so much of nature's beauty around us to save.
-</p>
--->
+mission:
+  - image_path: /assets/images/icons/home.png
+    title: "Conservation at Home"
+    excerpt: "Humboldt Native Plants' mission is to empower people to participate in conservation in their own backyards and neighborhoods. Even a small native garden can have a big impact to native species, as part of a larger web of restored land. Our ultimate goal is to unite our community in biodiversity conservation for current and future generations." 
+
+join:
+  - image_path: /assets/images/icons/computer.png
+    title: "Join Us"
+    excerpt: "Humboldt Native Plants is an open-source website hosted on <a href='https://github.com/kaycix/humboldtnativeplants' target='_blank'>Github</a>. Some knowledge of HTML and CSS is helpful but not necessary. If you can edit text in a text file, you can modify and contribute to this website. If you live outside Humboldt County and can code, you can clone this website and start your own native plant website for your region." 
+
+inspiration:
+  - image_path: /assets/images/icons/people.png
+    title: "Inspiration"
+    excerpt: "So many people have inspired this website: Ecologist Douglas Tallemy, California native plant author Judith Larner Lowry, youth activist Greta Thundberg, Zero Waste blogger Anne Marie Bonneau, and many knowledgeable generous local native plant experts including Brian and Chris from the North Coast CNPS Nursery."
+
+
+---
+{% include feature_row id="mission" type="right" %}
+
+{% include feature_row id="join" type="left" %}
+
+{% include feature_row id="inspiration" type="right" %}
 
