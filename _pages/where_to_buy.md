@@ -79,7 +79,7 @@ These native plant nurseries carry hundreds of species of Humboldt County Native
 <h2><a id="local_vendors">Local Native Plant Vendors</a></h2>
 
 <p>
-These vendors can be found at the Fall and Spring North Coast CNPS Nursery Sales. Or contact them directly for inventory inquiries and purchasing information. 
+These vendors can be found at the Fall and Spring North Coast CNPS Nursery Sales. Contact them directly for inventory inquiries and purchasing information. 
 </p>
 {% include feature_row id="local_vendors" %}
 
