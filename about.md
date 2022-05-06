@@ -33,7 +33,7 @@ excerpt: "&mdash; Douglas Tallemy &mdash;"
             Join Us 
             </h2>
             <p>
-            Humboldt Native Plants is an open-source website hosted on <a href="https://github.com/kaycix/humboldtnativeplants" target="_blank">Github</a>. 
+            Humboldt Native Plants is an open-source website hosted on <a href="https://github.com/kaycix/humboldtnativeplants" target="_blank">Github</a>. Some knowledge of HTML and CSS is helpful but not necessary. If you can edit text in a text file, you can modify and contribute to this website. If you live outside Humboldt County and can code, you can clone this website and start your own native plant website for your region.  
             </p>
         </div>
     </div>
@@ -41,7 +41,7 @@ excerpt: "&mdash; Douglas Tallemy &mdash;"
         <div class="info">
             <h2>Inspiration</h2>
             <p>
-            So many people have inspired this website: Ecologist Douglas Tallemy, California native plant expert Judith Larner Lowry, youth activist Greta Thundberg, Zero Waste blogger Anne Marie Bonneau, many knowledgeable generous local native plant experts from the CNPS, North Coast chapter.
+            So many people have inspired this website: Ecologist Douglas Tallemy, California native plant author Judith Larner Lowry, youth activist Greta Thundberg, Zero Waste blogger Anne Marie Bonneau, and many knowledgeable generous local native plant experts including Brian and Chris from the North Coast CNPS Nursery.
 
             </p>
         </div>
