@@ -13,13 +13,13 @@ feature_row:
     btn_label: "View Bee Plants"
     btn_class: "btn--primary"
   - image_path: /assets/images/wildlife/butterfly/swallowtail_feature.jpg
-    alt: "Butterfly"
-    title: "Butterfly"
+    alt: "Butterflies"
+    title: "Butterflies"
     excerpt: "These native plants provide valuable food sources and host plants for butterflies."
     url: "/category/butterfly"
     btn_label: "View Butterfly Plants"
     btn_class: "btn--primary"
-  - image_path: /assets/images/hummingbird.jpg
+  - image_path: /assets/images/wildlife/bird/hummingbird_feature.jpg
     alt: "Hummingbirds"
     title: "Hummingbirds"
     excerpt: "Create an inviting and healthy habitat for hummingbirds with these native plants."
