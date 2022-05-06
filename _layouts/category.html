@@ -7,6 +7,8 @@ layout: single
                                  "item.categories contains category" %}
 {% assign plant_groups = plants | group_by : "type" %} 
 
+{% include feature_row id="intro" type="center" %}
+
 
 {% if page.icon %}
 <div class="main_icon_holder">

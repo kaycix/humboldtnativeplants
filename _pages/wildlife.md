@@ -5,9 +5,9 @@ title: ""
 classes: wide
 
 feature_row:
-  - image_path: /assets/images/bee.jpg
-    alt: "Bee"
-    title: "Bee"
+  - image_path: /assets/images/wildlife/bee/bumble_bee_feature.jpg
+    alt: "Bees"
+    title: "Bees"
     excerpt: "Native bees are effective pollinators and essential to any flourishing garden."
     url: "/category/bee"
     btn_label: "View Plants"
