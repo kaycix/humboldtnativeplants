@@ -1,17 +1,15 @@
 ---
-name: "Creating a Butterfly Garden"
 layout: category
+
+title: "Butterfly-Friendly Gardens"
 category_tag_name: "butterfly"
 
-icon: "/assets/images/swallowtail.jpg" 
-icon_attribution: 
-    name: "PixaBay"
-    url: "https://pixabay.com/photos/flower-butterfly-pollination-6601125/"
+header:
+ overlay_color: "#000"
+ overlay_filter: "0.5"
+ overlay_image: /assets/images/wildlife/butterfly/swallowtail_splash.jpg
 
-subtext: "These native plants provide valuable food sources and host plants for butterflies." 
-
-source:
-    - name: "Calscape"
-      url: "https://calscape.org"
+intro: 
+    - excerpt: "Invite these beautiful pollinators into your yard with food sources and host plants. Plant data from <a target='_blank' href='https://calscape.org'>Calscape</a>" 
 ---
 

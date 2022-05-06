@@ -30,19 +30,6 @@ layout: single
     {{page.subtext}}
 </p>
 {% endif %}
-
-{% if page.source %}
-<p>
-Source: 
-    {% for source in page.source %}
-    <a href="{{source.url}}" target="_blank">
-        {{source.name}}
-    </a><br/>
-    {% endfor %}
-</p>
-{% endif %}
-
-<div style="clear:both"></div>
 <br/>
 
 <!-- populate plant_data var -->
