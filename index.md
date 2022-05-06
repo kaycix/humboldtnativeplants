@@ -36,6 +36,13 @@ where_to_buy:
     excerpt: "Get to know local nurseries that carry native plants and online sources for native seeds and plants."
     url: "/where_to_buy"
     btn_label: "READ MORE &#8594;"
+
+volunteer:
+  - image_path: /assets/images/cnps/garden/volunteers_feature.jpg 
+    title: "Join the Conservation Movement"
+    excerpt: "If you are interested in making a difference, consider lending your time and talents to a local volunteer organization. These organizations often have the most upstanding goals but need the extra hands to enact them. Help to be a part of the change you want to see!"
+    url: "/connection/volunteer"
+    btn_label: "READ MORE &#8594;"
 ---
 
 {% include feature_row id="public_gardens" type="left" %}
@@ -43,6 +50,8 @@ where_to_buy:
 {% include feature_row id="wildlife_gardens" type="right" %}
 
 {% include feature_row id="where_to_buy" type="left" %}
+
+{% include feature_row id="volunteer" type="right" %}
 
 <!-- 
 <div class="feature__wrapper">
