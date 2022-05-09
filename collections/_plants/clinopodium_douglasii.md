@@ -4,10 +4,11 @@ common_name: "Yerba Buena"
 scientific_name: "Clinopodium Douglasii"
 type: "perennial herb"
 
-native_to: [humboldt] 
+native_to: "Humboldt" 
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
+categories: [
+        humboldt_county_native
+        ,cnps_master_inventory
         ,cnps_2022_spring
         ,butterfly
         ,groundcover
