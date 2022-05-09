@@ -18,16 +18,26 @@ header:
 
 public_gardens:
   - image_path: /assets/images/cnps/garden/flower.jpg
+    image_caption: CK Photography
     title: "Visit Native Plant Gardens"
-    excerpt: "Browse pictures and plant lists from local native plant gardens for ideas and inspiration - from Eureka to Trinidad. Explore the wide variety of native plant landscapes that are sustainable and promote biodiversity, while still reflecting the unique ideals  of their creators."
+    excerpt: "Browse pictures and plant lists from local native plant gardens for ideas and inspiration - from Eureka to Trinidad. Explore the wide variety of native plant landscapes that are sustainable and promote biodiversity, while still reflecting the unique preferences  of their creators."
     url: "/gardens"
     btn_label: "READ MORE &#8594;"
 
 wildlife_gardens:
   - image_path: /assets/images/cnps/garden/ladybug.jpg
+    image_caption: CK Photography
     title: "Gardening for Wildlife"
     excerpt: "Discover native plants that will attract pollinators and benefit other wildlife in your area. Pristine lawns and exotic gardens are beautiful but often otherwise lifeless. A native plant garden will be alive with the sounds and movements of bees, butterflies and birds."
     url: "/wildlife"
+    btn_label: "READ MORE &#8594;"
+
+landscaping:
+  - image_path: /assets/images/arcata_marsh/garden/flower_feature_row.jpg
+    image_caption: LJ Photography
+    title: "Practical Landscaping with Natives"
+    excerpt: "Native plants can fulfill traditional landscaping requirements - while also being a more practical and low-maintenance option."
+    url: "/landscaping"
     btn_label: "READ MORE &#8594;"
 
 where_to_buy:
@@ -40,145 +50,31 @@ where_to_buy:
 volunteer:
   - image_path: /assets/images/cnps/garden/volunteers_feature.jpg 
     title: "Join the Conservation Movement"
-    excerpt: "If you are interested in making a difference, consider lending your time and talents to a local volunteer organization. These organizations often have the most upstanding goals but need the extra hands to enact them. Help to be a part of the change you want to see!"
+    excerpt: "If you are interested in making a difference, consider lending your time and talents to a local volunteer organization. These organizations have such important missions but need the extra hands to enact them. Help to be a part of the change you want to see!"
     url: "/connection/volunteer"
     btn_label: "READ MORE &#8594;"
+
 ---
 
 {% include feature_row id="public_gardens" type="left" %}
 
 {% include feature_row id="wildlife_gardens" type="right" %}
 
-{% include feature_row id="where_to_buy" type="left" %}
+{% include feature_row id="landscaping" type="left" %}
 
-{% include feature_row id="volunteer" type="right" %}
+{% include feature_row id="where_to_buy" type="right" %}
 
-<!-- 
-<div class="feature__wrapper">
-     <div class="feature__item">
-       <div class="archive__item">
-           <div class="archive__item-teaser">
-             <img src="/humboldtnativeplants/assets/splash/some-picture.jpg" alt="">
-           </div>
-         <div class="archive__item-body">
-             <h2 class="archive__item-title">Conservation</h2>
-             <div class="archive__item-excerpt">
-                 <p> 
-                    Whether you are adding a strip of native plants into your existing garden, or re-wilding a larger area, view our list of places you can buy native plants today. Visit these demonstration gardens for ideas!  
-                </p>
-                 <ul>
-                     <li>
-                         <a href="{{"/where_to_buy" | prepend:site.baseurl }}">
-                             Where to Purchase Native Plants
-                         </a>
-                     </li>
-                     <li>
-                        <a href="{{'/garden/cnps-demo' | prepend:site.baseurl }}">
-                       North Coast CNPS Garden (Eureka)
-                        </a>
-                     </li>
-                     <li>
-                        <a href="{{'/garden/arcata-marsh' | prepend:site.baseurl }}">
-                        Arcata Marsh Native Plant Garden
-                        </a>
-                     </li>
-                     <li>
-                        <a href="{{'/garden/trinidad-museum' | prepend:site.baseurl }}">
-                            Trinidad Museum Native Plant Garden
-                        </a>
-                     </li>
-                 </ul>
-             </div>
-            <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p>
-         </div>
-       </div>
-     </div>
-     <div class="feature__item">
-       <div class="archive__item">
-           <div class="archive__item-teaser">
-             <img src="/humboldtnativeplants/assets/splash/some-picture.jpg" alt="">
-           </div>
-         <div class="archive__item-body">
-             <h2 class="archive__item-title">Connection</h2>
-             <div class="archive__item-excerpt">
-                 Connect with other native plant beginners and enthusiasts! Lend a hand and make a difference in our beautiful region today. 
-             <ul>
-                 <li>
-                     <a href="{{"/connection/volunteer" | prepend:site.baseurl }}">
-                     Volunteer Opportunities
-                     </a>
-                 </li>
-                 <li>
-                     <a href="{{"/plant_list" | prepend:site.baseurl }}">
-                     Create a Plant List to Share
-                     </a>
-                 </li>
-             </ul>
-             </div>
-             <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p>
-         </div>
-       </div>
-     </div>
-     <div class="feature__item">
-       <div class="archive__item">
-           <div class="archive__item-teaser">
-             <img src="/humboldtnativeplants/assets/splash/some-picture.jpg" alt="">
-           </div>
-         <div class="archive__item-body">
-             <h2 class="archive__item-title">Landscaping</h2>
-             <div class="archive__item-excerpt">
-             <p>
-                 Looking to plant a hedge row? Want to attract pollinators? Find the best native plants for your specific garden needs. 
-             </p>
-             <ul>
-                 <li>
-                    <a href="{{'/category/beginner' | prepend:site.baseurl }}">
-                        Beginner-Friendly Native Plants
-                    </a>
-                    <a href="{{"/plants" | prepend:site.baseurl }}">
-                         Browse All Native Plants 
-                     </a>
-                 </li>
-                 <li>
-                    <a href="{{'/category/hummingbird' | prepend:site.baseurl }}">
-                        Hummingbird Gardens
-                    </a>
-                 </li>
-                 <li>
-                    <a href="{{'/category/butterfly' | prepend:site.baseurl }}">
-                        Butterfly Gardens
-                     </a>
-                 </li>
-                 <li>
-                    <a href="{{'/category/container' | prepend:site.baseurl }}">
-                        Container-Gardening
-                    </a>
-                 </li>
-                 <li>
-                    <a href="{{'/category/bee' | prepend:site.baseurl }}">
-                        Bee-Friendly Gardens
-                    </a>
-                 </li>
-                 <li>
-                    <a href="{{'/category/groundcover' | prepend:site.baseurl }}">
-                        Groundcover Plants 
-                    </a>
-                 </li>
-                 <li>
-                    <a href="{{'/category/hedge' | prepend:site.baseurl }}">
-                    Hedge Plants
-                    </a>
-                 </li>
-                 <li>
-                     <a href="{{"/gardens" | prepend:site.baseurl }}">
-                         Local Native Plant Gardens
-                     </a>
-                 </li>
-             </ul> 
-            </div>
-            <p><a href="/humboldtnativeplants/#test-link" class="btn btn--primary">Read More</a></p>
-         </div>
-       </div>
-     </div>
- </div>
+<!--
+<div class="page__hero--overlay" style="background-color: #ebf1f4; background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('');">
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+&ldquo;What is nature’s best hope? <b>You.</b> There’s an Earth stewardship responsibility that we have as <b>citizens of the planet</b>. We can no longer leave conservation to the conservationists. There aren’t enough—<b>by far.</b>&rdquo;"
+        
+      </h1>
+        <p class="page__lead">— Douglas Tallemy —
+</p>
+    </div>
+</div>
 -->
+
+{% include feature_row id="volunteer" type="left" %}

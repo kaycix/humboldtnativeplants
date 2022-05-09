@@ -1,17 +1,14 @@
 ---
-title: "Native Plant Hedge"
+title: "Creating a Native Plant Hedge"
 layout: category
 category_tag_name: "hedge"
 
-icon: "/assets/images/plants/morella_californica_icon.jpg" 
-icon_attribution: 
-    name: "Calflora"
-    url: "https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/mg/209/mg62999-1.jpg" 
+header:
+ overlay_color: "#000"
+ overlay_filter: "0.5"
+ overlay_image: /assets/images/landscaping/hedge_splash.jpg
 
-subtext: "Planting a native hedgerow will add both beauty and biodiversity to your yard. A hedgerow can be created with various groupings of native plants in a layered canopy and the possibilities are endless. These are a few of our go-to recommendations for adding some privacy to yard."
-
-source:
-    - name: "North Coast CNPS Nursery Committee"
-      url: "https://northcoastcnps.org"
+intro: 
+    - excerpt: "Planting a native hedgerow will add functional beauty and biodiversity to your yard. A hedgerow can be created with various groupings of native plants in a layered canopy. They can also look like a more traditional monoculture. These are a few of our go-to recommendations for adding some privacy to yard. Plant data from <a href='/nursery/northcoast-cnps'>North Coast CNPS Nursery Committee</a>"
 ---
 

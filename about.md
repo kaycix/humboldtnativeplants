@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Our mission is to <b>educate</b> and <b>empower</b> people to take simple and effective <b>climate-cooling</b> and <b>biodiversity-saving</b> action in their own backyard."
+title: "Our mission is to <b>educate</b> and <b>empower</b> people to take simple and critical <b>biodiversity-saving</b> and <b>climate-cooling</b> action in their own backyard."
 classes: "about-page header-page"
 header:
     overlay_color: "#ebf1f4"
