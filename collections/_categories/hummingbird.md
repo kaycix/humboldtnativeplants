@@ -1,7 +1,7 @@
 ---
 layout: category
 
-title: "Hummingbird-Friendly Garden"
+title: "Hummingbird-Friendly Gardens"
 category_tag_name: "hummingbird"
 
 header:

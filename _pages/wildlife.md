@@ -23,10 +23,17 @@ feature_row:
     url: "/category/butterfly"
     btn_label: "View Butterfly Plants"
     btn_class: "btn--primary"
+  - image_path: /assets/images/wildlife/bird/song_sparrow_feature.jpg
+    alt: "Birds"
+    title: "Birds"
+    excerpt: "Create an inviting and healthy habitat for birds with these native plants."
+    url: "/category/bird"
+    btn_label: "View Bird Plants"
+    btn_class: "btn--primary"
   - image_path: /assets/images/wildlife/bird/hummingbird_feature.jpg
     alt: "Hummingbirds"
     title: "Hummingbirds"
-    excerpt: "Create an inviting and healthy habitat for hummingbirds with these native plants."
+    excerpt: "Hummingbirds rely on nectar from these important plant sources."
     url: "/category/hummingbird"
     btn_label: "View Hummingbird Plants"
     btn_class: "btn--primary"
