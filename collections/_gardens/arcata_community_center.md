@@ -11,7 +11,7 @@ header:
 tagline: "Maintained by the <a target='_blank' href='https://www.cityofarcata.org'>City of Arcata</a>" #Note: excerpt is printed twice unless tagline is specified
 
 intro: 
-    - excerpt: "This garden is a small strip of land located beside Health Sport and across from the Arcata Community Center."
+    - excerpt: "This garden is the Cinderella story of native plant gardens. Established in 1999 on a construction fill site, today it is a beautiful little oasis of native plants and home to hundreds of native bees. It gets by without any installed irrigation and only occasional loving maintenance by a one-person crew."
 
 location: Arcata
 

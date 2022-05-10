@@ -36,7 +36,7 @@ landscaping:
   - image_path: /assets/images/arcata_marsh/garden/flower_feature_row.jpg
     image_caption: LJ Photography
     title: "Practical Landscaping with Natives"
-    excerpt: "Native plants can fulfill traditional landscaping requirements - while also being a more practical and low-maintenance option."
+    excerpt: "Native plants can fulfill traditional landscaping requirements - while also being practical, drought-tolerant and low-maintenance."
     url: "/landscaping"
     btn_label: "READ MORE &#8594;"
 
