@@ -18,12 +18,12 @@ excerpt: "&mdash; Humboldt Native Plants &mdash;"
 join:
   - image_path: /assets/images/icons/computer.png
     title: "Help to Power this Website"
-    excerpt: "Humboldt Native Plants is <a href='https://github.com/kaycix/humboldtnativeplants' target='_blank'>an open-source website</a> - it is available online for anyone to contribute to. Making changes is as easy as modifying a text file. If you live outside Humboldt County, you can easily clone this website and make modifications for your region." 
+    excerpt: "Humboldt Native Plants is <a href='https://github.com/kaycix/humboldtnativeplants' target='_blank'>an open-source website</a> - it is available online for anyone to contribute to. Making changes is as easy as modifying a text file. If you live outside Humboldt County, you can easily clone this website and make modifications for your region. Let's spread the native plant love!" 
 
 inspiration:
   - image_path: /assets/images/icons/people.png
     title: "Inspiration"
-    excerpt: "So many people have inspired this website: Ecologist Douglas Tallemy, California native plant author Judith Larner Lowry, climate activist Greta Thundberg and Zero Waste blogger Anne Marie Bonneau. Thank you to many knowledgeable and endlessly generous local native plant experts including friend and mentor Brian, and North Coast CNPS Nursery directors Chris and Barbara."
+    excerpt: "So many people have inspired this website: Ecologist Douglas Tallamy, California native plant author Judith Larner Lowry, climate activist Greta Thundberg and Zero Waste blogger Anne Marie Bonneau. Thank you to many knowledgeable and endlessly generous Humboldt County native plant experts including friend and mentor Brian, and North Coast CNPS Nursery directors Chris and Barbara."
 
 
 ---
