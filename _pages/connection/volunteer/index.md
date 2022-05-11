@@ -2,19 +2,21 @@
 layout: single                                                           
 permalink: /connection/volunteer
 title: "Volunteer Opportunities"
-classes: wide volunteer 
+classes: wide volunteer-page 
+
 feature_row:
   - image_path: /assets/images/ca_department_of_parks_and_recreation.png
     alt: "CA Dept of Parks and Recreation"
     title: "CA Dept of Parks and Recreation"
-    excerpt: "Volunteer Opportunities include native plant management, invasive ivy removal, monitoring trails, trail cleanup, and more."
+    excerpt: "Native plant management, invasive ivy removal, monitoring trails, trail cleanup, and more."
     url: "https://www.parks.ca.gov/?page_id=30532"
     btn_label: "See Website"
     btn_class: "btn--primary"
   - image_path: /assets/images/cnps_northcoast.jpg 
     alt: "California Native Plant Society"
     title: "California Native Plant Society"
-    excerpt: "Volunteer Opportunities include joining the Nursery Committee, growing native plants and maintaining the native plant living seed bank."
+    excerpt: "Propagate native plants and maintain the native plant living seed bank at the Nursery. Help out at seasonal sales and the Wildflower Show<br/>
+              <b>Volunteer Days:</b> Weekly (Wed, Fri, Sun) & Special Events"
     url: "/volunteer/cnps"
     btn_label: "More Information &#8594;"
   - image_path: /assets/images/friends_of_the_dunes.jpg 
@@ -52,5 +54,8 @@ feature_row:
     btn_label: "See Website"
     btn_class: "btn--primary"
 ---
+<div class='notice--warning' style='font-size:1rem !important;'>
+    This page is currently under construction. Check back soon for updates!
+</div>
 {% include feature_row %}
 

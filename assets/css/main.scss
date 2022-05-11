@@ -532,23 +532,6 @@ div.vine {
     background-image: url("./../images/icons/vine.png");
 }
 
-.volunteer .archive__item-teaser {
-    float: right;
-    max-width: 150px;
-    padding: 30px 20px;
-}
-
-.volunteer_opportunity {
-	background-color: white;
-	padding: 20px 30px 20px;
-	margin-bottom: 10px;
-}
-
-.volunteer_opportunity img {
-	float: left;
-	margin-right: 20px;
-}
-
 table .sun_req div {
     margin: 0 auto;
 
@@ -855,6 +838,23 @@ nav.pagination {
     position: absolute;
     bottom: 0;
     right: 0;
+}
+
+.volunteer-page .archive__item-teaser {
+    float: left;
+}
+
+.volunteer-page .archive__item-teaser img {
+    width: inherit;
+    margin: 16px;
+}
+
+.volunteer-page .feature__item {
+    clear: both;
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 #footer {
