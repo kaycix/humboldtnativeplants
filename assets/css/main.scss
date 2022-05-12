@@ -853,8 +853,28 @@ nav.pagination {
     clear: both;
     float: none;
     width: 100%;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.small_feature_row .feature__wrapper { 
+    min-width: 500px;
+    display: flex;
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+.small_feature_row .feature__item { 
+    width: 200px; 
+}
+
+.small_feature_row .feature__item:nth-child(3n + 1) { 
+    clear: none; 
+    margin-left: 8px; 
+}
+
+.small_feature_row .feature__item h2 { 
+    font-size: 1rem;
 }
 
 #footer {

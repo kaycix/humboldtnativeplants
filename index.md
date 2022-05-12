@@ -16,6 +16,28 @@ header:
            url: /learn_more
     excerpt: Native plants are beautiful, easy to grow, and provide a critical foundation for our local ecosystem. 
 
+browse_plants:
+  - image_path: /assets/images/wildlife/butterfly/swallowtail_small_feature.jpg
+    alt: "Wildlife"
+    title: "Wildlife"
+    url: "/wildlife"
+  - image_path: /assets/images/landscaping/groundcover_small_feature.jpg 
+    image_caption: "Trinidad Museum"
+    alt: "Landscaping Needs" 
+    title: "Landscaping Needs"
+    url: "/landscaping" 
+  - image_path: /assets/images/arcata_marsh/garden/flower_small_feature_row.jpg 
+    image_caption: "LJ Photography"
+    alt: "Beginner-Friendly" 
+    title: "Beginner-Friendly"
+    url: "/category/beginner" 
+  - image_path: /assets/images/icons/coming-soon.jpg 
+    alt: "Coming Soon" 
+    title: "Light Requirements"
+  - image_path: /assets/images/icons/coming-soon.jpg 
+    alt: "Coming Soon" 
+    title: "Habitat"
+
 public_gardens:
   - image_path: /assets/images/cnps/garden/flower.jpg
     image_caption: CK Photography
@@ -55,12 +77,12 @@ volunteer:
     btn_label: "READ MORE &#8594;"
 
 ---
+<div class="small_feature_row">
+<h2>Browse Plants by</h2>
+{% include feature_row id="browse_plants" %}
+</div>
 
 {% include feature_row id="public_gardens" type="left" %}
-
-{% include feature_row id="wildlife_gardens" type="right" %}
-
-{% include feature_row id="landscaping" type="left" %}
 
 {% include feature_row id="where_to_buy" type="right" %}
 
