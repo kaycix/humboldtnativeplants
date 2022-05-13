@@ -12,6 +12,13 @@ feature_row:
     url: "https://www.parks.ca.gov/?page_id=30532"
     btn_label: "See Website"
     btn_class: "btn--primary"
+  - image_path: /assets/images/trail_stewards.jpg
+    alt: "Humboldt Trail Stewards"
+    title: "Humboldt Trail Stewards"
+    excerpt: "Help maintain your favorite trails - report observations, perform trail maintenance and participate in work days."
+    url: "https://humtrails.org/volunteer/"
+    btn_label: "See Website"
+    btn_class: "btn--primary"
   - image_path: /assets/images/cnps_northcoast.jpg 
     alt: "California Native Plant Society"
     title: "California Native Plant Society"
