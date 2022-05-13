@@ -853,8 +853,6 @@ nav.pagination {
     clear: both;
     float: none;
     width: 100%;
-    margin-left: 8px;
-    margin-right: 8px;
 }
 
 .small_feature_row .feature__wrapper { 
@@ -865,7 +863,9 @@ nav.pagination {
 }
 
 .small_feature_row .feature__item { 
-    width: 200px; 
+    margin-left: 8px;
+    margin-right: 8px;
+    min-width: 200px; 
 }
 
 .small_feature_row .feature__item:nth-child(3n + 1) { 
