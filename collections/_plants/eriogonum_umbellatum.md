@@ -13,6 +13,8 @@ categories: [humboldt_county_native,
         ,butterfly
         ,bird
         ,bee
+        ,habitat_woodland
+        ,habitat_chaparral
       ]
 
 sun_requirements:
@@ -28,6 +30,16 @@ icon_attribution:
 icon: "/assets/images/plants/eriogonum_umbellatum_icon.jpg" 
 
 calscape_link: "https://calscape.org/loc-California/Eriogonum%20umbellatum(%20)"
+
+habitat: 
+    - name: woodland
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=3385"
+          title: "Calflora"
+    - name: chaparral
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=3385"
+          title: "Calflora"
 
 gardens: [ 
     cnps_demo

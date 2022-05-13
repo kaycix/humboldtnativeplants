@@ -7,9 +7,9 @@ type: "perennial herb"
 native_to: "Humboldt"
 
 categories: [
-       humboldt_county_native,
-       cnps_master_inventory
-       ,cnps_2022_winter
+        humboldt_county_native
+        ,cnps_master_inventory
+        ,cnps_2022_winter
         ,cnps_2022_spring
         ,bee
         ,butterfly
@@ -17,11 +17,13 @@ categories: [
         ,beginner
         ,groundcover
         ,edible
+        ,habitat_meadow
       ]
 
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+
 # min then max in feet
 plant_size:
   - height: 
@@ -35,10 +37,17 @@ icon: "/assets/images/plants/achillea_millefolium_icon.jpg"
 
 calscape_link: "https://calscape.org/Achillea-millefolium-(Common-Yarrow)"
 
-observations: 
-  - Arcata:
-    - Marsh:
-      - 2022
+references:
+    - url: "https://calscape.org/Achillea-millefolium-(Common-Yarrow)"
+      title: "Calscape"
+    - url: "https://www.calflora.org/app/taxon?crn=61"
+      title: "Calflora"
+
+habitat: 
+    - name: meadow
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=61"
+          title: "Calflora"
 
 gardens: [ 
     arcata_community_center

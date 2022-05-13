@@ -11,7 +11,10 @@ categories: [humboldt_county_native
         ,cnps_2022_winter
         ,cnps_2022_spring
         ,butterfly
+        ,groundcover
         ,edible
+        ,habitat_woodland
+        ,habitat_chaparral
       ]
 
 sun_requirements:
@@ -28,5 +31,15 @@ icon_attribution:
 icon:  "/assets/images/plants/claytonia_perfoliata_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Claytonia-perfoliata-(Miner's-Lettuce)"
+
+habitat: 
+    - name: woodland
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=2244"
+          title: "Calflora"
+    - name: chaparral
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=2244"
+          title: "Calflora"
 ---
 

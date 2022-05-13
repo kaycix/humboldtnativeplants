@@ -11,6 +11,7 @@ categories: [humboldt_county_native,
         ,cnps_2022_spring
         ,butterfly
         ,groundcover
+        ,habitat_woodland
       ]
 
 sun_requirements:
@@ -30,6 +31,12 @@ icon:  "/assets/images/plants/dicentra_formosa_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Dicentra%20formosa(%20)"
 
+habitat: 
+    - name: woodland
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=2711"
+          title: "Calflora"
+
 gardens: [ 
     arcata_marsh
     ,cnps_demo
@@ -37,4 +44,10 @@ gardens: [
     ,trinidad_museum
     ,trinidad_museum_woodland
 ]
+
+habitat: 
+    - name: woodland
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=2711"
+          title: "Calflora"
 ---

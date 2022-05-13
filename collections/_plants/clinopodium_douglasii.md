@@ -13,6 +13,8 @@ categories: [
         ,butterfly
         ,groundcover
         ,edible
+        ,habitat_woodland
+        ,habitat_chaparral
       ]
 
 # this isn't what Calscape says but Chris says:
@@ -31,6 +33,16 @@ icon_attribution:
 icon: "/assets/images/plants/clinopodium_douglasii_icon.jpg"
  
 calscape_link: "https://calscape.org/Clinopodium-douglasii-()"
+
+habitat: 
+    - name: woodland
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=2244"
+          title: "Calflora"
+    - name: chaparral
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=2244"
+          title: "Calflora"
 
 gardens: [ 
     arcata_marsh

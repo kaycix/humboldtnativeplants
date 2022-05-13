@@ -10,6 +10,8 @@ categories: [humboldt_county_native
         ,cnps_master_inventory
         ,cnps_2022_winter
         ,cnps_2022_spring
+        ,habitat_wetland
+        ,habitat_woodland
       ]
 # min then max in feet
 plant_size:
@@ -26,6 +28,16 @@ icon_attribution:
 icon: "/assets/images/plants/boykinia_occidentalis_icon.jpg"
 
 calscape_link: "https://calscape.org/Boykinia-occidentalis-()"
+
+habitat: 
+    - name: wetland
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=1135"
+          title: "Calflora"
+    - name: woodland
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=1135"
+          title: "Calflora"
 
 gardens: [ 
     "arcata_marsh"

@@ -25,5 +25,9 @@ icon_attribution:
     url: "https://calscape.org/photos/5?srchcr=sc6221a275d7357" 
 icon: "/assets/images/plants/abies_grandis_icon.jpg" 
 
+references: 
+    - url: "https://calscape.org/loc-California/Abies%20grandis(%20)"
+      title: "Calscape"
+
 calscape_link: "https://calscape.org/loc-California/Abies%20grandis(%20)"
 ---

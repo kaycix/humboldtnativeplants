@@ -27,6 +27,12 @@ icon: "/assets/images/plants/angelica_lucida_icon.jpg"
  
 calscape_link: "https://calscape.org/Angelica-lucida-()"
 
+habitat: 
+    - name: coastal
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=370"
+          title: "Calflora"
+
 gardens: [ 
     trinidad_museum
     ,trinidad_museum_coastal

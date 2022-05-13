@@ -11,6 +11,7 @@ categories: [humboldt_county_native
         ,butterfly
         ,bee
         ,container
+        ,habitat_coastal
       ]
 
 plant_size:
@@ -26,6 +27,12 @@ icon_attribution:
 icon: "/assets/images/plants/clarkia_amoena_icon.jpg" 
 
 calscape_link: "https://calscape.org/Clarkia-amoena-(Farewell-To-Spring)"
+
+habitat: 
+    - name: coastal
+      source: 
+        - url : "https://www.wildflower.org/plants/result.php?id_plant=CLAM"
+          title: "Wildflower Center"
 
 gardens: [ 
     arcata_community_center

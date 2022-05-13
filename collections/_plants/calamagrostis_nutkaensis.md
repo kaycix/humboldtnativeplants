@@ -9,6 +9,7 @@ categories: [humboldt_county_native,
        cnps_master_inventory
         ,cnps_2022_spring
         ,butterfly
+        ,habitat_wetland
       ]
 
 sun_requirements:
@@ -25,6 +26,12 @@ icon_attribution:
 icon:  "/assets/images/plants/calamagrostis_nutkaensis_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Calamagrostis%20nutkaensis(%20)" 
+
+habitat: 
+    - name: wetland
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=1242"
+          title: "Calflora"
 
 gardens: [
     arcata_community_center

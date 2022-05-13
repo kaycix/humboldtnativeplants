@@ -13,6 +13,7 @@ categories: [humboldt_county_native,
         ,beginner
         ,butterfly
         ,bee
+        ,habitat_coastal
       ]
 
 sun_requirements:
@@ -30,6 +31,12 @@ icon_attribution:
 icon: "/assets/images/plants/erigeron_glaucus_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Seaside%20Daisy%20(Erigeron%20glaucus)"
+
+habitat: 
+    - name: coastal
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=3140"
+          title: "Calflora"
 
 gardens: [
     "arcata_marsh" 

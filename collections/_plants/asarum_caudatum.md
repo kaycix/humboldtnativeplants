@@ -10,6 +10,7 @@ categories: [humboldt_county_native,
        cnps_master_inventory
         ,cnps_2022_spring
         ,groundcover
+        ,habitat_woodland
       ]
 
 sun_requirements:
@@ -25,6 +26,12 @@ icon_attribution:
 icon:  "/assets/images/plants/asarum_caudatum_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Asarum%20caudatum(%20)"
+
+habitat: 
+    - name: woodland
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=733"
+          title: "Calflora"
 
 gardens: [
     arcata_marsh 

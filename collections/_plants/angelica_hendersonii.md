@@ -27,6 +27,12 @@ icon: "/assets/images/plants/angelica_hendersonii_icon.jpg"
  
 calscape_link: "https://calscape.org/Angelica-hendersonii-()"
 
+habitat: 
+    - name: coastal
+      source: 
+        - url : "https://www.calflora.org/app/taxon?crn=367"
+          title: "Calflora"
+
 gardens: [
     arcata_community_center
         ]
