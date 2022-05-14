@@ -33,10 +33,11 @@ browse_plants:
     url: "/category/beginner" 
   - image_path: /assets/images/icons/coming-soon.jpg 
     alt: "Coming Soon" 
-    title: "Light Requirements"
+    title: "Habitat"
+    url: "/habitat" 
   - image_path: /assets/images/icons/coming-soon.jpg 
     alt: "Coming Soon" 
-    title: "Habitat"
+    title: "Light Requirements"
 
 public_gardens:
   - image_path: /assets/images/cnps/garden/flower.jpg
