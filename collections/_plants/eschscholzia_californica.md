@@ -9,17 +9,6 @@ type: "annual herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
-       ,cnps_master_inventory
-       ,cnps_2022_spring
-        ,butterfly
-        ,bee
-        ,bird
-        ,beginner
-        ,groundcover
-        ,container
-      ]
-
 sun_requirements:
   - "Full Sun"
 # min then max in feet
@@ -40,6 +29,39 @@ gardens: [
     ,trinidad_museum
     ,trinidad_museum_coastal
         ]
+
+categories: [
+        humboldt_county_native
+        
+        #landscaping
+        ,groundcover
+        ,border
+        ,drough_tolerant       
+        ,container
+        ,showy   
+     
+        # inventory
+       ,cnps_master_inventory
+       ,cnps_2022_spring
+        
+        # wildlife
+        ,butterfly
+        ,bee
+        ,bird
+        ,beginner
+        ,groundcover
+        ,container
+    
+        #habitat
+        ,habitat_grassland
+        ,habitat_chaparral
+        ,habitat_woodland
+        
+        # propagation 
+        ,propagation_reseeds_easily
+        ,propagation_transplants_challenging
+      ]
+
 ---
 
 

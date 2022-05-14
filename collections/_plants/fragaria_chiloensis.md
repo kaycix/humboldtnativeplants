@@ -9,17 +9,6 @@ type: "perennial herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
-        ,cnps_2022_winter
-        ,cnps_2022_spring
-        ,butterfly
-        ,bee
-        ,groundcover
-        ,beginner
-        ,edible
-      ]
-
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -43,5 +32,29 @@ gardens: [
     ,trinidad_museum
     ,trinidad_museum_coastal
         ]
+
+categories: [
+        humboldt_county_native
+        
+        # inventory
+        ,cnps_master_inventory
+        ,cnps_2022_winter
+        ,cnps_2022_spring
+        
+        # wildlife
+        ,butterfly
+        ,bee
+        
+        #landscaping
+        ,drought_tolerant
+        ,groundcover
+        ,beginner
+    
+        #habitat
+        ,habitat_coastal
+       
+        #uses
+        ,uses_edible
+      ]
 ---
 

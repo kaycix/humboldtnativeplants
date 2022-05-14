@@ -35,6 +35,25 @@ gardens: [
     cnps_demo
     ,cnps_demo_grassland
         ]
+
+categories: [
+        humboldt_county_native
+        
+        # inventory
+       ,cnps_master_inventory
+        
+        #landscaping
+        ,beginner
+        ,drough_tolerant       
+        ,groundcover
+        ,showy
+ 
+        # wildlife
+        ,butterfly
+    
+        #habitat
+        ,habitat_coastal
+      ]
 ---
 
 

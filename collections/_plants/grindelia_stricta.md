@@ -12,6 +12,9 @@ native_to: "Humboldt"
 categories: [humboldt_county_native,
        cnps_master_inventory
         ,butterfly
+    
+        #habitat
+        ,habitat_coastal
       ]
 
 sun_requirements:
@@ -35,4 +38,21 @@ gardens: [
     ,cnps_demo
     ,cnps_demo_coastal
         ]
+
+categories: [
+        humboldt_county_native
+       
+        # inventory
+        ,cnps_master_inventory
+        
+        #landscaping
+        ,groundcover
+        
+        # wildlife
+        ,butterfly
+    
+        #habitat
+        ,habitat_coastal
+      ]
+
 ---

@@ -31,12 +31,8 @@ references:
       title: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=61"
       title: "Calflora"
-
-habitat: 
-    - name: meadow
-      source: 
-        - url : "https://www.calflora.org/app/taxon?crn=61"
-          title: "Calflora"
+    - url: "https://www.rxlist.com/yarrow/supplements.htm"
+      title: "RxList"
 
 gardens: [ 
     arcata_community_center
@@ -52,17 +48,28 @@ propagation:
 
 categories: [
         humboldt_county_native
+
+        # inventory
         ,cnps_master_inventory
         ,cnps_2022_winter
         ,cnps_2022_spring
+        
+        # wildlife
         ,bee
         ,butterfly
         ,bird
-        ,beginner
-        ,groundcover
-        ,edible
-        ,habitat_meadow
         
+        #landscaping
+        ,groundcover
+        ,beginner
+    
+        #habitat
+        ,habitat_meadow
+       
+        #uses
+        ,uses_medicinal
+
+        # propagation 
         ,propagation_seed_no_treatment
       ]
 ---
