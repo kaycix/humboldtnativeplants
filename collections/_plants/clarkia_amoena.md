@@ -8,15 +8,6 @@ name:
 type: "annual herb"
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
-        ,cnps_master_inventory
-        ,cnps_2022_spring
-        ,butterfly
-        ,bee
-        ,container
-        ,habitat_coastal
-      ]
-
 plant_size:
   - height: 
     - 1.5
@@ -29,6 +20,7 @@ icon_attribution:
     url: "https://www.calflora.org/app/up/entry/107/32198.jpg"
 icon: "/assets/images/plants/clarkia_amoena_icon.jpg" 
 
+#TBDeprecated
 calscape_link: "https://calscape.org/Clarkia-amoena-(Farewell-To-Spring)"
 
 habitat: 
@@ -37,11 +29,33 @@ habitat:
         - url : "https://www.wildflower.org/plants/result.php?id_plant=CLAM"
           title: "Wildflower Center"
 
+references:
+    - url: "https://calscape.org/Clarkia-amoena-(Farewell-To-Spring)"
+      title: "Calscape"
+
 gardens: [ 
     arcata_community_center
     ,arcata_marsh
     ,cnps_demo
     ,cnps_demo_container
         ]
+
+categories: [
+        humboldt_county_native
+        
+        # inventory
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+        
+        # wildlife
+        ,butterfly
+        ,bee
+        ,container
+    
+        #habitat
+        ,habitat_meadow
+        ,habitat_coastal
+        ,habitat_woodland
+      ]
 ---
 

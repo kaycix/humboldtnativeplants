@@ -8,13 +8,6 @@ name:
 type: "perennial herb"
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
-        ,cnps_master_inventory
-        ,cnps_2022_spring
-        ,butterfly
-        ,bee
-      ]
-
 sun_requirements:
   - "Full Shade"
   - "Part Shade"
@@ -31,9 +24,32 @@ icon: "/assets/images/plants/aralia_californica_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Aralia%20californica%20(Elk's%20Clover)"
 
+references:
+    - url: "https://calscape.org/loc-California/Aralia%20californica%20(Elk's%20Clover)"
+      title: "Calscape"
+    - url: "https://www.calflora.org/app/taxon?crn=61"
+      title: "Calflora"
+    - url: "https://www.rxlist.com/yarrow/supplements.htm"
+      title: "RxList"
+
 gardens: [
      arcata_marsh
     ,cnps_demo
     ,cnps_demo_redwood
         ]
+
+categories: [humboldt_county_native
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+        
+        # wildlife
+        ,butterfly
+        ,bee
+    
+        #habitat
+        ,habitat_woodland
+
+        # propagation 
+        ,propagation_seed_no_treatment
+      ]
 ---

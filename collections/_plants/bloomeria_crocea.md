@@ -4,15 +4,9 @@ plant_id: 117
 name: 
     common: "Common Goldenstar"  
     scientific: "Bloomeria crocea"  
-
-scientific_name: "Bloomeria crocea"
 type: "perennial herb"
 
 native_to: "California"
-
-categories: [
-       cnps_master_inventory
-      ]
 
 title: ""
 sun_requirements:
@@ -29,6 +23,21 @@ icon_attribution:
 icon: "/assets/images/plants/bloomeria_crocea_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Bloomeria%20crocea(%20)"
+
+references:
+    - url: "https://calscape.org/loc-California/Bloomeria%20crocea(%20)"
+      title: "Calscape"
+
+categories: [
+       cnps_master_inventory
+    
+        #habitat
+        ,habitat_meadow
+        ,habitat_woodland
+
+        # propagation 
+        ,propagation_seed_no_treatment
+      ]
 ---
 
 

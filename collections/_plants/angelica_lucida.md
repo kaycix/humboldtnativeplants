@@ -27,16 +27,29 @@ icon_attribution:
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=mu6848"
 icon: "/assets/images/plants/angelica_lucida_icon.jpg"
  
+#TBDeprecated
 calscape_link: "https://calscape.org/Angelica-lucida-()"
 
-habitat: 
-    - name: coastal
-      source: 
-        - url : "https://www.calflora.org/app/taxon?crn=370"
-          title: "Calflora"
+references:
+    - url: "https://calscape.org/Angelica-lucida-()"
+      title: "Calscape"
 
 gardens: [ 
     trinidad_museum
     ,trinidad_museum_coastal
         ]
+
+categories: [
+        humboldt_county_native
+        
+        # inventory
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+        
+        # wildlife
+        ,butterfly
+    
+        #habitat
+        ,habitat_coastal
+      ]
 ---
