@@ -22,7 +22,13 @@ icon_attribution:
     url: "https://calscape.org/view.php?pl=1663&img=14939"
 icon: "/assets/images/plants/fragaria_chiloensis_icon.jpg" 
 
+#TBDeprecated
 calscape_link: "https://calscape.org/loc-California/Fragaria%20chiloensis%20(Beach%20Strawberry)"
+
+references:
+    - url: "https://calscape.org/loc-California/Fragaria%20chiloensis%20(Beach%20Strawberry)"
+      title: "Calscape"
+
 
 gardens: [ 
     arcata_community_center

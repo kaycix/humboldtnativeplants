@@ -34,9 +34,34 @@ icon: "/assets/images/plants/ceanothus_thyrsiflorus_icon.jpg"
 
 calscape_link: "https://calscape.org/Ceanothus-thyrsiflorus-(Blueblossom-Ceanothus)"
 
+references:
+    - url: "https://calscape.org/Ceanothus-thyrsiflorus-(Blueblossom-Ceanothus)"
+      title: "Calscape"
+
 gardens: [ 
     arcata_community_center
     ,trinidad_museum
     ,trinidad_museum_coastal
         ]
+
+categories: [humboldt_county_native
+
+        #inventory
+       ,cnps_master_inventory
+       ,cnps_2022_spring
+        
+        #landscaping
+        ,hedge
+        ,beginner
+        ,erosion_control
+
+        # wildlife
+        ,butterfly
+        ,bee
+        ,bird
+        
+        #habitat
+        ,habitat_chaparral
+        ,habitat_woodland
+      ]
 ---

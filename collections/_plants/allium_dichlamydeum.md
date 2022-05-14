@@ -7,14 +7,6 @@ name:
 
 type: "perennial herb"
 
-categories: [
-        beresford_bulbs_spring2022_inventory
-        ,cnps_master_inventory
-        ,cnps_2022_spring
-        ,butterfly
-        ,bee
-      ]
-
 sun_requirements:
   - "Full Shade"
 # min then max in feet
@@ -26,10 +18,25 @@ icon_attribution:
     name: "Calflora"
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=gp15806" 
 icon: "/assets/images/plants/allium_dichlamydeum_icon.jpg" 
+
 calscape_link: "https://calscape.org/Allium-dichlamydeum-()"
 
 gardens: [ 
     cnps_demo
     ,cnps_demo_redwood
 ]
+
+
+categories: [
+        
+        # inventory
+         beresford_bulbs_spring2022_inventory
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+        ,butterfly
+        ,bee
+
+        # propagation 
+        ,propagation_seed_no_treatment
+      ]
 ---

@@ -8,11 +8,6 @@ type: "shrub"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
-        ,cnps_master_inventory
-        ,beginner  
-    ]
-
 sun_requirements:
   - "Part Shade"
 # min then max in feet
@@ -28,6 +23,10 @@ icon: "/assets/images/plants/rhododendron_occidentale_icon.jpg"
  
 calscape_link: "https://calscape.org/Rhododendron-occidentale-(Western-Azalea)"
 
+references:
+    - url: "https://calscape.org/Rhododendron-occidentale-(Western-Azalea)"
+      title: "Calscape"
+
 gardens: [
     arcata_marsh
     ,cnps_demo
@@ -35,4 +34,18 @@ gardens: [
     ,trinidad_museum
     ,trinidad_museum_coastal
         ]
+
+categories: [
+        humboldt_county_native
+        
+        # inventory
+        ,cnps_master_inventory
+        
+        # wildlife
+        ,beginner  
+    
+        #habitat
+        ,habitat_woodland
+        ,habitat_riparian
+    ]
 ---

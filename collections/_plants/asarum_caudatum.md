@@ -9,13 +9,6 @@ type: "perennial herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
-        ,cnps_2022_spring
-        ,groundcover
-        ,habitat_woodland
-      ]
-
 sun_requirements:
   - "Part Shade"
   - "Full Shade"
@@ -28,13 +21,12 @@ icon_attribution:
     url: "https://calscape.org/photos/421?srchcr=sc6222aadcc5a07" 
 icon:  "/assets/images/plants/asarum_caudatum_icon.jpg"
 
+#TBDeprecated
 calscape_link: "https://calscape.org/loc-California/Asarum%20caudatum(%20)"
 
-habitat: 
-    - name: woodland
-      source: 
-        - url : "https://www.calflora.org/app/taxon?crn=733"
-          title: "Calflora"
+references:
+    - url: "https://calscape.org/loc-California/Asarum%20caudatum(%20)"
+      title: "Calscape"
 
 gardens: [
     arcata_marsh 
@@ -44,4 +36,17 @@ gardens: [
     ,trinidad_museum_woodland
 ]
 
+categories: [
+        humboldt_county_native
+        
+        # inventory
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+        
+        #landscaping
+        ,groundcover
+        
+        #habitat
+        ,habitat_woodland
+      ]
 ---

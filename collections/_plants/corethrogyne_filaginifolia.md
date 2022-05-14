@@ -8,14 +8,6 @@ type: "perennial herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
-        ,cnps_master_inventory
-        ,cnps_2022_spring
-        ,butterfly
-        ,bird
-        ,bee  
-    ]
-
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -36,4 +28,24 @@ gardens: [
     cnps_demo
     ,cnps_demo_coastal
         ]
+
+categories: [
+        humboldt_county_native
+        
+        # inventory
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+        
+        # wildlife
+        ,butterfly
+        ,bird
+        ,bee  
+        
+        #landscaping
+        ,drought_tolerant
+    
+        #habitat
+        ,habitat_coastal
+        ,habitat_chapparal
+    ]
 ---

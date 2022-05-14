@@ -9,12 +9,6 @@ type: "fern"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
-        ,cnps_2022_spring
-        ,beginner
-      ]
-
 sun_requirements:
   - "Part Shade"
   - "Full Shade"
@@ -28,7 +22,12 @@ icon_attribution:
     url: "https://calscape.org/photos/3032?srchcr=sc621daeab5df9c" 
 icon: "/assets/images/plants/polystichum_munitum_icon.jpg"
  
+#TBDeprecated
 calscape_link: "https://calscape.org/Polystichum-munitum-()"
+
+references:
+    - url: "https://calscape.org/Polystichum-munitum-()"
+      title: "Calscape"
 
 gardens: [ 
     cnps_demo
@@ -37,14 +36,18 @@ gardens: [
     ,trinidad_museum_woodland
 ]
 
-observations: 
-  - location: "McKinleyville"
-    location_detail: "Azalea Reserve"
-    last_spotted: "2022"
-  - location: "McKinleyville"
-    location_detail: "Azalea Reserve (Surrounding Areas)"    
-    last_spotted: "2022"
-  - location: "McKinleyville"
-    location_detail: "Hammond Trail by Hiller Park" 
-    last_spotted: "Winter 2022"
+categories: [
+        humboldt_county_native
+
+        # inventory
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+        
+        #landscaping
+        ,groundcover
+        ,beginner
+    
+        #habitat
+        ,habitat_woodland
+      ]
 ---
