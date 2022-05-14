@@ -9,15 +9,6 @@ type: "perennial herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
-        ,cnps_2022_spring
-        ,butterfly
-        ,bird
-        ,groundcover
-        ,medicinal
-      ]
-
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -31,8 +22,38 @@ icon_attribution:
     name: ""
     url: ""
 icon: "/assets/images/plants/artemisia_douglasiana_icon.jpg"
- 
+
+#TBDeprecated
 calscape_link: https://calscape.org/loc-California/Artemisia%20douglasiana(%20) 
+
+references:
+    - url: "https://calscape.org/loc-California/Artemisia%20douglasiana(%20)" 
+      title: "Calscape"
+
+
+categories: [
+        humboldt_county_native
+
+        # inventory
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+        
+        # wildlife
+        ,butterfly
+        ,bird
+        
+        #landscaping
+        ,groundcover
+    
+        #habitat
+        ,habitat_riparian
+        ,habitat_chaparral
+        ,habitat_woodland
+        ,habitat_meadow
+        
+        #uses
+        ,uses_medicinal
+      ]
 ---
 
 

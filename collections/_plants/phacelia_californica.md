@@ -9,14 +9,6 @@ type: "annual herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
-        ,cnps_master_inventory
-        ,cnps_2022_spring
-        ,butterfly
-        ,bee
-        ,beginner
-      ]
-
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -31,11 +23,37 @@ icon_attribution:
     url: "https://calscape.org/view.php?pl=2841&img=20759"
 icon: "/assets/images/plants/phacelia_californica_icon.jpg"
  
-calscape_link: ""
+#
+calscape_link: "https://calscape.org/Phacelia-californica-()"
+
+references:
+    - url: "https://calscape.org/Phacelia-californica-()"
+      title: "Calscape"
 
 gardens: [
     arcata_marsh
     ,cnps_demo
     ,cnps_demo_coastal
         ]
+
+categories: [
+        humboldt_county_native
+        
+        # inventory
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+        
+        # wildlife
+        ,butterfly
+        ,bee
+        
+        #landscaping
+        ,beginner
+    
+        #habitat
+        ,habitat_coastal
+        ,habitat_chapparal
+        ,habitat_meadow
+        ,habitat_woodland
+      ]
 ---

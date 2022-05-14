@@ -9,15 +9,6 @@ type: "perennial herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
-        ,cnps_master_inventory
-        ,cnps_2022_spring
-        ,butterfly
-        ,bee
-        ,bird
-        ,hummingbird 
-      ]
-
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -39,4 +30,25 @@ gardens: [
     ,trinidad_museum
     ,trinidad_museum_pond
         ]
+
+references:
+    - url: "https://calscape.org/loc-California/Erythranthe-guttata-(Seep-Monkey-Flower)"
+      title: "Calscape"
+
+categories: [
+        humboldt_county_native
+
+         # inventory
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+        
+        # wildlife
+        ,butterfly
+        ,bee
+        ,bird
+        ,hummingbird 
+        
+         #habitat
+         ,habitat_riparian
+      ]
 ---

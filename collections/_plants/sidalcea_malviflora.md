@@ -9,15 +9,6 @@ type: "perennial herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
-        ,cnps_master_inventory
-        ,cnps_2022_spring
-        ,groundcover
-        ,butterfly
-        ,bird
-        ,beginner
-      ]
-
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -32,7 +23,12 @@ icon_attribution:
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=mu22049"
 icon: "/assets/images/plants/sidalcea_malviflora_icon.jpg"
  
+#TBDeprecated
 calscape_link: "https://calscape.org/Sidalcea-malviflora-()"
+
+references:
+    - url: "https://calscape.org/Sidalcea-malviflora-()" 
+      title: "Calscape"
 
 gardens: [
     arcata_community_center
@@ -40,6 +36,30 @@ gardens: [
     ,cnps_demo
     ,cnps_demo_redwood
         ]
+
+categories: [
+        humboldt_county_native
+
+        # inventory
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+        
+        # wildlife
+        ,groundcover
+        ,butterfly
+        ,bird
+        
+        #landscaping
+        ,beginner
+        ,border 
+        ,drough_tolerant
+    
+        #habitat
+        ,habitat_coastal
+        ,habitat_chapparal
+        ,habitat_meadow
+        ,habitat_woodland
+    ]
 ---
 
 

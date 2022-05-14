@@ -9,13 +9,6 @@ type: "perennial herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
-        ,cnps_master_inventory
-        ,cnps_2022_spring
-        ,butterfly
-        ,bird
-      ]
-
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -35,6 +28,21 @@ calscape_link: "https://calscape.org/Sidalcea-malachroides-()"
 gardens: [
     arcata_community_center
         ]
+
+categories: [humboldt_county_native
+
+        # inventory
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+
+        # wildlife
+        ,butterfly
+        ,bird
+        
+        #habitat
+        ,habitat_forest
+        ,habitat_meadow
+      ]
 ---
 
 

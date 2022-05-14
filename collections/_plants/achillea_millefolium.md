@@ -42,10 +42,6 @@ gardens: [
     ,trinidad_museum_meadow
 ]
 
-propagation: 
-    - seed: 
-        no_treatment
-
 categories: [
         humboldt_county_native
 
