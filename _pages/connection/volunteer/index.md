@@ -61,8 +61,5 @@ feature_row:
     btn_label: "See Website"
     btn_class: "btn--primary"
 ---
-<div class='notice--warning' style='font-size:1rem !important;'>
-    This page is currently under construction. Check back soon for updates!
-</div>
 {% include feature_row %}
 
