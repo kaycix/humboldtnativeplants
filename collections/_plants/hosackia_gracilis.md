@@ -1,7 +1,9 @@
 ---
 plant_id: 263 
-common_name: "Seaside Bird's Foot Trefoil"
-scientific_name: "Hosackia gracilis"
+
+name: 
+    common:  "Seaside Bird's Foot Trefoil"   
+    scientific: "Hosackia gracilis"   
 type: "perennial herb"
 
 native_to: "Humboldt"

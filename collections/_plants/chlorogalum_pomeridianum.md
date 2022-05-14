@@ -1,7 +1,9 @@
 ---
 plant_id: 164 
-common_name: "Soap Plant"
-scientific_name: "Chlorogalum pomeridianum"
+
+name: 
+    common: "Soap Plant" 
+    scientific: "Chlorogalum pomeridianum"  
 type: "perennial herb"
 
 categories: [humboldt_county_native,

@@ -1,7 +1,10 @@
 ---
 plant_id: 224 
-common_name: "Western Houndstongue"
-scientific_name: "Cynoglossum grande"
+
+name: 
+    common: "Western Houndstongue"  
+    scientific: "Cynoglossum grande"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

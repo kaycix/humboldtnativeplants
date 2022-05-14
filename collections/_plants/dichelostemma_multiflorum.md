@@ -1,7 +1,9 @@
 ---
 plant_id: 124
-common_name: "Wild Hyacinth"
-scientific_name: "Dichelostemma multiflorum"
+
+name: 
+    common: "Wild Hyacinth" 
+    scientific: "Dichelostemma multiflorum"  
 type: "perennial herb"
 
 native_to: "Humboldt"

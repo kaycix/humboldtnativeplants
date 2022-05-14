@@ -1,7 +1,10 @@
 ---
 plant_id: 39
-common_name: "Bigelow's Sneezeweed"
-scientific_name: "Helenium bigelovii"
+
+name: 
+    common: "Bigelow's Sneezeweed"   
+    scientific: "Helenium bigelovii"  
+
 type: "perennial herb"
 
 native_to : "Humboldt"

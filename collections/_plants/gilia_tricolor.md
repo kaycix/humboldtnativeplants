@@ -1,7 +1,10 @@
 ---
 plant_id: 37
-common_name: "Tricolor Gilia"
-scientific_name: "Gilia tricolor"
+
+name: 
+    common: "Tricolor Gilia"  
+    scientific: "Gilia tricolor"  
+
 type: "annual herb"
 
 native_to: "Humboldt"

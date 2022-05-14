@@ -1,7 +1,9 @@
 ---
 plant_id: 21
-common_name: "Chinese Houses"
-scientific_name: "Collinsia heterophylla"
+
+name: 
+    common: "Chinese Houses"   
+    scientific: "Collinsia heterophylla"
 type: "annual herb"
 
 native_to: "Humboldt"

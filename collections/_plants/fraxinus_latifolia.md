@@ -1,7 +1,10 @@
 ---
 plant_id: 256 
-common_name: "Oregon Ash"
-scientific_name: "Fraxinus latifolia"
+
+name: 
+    common: "Oregon Ash"    
+    scientific: "Fraxinus latifolia"    
+
 type: "tree"
 
 native_to: "Humboldt"

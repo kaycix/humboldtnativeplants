@@ -1,7 +1,10 @@
 ---
 plant_id: 4
-common_name: "Western Columbine"
-scientific_name: "Aquilegia formosa"
+
+name: 
+    common: "Western Columbine"  
+    scientific: "Aquilegia formosa" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

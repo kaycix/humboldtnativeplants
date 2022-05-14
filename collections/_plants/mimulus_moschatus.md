@@ -1,7 +1,10 @@
 ---
 plant_id: 188 
-common_name: "Musk Monkeyflower"
-scientific_name: "Mimulus moschatus"
+
+name: 
+    common: "Musk Monkeyflower"    
+    scientific:  "Mimulus moschatus"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

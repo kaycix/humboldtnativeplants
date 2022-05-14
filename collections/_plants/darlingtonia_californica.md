@@ -1,7 +1,10 @@
 ---
 plant_id: 184 
-common_name: "California Pitcherplant"
-scientific_name: "Darlingtonia californica"
+
+name: 
+    common: "California Pitcherplant"  
+    scientific: "Darlingtonia californica"    
+
 type: "perennial herb"
 
 native_to: "Humboldt"

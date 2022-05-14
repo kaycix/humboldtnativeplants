@@ -1,7 +1,10 @@
 ---
 plant_id: 210 
-common_name: "Black Elderberry"
-scientific_name: "Sambucus nigra"
+
+name: 
+    common: "Black Elderberry"  
+    scientific: "Sambucus nigra"  
+
 type: "shrub"
 
 native_to: "Humboldt"

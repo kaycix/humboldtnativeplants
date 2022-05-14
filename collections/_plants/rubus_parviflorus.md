@@ -1,7 +1,10 @@
 ---
 plant_id: 76
-common_name: "Western Thimbleberry"
-scientific_name: "Rubus Parviflorus"
+
+name: 
+    common: "Western Thimbleberry"   
+    scientific: "Rubus Parviflorus"   
+
 type: "shrub"
 native_to: "Humboldt"
 

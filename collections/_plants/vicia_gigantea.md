@@ -1,7 +1,10 @@
 ---
 plant_id: 264 
-common_name: "Giant Vetch"
-scientific_name: "Vicia gigantea"
+
+name: 
+    common: "Giant Vetch" 
+    scientific:  "Vicia gigantea" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

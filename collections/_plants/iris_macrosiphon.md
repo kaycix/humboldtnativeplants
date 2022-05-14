@@ -1,7 +1,10 @@
 ---
 plant_id: 44
-common_name: "Ground Iris"
-scientific_name: "Iris macrosiphon"
+
+name: 
+    common: "Ground Iris"  
+    scientific: "Iris macrosiphon"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

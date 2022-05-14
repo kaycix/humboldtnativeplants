@@ -1,7 +1,10 @@
 ---
 plant_id: 168 
-common_name: "Sticky Cinquefoil"
-scientific_name: "Drymocallis Glandulosa"
+
+name: 
+    common: "Sticky Cinquefoil" 
+    scientific: "Drymocallis Glandulosa"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 113
-common_name: "Crevice Alumroot"
-scientific_name: "Heuchera micrantha"
+
+name: 
+    common:  "Crevice Alumroot" 
+    scientific: "Heuchera micrantha"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

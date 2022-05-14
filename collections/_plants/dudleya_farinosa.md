@@ -1,7 +1,10 @@
 ---
 plant_id: 261 
-common_name: "Bluff Lettuce"
-scientific_name: "Dudleya farinosa"
+
+name: 
+    common: "Bluff Lettuce"    
+    scientific: "Dudleya farinosa"  
+
 type: "Succulent"
 
 native_to: "Humboldt"

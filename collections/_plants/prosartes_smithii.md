@@ -1,7 +1,9 @@
 ---
 plant_id: 111
-common_name: "Large Flowered Fairy Bell"
-scientific_name: "Prosartes smithii"
+
+name: 
+    common: "Large Flowered Fairy Bell"   
+    scientific: "Prosartes smithii" 
 type: "perennial herb"
 
 native_to: "Humboldt"

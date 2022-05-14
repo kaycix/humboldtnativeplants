@@ -1,7 +1,10 @@
 ---
 plant_id: 118
-common_name: "Golden Globelily"
-scientific_name: "Calochortus amabilis"
+
+name: 
+    common: "Golden Globelily"  
+    scientific: "Calochortus amabilis"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 103
-common_name: "Ray Hartman Ceanothus"
-scientific_name: "ceanothus 'ray hartman'"
+
+name: 
+    common: "Ray Hartman Ceanothus"  
+    scientific: "ceanothus 'ray hartman'"  
+
 type: "shrub"
 
 native_to: ""

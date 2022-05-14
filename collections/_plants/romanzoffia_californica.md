@@ -1,7 +1,10 @@
 ---
 plant_id: 153 
-common_name: "California Romanzoffia"
-scientific_name: "romanzoffia californica"
+
+name: 
+    common:  "California Romanzoffia"  
+    scientific: "romanzoffia californica" 
+
 type: "perennial herb"
 native_to: "Humboldt"
 

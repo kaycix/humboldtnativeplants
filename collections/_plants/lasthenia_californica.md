@@ -1,7 +1,10 @@
 ---
 plant_id: 217 
-common_name: "California Goldfields"
-scientific_name: "Lasthenia californica"
+
+name: 
+    common: "California Goldfields" 
+    scientific: "Lasthenia californica"  
+
 type: "annual herb"
 
 native_to: "Humboldt"

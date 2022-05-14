@@ -1,7 +1,10 @@
 ---
 plant_id: 178 
-common_name: "Large Leaved Avens"
-scientific_name: "Geum macrophyllum"
+
+name: 
+    common: "Large Leaved Avens"  
+    scientific: "Geum macrophyllum"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 135
-common_name: "Mahogany Fawn Lily"
-scientific_name: "Erythronium revolutum"
+
+name: 
+    common: "Mahogany Fawn Lily"  
+    scientific: "Erythronium revolutum"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

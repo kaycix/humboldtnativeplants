@@ -1,7 +1,10 @@
 ---
 plant_id: 233 
-common_name: "Mountain Coyote Mint"
-scientific_name: "Monardella odoratissima"
+
+name: 
+    common: "Mountain Coyote Mint"  
+    scientific: "Monardella odoratissima"  
+
 type: "perennial herb"
 
 native_to: "California"

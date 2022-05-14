@@ -1,7 +1,9 @@
 ---
 plant_id: 89
-common_name: "California Aster"
-scientific_name: "Symphyotrichum Chilense"
+
+name: 
+    common: "California Aster" 
+    scientific:  "Symphyotrichum Chilense"  
 type: "perennial herb"
 
 native_to: "Humboldt"

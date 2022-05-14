@@ -1,7 +1,10 @@
 ---
 plant_id: 241 
-common_name: "Hooker's Fairy Bell"
-scientific_name: "Prosartes hookeri"
+
+name: 
+    common: "Hooker's Fairy Bell" 
+    scientific: "Prosartes hookeri" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

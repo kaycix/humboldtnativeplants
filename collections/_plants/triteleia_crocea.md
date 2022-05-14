@@ -1,7 +1,9 @@
 ---
 plant_id: 145 
-common_name: "Triteleia crocea"
-scientific_name: "Triteleia crocea"
+
+name: 
+    common: "Triteleia crocea" 
+    scientific:  "Triteleia crocea"   
 type: "perennial herb"
 
 native_to: "Humboldt"

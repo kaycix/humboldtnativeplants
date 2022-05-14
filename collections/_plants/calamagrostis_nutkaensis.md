@@ -1,7 +1,10 @@
 ---
 plant_id: 105 
-common_name: "Pacific Reedgrass"
-scientific_name: "Calamagrostis nutkaensis"
+
+name: 
+    common: "Pacific Reedgrass"  
+    scientific: "Calamagrostis nutkaensis" 
+
 type: "grass"
 native_to: "Humboldt"
 

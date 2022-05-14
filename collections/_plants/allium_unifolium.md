@@ -1,9 +1,11 @@
 ---
 plant_id: 116
-common_name: "One Leaf Onion"
-scientific_name: "Allium unifolium"
-type: "perennial herb"
 
+name: 
+    common: "One Leaf Onion" 
+    scientific: "Allium unifolium"  
+
+type: "perennial herb"
 native_to: "Humboldt"
 
 categories: [humboldt_county_native,

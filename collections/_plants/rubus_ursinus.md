@@ -1,10 +1,14 @@
 ---
-title: ""
+plant_id: 78
 categories: [humboldt_county_native
       ]
+
+name: 
+    common: "Pacific Blackberry"  
+    scientific: "Rubus Ursinus"  
+
 common_name: "Pacific Blackberry"
 scientific_name: "Rubus Ursinus"
-plant_id: 78
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -14,8 +18,12 @@ plant_size:
   - height: 
     - 2
     - 6
-# icon attribution: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+1108+0795
+
+icon_attribution:
+    url: "Calphotos" 
+    name: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+1108+0795
 icon: "/assets/images/plants/rubus_ursinus_icon.jpg"
+
 observations: 
   - location: "McKinleyville"
     location_detail: "Azalea Reserve"

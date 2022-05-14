@@ -1,7 +1,10 @@
 ---
 plant_id: 10
-common_name: "Deer Fern"
-scientific_name: "Blechnum Spicant"
+
+name: 
+    common: "Deer Fern"  
+    scientific: "Blechnum Spicant"   
+
 type: "fern"
 
 native_to: "Humboldt"

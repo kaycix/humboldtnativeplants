@@ -1,7 +1,10 @@
 ---
 plant_id: 156 
-common_name: "Dog violet"
-scientific_name: "Viola adunca"
+
+name: 
+    common:  "Dog violet"   
+    scientific: "Viola adunca"  
+
 type: "perennial herb"
 native_to: "Humboldt"
 

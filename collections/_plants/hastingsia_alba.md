@@ -1,7 +1,10 @@
 ---
 plant_id: 132
-common_name: "White Bog Hastingsia"
-scientific_name: "Hastingsia alba"
+
+name: 
+    common: "White Bog Hastingsia" 
+    scientific: "Hastingsia alba"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

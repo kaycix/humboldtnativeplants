@@ -1,7 +1,10 @@
 ---
 plant_id: 198 
-common_name: "Dune Sagewort"
-scientific_name: "Artemisia pycnocephala"
+
+name: 
+    common: "Dune Sagewort" 
+    scientific: "Artemisia pycnocephala"  
+
 type: "shrub"
 
 native_to: "Humboldt"

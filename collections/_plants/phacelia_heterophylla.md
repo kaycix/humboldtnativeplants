@@ -1,7 +1,9 @@
 ---
 plant_id: 258 
-common_name: "Varileaf Phacelia"
-scientific_name: "Phacelia heterophylla"
+
+name: 
+    common:  "Varileaf Phacelia" 
+    scientific: "Phacelia heterophylla"   
 type: "perennial herb"
 
 native_to: "Humboldt"

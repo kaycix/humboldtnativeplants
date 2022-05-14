@@ -1,7 +1,10 @@
 ---
 plant_id: 79
-common_name: "Chia"
-scientific_name: "Salvia Columbariae"
+
+name: 
+    common: "Chia" 
+    scientific: "Salvia Columbariae" 
+
 type: "annual herb"
 
 native_to: "California"

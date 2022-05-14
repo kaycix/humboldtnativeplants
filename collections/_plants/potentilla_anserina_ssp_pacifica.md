@@ -1,7 +1,9 @@
 ---
 plant_id: 239 
-common_name: "Pacific Silverweed"
-scientific_name: "Potentilla anserina ssp. pacifica"
+
+name: 
+    common: "Pacific Silverweed"  
+    scientific:  "Potentilla anserina ssp. pacifica"  
 type: "perennial herb"
 
 native_to: "Humboldt"

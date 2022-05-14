@@ -1,7 +1,10 @@
 ---
 plant_id: 43
-common_name: "Del Norte County Iris"
-scientific_name: "Iris innominata"
+
+name: 
+    common: "Del Norte County Iris"  
+    scientific: "Iris innominata"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

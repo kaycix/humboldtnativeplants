@@ -1,7 +1,10 @@
 ---
 plant_id: 85
-common_name: "Blue Eyed Grass"
-scientific_name: "Sisyrinchium bellum"
+
+name: 
+    common: "Blue Eyed Grass"    
+    scientific: "Sisyrinchium bellum"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

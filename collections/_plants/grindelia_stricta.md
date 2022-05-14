@@ -1,7 +1,10 @@
 ---
 plant_id: 179 
-common_name: "Oregon Gumweed"
-scientific_name: "grindelia stricta"
+
+name: 
+    common: "Oregon Gumweed"  
+    scientific: "grindelia stricta"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

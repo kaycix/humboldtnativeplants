@@ -1,7 +1,10 @@
 ---
 plant_id: 23
-common_name: "Beaked Hazelnut"
-scientific_name: "Corylus Cornuta"
+
+name: 
+    common: "Beaked Hazelnut"  
+    scientific: "Corylus Cornuta" 
+
 type: "shrub"
 native_to: "Humboldt"
 

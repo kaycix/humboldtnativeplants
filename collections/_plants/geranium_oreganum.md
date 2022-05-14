@@ -1,7 +1,10 @@
 ---
 plant_id: 259 
-common_name: "Oregon Geranium"
-scientific_name: "Geranium oreganum"
+
+name: 
+    common: "Oregon Geranium" 
+    scientific: "Geranium oreganum"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

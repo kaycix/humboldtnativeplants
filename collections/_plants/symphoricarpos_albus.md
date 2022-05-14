@@ -1,5 +1,10 @@
 ---
 plant_id: 213 
+
+name: 
+    common:  "Snow Berry"  
+    scientific: "Symphoricarpos albus"    
+
 common_name: "Snow Berry"
 scientific_name: "Symphoricarpos albus"
 type: "shrub"

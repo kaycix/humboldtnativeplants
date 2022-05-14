@@ -1,7 +1,10 @@
 ---
 plant_id: 8
-common_name: "Lady Fern"
-scientific_name: "Athyrium filix-femina"
+
+name: 
+    common: "Lady Fern"  
+    scientific: "Athyrium filix-femina"  
+
 type: "fern"
 
 native_to: "Humboldt"

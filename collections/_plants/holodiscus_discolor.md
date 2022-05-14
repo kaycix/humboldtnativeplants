@@ -1,7 +1,9 @@
 ---
 plant_id: 40
-common_name: "Cream Bush"
-scientific_name: "Holodiscus Discolor"
+
+name: 
+    common: "Cream Bush"   
+    scientific:  "Holodiscus Discolor"  
 type: "shrub"
 
 native_to: "Humboldt"

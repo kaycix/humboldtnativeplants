@@ -1,7 +1,9 @@
 ---
 plant_id: 169 
-common_name: "Scarlet Larkspur"
-scientific_name: "Delphinium Cardinale"
+
+name: 
+    common: "Scarlet Larkspur"  
+    scientific: "Delphinium Cardinale"  
 type: "perennial herb"
 
 categories: [humboldt_county_native

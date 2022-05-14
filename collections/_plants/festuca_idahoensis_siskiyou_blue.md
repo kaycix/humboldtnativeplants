@@ -1,7 +1,10 @@
 ---
 plant_id: 221 
-common_name: "Siskiyou Blue Fescue"
-scientific_name: "Festuca idahoensis 'Siskiyou Blue'"
+
+name: 
+    common:  "Siskiyou Blue Fescue"  
+    scientific: "Festuca idahoensis 'Siskiyou Blue'"  
+
 type: "grass"
 
 native_to: ""

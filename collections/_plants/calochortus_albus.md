@@ -1,7 +1,10 @@
 ---
 plant_id: 119
-common_name: "White Globe Lily"
-scientific_name: "Calochortus albus"
+
+name: 
+    common:  "White Globe Lily"    
+    scientific: "Calochortus albus"  
+
 type: "perennial herb"
 
 native_to: "California"

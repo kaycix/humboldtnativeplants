@@ -1,9 +1,11 @@
 ---
 plant_id: 222 
-common_name: "Coast Angelica"
-scientific_name: "Angelica hendersonii"
-type: "perennial herb"
 
+name: 
+    common: "Coast Angelica" 
+    scientific: "Angelica hendersonii" 
+
+type: "perennial herb"
 native_to: "Humboldt"
 
 categories: [humboldt_county_native

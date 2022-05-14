@@ -1,7 +1,10 @@
 ---
 plant_id: 100
-common_name: "Oregon Grape"
-scientific_name: "Berberis aquifolium"
+
+name: 
+    common: "Oregon Grape" 
+    scientific: "Berberis aquifolium"   
+
 type: "shrub"
 
 native_to: "Humboldt"

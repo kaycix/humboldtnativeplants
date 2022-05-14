@@ -1,7 +1,10 @@
 ---
 plant_id: 248 
-common_name: "Henderson's Aster"
-scientific_name: "Symphyotrichum Hendersonii"
+
+name: 
+    common:  "Henderson's Aster"    
+    scientific:  "Symphyotrichum Hendersonii"   
+
 type: "annual herb"
 
 native_to: "Humboldt"

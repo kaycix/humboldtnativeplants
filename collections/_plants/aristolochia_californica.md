@@ -1,7 +1,10 @@
 ---
 plant_id: 6
-common_name: "California Pipevine"
-scientific_name: "Aristolochia Californica"
+
+name: 
+    common: "California Pipevine" 
+    scientific: "Aristolochia Californica" 
+
 type: "vine"
 native_to: "Humboldt"
 

@@ -1,7 +1,10 @@
 ---
 plant_id: 57
-common_name: "Spring Madia"
-scientific_name: "Madia Elegans"
+
+name: 
+    common: "Spring Madia"  
+    scientific: "Madia Elegans"  
+
 type: "annual herb"
 
 native_to: "Humboldt"

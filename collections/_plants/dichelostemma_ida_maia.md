@@ -1,7 +1,10 @@
 ---
 plant_id: 123
-common_name: "Firecracker Brodiaea"
-scientific_name: "Dichelostemma ida-maia"
+
+name: 
+    common: "Firecracker Brodiaea"    
+    scientific: "Dichelostemma ida-maia" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

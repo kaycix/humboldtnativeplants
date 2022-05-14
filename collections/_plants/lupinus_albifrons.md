@@ -1,7 +1,10 @@
 ---
 plant_id: 230 
-common_name: "Silver Lupine"
-scientific_name: "Lupinus albifrons"
+
+name: 
+    common: "Silver Lupine"  
+    scientific: "Lupinus albifrons" 
+
 type: "shrub"
 
 native_to: "Humboldt"

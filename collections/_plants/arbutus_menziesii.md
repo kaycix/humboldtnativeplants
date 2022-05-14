@@ -1,7 +1,10 @@
 ---
 plant_id: 98
-common_name: "Madrone"
-scientific_name: "Arbutus menziesii"
+
+name: 
+    common: "Madrone"     
+    scientific: "Arbutus menziesii"  
+
 type: "tree"
 
 native_to: "Humboldt"

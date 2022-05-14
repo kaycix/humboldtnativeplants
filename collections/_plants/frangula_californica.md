@@ -1,7 +1,9 @@
 ---
 plant_id: 170
-common_name: "Coffeeberry"
-scientific_name: "Frangula californica"
+
+name: 
+    common: "Coffeeberry"     
+    scientific: "Frangula californica"  
 type: "shrub"
 
 native_to: "Humboldt"

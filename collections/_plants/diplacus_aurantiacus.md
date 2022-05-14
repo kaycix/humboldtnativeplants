@@ -1,7 +1,10 @@
 ---
 plant_id: 194 
-common_name: "Bush Monkeyflower"
-scientific_name: "Diplacus aurantiacus"
+
+name: 
+    common:  "Bush Monkeyflower"    
+    scientific: "Diplacus aurantiacus" 
+
 type: "shrub"
 
 native_to: "Humboldt"

@@ -1,7 +1,9 @@
 ---
 plant_id: 207 
-common_name: "California Wildrose"
-scientific_name: "Rosa californica"
+
+name: 
+    common:  "California Wildrose" 
+    scientific: "Rosa californica"  
 type: "shrub"
 
 native_to: "Humboldt"

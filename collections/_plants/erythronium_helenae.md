@@ -1,7 +1,10 @@
 ---
 plant_id: 127
-common_name: "St. Helena Fawn Lily"
-scientific_name: "Erythronium helenae"
+
+name: 
+    common:  "St. Helena Fawn Lily"   
+    scientific: "Erythronium helenae"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

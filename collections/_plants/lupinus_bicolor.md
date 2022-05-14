@@ -1,7 +1,10 @@
 ---
 plant_id: 54
-common_name: "Miniature Lupine"
-scientific_name: "Lupinus bicolor"
+
+name: 
+    common: "Miniature Lupine"  
+    scientific: "Lupinus bicolor"  
+
 type: "annual herb"
 
 native_to: "Humboldt"

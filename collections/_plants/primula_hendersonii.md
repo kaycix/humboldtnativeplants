@@ -1,7 +1,10 @@
 ---
 plant_id: 240 
-common_name: "Mosquito Bills"
-scientific_name: "Primula hendersonii"
+
+name: 
+    common: "Mosquito Bills"  
+    scientific: "Primula hendersonii"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

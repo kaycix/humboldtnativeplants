@@ -1,7 +1,9 @@
 ---
 plant_id: 69
-common_name: "Nested Polypody Fern"
-scientific_name: "Polypodium calirhiza"
+
+name: 
+    common: "Nested Polypody Fern" 
+    scientific:  "Polypodium calirhiza"  
 type: "fern"
 
 native_to: "Humboldt"

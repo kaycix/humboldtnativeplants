@@ -1,6 +1,10 @@
 ---
 plant_id: 83
 
+name: 
+    common: "Red Elderberry"  
+    scientific: "Sambucus racemosa"  
+
 type: "shrub"
 native_to: "Humboldt"
 
@@ -9,8 +13,6 @@ categories: [humboldt_county_native,
         ,beginner
       ]
 
-common_name: "Red Elderberry"
-scientific_name: "Sambucus racemosa"
 sun_requirements:
   - "Full Shade"
   - "Part Shade"

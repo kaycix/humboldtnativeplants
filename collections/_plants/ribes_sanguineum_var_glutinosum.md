@@ -1,7 +1,9 @@
 ---
 plant_id: 74
-common_name: "Blood Currant"
-scientific_name: "Ribes sanguineum var. glutinosum"
+
+name: 
+    common: "Blood Currant"   
+    scientific: "Ribes sanguineum var. glutinosum"   
 type: "shrub"
 
 categories: [humboldt_county_native,

@@ -1,7 +1,10 @@
 ---
 plant_id: 236 
-common_name: "Roezl's Penstemon"
-scientific_name: "Penstemon roezlii"
+
+name: 
+    common: "Roezl's Penstemon"   
+    scientific: "Penstemon roezlii" 
+
 type: "perennial herb"
 
 native_to: "California"

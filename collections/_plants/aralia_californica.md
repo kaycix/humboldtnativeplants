@@ -1,9 +1,11 @@
 ---
 plant_id: 183 
-common_name: "Elk's Clover"
-scientific_name: "Aralia californica"
-type: "perennial herb"
 
+name: 
+    common:  "Elk's Clover"   
+    scientific: "Aralia californica" 
+
+type: "perennial herb"
 native_to: "Humboldt"
 
 categories: [humboldt_county_native

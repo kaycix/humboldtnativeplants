@@ -1,7 +1,9 @@
 ---
 plant_id: 180 
-common_name: "Cow Parsnip"
-scientific_name: "heracleum maximum"
+
+name: 
+    common:  "Cow Parsnip" 
+    scientific: "heracleum maximum"  
 type: "perennial herb"
 
 native_to: "Humboldt"

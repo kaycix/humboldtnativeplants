@@ -1,7 +1,10 @@
 ---
 plant_id: 232 
-common_name: "Broadleaf Lupine"
-scientific_name: "Lupinus latifolius"
+
+name: 
+    common: "Broadleaf Lupine" 
+    scientific: "Lupinus latifolius"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

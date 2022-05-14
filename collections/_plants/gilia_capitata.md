@@ -1,7 +1,10 @@
 ---
 plant_id: 36
-common_name: "Blue Field Gilia"
-scientific_name: "Gilia capitata"
+
+name: 
+    common: "Blue Field Gilia"   
+    scientific: "Gilia capitata" 
+
 type: "annual herb"
 
 native_to: "Humboldt"

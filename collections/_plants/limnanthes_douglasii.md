@@ -1,7 +1,10 @@
 ---
 plant_id: 49
-common_name: "Common Meadow Foam"
-scientific_name: "Limnanthes douglasii"
+
+name: 
+    common: "Common Meadow Foam"  
+    scientific: "Limnanthes douglasii"    
+
 type: "annual herb"
 
 native_to: "Humboldt"

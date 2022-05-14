@@ -1,7 +1,10 @@
 ---
 plant_id: 162 
-common_name: "Showy Milkweed"
-scientific_name: "Asclepias speciosa"
+
+name: 
+    common: "Showy Milkweed"   
+    scientific: "Asclepias speciosa"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

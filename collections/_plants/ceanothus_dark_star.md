@@ -1,7 +1,10 @@
 ---
 plant_id: 104
-common_name: "Dark Star Ceanothus"
-scientific_name: "ceanothus 'dark star'"
+
+name: 
+    common: "Dark Star Ceanothus"   
+    scientific: "ceanothus 'dark star'" 
+
 type: "shrub"
 
 native_to: ""

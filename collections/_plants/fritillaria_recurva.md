@@ -1,7 +1,10 @@
 ---
 plant_id: 220 
-common_name: "Scarlet Fritillary"
-scientific_name: "Fritillaria recurva"
+
+name: 
+    common: "Scarlet Fritillary"   
+    scientific:  "Fritillaria recurva"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

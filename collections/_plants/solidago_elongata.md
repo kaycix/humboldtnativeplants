@@ -1,7 +1,10 @@
 ---
 plant_id: 245 
-common_name: "Meadow Goldenrod"
-scientific_name: "Solidago elongata"
+
+name: 
+    common: "Meadow Goldenrod" 
+    scientific: "Solidago elongata"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

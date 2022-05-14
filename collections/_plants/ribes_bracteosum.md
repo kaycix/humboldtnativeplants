@@ -1,7 +1,10 @@
 ---
 plant_id: 205 
-common_name: "Stink Currant"
-scientific_name: "Ribes bracteosum"
+
+name: 
+    common:  "Stink Currant"   
+    scientific:  "Ribes bracteosum"  
+
 type: "shrub"
 
 native_to: "Humboldt"

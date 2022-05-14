@@ -1,7 +1,10 @@
 ---
 plant_id: 202 
-common_name: "Mock Orange"
-scientific_name: "Philadelphus lewisii"
+
+name: 
+    common: "Mock Orange"  
+    scientific: "Philadelphus lewisii"   
+
 type: "shrub"
 
 native_to: "Humboldt"

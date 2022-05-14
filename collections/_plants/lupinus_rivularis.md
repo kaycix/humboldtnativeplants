@@ -1,7 +1,10 @@
 ---
 plant_id: 250 
-common_name: "Riverbank Lupine"
-scientific_name: "Lupinus rivularis"
+
+name: 
+    common: "Riverbank Lupine" 
+    scientific: "Lupinus rivularis"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

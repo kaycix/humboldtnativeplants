@@ -1,7 +1,10 @@
 ---
 plant_id: 67
-common_name: "Cream Cups"
-scientific_name: "Platystemon californicus"
+
+name: 
+    common: "Cream Cups"  
+    scientific: "Platystemon californicus" 
+
 type: "annual herb"
 
 native_to: "Humboldt"

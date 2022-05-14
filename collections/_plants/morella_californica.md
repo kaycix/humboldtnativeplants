@@ -1,7 +1,10 @@
 ---
 plant_id: 58
-common_name: "California Wax Myrtle" 
-scientific_name: "Morella Californica"
+
+name: 
+    common: "California Wax Myrtle" 
+    scientific: "Morella Californica" 
+
 type: "shrub"
 
 native_to: "Humboldt"

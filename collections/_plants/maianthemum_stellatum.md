@@ -1,7 +1,10 @@
 ---
 plant_id: 150 
-common_name: "False Solomon Seal"
-scientific_name: "maianthemum stellatum"
+
+name: 
+    common: "False Solomon Seal"  
+    scientific:  "maianthemum stellatum"  
+
 type: "perennial herb"
 native_to: "Humboldt"
 

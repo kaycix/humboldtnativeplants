@@ -1,7 +1,10 @@
 ---
 plant_id: 167 
-common_name: "Heart Leaf Milkweed"
-scientific_name: "Asclepias Cordifolia"
+
+name: 
+    common: "Heart Leaf Milkweed"  
+    scientific: "Asclepias Cordifolia"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

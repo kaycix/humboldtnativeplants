@@ -1,7 +1,9 @@
 ---
 plant_id: 147 
-common_name: "Ithuriel's Spear"
-scientific_name: "Triteleia laxa"
+
+name: 
+    common: "Ithuriel's Spear"  
+    scientific: "Triteleia laxa" 
 type: "perennial herb"
 native_to: "Humboldt"
 

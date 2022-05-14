@@ -1,7 +1,9 @@
 ---
 plant_id: 252 
-common_name: "Rough Hedgenettle"
-scientific_name: "Stachys rigida"
+
+name: 
+    common: "Rough Hedgenettle"  
+    scientific: "Stachys rigida"   
 type: "perennial herb"
 
 native_to: "Humboldt"

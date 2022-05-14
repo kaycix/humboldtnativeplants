@@ -1,7 +1,10 @@
 ---
 plant_id: 84
-common_name: "California Bee Plant"
-scientific_name: "Scrophularia californica"
+
+name: 
+    common: "California Bee Plant"    
+    scientific: "Scrophularia californica" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 51
-common_name: "Prairie Flax"
-scientific_name: "Linum lewisii"
+
+name: 
+    common: "Prairie Flax"  
+    scientific: "Linum lewisii"  
+
 type: "perennial herb"
 native_to: "Humboldt"
 

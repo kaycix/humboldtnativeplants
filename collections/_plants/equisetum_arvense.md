@@ -1,12 +1,15 @@
 ---
 plant_id: 25
 type: "fern"
+
+name: 
+    common: "Common Horsetail" 
+    scientific: "Equisetum arvense"  
+
 native_to: "Humboldt"
 
 categories: [humboldt_county_native]
 
-common_name: "Common Horsetail"
-scientific_name: "Equisetum arvense"
 sun_requirements:
   - "Full Shade"
   - "Part Shade"

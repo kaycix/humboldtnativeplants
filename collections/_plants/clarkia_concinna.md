@@ -1,7 +1,10 @@
 ---
 plant_id: 15
-common_name: "Red Ribbons"
-scientific_name: "Clarkia Concinna"
+
+name: 
+    common: "Red Ribbons"  
+    scientific: "Clarkia Concinna" 
+
 type: "annual herb"
 
 native_to: "Humboldt"

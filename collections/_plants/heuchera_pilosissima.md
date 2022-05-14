@@ -1,7 +1,10 @@
 ---
 plant_id: 114
-common_name: "Seaside Alumroot"
-scientific_name: "Heuchera pilosissima"
+
+name: 
+    common: "Seaside Alumroot"  
+    scientific: "Heuchera pilosissima"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

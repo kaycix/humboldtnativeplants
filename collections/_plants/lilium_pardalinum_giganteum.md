@@ -1,7 +1,10 @@
 ---
 plant_id: 139 
-common_name: "Giganteum Leopard Lily"
-scientific_name: "Lilium pardalinum 'Giganteum'"
+
+name: 
+    common: "Giganteum Leopard Lily"  
+    scientific: "Lilium pardalinum 'Giganteum'"  
+
 type: "perennial herb"
 
 native_to: "California"

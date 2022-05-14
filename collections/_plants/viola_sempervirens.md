@@ -1,8 +1,10 @@
 ---
 plant_id: 157 
-common_name: "Evergreen Violet"
-scientific_name: "viola_sempervirens"
-type: "perennial herb"
+
+name: 
+    common: "Evergreen Violet" 
+    scientific: "viola sempervirens" 
+
 native_to: "Humboldt"
 
 categories: [

@@ -1,7 +1,9 @@
 ---
 plant_id: 64
-common_name: "Low Beardtongue"
-scientific_name: "Penstemon humuilis"
+
+name: 
+    common: "Low Beardtongue"  
+    scientific:  "Penstemon humuilis"   
 type: "perennial herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 181
-common_name: "Scarlet Gilia"
-scientific_name: "Ipomopsis Aggregata"
+
+name: 
+    common: "Scarlet Gilia"  
+    scientific: "Ipomopsis Aggregata"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

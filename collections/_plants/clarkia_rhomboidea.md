@@ -1,7 +1,10 @@
 ---
 plant_id: 216 
-common_name: "Diamond Clarkia"
-scientific_name: "Clarkia rhomboidea"
+
+name: 
+    common: "Diamond Clarkia"  
+    scientific: "Clarkia rhomboidea"  
+
 type: "annual herb"
 
 native_to: "Humboldt"

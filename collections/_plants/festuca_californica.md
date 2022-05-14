@@ -1,8 +1,10 @@
 ---
 plant_id: 32
+
+name: 
+    common:  "California Fescue"   
+    scientific: "Festuca Californica"   
  
-common_name: "California Fescue"
-scientific_name: "Festuca Californica"
 type: "grass"
 native_to: "Humboldt"
 

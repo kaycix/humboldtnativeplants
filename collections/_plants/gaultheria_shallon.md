@@ -1,7 +1,10 @@
 ---
 plant_id: 196 
-common_name: "Salal"
-scientific_name: "Gaultheria shallon"
+
+name: 
+    common: "Salal"      
+    scientific: "Gaultheria shallon"  
+
 type: "shrub"
 
 native_to: "Humboldt"

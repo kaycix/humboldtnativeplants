@@ -1,7 +1,9 @@
 ---
 plant_id: 53
-common_name: "Twinberry"
-scientific_name: "Lonicera Involucrata"
+
+name: 
+    common: "Twinberry"  
+    scientific: "Lonicera Involucrata"  
 type: "shrub"
 
 native_to: "Humboldt"

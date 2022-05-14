@@ -1,7 +1,10 @@
 ---
 plant_id: 136
-common_name: "Kelley's Lily"
-scientific_name: "Lilium kelleyanum"
+
+name: 
+    common: "Kelley's Lily"   
+    scientific: "Lilium kelleyanum" 
+
 type: "perennial herb"
 native_to: "Humboldt"
 

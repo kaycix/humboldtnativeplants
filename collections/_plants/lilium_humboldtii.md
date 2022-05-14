@@ -1,7 +1,10 @@
 ---
 plant_id: 134
-common_name: "Humboldt's Lily"
-scientific_name: "Lilium humboldtii"
+
+name: 
+    common: "Humboldt's Lily" 
+    scientific: "Lilium humboldtii" 
+
 type: "perennial herb"
 
 native_to: "California"

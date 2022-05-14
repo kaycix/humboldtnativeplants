@@ -1,24 +1,12 @@
 ---
 plant_id: 1
-common_name: "Common Yarrow"
-scientific_name: "Achillea Millefolium"
+
+name: 
+    common: "Common Yarrow"
+    scientific: "Achillea Millefolium"
+
 type: "perennial herb"
-
 native_to: "Humboldt"
-
-categories: [
-        humboldt_county_native
-        ,cnps_master_inventory
-        ,cnps_2022_winter
-        ,cnps_2022_spring
-        ,bee
-        ,butterfly
-        ,bird
-        ,beginner
-        ,groundcover
-        ,edible
-        ,habitat_meadow
-      ]
 
 sun_requirements:
   - "Full Sun"
@@ -35,6 +23,7 @@ icon_attribution:
     url: "https://calscape.org/photos/47?srchcr=sc61fdc48beaf01"
 icon: "/assets/images/plants/achillea_millefolium_icon.jpg" 
 
+#TBDeprecated
 calscape_link: "https://calscape.org/Achillea-millefolium-(Common-Yarrow)"
 
 references:
@@ -55,6 +44,26 @@ gardens: [
     ,cnps_demo_grassland
     ,trinidad_museum
     ,trinidad_museum_meadow
-        ]
+]
+
+propagation: 
+    - seed: 
+        no_treatment
+
+categories: [
+        humboldt_county_native
+        ,cnps_master_inventory
+        ,cnps_2022_winter
+        ,cnps_2022_spring
+        ,bee
+        ,butterfly
+        ,bird
+        ,beginner
+        ,groundcover
+        ,edible
+        ,habitat_meadow
+        
+        ,propagation_seed_no_treatment
+      ]
 ---
 

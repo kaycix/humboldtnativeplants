@@ -1,7 +1,10 @@
 ---
 plant_id: 12
-common_name: "California Lilac"
-scientific_name: "Ceanothus Thyrsiflorus"
+
+
+name: 
+    common: "California Lilac"  
+    scientific: "Ceanothus Thyrsiflorus"  
 type: "shrub"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 99
-common_name: "Douglas' Sagewort"
-scientific_name: "Artemisia douglasiana"
+
+name: 
+    common: "Douglas' Sagewort"  
+    scientific: "Artemisia douglasiana" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

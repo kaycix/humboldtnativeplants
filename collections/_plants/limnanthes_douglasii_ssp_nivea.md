@@ -1,7 +1,10 @@
 ---
 plant_id: 50
-common_name: "Douglas' Meadowfoam"
-scientific_name: "Limnanthes douglasii ssp. nivea"
+
+name: 
+    common: "Douglas' Meadowfoam" 
+    scientific:  "Limnanthes douglasii ssp. nivea"  
+
 type: "annual herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,9 @@
 ---
 plant_id: 211 
-common_name: "Apricot Mallow"
-scientific_name: "Sphaeralcea ambigua var. rugosa"
+
+name: 
+    common: "Apricot Mallow"   
+    scientific: "Sphaeralcea ambigua var. rugosa"   
 type: "perennial herb"
 
 native_to: "California"

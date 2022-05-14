@@ -1,9 +1,9 @@
 ---
 plant_id: 48
 
-common_name: "Common Tidy Tips"
-scientific_name: "Layia platyglossa"
-type: "annual herb"
+name: 
+    common:  "Common Tidy Tips"  
+    scientific: "Layia platyglossa"  
 
 native_to: "California"
 

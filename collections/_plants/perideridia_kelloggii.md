@@ -1,7 +1,10 @@
 ---
 plant_id: 237 
-common_name: "Kellogg's Yampah"
-scientific_name: "Perideridia kelloggii"
+
+name: 
+    common: "Kellogg's Yampah"  
+    scientific: "Perideridia kelloggii"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

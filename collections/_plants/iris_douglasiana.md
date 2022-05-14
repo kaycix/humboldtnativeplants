@@ -1,7 +1,10 @@
 ---
 plant_id: 42
-common_name: "Douglas Iris"
-scientific_name: "Iris douglasiana"
+
+name: 
+    common: "Douglas Iris" 
+    scientific: "Iris douglasiana"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

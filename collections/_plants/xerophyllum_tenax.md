@@ -1,7 +1,10 @@
 ---
 plant_id: 249 
-common_name: "Bear Grass"
-scientific_name: "Xerophyllum Tenax"
+
+name: 
+    common: "Bear Grass"  
+    scientific:  "Xerophyllum Tenax"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,9 @@
 ---
 plant_id: 152 
-common_name: "Bolander's Phacelia"
-scientific_name: "phacelia bolanderi"
+
+name: 
+    common:  "Bolander's Phacelia"  
+    scientific: "phacelia bolanderi"   
 
 #calscape also classifies are perennial (in addition to annual) 
 type: "annual herb"

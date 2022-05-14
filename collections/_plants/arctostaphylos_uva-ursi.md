@@ -1,7 +1,10 @@
 ---
 plant_id: 5
-common_name: "Kinnikinnick"
-scientific_name: "Arctostaphylos uva-ursi"
+
+name: 
+    common: "Kinnikinnick" 
+    scientific: "Arctostaphylos uva-ursi"   
+
 type: "shrub"
 native_to: "Humboldt"
 

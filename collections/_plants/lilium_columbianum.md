@@ -1,7 +1,10 @@
 ---
 plant_id: 133
-common_name: "Columbia Lily"
-scientific_name: "Lilium columbianum"
+
+name: 
+    common: "Columbia Lily"   
+    scientific: "Lilium columbianum" 
+
 type: "perennial herb"
 native_to: "Humboldt"
 

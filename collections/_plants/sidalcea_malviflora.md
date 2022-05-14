@@ -1,7 +1,10 @@
 ---
 plant_id: 251 
-common_name: "Checker Bloom"
-scientific_name: "Sidalcea malviflora"
+
+name: 
+    common: "Checker Bloom"  
+    scientific: "Sidalcea malviflora"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

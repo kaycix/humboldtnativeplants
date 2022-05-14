@@ -1,7 +1,10 @@
 ---
 plant_id: 138 
-common_name: "Tiger Lily"
-scientific_name: "Lilium pardalinum"
+
+name: 
+    common: "Tiger Lily"  
+    scientific: "Lilium pardalinum"  
+
 type: "perennial herb"
 native_to: "Humboldt"
 

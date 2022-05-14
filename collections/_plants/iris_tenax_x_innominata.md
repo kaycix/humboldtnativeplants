@@ -1,7 +1,10 @@
 ---
 plant_id: 47
-common_name: ""
-scientific_name: "Iris tenax x innominata"
+
+name: 
+    common: 
+    scientific: "Iris tenax x innominata"  
+
 type: "perennial herb"
 
 native_to: ""

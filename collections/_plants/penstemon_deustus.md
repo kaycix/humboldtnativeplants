@@ -1,7 +1,10 @@
 ---
 plant_id: 63
-common_name: "Scabland Penstemon"
-scientific_name: "Penstemon deustus"
+
+name: 
+    common:  "Scabland Penstemon"   
+    scientific: "Penstemon deustus"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

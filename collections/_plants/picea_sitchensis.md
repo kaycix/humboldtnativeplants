@@ -1,7 +1,10 @@
 ---
 plant_id: 262 
-common_name: "Sitka Spruce"
-scientific_name: "Picea sitchensis"
+
+name: 
+    common: "Sitka Spruce"  
+    scientific: "Picea sitchensis"  
+
 type: "tree"
 
 native_to: "Humboldt"

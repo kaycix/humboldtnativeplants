@@ -1,7 +1,10 @@
 ---
 plant_id: 266 
-common_name: "Rose Flowered Stonecrop"
-scientific_name: "Sedum laxum"
+
+name: 
+    common:  "Rose Flowered Stonecrop"  
+    scientific: "Sedum laxum"  
+
 type: "succulent"
 
 native_to: "Humboldt"

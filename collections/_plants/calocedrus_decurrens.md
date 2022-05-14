@@ -1,7 +1,10 @@
 ---
 plant_id: 102
-common_name: "Incense Cedar"
-scientific_name: "Calocedrus decurrens"
+
+name: 
+    common: "Incense Cedar"  
+    scientific: "Calocedrus decurrens" 
+
 type: "tree"
 
 native_to: "Humboldt"
@@ -28,6 +31,4 @@ icon: "/assets/images/plants/calocedrus_decurrens_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Calocedrus%20decurrens%20(Incense%20Cedar)"
 ---
-
-
 

@@ -1,7 +1,10 @@
 ---
 plant_id: 112
-common_name: "Bleeding Heart"
-scientific_name: "Dicentra formosa"
+
+name: 
+    common: "Bleeding Heart"  
+    scientific:  "Dicentra formosa"                                       
+
 type: "perennial herb"
 
 native_to: "Humboldt"

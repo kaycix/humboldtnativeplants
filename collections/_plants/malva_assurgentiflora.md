@@ -1,7 +1,10 @@
 ---
 plant_id: 200 
-common_name: "Island Tree Mallow"
-scientific_name: "Malva Assurgentiflora"
+
+name: 
+    common:  "Island Tree Mallow" 
+    scientific:  "Malva Assurgentiflora"    
+
 type: "shrub"
 
 native_to: "California"

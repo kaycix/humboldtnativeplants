@@ -1,7 +1,9 @@
 ---
 plant_id: 257 
-common_name: "Narrow Leaf Mule Ears"
-scientific_name: "Wyethia angustifolia"
+
+name: 
+    common: "Narrow Leaf Mule Ears" 
+    scientific: "Wyethia angustifolia"   
 type: "perennial herb"
 
 native_to: "Humboldt"

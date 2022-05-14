@@ -1,7 +1,9 @@
 ---
 plant_id: 255 
-common_name: "Douglas Fir"
-scientific_name: "Pseudotsuga menziesii"
+
+name: 
+    common: "Douglas Fir" 
+    scientific: "Pseudotsuga menziesii"  
 type: "tree"
 
 native_to: "Humboldt"

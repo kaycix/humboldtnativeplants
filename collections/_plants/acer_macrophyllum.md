@@ -1,9 +1,11 @@
 ---
 plant_id: 254 
-common_name: "Big Leaf Maple"
-scientific_name: "Acer macrophyllum"
-type: "tree"
 
+name: 
+    common: "Big Leaf Maple"
+    scientific: "Acer macrophyllum"
+
+type: "tree"
 native_to: "Humboldt"
 
 categories: [humboldt_county_native

@@ -1,7 +1,10 @@
 ---
 plant_id: 212 
-common_name: "Douglas's Spirea"
-scientific_name: "Spiraea Douglasii"
+
+name: 
+    common: "Douglas's Spirea"  
+    scientific: "Spiraea Douglasii"  
+
 type: "shrub"
 
 native_to: "Humboldt"

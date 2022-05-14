@@ -1,7 +1,10 @@
 ---
 plant_id: 62
-common_name: "Coastal Miterwort"
-scientific_name: "Pectiantia ovalis"
+
+name: 
+    common: "Coastal Miterwort"  
+    scientific: "Pectiantia ovalis"  
+
 type: "perennial herb"
 native_to: "Humboldt"
 

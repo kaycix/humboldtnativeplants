@@ -1,7 +1,9 @@
 ---
 plant_id: 122
-common_name: "Ookow"
-scientific_name: "Dichelostemma congestum"
+
+name: 
+    common:  "Ookow"   
+    scientific: "Dichelostemma congestum"  
 type: "perennial herb"
 
 native_to: "Humboldt"

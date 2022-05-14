@@ -1,7 +1,10 @@
 ---
 plant_id: 59
-common_name: "Five-Spot"
-scientific_name: "Nemophila maculata"
+
+name: 
+    common: "Five-Spot"   
+    scientific: "Nemophila maculata"  
+
 type: "annual herb"
 
 native_to: "California"

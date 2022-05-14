@@ -1,7 +1,10 @@
 ---
 plant_id: 218 
-common_name: "White Meadow Foam"
-scientific_name: "Limnanthes alba"
+
+name: 
+    common: "White Meadow Foam" 
+    scientific: "Limnanthes alba"  
+
 type: "annual herb"
 
 native_to: "California"

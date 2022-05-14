@@ -1,9 +1,11 @@
 ---
 plant_id: 96
-common_name: "Red Alder"
-scientific_name: "Alnus rubra"
-type: "tree"
 
+name: 
+    common: "Red Alder" 
+    scientific: "Alnus rubra"  
+
+type: "tree"
 native_to: "Humboldt"
 
 categories: [humboldt_county_native

@@ -1,7 +1,9 @@
 ---
 plant_id: 30
-common_name: "California Poppy"
-scientific_name: "Eschscholzia californica"
+
+name: 
+    common:  "California Poppy"  
+    scientific: "Eschscholzia californica" 
 
 type: "annual herb"
 

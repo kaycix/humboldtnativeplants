@@ -1,6 +1,9 @@
 ---
-common_name: "Piggyback Plant"
-scientific_name: "Tolmiea Diplomenziesii"
+plant_id: 92
+
+name: 
+    common: "Piggyback Plant"   
+    scientific: "Tolmiea Diplomenziesii" 
 type: "perennial herb"
 native_to: "Humboldt"
 
@@ -13,7 +16,6 @@ categories: [
       ]
 
 # very little info on this plant, not sure on sun requirements
-plant_id: 92
 sun_requirements:
   - "Full Shade"
   - "Part Shade"

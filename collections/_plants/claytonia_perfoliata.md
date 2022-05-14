@@ -1,7 +1,10 @@
 ---
 plant_id: 19
-common_name: "Miner's Lettuce"
-scientific_name: "Claytonia perfoliata"
+
+name: 
+    common:  "Miner's Lettuce"  
+    scientific: "Claytonia perfoliata"   
+
 type: "annual herb"
 
 native_to: "Humboldt"

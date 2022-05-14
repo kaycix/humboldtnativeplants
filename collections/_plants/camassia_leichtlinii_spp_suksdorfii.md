@@ -1,7 +1,9 @@
 ---
 plant_id: 219 
-common_name: "Suksdorf's Large Camas"
-scientific_name: "Camassia leichtlinii ssp. suksdorfii"
+
+name: 
+    common: "Suksdorf's Large Camas"  
+    scientific: "Camassia leichtlinii ssp. suksdorfii" 
 type: "perennial herb"
 
 native_to: "Humboldt"

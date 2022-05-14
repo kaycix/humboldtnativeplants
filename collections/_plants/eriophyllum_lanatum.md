@@ -1,7 +1,10 @@
 ---
 plant_id: 174 
-common_name: "Common Woolly Sunflower"
-scientific_name: "Eriophyllum Lanatum"
+
+name: 
+    common: "Common Woolly Sunflower"  
+    scientific: "Eriophyllum Lanatum" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

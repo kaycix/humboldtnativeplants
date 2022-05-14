@@ -1,7 +1,10 @@
 ---
 plant_id: 35
-common_name: "Cascara Sagrada"
-scientific_name: "Frangula Purshiana"
+
+name: 
+    common: "Cascara Sagrada"   
+    scientific: "Frangula Purshiana"  
+
 type: "shrub"
 
 native_to: "Humboldt"

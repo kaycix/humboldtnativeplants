@@ -1,7 +1,10 @@
 ---
 plant_id: 163 
-common_name: "Beach evening-primrose"
-scientific_name: "Camissoniopsis Cheiranthifolia"
+
+name: 
+    common: "Beach evening-primrose"  
+    scientific:  "Camissoniopsis Cheiranthifolia"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

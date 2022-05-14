@@ -1,7 +1,10 @@
 ---
 plant_id: 29
-common_name: "Seaside Woolly Sunflower"
-scientific_name: "Eriophyllum staechadifolium"
+
+name: 
+    common:  "Seaside Woolly Sunflower"   
+    scientific:  "Eriophyllum staechadifolium"  
+
 type: "shrub"
 
 native_to: "Humboldt"

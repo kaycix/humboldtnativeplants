@@ -1,7 +1,10 @@
 ---
 plant_id: 108 
-common_name: "Deergrass"
-scientific_name: "Muhlenbergia rigens"
+
+name: 
+    common: "Deergrass"  
+    scientific: "Muhlenbergia rigens"  
+
 type: "grass"
 
 native_to: "California"

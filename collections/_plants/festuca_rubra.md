@@ -1,7 +1,10 @@
 ---
 plant_id: 33
-common_name: "Red Fescue"
-scientific_name: "Festuca rubra"
+
+name: 
+    common:  "Red Fescue"   
+    scientific: "Festuca rubra"   
+
 type: "grass"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 52
-common_name: "Hairy Honeysuckle"
-scientific_name: "Lonicera hispidula"
+
+name: 
+    common: "Hairy Honeysuckle"
+    scientific: "Lonicera hispidula" 
+
 type: "vine"
 
 native_to: "Humboldt"

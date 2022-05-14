@@ -1,7 +1,10 @@
 ---
 plant_id: 193 
-common_name: "Black Hawthorn"
-scientific_name: "Crataegus douglasii"
+
+name: 
+    common:  "Black Hawthorn"  
+    scientific: "Crataegus douglasii"  
+
 type: "shrub"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 243 
-common_name: "Maple Leaved Checkerbloom"
-scientific_name: "Sidalcea Malachroides"
+
+name: 
+    common: "Maple Leaved Checkerbloom" 
+    scientific: "Sidalcea Malachroides" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

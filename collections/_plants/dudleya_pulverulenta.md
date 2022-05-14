@@ -1,7 +1,10 @@
 ---
 plant_id: 265 
-common_name: "Chalk Dudleya"
-scientific_name: "Dudleya pulverulenta"
+
+name: 
+    common: "Chalk Dudleya"  
+    scientific: "Dudleya pulverulenta"  
+
 type: "succulent"
 
 native_to: "California"

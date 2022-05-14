@@ -1,7 +1,10 @@
 ---
 plant_id: 34
-common_name: "Beach Strawberry"
-scientific_name: "Fragaria chiloensis"
+
+name: 
+    common: "Beach Strawberry"     
+    scientific: "Fragaria chiloensis" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

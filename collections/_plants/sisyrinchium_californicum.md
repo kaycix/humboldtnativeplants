@@ -1,7 +1,10 @@
 ---
 plant_id: 86
-common_name: "Yellow Eyed Grass"
-scientific_name: "Sisyrinchium californicum"
+
+name: 
+    common: "Yellow Eyed Grass"  
+    scientific: "Sisyrinchium californicum"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,9 @@
 ---
 plant_id: 208 
-common_name: "Western Raspberry"
-scientific_name: "Rubus leucodermis"
+
+name: 
+    common:  "Western Raspberry"  
+    scientific: "Rubus leucodermis" 
 type: "shrub"
 
 native_to: "Humboldt"

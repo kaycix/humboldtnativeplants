@@ -1,7 +1,10 @@
 ---
 plant_id: 45
-common_name: "Iris Pacific Coast Hybrid"
-scientific_name: ""
+
+name: 
+    common: "Iris Pacific Coast Hybrid"  
+    scientific: "" 
+
 type: "perennial herb"
 
 native_to: ""

@@ -1,7 +1,10 @@
 ---
 plant_id: 238 
-common_name: "Coast Phacelia"
-scientific_name: "Phacelia Californica"
+
+name: 
+    common: "Coast Phacelia"   
+    scientific:  "Phacelia Californica" 
+
 type: "annual herb"
 
 native_to: "Humboldt"

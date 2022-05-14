@@ -1,7 +1,10 @@
 ---                        
 plant_id: 140 
-common_name: "Shasta Lily"                                                               
-scientific_name: "Lilium pardalinum ssp. shastense"
+
+name: 
+    common: "Shasta Lily"  
+    scientific: "Lilium pardalinum ssp. shastense" 
+
 type: "perennial herb"                                                        
 native_to: "CA"
 categories: [

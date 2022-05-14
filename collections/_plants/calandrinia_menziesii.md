@@ -1,9 +1,11 @@
 ---
 plant_id: 215 
-common_name: "Red Maids"
-scientific_name: "Calandrinia menziesii"
-type: "annual herb"
 
+name: 
+    common: "Red Maids"  
+    scientific: "Calandrinia menziesii"   
+
+type: "annual herb"
 native_to: "Humboldt"
 
 categories: [humboldt_county_native

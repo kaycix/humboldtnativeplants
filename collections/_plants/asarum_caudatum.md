@@ -1,7 +1,10 @@
 ---
 plant_id: 109 
-common_name: "Wild Ginger"
-scientific_name: "Asarum caudatum"
+
+name: 
+    common: "Wild Ginger"  
+    scientific: "Asarum caudatum" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

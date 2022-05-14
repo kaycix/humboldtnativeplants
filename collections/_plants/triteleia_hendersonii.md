@@ -1,7 +1,9 @@
 ---
 plant_id: 146 
-common_name: "Henderson's Triteleia"
-scientific_name: "Triteleia hendersonii"
+
+name: 
+    common:  "Henderson's Triteleia" 
+    scientific:  "Triteleia hendersonii"  
 type: "perennial herb"
 
 native_to: "California"

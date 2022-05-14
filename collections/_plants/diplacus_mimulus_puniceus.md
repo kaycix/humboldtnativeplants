@@ -1,7 +1,9 @@
 ---
 plant_id: 24
-common_name: "Red Bush Monkey Flower"
-scientific_name: "Diplacus (Mimulus) Puniceus"
+
+name: 
+    common: "Red Bush Monkey Flower"  
+    scientific:  "Diplacus (Mimulus) Puniceus"  
 type: "shrub"
 
 native_to: "California"

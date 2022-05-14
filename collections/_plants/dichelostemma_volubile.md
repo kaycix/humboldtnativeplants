@@ -1,7 +1,10 @@
 ---
 plant_id: 125
-common_name: "Twining Snakelily"
-scientific_name: "Dichelostemma volubile"
+
+name: 
+    common: "Twining Snakelily"    
+    scientific:  "Dichelostemma volubile" 
+
 type: "perennial herb"
 
 native_to: "California"

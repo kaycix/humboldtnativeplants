@@ -1,7 +1,10 @@
 ---
 plant_id: 144 
-common_name: "Douglas' Grasswidow"
-scientific_name: "Olsynium douglasii"
+
+name: 
+    common: "Douglas' Grasswidow"    
+    scientific: "Olsynium douglasii"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,9 @@
 ---
 plant_id: 260 
-common_name: "Spreading Gooseberry"
-scientific_name: "Ribes divaricatum"
+
+name: 
+    common: "Spreading Gooseberry" 
+    scientific: "Ribes divaricatum" 
 type: "shrub"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 231 
-common_name: "Meadow Lupine"
-scientific_name: "lupinus polyphyllus"
+
+name: 
+    common: "Meadow Lupine"   
+    scientific: "lupinus polyphyllus"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

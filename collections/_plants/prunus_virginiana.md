@@ -1,7 +1,10 @@
 ---
 plant_id: 203 
-common_name: "Choke Cherry"
-scientific_name: "Prunus virginiana"
+
+name: 
+    common: "Choke Cherry"  
+    scientific: "Prunus virginiana"   
+
 type: "tree"
 
 native_to: "Humboldt"

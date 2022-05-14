@@ -1,7 +1,10 @@
 ---
 plant_id: 190 
-common_name: "Arctic Sweet Coltsfoot"
-scientific_name: "Petasites frigidus"
+
+name: 
+    common:  "Arctic Sweet Coltsfoot"  
+    scientific: "Petasites frigidus"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

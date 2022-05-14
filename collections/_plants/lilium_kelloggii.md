@@ -1,7 +1,10 @@
 ---
 plant_id: 137
-common_name: "Kellogg's Lily"
-scientific_name: "Lilium kelloggii"
+
+name: 
+    common:  "Kellogg's Lily"   
+    scientific: "Lilium kelloggii"  
+
 type: "perennial herb"
 native_to: "Humboldt"
 

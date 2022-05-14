@@ -1,7 +1,10 @@
 ---
 plant_id: 186 
-common_name: "Scarlet Monkeyflower"
-scientific_name: "Erythranthe cardinalis"
+
+name: 
+    common: "Scarlet Monkeyflower" 
+    scientific: "Erythranthe cardinalis"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

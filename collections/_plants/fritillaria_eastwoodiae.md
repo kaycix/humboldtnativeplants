@@ -1,7 +1,10 @@
 ---
 plant_id: 131
-common_name: "Butte County Fritillary"
-scientific_name: "Fritillaria eastwoodiae"
+
+name: 
+    common: "Butte County Fritillary"  
+    scientific: "Fritillaria eastwoodiae"  
+
 type: "perennial herb"
 
 native_to: "California"

@@ -1,7 +1,10 @@
 ---
 plant_id: 234 
-common_name: "Coyote Mint"
-scientific_name: "Monardella villosa"
+
+name: 
+    common: "Coyote Mint"  
+    scientific: "Monardella villosa"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

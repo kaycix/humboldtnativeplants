@@ -1,7 +1,9 @@
 ---
 plant_id: 93
-common_name: "Huckleberry" 
-scientific_name: "Vaccinium Ovatum"
+
+name: 
+    common:  "Huckleberry"   
+    scientific:  "Vaccinium Ovatum"    
 type: "shrub"
 
 native_to: "Humboldt"

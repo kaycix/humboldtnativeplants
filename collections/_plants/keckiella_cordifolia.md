@@ -1,7 +1,10 @@
 ---
 plant_id: 197  
-common_name: "Climbing Penstemon"
-scientific_name: "Keckiella cordifolia"
+
+name: 
+    common: "Climbing Penstemon" 
+    scientific: "Keckiella cordifolia"   
+
 type: "shrub"
 
 native_to: "Humboldt"

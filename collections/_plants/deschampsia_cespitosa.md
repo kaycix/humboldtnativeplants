@@ -1,8 +1,9 @@
 ---
 plant_id: 148
- 
-common_name: "Tufted Hairgrass"
-scientific_name: "Deschampsia cespitosa"
+
+name: 
+    common: "Tufted Hairgrass" 
+    scientific: "Deschampsia cespitosa"   
 type: "grass"
 native_to: "Humboldt"
 

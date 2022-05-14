@@ -1,7 +1,9 @@
 ---
 plant_id: 73
-common_name: "Red Flowering Currant"
-scientific_name: "Ribes sanguineum"
+
+name: 
+    common:  "Red Flowering Currant"  
+    scientific: "Ribes sanguineum"  
 
 type: "shrub"
 

@@ -1,7 +1,10 @@
 ---
 plant_id: 199 
-common_name: "Crab Apple"
-scientific_name: "Malus Fusca"
+
+name: 
+    common:  "Crab Apple"  
+    scientific:  "Malus Fusca"  
+
 type: "shrub"
 
 native_to: "Humboldt"

@@ -1,7 +1,9 @@
 ---
 plant_id: 66
-common_name: "Pacific Ninebark"
-scientific_name: "Physocarpus capitatus"
+
+name: 
+    common: "Pacific Ninebark"    
+    scientific:  "Physocarpus capitatus"   
 type: "shrub"
 
 native_to: "Humboldt"

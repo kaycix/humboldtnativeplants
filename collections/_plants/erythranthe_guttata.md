@@ -1,7 +1,10 @@
 ---
 plant_id: 185 
-common_name: "Seep Monkeyflower"
-scientific_name: "Erythranthe guttata"
+
+name: 
+    common: "Seep Monkeyflower"  
+    scientific:  "Erythranthe guttata"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

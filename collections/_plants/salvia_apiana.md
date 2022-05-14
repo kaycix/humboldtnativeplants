@@ -1,7 +1,10 @@
 ---
 plant_id: 209 
-common_name: "White Sage"
-scientific_name: "Salvia apiana"
+
+name: 
+    common: "White Sage"  
+    scientific: "Salvia apiana" 
+
 type: "shrub"
 
 native_to: "California"

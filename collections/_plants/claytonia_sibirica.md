@@ -1,7 +1,10 @@
 ---
 plant_id: 110 
-common_name: "Indian Lettuce"
-scientific_name: "Claytonia sibirica"
+
+name: 
+    common: "Indian Lettuce"  
+    scientific: "Claytonia sibirica"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

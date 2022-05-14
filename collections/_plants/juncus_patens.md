@@ -1,7 +1,10 @@
 ---
 plant_id: 189 
-common_name: "Common Rush"
-scientific_name: "Juncus patens"
+
+name: 
+    common:  "Common Rush" 
+    scientific: "Juncus patens"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

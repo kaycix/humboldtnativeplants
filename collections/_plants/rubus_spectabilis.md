@@ -1,7 +1,9 @@
 ---
 plant_id: 77
-common_name: "Salmon Berry"
-scientific_name: "Rubus Spectabilis"
+
+name: 
+    common: "Salmon Berry"   
+    scientific: "Rubus Spectabilis" 
 type: "shrub"
 
 native_to: "Humboldt"

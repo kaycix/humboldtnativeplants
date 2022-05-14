@@ -1,7 +1,10 @@
 ---
 plant_id: 55
-common_name: "Sky Lupine"
-scientific_name: "Lupinus nanus"
+
+name: 
+    common: "Sky Lupine" 
+    scientific:  "Lupinus nanus" 
+
 type: "annual herb"
 
 native_to : "Humboldt"

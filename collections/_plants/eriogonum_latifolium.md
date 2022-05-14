@@ -1,7 +1,10 @@
 ---
 plant_id: 27
-common_name: "Coast Buckwheat"
-scientific_name: "Eriogonum latifolium"
+
+name: 
+    common: "Coast Buckwheat"  
+    scientific: "Eriogonum latifolium" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 28
-common_name: "Sulphur Buckwheat"
-scientific_name: "Eriogonum umbellatum"
+
+name: 
+    common: "Sulphur Buckwheat"  
+    scientific: "Eriogonum umbellatum"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

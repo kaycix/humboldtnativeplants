@@ -1,7 +1,10 @@
 ---
 plant_id: 227 
-common_name: "Lanceleaf Liveforever"
-scientific_name: "Dudleya lanceolata"
+
+name: 
+    common: "Lanceleaf Liveforever"  
+    scientific:  "Dudleya lanceolata"   
+
 type: "succulent"
 
 native_to: "Humboldt"

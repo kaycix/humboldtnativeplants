@@ -16,19 +16,19 @@
                         <!-- Same logic as plants.html. Should probably be in a util function -->
                         {% if plant.calscape_link %}
                             <a href="{{plant.calscape_link}}" target="_blank">
-                                {{plant.common_name}}
+                                {{plant.name.common}}
                             </a>
                         {% elsif plant.calflora_link %}
                             <a href="{{plant.calflora_link}}" target="_blank">
-                                {{plant.common_name}}
+                                {{plant.name.common}}
                             </a>
                         {% else %}
-                            {{plant.common_name}}
+                            {{plant.name.common}}
                         {% endif %}
                     </h2>
                     <div class="archive__item-excerpt">
                         <div class="scientific_name" style="margin-bottom:10px">
-                        {{plant.scientific_name | capitalize }}
+                        {{plant.name.scientific | capitalize }}
                         </div>
 
                         {% assign sort_param = "" %}

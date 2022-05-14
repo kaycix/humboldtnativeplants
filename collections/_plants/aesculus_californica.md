@@ -1,7 +1,10 @@
 ---
 plant_id: 95
-common_name: "California Buckeye"
-scientific_name: "Aesculus californica"
+
+name:
+    common: "California Buckeye"
+    scientific: "Aesculus californica"
+
 type: "tree"
 
 native_to: "Humboldt"

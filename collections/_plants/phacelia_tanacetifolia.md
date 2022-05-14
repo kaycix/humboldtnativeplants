@@ -1,7 +1,9 @@
 ---
 plant_id: 65
-common_name: "Lacy Phacelia"
-scientific_name: "Phacelia tanacetifolia"
+
+name: 
+    common:  "Lacy Phacelia"   
+    scientific:  "Phacelia tanacetifolia"  
 type: "annual herb"
 
 native_to: "California"

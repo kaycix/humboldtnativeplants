@@ -1,7 +1,9 @@
 ---
 plant_id: 187 
-common_name: "Stream Orchid"
-scientific_name: "Epipactis gigantea"
+
+name: 
+    common: "Stream Orchid"  
+    scientific: "Epipactis gigantea"  
 type: "perennial herb"
 
 native_to: "Humboldt"

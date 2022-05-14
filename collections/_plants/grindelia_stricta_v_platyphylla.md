@@ -1,7 +1,10 @@
 ---
 plant_id: 38
-common_name: "Gumweed"
-scientific_name: "Grindelia stricta v. platyphylla"
+
+name: 
+    common: "grindelia stricta"  
+    scientific: "Grindelia stricta v. platyphylla"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 106 
-common_name: "Idahoe Fescue"
-scientific_name: "Festuca idahoensis"
+
+name: 
+    common: "Idahoe Fescue" 
+    scientific: "Festuca idahoensis"  
+
 type: "grass"
 
 categories: [humboldt_county_native,

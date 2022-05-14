@@ -1,7 +1,10 @@
 ---
 plant_id: 171 
-common_name: "Arrowleaf Buckwheat"
-scientific_name: "Eriogonum Compositum"
+
+name: 
+    common: "Arrowleaf Buckwheat"   
+    scientific: "Eriogonum Compositum"    
+
 type: "perennial herb"
 
 native_to: "Humboldt"

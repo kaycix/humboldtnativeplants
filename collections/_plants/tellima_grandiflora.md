@@ -1,7 +1,9 @@
 ---
 plant_id: 154 
-common_name: "Bigflower Tellima"
-scientific_name: "tellima grandiflora"
+
+name: 
+    common: "Bigflower Tellima"  
+    scientific: "tellima grandiflora"  
 type: "perennial herb"
 native_to: "Humboldt"
 

@@ -1,7 +1,9 @@
 ---
 plant_id: 60
-common_name: "Baby Blue Eyes"
-scientific_name: "Nemophila menziesii"
+
+name: 
+    common: "Baby Blue Eyes"   
+    scientific: "Nemophila menziesii"  
 type: "annual herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 129
-common_name: "Purple Fawn Lily"
-scientific_name: "Erythronium purpurascens"
+
+name: 
+    common:  "Purple Fawn Lily"  
+    scientific: "Erythronium purpurascens"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

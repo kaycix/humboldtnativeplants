@@ -1,7 +1,10 @@
 ---
 plant_id: 142 
-common_name: "Wiggins' Lily"
-scientific_name: "Lilium pardalinum ssp. wigginsii"
+
+name: 
+    common:  "Wiggins' Lily" 
+    scientific:  "Lilium pardalinum ssp. wigginsii" 
+
 type: "perennial herb"
 native_to: "Humboldt"
 

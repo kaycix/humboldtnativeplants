@@ -1,7 +1,10 @@
 ---
 plant_id: 120
-common_name: "Common Camas"
-scientific_name: "Camassia quamash"
+
+name: 
+    common: "Common Camas"   
+    scientific: "Camassia quamash" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

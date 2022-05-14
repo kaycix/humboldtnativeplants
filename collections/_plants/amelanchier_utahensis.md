@@ -1,7 +1,9 @@
 ---
 plant_id: 97
-common_name: "Service Berry"
-scientific_name: "Amelanchier utahensis"
+
+name: 
+    common: "Service Berry"  
+    scientific: "Amelanchier utahensis"  
 
 type: "tree"
 

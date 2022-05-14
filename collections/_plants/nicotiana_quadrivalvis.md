@@ -1,7 +1,9 @@
 ---
 plant_id: 61
-common_name: "Indian Tobacco"
-scientific_name: "Nicotiana quadrivalvis"
+
+name: 
+    common: "Indian Tobacco"  
+    scientific: "Nicotiana quadrivalvis"  
 type: "annual herb"
 
 native_to: "California"

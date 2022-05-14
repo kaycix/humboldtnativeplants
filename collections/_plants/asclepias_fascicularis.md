@@ -1,7 +1,10 @@
 ---
 plant_id: 161 
-common_name: "Narrow Leaf Milkweed"
-scientific_name: "Asclepias Fascicularis"
+
+name: 
+    common: "Narrow Leaf Milkweed"  
+    scientific: "Asclepias Fascicularis" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

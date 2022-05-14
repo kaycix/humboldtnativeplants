@@ -1,7 +1,10 @@
 ---
 plant_id: 46
-common_name: "Toughleaf Iris"
-scientific_name: "Iris Tenax"
+
+name: 
+    common: "Toughleaf Iris" 
+    scientific: "Iris Tenax"  
+
 type: "perennial herb"
 
 native_to: ""

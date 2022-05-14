@@ -1,7 +1,10 @@
 ---
 plant_id: 71
-common_name: "Sword Fern"
-scientific_name: "Polystichum munitum"
+
+name: 
+    common: "Sword Fern" 
+    scientific: "Polystichum munitum"  
+
 type: "fern"
 
 native_to: "Humboldt"

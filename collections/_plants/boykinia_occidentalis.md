@@ -1,7 +1,10 @@
 ---
 plant_id: 11
-common_name: "Brook Foam"
-scientific_name: "Boykinia Occidentalis"
+
+name: 
+    common: "Brook Foam"  
+    scientific: "Boykinia Occidentalis"    
+
 type: "perennial herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,9 @@
 ---
 plant_id: 228 
-common_name: "California Fuchsia Margarita"
-scientific_name: "Epilobium canum 'Margarita'"
+
+name: 
+    common:  "California Fuchsia Margarita"  
+    scientific:  "Epilobium canum 'Margarita'"  
 type: "perennial herb"
 
 native_to: ""

@@ -1,7 +1,10 @@
 ---
 plant_id: 235 
-common_name: "California Melicgrass"
-scientific_name: "Melica californica"
+
+name: 
+    common:  "California Melicgrass"  
+    scientific: "Melica californica"  
+
 type: "grass"
 
 native_to: "Humboldt"

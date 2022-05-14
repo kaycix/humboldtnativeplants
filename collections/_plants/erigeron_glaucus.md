@@ -1,7 +1,10 @@
 ---
 plant_id: 26
-common_name: "Seaside Daisy"
-scientific_name: "Erigeron Glaucus"
+
+name: 
+    common: "Seaside Daisy"  
+    scientific: "Erigeron Glaucus" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

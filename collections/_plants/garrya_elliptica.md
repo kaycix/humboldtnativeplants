@@ -1,7 +1,10 @@
 ---
 plant_id: 195 
-common_name: "Silk Tassel"
-scientific_name: "Garrya elliptica"
+
+name: 
+    common: "Silk Tassel"   
+    scientific: "Garrya elliptica"  
+
 type: "shrub"
 
 native_to: "Humboldt"

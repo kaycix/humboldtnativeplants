@@ -1,7 +1,9 @@
 ---
 plant_id: 90
-common_name: "Foothill Meadow Rue"
-scientific_name: "Thalictrum fendleri"
+
+name: 
+    common:  "Foothill Meadow Rue"  
+    scientific: "Thalictrum fendleri"  
 type: "perennial herb"
 
 native_to: "Humboldt"

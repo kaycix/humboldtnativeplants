@@ -1,7 +1,10 @@
 ---
 plant_id: 229 
-common_name: "Bitter Root"
-scientific_name: "Lewisia rediviva"
+
+name: 
+    common: "Bitter Root"
+    scientific:  "Lewisia rediviva"  
+
 type: "succulent"
 
 native_to: "California"

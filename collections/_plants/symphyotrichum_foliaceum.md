@@ -1,7 +1,9 @@
 ---
 plant_id: 247 
-common_name: "Leafy Aster"
-scientific_name: "Symphyotrichum foliaceum"
+
+name: 
+    common:  "Leafy Aster"  
+    scientific:  "Symphyotrichum foliaceum"  
 type: "perennial herb"
 
 native_to: "Humboldt"

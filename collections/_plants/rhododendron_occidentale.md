@@ -1,7 +1,9 @@
 ---
 plant_id: 206 
-common_name: "Western Azalea"
-scientific_name: "Rhododendron occidentale"
+
+name: 
+    common:  "Western Azalea" 
+    scientific: "Rhododendron occidentale"  
 type: "shrub"
 
 native_to: "Humboldt"

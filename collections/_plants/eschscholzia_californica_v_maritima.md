@@ -1,7 +1,10 @@
 ---
 plant_id: 31
-common_name: "Coastal California Poppy"
-scientific_name: "Eschscholzia californica v. maritima"
+
+name: 
+    common: "Coastal California Poppy"  
+    scientific:  "Eschscholzia californica v. maritima" 
+
 type: "annual herb"
 
 native_to: "Humboldt"

@@ -1,10 +1,11 @@
 ---
 plant_id: 115
-common_name: "Coast Onion"
-scientific_name: "Allium dichlamydeum"
-type: "perennial herb"
 
-native_to: "California"
+name: 
+    common:  "Coast Onion" 
+    scientific: "Allium dichlamydeum"  
+
+type: "perennial herb"
 
 categories: [
         beresford_bulbs_spring2022_inventory

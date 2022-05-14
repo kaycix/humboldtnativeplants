@@ -1,7 +1,9 @@
 ---
 plant_id: 101
-common_name: "Spice Bush"
-scientific_name: "Calycanthus occidentalis"
+
+name: 
+    common: "Spice Bush"   
+    scientific: "Calycanthus occidentalis"  
 type: "shrub"
 
 native_to: "CA"

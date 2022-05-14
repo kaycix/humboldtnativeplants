@@ -1,7 +1,9 @@
 ---
 plant_id: 223 
-common_name: "California Aster"
-scientific_name: "Corethrogyne filaginifolia"
+
+name: 
+    common:  "California Aster"  
+    scientific: "Corethrogyne filaginifolia"   
 type: "perennial herb"
 
 native_to: "Humboldt"

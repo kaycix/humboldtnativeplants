@@ -1,7 +1,10 @@
 ---
 plant_id: 9
-common_name: "Coyote Brush"
-scientific_name: "Baccharis Pilularis"
+
+name: 
+    common: "Coyote Brush"  
+    scientific: "Baccharis Pilularis"  
+
 type: "shrub"
 
 native_to: "Humboldt"

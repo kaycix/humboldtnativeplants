@@ -1,7 +1,10 @@
 ---
 plant_id: 177 
-common_name: "Woodland Strawberry"
-scientific_name: "Fragaria vesca"
+
+name: 
+    common:  "Woodland Strawberry" 
+    scientific:  "Fragaria vesca"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

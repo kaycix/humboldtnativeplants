@@ -1,7 +1,10 @@
 ---
 plant_id: 175 
-common_name: "Sanddune Wallflower"
-scientific_name: "Erysimum capitatum"
+
+name: 
+    common: "Sanddune Wallflower"   
+    scientific: "Erysimum capitatum" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

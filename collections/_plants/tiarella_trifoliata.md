@@ -1,7 +1,10 @@
 ---
 plant_id: 91
-common_name: "Sugar Scoop"
-scientific_name: "Tiarella trifoliata"
+
+name: 
+    common: "Sugar Scoop" 
+    scientific: "Tiarella trifoliata"    
+
 type: "perennial herb"
 
 native_to: "Humboldt"

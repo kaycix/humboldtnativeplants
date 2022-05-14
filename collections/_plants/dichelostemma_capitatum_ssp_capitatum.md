@@ -1,7 +1,9 @@
 ---
 plant_id: 121
-common_name: "Blue Dicks"
-scientific_name: "Dichelostemma capitatum ssp. capitatum"
+
+name: 
+    common:  "Blue Dicks"   
+    scientific:  "Dichelostemma capitatum ssp. capitatum"  
 type: "perennial herb"
 
 native_to: "Humboldt"

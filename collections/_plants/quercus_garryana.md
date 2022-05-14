@@ -1,7 +1,9 @@
 ---
 plant_id: 253 
-common_name: "Garry's Oak"
-scientific_name: "Quercus garryana"
+
+name: 
+    common:  "Garry's Oak" 
+    scientific:  "Quercus garryana"   
 type: "tree"
 
 native_to: "Humboldt"

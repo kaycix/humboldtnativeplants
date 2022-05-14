@@ -1,7 +1,10 @@
 ---
 plant_id: 141
-common_name: "Vollmer's Lily"
-scientific_name: "Lilium pardalinum ssp. vollmeri"
+
+name: 
+    common: "Vollmer's Lily"  
+    scientific: "Lilium pardalinum ssp. vollmeri"   
+
 type: "perennial herb"
 native_to: "Humboldt"
 

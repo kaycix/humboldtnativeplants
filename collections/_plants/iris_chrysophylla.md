@@ -1,7 +1,9 @@
 ---
 plant_id: 41
-common_name: "Yellowleaf Iris"
-scientific_name: "Iris chrysophylla"
+
+name: 
+    common: "Yellowleaf Iris"   
+    scientific: "Iris chrysophylla"  
 type: "perennial herb"
 
 native_to: "Humboldt"

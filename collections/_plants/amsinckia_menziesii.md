@@ -1,9 +1,11 @@
 ---
 plant_id: 2
-common_name: "Menzies' Fiddleneck"
-scientific_name: "Amsinckia menziesii"
-type: "annual herb"
 
+name: 
+    common: "Menzies' Fiddleneck"  
+    scientific: "Amsinckia menziesii" 
+
+type: "annual herb"
 native_to: "Humboldt"
 
 categories: [

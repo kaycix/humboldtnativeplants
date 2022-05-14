@@ -1,7 +1,10 @@
 ---
 plant_id: 87
-common_name: "Ajuga Hedge Nettle"
-scientific_name: "Stachys Ajugoides"
+
+name: 
+    common: "Ajuga Hedge Nettle" 
+    scientific: "Stachys Ajugoides" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

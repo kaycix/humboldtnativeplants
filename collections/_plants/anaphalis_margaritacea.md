@@ -1,7 +1,10 @@
 ---
 plant_id: 158 
-common_name: "Pearly Everlasting"
-scientific_name: "Anaphalis margaritacea"
+
+name: 
+    common: "Pearly Everlasting" 
+    scientific: "Anaphalis margaritacea" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

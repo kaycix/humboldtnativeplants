@@ -1,7 +1,10 @@
 ---
 plant_id: 191 
-common_name: "Tall Coastal Plantain"
-scientific_name: "Plantago subnuda"
+
+name: 
+    common: "Tall Coastal Plantain"  
+    scientific: "Plantago subnuda"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

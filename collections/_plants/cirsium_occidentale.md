@@ -1,7 +1,9 @@
 ---
 plant_id: 165 
-common_name: "Cobweb Thistle"
-scientific_name: "Cirsium occidentale"
+
+name: 
+    common:  "Cobweb Thistle"    
+    scientific: "Cirsium occidentale"  
 type: "perennial herb"
 
 native_to: [humboldt] 

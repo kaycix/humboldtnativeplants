@@ -1,7 +1,10 @@
 ---
 plant_id: 16
-common_name: "Purple Clarkia"
-scientific_name: "Clarkia Purpurea"
+
+name: 
+    common: "Purple Clarkia"  
+    scientific: "Clarkia Purpurea"  
+
 type: "annual herb"
 
 native_to: "Humboldt"

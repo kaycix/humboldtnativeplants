@@ -1,7 +1,9 @@
 ---
 plant_id: 81
-common_name: "Black Sage"
-scientific_name: "Salvia Mellifera"
+
+name: 
+    common: "Black Sage"  
+    scientific: "Salvia Mellifera" 
 type: "shrub"
 
 native_to: "California"

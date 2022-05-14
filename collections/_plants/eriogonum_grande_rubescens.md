@@ -1,7 +1,10 @@
 ---
 plant_id: 173 
-common_name: "Red-flowered Buckwheat"
-scientific_name: "Eriogonum grande rubescens"
+
+name: 
+    common: "Red-flowered Buckwheat"  
+    scientific:  "Eriogonum grande rubescens"   
+
 type: "perennial herb"
 
 native_to: "California"

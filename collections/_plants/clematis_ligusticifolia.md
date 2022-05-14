@@ -1,7 +1,10 @@
 ---
 plant_id: 20
-common_name: "Virgin’s Bower"
-scientific_name: "Clematis Ligusticifolia"
+
+name: 
+    common: "Virgin’s Bower"   
+    scientific:  "Clematis Ligusticifolia"  
+
 type: "vine"
 native_to: "Humboldt"
 

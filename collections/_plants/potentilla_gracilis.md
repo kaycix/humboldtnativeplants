@@ -1,7 +1,10 @@
 ---
 plant_id: 72
-common_name: "Slender Cinquefoil"
-scientific_name: "Potentilla gracilis"
+
+name: 
+    common: "Slender Cinquefoil" 
+    scientific: "Potentilla gracilis"  
+
 type: "perennial herb"
 native_to: "Humboldt"
 

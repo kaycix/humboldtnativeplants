@@ -1,7 +1,10 @@
 ---
 plant_id: 246 
-common_name: "Coast Goldenrod"
-scientific_name: "Solidago spathulata"
+
+name: 
+    common: "Coast Goldenrod"  
+    scientific: "Solidago spathulata"  
+
 type: "perennial herb"
 
 native_to: "Humboldt"

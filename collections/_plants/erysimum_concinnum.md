@@ -1,7 +1,10 @@
 ---
 plant_id: 176 
-common_name: "Curly Wallflower"
-scientific_name: "Erysimum concinnum"
+
+name: 
+    common: "Curly Wallflower"   
+    scientific:  "Erysimum concinnum" 
+
 type: "perennial herb"
 
 native_to: "California" 

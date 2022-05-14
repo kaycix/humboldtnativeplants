@@ -1,7 +1,10 @@
 ---
 plant_id: 126
-common_name: "Cream Fawn Lily"
-scientific_name: "Erythronium citrinum"
+
+name: 
+    common: "Cream Fawn Lily"   
+    scientific: "Erythronium citrinum" 
+
 type: "perennial herb"
 
 native_to: "Humboldt"

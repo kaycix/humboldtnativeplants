@@ -1,7 +1,10 @@
 ---
 plant_id: 214 
-common_name: "Tanoak"
-scientific_name: "Notholithocarpus densiflorus"
+
+name: 
+    common:  "Tanoak"   
+    scientific: "Notholithocarpus densiflorus"  
+
 type: "tree"
 
 native_to: "Humboldt"

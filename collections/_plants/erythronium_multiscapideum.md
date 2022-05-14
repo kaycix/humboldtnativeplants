@@ -1,7 +1,10 @@
 ---
 plant_id: 128
-common_name: "Sierra Fawn Lily"
-scientific_name: "Erythronium multiscapideum"
+
+name: 
+    common:  "Sierra Fawn Lily"   
+    scientific: "Erythronium multiscapideum" 
+
 type: "perennial herb"
 
 native_to: "California"

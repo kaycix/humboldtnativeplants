@@ -1,9 +1,11 @@
 ---
 plant_id: 172 
-common_name: "Tall Buckwheat"
-scientific_name: "Eriogonum Elatum"
-type: "perennial herb"
 
+name: 
+    common: "Tall Buckwheat"  
+    scientific: "Eriogonum Elatum"     
+
+type: "perennial herb"
 native_to: "California"
 
 categories: [

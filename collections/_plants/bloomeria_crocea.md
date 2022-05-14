@@ -1,6 +1,10 @@
 ---
 plant_id: 117
-common_name: "Common Goldenstar"
+
+name: 
+    common: "Common Goldenstar"  
+    scientific: "Bloomeria crocea"  
+
 scientific_name: "Bloomeria crocea"
 type: "perennial herb"
 

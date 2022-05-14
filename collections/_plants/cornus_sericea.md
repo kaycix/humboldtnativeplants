@@ -1,7 +1,9 @@
 ---
 plant_id: 192 
-common_name: "Creek Dogwood"
-scientific_name: "Cornus sericea"
+
+name: 
+    common:  "Creek Dogwood" 
+    scientific: "Cornus sericea" 
 type: "shrub"
 
 native_to: "Humboldt"

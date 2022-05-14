@@ -1,7 +1,10 @@
 ---
 plant_id: 149 
-common_name: "False Lily Of The Valley"
-scientific_name: "maianthemum dilatatum"
+
+name: 
+    common:  "False Lily Of The Valley"  
+    scientific: "maianthemum dilatatum"  
+
 type: "perennial herb"
 native_to: "Humboldt"
 

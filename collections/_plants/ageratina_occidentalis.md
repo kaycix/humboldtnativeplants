@@ -1,9 +1,11 @@
 ---
 plant_id: 160 
-common_name: "Western Snakeroot"
-scientific_name: "Ageratina occidentalis"
-type: "perennial herb"
 
+name: 
+    common: "Western Snakeroot" 
+    scientific: "Ageratina occidentalis" 
+
+type: "perennial herb"
 native_to: "Humboldt"
 
 categories: [humboldt_county_native,

@@ -1,9 +1,11 @@
 ---
 #delete this?
-title: ""
-common_name: ""
-scientific_name: "Iris tenax x innominata"
 plant_id: 47
+
+name: 
+    common: 
+    scientific: "Iris tenax x innominata"  
+
 sun_requirements:
   - "Full Sun"
 calscape_link: ""

@@ -1,7 +1,10 @@
 ---
 plant_id: 94
-common_name: "Grand Fir"
-scientific_name: "Abies grandis"
+
+name: 
+    common: "Grand Fir"
+    scientific: "Abies grandis"
+
 type: "tree"
 
 native_to: "Humboldt"

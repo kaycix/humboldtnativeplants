@@ -1,7 +1,10 @@
 ---
 plant_id: 130
-common_name: "Checker Lily"
-scientific_name: "Fritillaria affinis"
+
+name: 
+    common:  "Checker Lily"   
+    scientific: Fritillaria affinis"   
+
 type: "perennial herb"
 
 native_to: "Humboldt"

@@ -1,7 +1,10 @@
 ---
 plant_id: 201 
-common_name: "Oso Berry"
-scientific_name: "Oemleria cerasiformis"
+
+name: 
+    common: "Oso Berry"    
+    scientific:  "Oemleria cerasiformis"  
+
 type: "shrub"
 
 native_to: "Humboldt"

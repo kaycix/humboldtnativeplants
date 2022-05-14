@@ -1,7 +1,10 @@
 ---
 plant_id: 166 
-common_name: "Yerba Buena"
-scientific_name: "Clinopodium Douglasii"
+
+name: 
+    common: "Yerba Buena" 
+    scientific: "Clinopodium Douglasii"  
+
 type: "perennial herb"
 
 native_to: "Humboldt" 

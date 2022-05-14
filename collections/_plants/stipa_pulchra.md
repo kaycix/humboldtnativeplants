@@ -1,8 +1,10 @@
 ---
 plant_id: 88
-common_name: "Purple Needle Grass"
-scientific_name: "Stipa Pulchra"
 type: "grass"
+
+name: 
+    common: "Purple Needle Grass"  
+    scientific: "Stipa Pulchra" 
 
 native_to: "Humboldt"
 

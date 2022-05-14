@@ -1,7 +1,9 @@
 ---
 plant_id: 204 
-common_name: "Golden Currant"
-scientific_name: "Ribes aureum var. gracillimum"
+
+name: 
+    common: "Golden Currant" 
+    scientific: "Ribes aureum var. gracillimum"  
 type: "shrub"
 
 native_to: "California"
