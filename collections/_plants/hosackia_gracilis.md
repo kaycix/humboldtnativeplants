@@ -33,7 +33,14 @@ icon_attribution:
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=gp15807"
 icon: "/assets/images/plants/hosackia_gracilis_icon.jpg"
  
+#TBDeprecated
 calscape_link: "https://calscape.org/Hosackia-gracilis-()"
+
+references:
+    - url: "https://calscape.org/Hosackia-gracilis-()"
+      title: "Calscape"
+    - url: "https://www.calflora.org/app/taxon?crn=11752"
+      title: "Calflora"
 
 gardens: [
         ]

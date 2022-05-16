@@ -27,10 +27,18 @@ plant_size:
     - 1
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon:  ""
+    name: "Calphotos"
+    url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0213+3184"
+icon:  "/assets/images/plants/iris_tenuissima_icon.jpg"
+
+#TBDeprecated
 calscape_link: "https://calscape.org/loc-California/Iris-tenuissima-(Longtube-Iris)?srchcr=sc6281cf3f61703"
+
+references:
+    - url: "https://calscape.org/loc-California/Iris-tenuissima-(Longtube-Iris)"
+      title: "Calscape"
+    - url: "https://www.calflora.org/app/taxon?crn=4361"
+      title: "Calflora"
 
 gardens: [ 
         ]
