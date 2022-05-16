@@ -29,9 +29,9 @@ plant_size:
     - 1
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon: "/assets/images/plants/_icon.jpg"
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po132234"
+icon: "/assets/images/plants/dudleya_pulverulenta_icon.jpg"
  
 calscape_link: "https://calscape.org/Dudleya-pulverulenta-(Chalk-Dudleya)"
 

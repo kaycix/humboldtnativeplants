@@ -27,9 +27,10 @@ plant_size:
     - 1.6
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon:  ""
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=mu793"
+icon: "/assets/images/plants/iris_missouriensis_icon.jpg" 
+
 calscape_link: "https://calscape.org/loc-California/Iris-missouriensis-(Western-Blue-Flag)?srchcr=sc5fc65586d2e3f"
 
 gardens: [ 

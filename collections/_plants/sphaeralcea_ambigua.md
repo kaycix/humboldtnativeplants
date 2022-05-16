@@ -28,9 +28,9 @@ plant_size:
     - 5
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon: ""
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=cbo69290"
+icon: "/assets/images/plants/sphaeralcea_ambigua_icon.jpg"
  
 calscape_link: "https://calscape.org/Sphaeralcea-ambigua-()"
 
