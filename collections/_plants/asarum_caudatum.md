@@ -42,9 +42,12 @@ categories: [
         # inventory
         ,cnps_master_inventory
         ,cnps_2022_spring
+        ,inventory_cnps_2022_05
         
         #landscaping
         ,groundcover
+
+        ,moisture
         
         #habitat
         ,habitat_woodland

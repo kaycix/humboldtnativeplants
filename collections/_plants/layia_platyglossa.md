@@ -5,6 +5,7 @@ name:
     common:  "Common Tidy Tips"  
     scientific: "Layia platyglossa"  
 
+type: "annual herb"
 native_to: "California"
 
 categories: [ cnps_master_inventory
@@ -28,5 +29,23 @@ icon_attribution:
 icon: "/assets/images/plants/layia_platyglossa_icon.jpg"
  
 calscape_link: "https://calscape.org/Layia-platyglossa-(Common-Tidy-Tips)"
+
+references:
+    - url: "https://calscape.org/Layia-platyglossa-(Common-Tidy-Tips)"
+      title: "Calscape"
+
+categories: [ cnps_master_inventory
+              ,cnps_2022_spring
+              
+              # wildlife
+              ,butterfly
+              
+              #landscaping
+              ,beginner
+              ,container
+               
+              #habitat
+              ,habitat_meadow
+      ]
 ---
 

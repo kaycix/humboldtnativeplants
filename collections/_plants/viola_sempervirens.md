@@ -5,15 +5,20 @@ name:
     common: "Evergreen Violet" 
     scientific: "viola sempervirens" 
 
+type: "perennial herb"
+
 native_to: "Humboldt"
 
 categories: [
-        humboldt_county_native,
-        cnps_master_inventory
+        humboldt_county_native
+        
+        #inventory 
+        ,inventory_cnps_2022_05
+        ,cnps_master_inventory
         ,cnps_2022_spring
+        
+        # wildlife
         ,butterfly
-        ,trinidad_museum
-        ,trinidad_museum_woodland
       ]
 
 sun_requirements:
@@ -32,8 +37,10 @@ icon: "/assets/images/plants/viola_sempervirens_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Viola%20sempervirens(%20)"
 
 gardens: [
-    cnps_demo
-    ,cnps_demo_redwood
+        cnps_demo
+        ,cnps_demo_redwood
+        ,trinidad_museum
+        ,trinidad_museum_woodland
         ]
 ---
 

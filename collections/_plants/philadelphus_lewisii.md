@@ -9,13 +9,6 @@ type: "shrub"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
-        ,cnps_master_inventory
-        ,cnps_2022_spring
-        ,butterfly
-        ,container
-      ]
-
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -32,8 +25,30 @@ icon: "/assets/images/plants/philadelphus_lewisii_icon.jpg"
  
 calscape_link: "https://calscape.org/Philadelphus-lewisii-()"
 
+references:
+    - url: "https://calscape.org/Philadelphus-lewisii-()"
+      title: "Calscape"
+
 gardens: [
     cnps_demo
     ,cnps_demo_container
         ]
+
+categories: [humboldt_county_native
+
+        # inventory
+        ,inventory_cnps_2022_05
+        ,cnps_master_inventory
+        ,cnps_2022_spring
+        
+        # landscaping
+        ,hedge
+        
+        # wildlife
+        ,butterfly
+        ,container
+    
+        #habitat
+        ,habitat_woodland
+      ]
 ---

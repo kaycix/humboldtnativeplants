@@ -9,7 +9,10 @@ type: "succulent"
 native_to: "California"
 
 categories: [
-        cnps_master_inventory
+        
+        #inventory 
+        inventory_cnps_2022_05
+        ,cnps_master_inventory
         ,cnps_2022_spring
         ,hummingbird
         ,bird

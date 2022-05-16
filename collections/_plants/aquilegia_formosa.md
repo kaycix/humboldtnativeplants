@@ -23,11 +23,6 @@ icon_attribution:
     url: "https://calscape.com/ExtData/allimages/900/Aquilegia_formosa_900_65.jpg"
 icon: "/assets/images/plants/aquilegia_formosa_icon.jpg"
 
-observations: 
-  - location: "McKinleyville"
-    location_detail: "Azalea Reserve"
-    last_spotted: "Summer 2021"
-
 references:
     - url: "https://calscape.org/Aquilegia-formosa-(Western-Columbine)"
       title: "Calscape"
@@ -46,6 +41,7 @@ categories: [
             # inventory
             ,cnps_master_inventory
             ,cnps_2022_spring
+            ,inventory_cnps_2022_05
         
             # wildlife
             ,butterfly

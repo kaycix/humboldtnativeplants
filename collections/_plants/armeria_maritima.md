@@ -41,10 +41,11 @@ references:
       title: "Theodore Payne Foundation"
 
 categories: [
-        humboldt_county_native,
+        humboldt_county_native
         
         # inventory
-        cnps_master_inventory
+        ,inventory_cnps_2022_05
+        ,cnps_master_inventory
         ,cnps_2022_winter
         ,cnps_2022_spring
         

@@ -6,6 +6,8 @@ name:
     scientific: "Salvia Leucophylla"
 type: "shrub"
 
+native_to: "California"
+
 genus_common: "Sages" 
 genus_scientific: "Salvia"
 
@@ -22,5 +24,17 @@ icon_attribution:
 icon: "/assets/images/plants/salvia_leucophylla_icon.jpg" 
 
 calscape_link: "https://calscape.org/loc-California/Salvia%20leucophylla(%20)"
+
+categories: [
+        
+        #inventory 
+        inventory_cnps_2022_05
+        ,cnps_master_inventory
+        
+        # wildlife
+        ,bird
+        ,bee
+        ,butterfly
+      ]
 ---
 

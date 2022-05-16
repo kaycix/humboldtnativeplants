@@ -10,8 +10,12 @@ type: "shrub"
 native_to: "Humboldt"
 
 categories: [humboldt_county_native
+        
+        #inventory 
+        ,inventory_cnps_2022_05
         ,cnps_master_inventory
         ,cnps_2022_spring
+        
         ,butterfly
       ]
 

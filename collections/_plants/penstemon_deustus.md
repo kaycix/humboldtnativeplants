@@ -10,13 +10,20 @@ type: "perennial herb"
 native_to: "Humboldt"
 
 categories: [humboldt_county_native
+        
+        #inventory 
         ,cnps_master_inventory
         ,cnps_2022_winter
         ,cnps_2022_spring
+        
+
+        # wildlife
         ,butterfly
         ,bee
         ,bird
         ,hummingbird 
+        
+        # landscaping
         ,container
       ]
 

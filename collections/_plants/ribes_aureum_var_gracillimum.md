@@ -9,8 +9,12 @@ type: "shrub"
 native_to: "California"
 
 categories: [
-        cnps_master_inventory
+
+        # inventory
+        inventory_cnps_2022_05
+        ,cnps_master_inventory
         ,cnps_2022_spring
+
         ,butterfly
         ,bee
         ,bird
@@ -31,7 +35,7 @@ icon_attribution:
     url: "https://calscape.org/view.php?pl=3212&img=29671"
 icon: "/assets/images/plants/ribes_aureum_var_gracillimum_icon.jpg"
  
-calscape_link: ""
+calscape_link: "https://calscape.org/Ribes-aureum-var.-gracillimum-(Golden-Currant)"
 
 gardens: [
         ]

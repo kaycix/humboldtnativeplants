@@ -10,7 +10,9 @@ type: "perennial herb"
 native_to: ""
 
 categories: [ 
-            cnps_master_inventory
+        #inventory 
+        inventory_cnps_2022_05
+            ,cnps_master_inventory
             ,cnps_2022_winter
             ,cnps_2022_spring
             ,butterfly
