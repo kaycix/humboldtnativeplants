@@ -23,6 +23,9 @@ icon_attribution:
     url: "https://calscape.com/ExtData/allimages/900/Aquilegia_formosa_900_65.jpg"
 icon: "/assets/images/plants/aquilegia_formosa_icon.jpg"
 
+#TBDeprecated
+calscape_link: "https://calscape.org/Aquilegia-formosa-(Western-Columbine)"
+
 references:
     - url: "https://calscape.org/Aquilegia-formosa-(Western-Columbine)"
       title: "Calscape"

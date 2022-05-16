@@ -35,8 +35,8 @@ plant_size:
 
 icon_attribution: 
     name : "Calscape"
-    url: ""
-icon: ""
+    url: "https://calscape.org/photos/535?srchcr=sc62826bd1ba8ac"
+icon: "/assets/images/plants/berberis_nervosa_icon.jpg" 
  
 calscape_link: https://calscape.org/Berberis-nervosa-()
 gardens: [

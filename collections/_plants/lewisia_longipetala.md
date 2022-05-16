@@ -24,13 +24,20 @@ plant_size:
     - 0.33
 
 icon_attribution: 
-    name : "Calscape"
-    url: ""
-icon: ""
+    name : "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=mg51400"
+icon: "/assets/images/plants/lewisia_longipetala_icon.jpg" 
  
-calscape_link: "https://calscape.org/Lewisia-longipetala-()" 
 gardens: [
         ]
+
+calscape_link: "https://calscape.org/Lewisia-longipetala-()" 
+
+references:
+    - url: "https://calscape.org/Lewisia-longipetala-()"
+      title: "Calscape"
+    - url: "https://www.calflora.org/app/taxon?crn=4774"
+      title: "Calflora"
 ---
 
 

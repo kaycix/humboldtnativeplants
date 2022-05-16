@@ -35,9 +35,15 @@ plant_size:
     - 1.5
 
 icon_attribution: 
-    name : "Calscape"
+    name : ""
     url: ""
 icon: ""
+
+references:
+    - url: "https://calscape.org/Mimulus-dentatus-(Coastal-Monkeyflower)"
+      title: "Calscape"
+    - url: "https://www.calflora.org/app/taxon?crn=61"
+      title: "Calflora"
  
 calscape_link: "https://calscape.org/Mimulus-dentatus-(Coastal-Monkeyflower)?srchcr=sc5a20b64fa4cab" 
 gardens: [

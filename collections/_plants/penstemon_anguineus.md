@@ -18,6 +18,8 @@ categories: [
         
         # wildlife
         ,butterfly
+        ,hummingbird
+        ,bee
       ]
 
 sun_requirements:
@@ -30,11 +32,17 @@ plant_size:
     - 3 
 
 icon_attribution: 
-    name: "Calscape"
-    url: ""
-icon: ""
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=mu5887"
+icon: "/assets/images/plants/penstemon_anguineus_icon.jpg" 
  
 calscape_link: "https://calscape.org/Penstemon-anguineus-()"
+
+references:
+    - url: "https://calscape.org/Penstemon-anguineus-()"
+      title: "Calscape"
+    - url: "https://www.calflora.org/app/taxon?crn=6137"
+      title: "Calflora"
 
 gardens: [
         ]
