@@ -9,10 +9,13 @@ type: "perennial herb"
 native_to: "Humboldt"
 
 categories: [humboldt_county_native
+
         #inventory 
         ,inventory_cnps_2022_05
         ,cnps_master_inventory
         ,cnps_2022_spring
+
+        # wildlife
         ,butterfly
         ,bee
       ]
@@ -26,9 +29,9 @@ plant_size:
     - 1.6
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon: "/assets/images/plants/_icon.jpg"
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=gp15807"
+icon: "/assets/images/plants/hosackia_gracilis_icon.jpg"
  
 calscape_link: "https://calscape.org/Hosackia-gracilis-()"
 
