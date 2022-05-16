@@ -12,7 +12,7 @@ header:
 tagline: "California Native Plant Society, North Coast Chapter: <a href='https://northcoastcnps.org'>See Website</a>"
 
 intro: 
-    - excerpt: "<div class='notice--warning' style='font-size:1rem !important; margin-top: 0px !important'>Nursery Volunteers are in the midst of updating the inventory list after the <a href='/cnps_2022_spring_sale/'>Spring Plant Sale</a>. In the meantime, please browse the Master Inventory List below. Thank you for your patience!</div>This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery additionally hosts two seasonal sales a year in the Fall and Spring in which hundreds of Humboldt County native and California native plants are offered."
+    - excerpt: "This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery additionally hosts two seasonal sales a year in the Fall and Spring in which hundreds of Humboldt County native and California native plants are offered."
 
 location: Eureka
 
@@ -25,7 +25,8 @@ feature_row:
     alt: "Browse Plants"
     title: "Browse Plants"
     excerpt: "The nursery is open for shopping weekly during Volunteer Hours.<br/>Pricing is $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked. Cash or check only."
-    url: "/category/cnps-master-inventory"
+    url: "/category/inventory-cnps-2022-05"
+    #url: "/category/cnps-master-inventory"
     btn_label: "Browse Plants"
     btn_class: "btn--primary"
   - image_path: /assets/images/cnps/garden/path_with_columbines.jpg
