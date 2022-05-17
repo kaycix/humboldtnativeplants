@@ -17,6 +17,10 @@ plant_size:
   - height: 
     - 3 
     - 4
+bloom_calendar: 
+    - 6 #june
+    - 7 #july
+    - 8 #august
 
 icon_attribution: 
     name: "Calscape"

@@ -18,6 +18,13 @@ plant_size:
     - 1
     - 3
 
+bloom_calendar: 
+    - 4 #april
+    - 5 #may
+    - 6 #june
+    - 7 #july
+    - 8 #august
+
 icon_attribution: 
     name: "Calscape"
     url: "https://calscape.org/photos/47?srchcr=sc61fdc48beaf01"
@@ -59,7 +66,8 @@ categories: [
         #landscaping
         ,groundcover
         ,beginner
-    
+        ,long_blooming 
+   
         #habitat
         ,habitat_meadow
        
