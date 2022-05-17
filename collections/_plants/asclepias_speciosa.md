@@ -9,15 +9,6 @@ type: "perennial herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
-        
-        #inventory 
-        ,inventory_cnps_2022_05
-        ,cnps_master_inventory
-        ,butterfly
-        ,bird
-      ]
-
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -34,9 +25,31 @@ icon: "/assets/images/plants/asclepias_speciosa_icon.jpg"
  
 calscape_link: "https://calscape.org/Asclepias-speciosa-()"
 
+references:
+    - url: "https://calscape.org/Asclepias-speciosa-()""
+      title: "Calscape"
+    - url: "https://www.calflora.org/app/taxon?crn=751"
+      title: "Calflora"
+    - url: "https://monarchbutterflygarden.net/how-to-successfully-transplant-milkweed-taproots/"
+      title: "How to Transplant Milkweed ... with Taproots"
+
 gardens: [
     "arcata_marsh" 
     ,cnps_demo
     ,cnps_demo_grassland
         ]
+
+categories: [humboldt_county_native
+        
+        #inventory 
+        ,inventory_cnps_2022_05
+        ,cnps_master_inventory
+        
+        # wildlife
+        ,butterfly
+        ,bird
+        
+        # propagation 
+        ,taproot
+      ]
 ---
