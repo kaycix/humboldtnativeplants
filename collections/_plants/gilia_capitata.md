@@ -24,6 +24,11 @@ plant_size:
     - 0.3
     - 3
 
+combinations: 
+    - 55 #lupinus_nanus
+    - 217 #lasthenia_californica
+    - 215 #sidalcea_malviflora 
+
 icon_attribution: 
     name: ""
     url: ""

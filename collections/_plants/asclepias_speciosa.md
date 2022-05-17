@@ -26,7 +26,7 @@ icon: "/assets/images/plants/asclepias_speciosa_icon.jpg"
 calscape_link: "https://calscape.org/Asclepias-speciosa-()"
 
 references:
-    - url: "https://calscape.org/Asclepias-speciosa-()""
+    - url: "https://calscape.org/Asclepias-speciosa-()"
       title: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=751"
       title: "Calflora"

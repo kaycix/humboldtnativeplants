@@ -17,6 +17,10 @@ plant_size:
   - height: 
     - 0.3 
     - 1.5
+combinations: 
+    - 55 #lupinus_nanus
+    - 217 #lasthenia_californica
+    - 36 # gilia_capitata
 
 icon_attribution: 
     name: "Calflora"
