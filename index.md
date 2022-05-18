@@ -18,6 +18,7 @@ header:
 
 browse_plants:
   - image_path: /assets/images/wildlife/butterfly/swallowtail_small_feature.jpg
+    image_caption: "Photo by PixaBay"
     alt: "Wildlife"
     title: "Wildlife"
     url: "/wildlife"
@@ -32,7 +33,8 @@ browse_plants:
     title: "Beginner-Friendly"
     url: "/category/beginner" 
   - image_path: /assets/images/habitat/meadow_small_feature_item.jpg 
-    alt: "Coming Soon" 
+    image_caption: "Photo by PixaBay"
+    alt: "Habitat" 
     title: "Habitat"
     url: "/habitat" 
   - image_path: /assets/images/icons/coming-soon.jpg 
