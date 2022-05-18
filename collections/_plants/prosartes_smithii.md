@@ -8,14 +8,6 @@ type: "perennial herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
-        ,cnps_2022_spring
-        
-        # inventory
-        ,inventory_cnps_2022_05
-      ]
-
 sun_requirements:
   - "Full Shade"
 # min then max in feet
@@ -23,6 +15,10 @@ plant_size:
   - height: 
     - 1.6
     - 3.3
+
+bloom_calendar: 
+    - 2 #feb
+    - 3 #march
 
 icon_attribution: 
     name: "Calphotos"
@@ -38,5 +34,18 @@ gardens: [
     ,trinidad_museum
     ,trinidad_museum_woodland
 ]
+
+categories: [humboldt_county_native,
+       cnps_master_inventory
+        ,cnps_2022_spring
+        
+        # inventory
+        ,inventory_cnps_2022_05
+  
+        ,moisture
+ 
+        #habitat
+        ,habitat_woodland
+      ]
 ---
 

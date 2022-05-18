@@ -31,7 +31,7 @@ browse_plants:
     alt: "Beginner-Friendly" 
     title: "Beginner-Friendly"
     url: "/category/beginner" 
-  - image_path: /assets/images/icons/coming-soon.jpg 
+  - image_path: /assets/images/habitat/meadow_small_feature_item.jpg 
     alt: "Coming Soon" 
     title: "Habitat"
     url: "/habitat" 
