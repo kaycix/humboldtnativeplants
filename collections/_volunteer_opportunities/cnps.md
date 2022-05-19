@@ -95,4 +95,5 @@ gallery:
     </ul>
 </p>
 <h3><a id="calendar">Calendar:</a></h3>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showNav=1&showDate=1&showPrint=0&showTabs=0&showCalendars=0&mode=MONTH&src=bm9ydGhjb2FzdGNucHNAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showDate=1&showPrint=0&showTabs=1&showCalendars=0&src=bm9ydGhjb2FzdGNucHNAZ21haWwuY29t&src=dDc1ZDFjYnRpYWRlbDVyZHNmNXZmZGluYWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=cm5hZm42a2VyNXI2MnVpYXA2OXJybjF0aTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=cjdvZDcyMDZnNHRmbHZicm92Mms5aGY4Z2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=a241ZTF1aHJtOWc4aGFodXU5MzUyMWg0dm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%230B8043&color=%238E24AA&color=%23E4C441&color=%23AD1457" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
