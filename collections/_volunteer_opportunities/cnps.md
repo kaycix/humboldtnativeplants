@@ -31,10 +31,10 @@ gallery:
 <p>
     <ul>
         <li>
-            Every Wednesday, Friday and Sunday from 10a - 1p.
+            Every Wednesday, Friday and Sunday from 10a - 1p. Come for an hour or more! 
         </li>
         <li>
-            Come join us, everyone is welcome - whether you come weekly or occasionally. Every little bit helps!
+            Everyone is welcome - whether you come weekly or occasionally. Every little bit helps.
         </li>
     </ul>
 </p>
