@@ -11,7 +11,7 @@ native_to: "California"
 
 categories: [
         #inventory 
-        inventory_cnps_2022_05
+        # inventory_cnps_2022_05
       ]
 
 sun_requirements:

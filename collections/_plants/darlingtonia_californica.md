@@ -12,7 +12,7 @@ native_to: "Humboldt"
 categories: [humboldt_county_native
         
         #inventory 
-        ,inventory_cnps_2022_05
+        #,inventory_cnps_2022_05 - these are for propagating only
         ,cnps_master_inventory
         ,cnps_2022_spring
       ]
