@@ -15,7 +15,6 @@ categories: [
         #inventory 
         ,inventory_cnps_2022_05
         
-        ,hedge
         ,butterfly
         ,bee
         ,bird

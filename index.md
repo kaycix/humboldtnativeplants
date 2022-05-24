@@ -17,6 +17,12 @@ header:
     excerpt: Native plants are beautiful, easy to grow, and provide a critical foundation for our local ecosystem. 
 
 browse_plants:
+  - image_path: /assets/images/currant_small_feature_item.jpg 
+    image_caption: ""
+    alt: "Habitat" 
+    alt: "Coming Soon" 
+    title: "All"
+    url: "/plants" 
   - image_path: /assets/images/wildlife/butterfly/swallowtail_small_feature.jpg
     image_caption: "Photo by PixaBay"
     alt: "Wildlife"
@@ -37,9 +43,6 @@ browse_plants:
     alt: "Habitat" 
     title: "Habitat"
     url: "/habitat" 
-  - image_path: /assets/images/icons/coming-soon.jpg 
-    alt: "Coming Soon" 
-    title: "Light Requirements"
 
 public_gardens:
   - image_path: /assets/images/cnps/garden/flower.jpg
