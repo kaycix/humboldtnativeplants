@@ -68,11 +68,11 @@ landscaping:
     url: "/landscaping"
     btn_label: "READ MORE &#8594;"
 
-where_to_buy:
+nurseries:
   - image_path: /assets/images/cnps_northcoast_nursery.jpg 
     title: "Where to Buy Native Plants"
     excerpt: "Get to know local nurseries that carry native plants and online sources for native seeds and plants."
-    url: "/where_to_buy"
+    url: "/nurseries"
     btn_label: "READ MORE &#8594;"
 
 volunteer:
@@ -90,7 +90,7 @@ volunteer:
 
 {% include feature_row id="public_gardens" type="left" %}
 
-{% include feature_row id="where_to_buy" type="right" %}
+{% include feature_row id="nurseries" type="right" %}
 
 <!--
 <div class="page__hero--overlay" style="background-color: #ebf1f4; background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('');">

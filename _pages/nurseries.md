@@ -1,6 +1,6 @@
 ---
 layout: single 
-permalink: /where_to_buy
+permalink: /nurseries
 title: "Where to Purchase Native Plants"
 classes: wide where-to-buy
 local_nurseries:
