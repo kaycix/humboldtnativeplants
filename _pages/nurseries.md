@@ -4,14 +4,14 @@ permalink: /nurseries
 title: "Where to Purchase Native Plants"
 classes: wide where-to-buy
 local_nurseries:
-  - image_path: /assets/images/cnps_northcoast_nursery.jpg
+  - image_path: /assets/images/cnps/nursery/overview_feature_item.jpg
     alt: "California Native Plant Society Nursery"
     title: "California Native Plant Society Nursery"
     excerpt: "5851 Mrytle Ave<br/>Eureka, CA 95503<br/><br/>Open W, F, Sun mornings."
     url: "/nursery/northcoast-cnps"
     btn_label: "More Information"
     btn_class: "btn--primary"
-  - image_path: /assets/images/samara_restoration_nursery.jpg 
+  - image_path: /assets/images/samara_restoration/display_feature_item.jpeg 
     alt: "Samara Restoration" 
     title: "Samara Restoration"
     excerpt: "5260 Dows Prairie Road<br/>McKinleyville, CA 95519<br/><br/>Open M-F by appointment."
