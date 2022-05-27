@@ -70,6 +70,7 @@ hours_text: "The nursery and demonstration garden are open to the public during 
 contact:
     email: "northcoastcnps@gmail.com"
     default_subject: "Nursery Inquiry"
+    website: "https://northcoastcnps.org/index.php/nursery/native-plant-nursery"
 ---
 {% include feature_row id="intro" type="center" %}
 

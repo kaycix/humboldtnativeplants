@@ -5,7 +5,7 @@ name:
     common: "Bluff Lettuce"    
     scientific: "Dudleya farinosa"  
 
-type: "Succulent"
+type: "succulent"
 
 native_to: "Humboldt"
 
