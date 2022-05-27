@@ -21,7 +21,7 @@ browse_plants:
     image_caption: ""
     alt: "Habitat" 
     alt: "Coming Soon" 
-    title: "All"
+    title: "Basic Requirements"
     url: "/plants" 
   - image_path: /assets/images/wildlife/butterfly/swallowtail_small_feature.jpg
     image_caption: "Photo by PixaBay"
