@@ -13,7 +13,7 @@ header:
     overlay_filter: "0"
     actions:
          - label: "Learn More"
-           url: /learn_more
+           url: /intro
     excerpt: Native plants are beautiful, easy to grow, and provide a critical foundation for our local ecosystem. 
 
 browse_plants:
