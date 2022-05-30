@@ -1,57 +1,67 @@
 <!-- todo use feature_row template? -->
+
+{% assign plant_groups = include.plants | group_by : "type" %} 
+
 <div class="cards plant_type header">
-    <div class="feature__wrapper">
-{% for plant in include.plants %}
-        <div class="feature__item plant card">
-            <div class="archive__item">
-                <div class="archive__item-teaser">
-                    <img src='{{plant.icon | prepend: site.baseurl }}' />
-                    <span class="archive__item-caption">
-                        Photo: 
-                        <a href="{{plant.icon_attribution.url}}" target="_blank">{{plant.icon_attribution.name }}</a>
-                    </span>
-                </div>
-                <div class="archive__item-body">
-                    <h2 class="archive__item-title">
-                        <!-- Same logic as plants.html. Should probably be in a util function -->
-                        {% if plant.calscape_link %}
-                            <a href="{{plant.calscape_link}}" target="_blank">
-                                {{plant.name.common}}
-                            </a>
-                        {% elsif plant.calflora_link %}
-                            <a href="{{plant.calflora_link}}" target="_blank">
-                                {{plant.name.common}}
-                            </a>
-                        {% else %}
-                            {{plant.name.common}}
-                        {% endif %}
-                    </h2>
-                    <div class="archive__item-excerpt">
-                        <div class="scientific_name" style="margin-bottom:10px">
-                        {{plant.name.scientific | capitalize }}
+    {% for group in plant_groups %}
+        <div class="feature__wrapper">
+        {% for plant in group.items %}
+                <div class="feature__item plant card">
+                    <div class="archive__item">
+                        <div class="header">
+                            {{plant.type | capitalize }}
                         </div>
+                        <div class="body">
+                            <div class="archive__item-teaser">
+                                <img src='{{plant.icon | prepend: site.baseurl }}' />
+                                <span class="archive__item-caption">
+                                    Photo: 
+                                    <a href="{{plant.icon_attribution.url}}" target="_blank">{{plant.icon_attribution.name }}</a>
+                                </span>
+                            </div>
+                            <div class="archive__item-body">
+                                <h2 class="archive__item-title">
+                                    <!-- Same logic as plants.html. Should probably be in a util function -->
+                                    {% if plant.calscape_link %}
+                                        <a href="{{plant.calscape_link}}" target="_blank">
+                                            {{plant.name.common}}
+                                        </a>
+                                    {% elsif plant.calflora_link %}
+                                        <a href="{{plant.calflora_link}}" target="_blank">
+                                            {{plant.name.common}}
+                                        </a>
+                                    {% else %}
+                                        {{plant.name.common}}
+                                    {% endif %}
+                                </h2>
+                                <div class="archive__item-excerpt">
+                                    <div class="scientific_name" style="margin-bottom:10px">
+                                    {{plant.name.scientific | capitalize }}
+                                    </div>
 
-                        {% assign sort_param = "" %}
-                        {% if plant.sun_requirements contains 'Full Sun' %}
-                           {% assign sort_param = sort_param | append: "a" %}
-                        {% endif %}
-                        {% if plant.sun_requirements contains 'Part Shade' %}
-                           {% assign sort_param = sort_param | append: "b" %}
-                        {% endif %}
-                        {% if plant.sun_requirements contains 'Full Shade' %}
-                           {% assign sort_param = sort_param | append: "c" %}
-                        {% endif %}
+                                    {% assign sort_param = "" %}
+                                    {% if plant.sun_requirements contains 'Full Sun' %}
+                                       {% assign sort_param = sort_param | append: "a" %}
+                                    {% endif %}
+                                    {% if plant.sun_requirements contains 'Part Shade' %}
+                                       {% assign sort_param = sort_param | append: "b" %}
+                                    {% endif %}
+                                    {% if plant.sun_requirements contains 'Full Shade' %}
+                                       {% assign sort_param = sort_param | append: "c" %}
+                                    {% endif %}
 
-                        <div class="sun sun_req" data-order="{{sort_param}}">
-                            <div class="{{sort_param}}"></div>
+                                    <div class="sun sun_req" data-order="{{sort_param}}">
+                                        <div class="{{sort_param}}"></div>
+                                    </div>
+                                 </div>
+                            </div>
                         </div>
-                     </div>
+                        <div style="clear:both"></div>                  
+                    </div>
                 </div>
-                <div style="clear:both"></div>                  
-            </div>
+        {% endfor %}
         </div>
-{% endfor %}
-    </div>
+    {% endfor %}
 </div>
 
 

@@ -31,7 +31,6 @@
 
 {% assign plants = site.plants | where_exp: "item", 
                                  "item.gardens contains include.garden" %}
-{% assign plant_groups = plants | group_by : "type" %} 
 
 {% include plant_cards.html 
     plants = plants

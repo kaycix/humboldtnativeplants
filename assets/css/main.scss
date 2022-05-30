@@ -622,21 +622,27 @@ table .sun_req div {
     width: 133px;
 }
 
-.cards.plant_type .type_icon {
-    position: absolute;
-}
-
-.cards.plant_type h3 {
-    line-height: 30px;
-    margin-left: 38px;
-} 
-
 .plant.card {
     border: 1px solid #dadce0;
     border-radius: 10px;
     margin-bottom: 16px;
     min-height: 132px;
-    padding: 16px;
+    padding-bottom: 16px;
+}
+
+.cards .feature__wrapper {
+    margin: 0;
+    border: none;
+}
+
+.plant.card .header {
+    background-color: #EEE;
+    font-size: 0.8rem;
+    padding: 6px 16px 6px;
+}
+
+.plant.card .body {
+    padding: 8px 16px 16px;
 }
 
 .plant.card .archive__item-teaser {

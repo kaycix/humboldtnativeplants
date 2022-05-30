@@ -72,7 +72,7 @@ online_seed_suppliers:
 ---
 <h2> Local Native Plant Nurseries</h2>
 <p>
-These native plant nurseries carry hundreds of species of Humboldt County Native and California Native plants. Employees and volunteers are also amazing resources and will often be able to give you specific recommendations and planting instructions to ensure the success of your new plants.
+These native plant nurseries carry hundreds of species of regional native plants. Staff and volunteers are amazing resources and can provide recommendations and planting instructions to ensure the success of your new plants.
 </p>
 {% include feature_row id="local_nurseries" %}
 
