@@ -11,6 +11,8 @@ include                  : ["_pages"]
 logo                     : "/assets/images/leaf-icon.png"
 collections_dir          : "collections"
 collections              : 
+    plant_types:
+        output: false
     plants: 
         output: true
         permalink: /:collection/:path

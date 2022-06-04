@@ -3,14 +3,18 @@
 {% assign plant_groups = include.plants | group_by : "type" %} 
 
 <div class="cards plant_type header">
+    <div class="feature__wrapper">
     {% for group in plant_groups %}
-        <div class="feature__wrapper">
         {% for plant in group.items %}
                 <div class="feature__item plant card">
                     <div class="archive__item">
-                        <div class="header">
-                            {{plant.type | capitalize }}
-                        </div>
+                        {% for plant_type in site.plant_types %}
+                            {% if plant.type == plant_type.name %}
+                                <div class="header {{plant_type.type_id}}">
+                                    {{plant_type.name | capitalize}} 
+                                 </div>
+                            {% endif %}
+                        {% endfor %}
                         <div class="body">
                             <div class="archive__item-teaser">
                                 <img src='{{plant.icon | prepend: site.baseurl }}' />
@@ -60,8 +64,8 @@
                     </div>
                 </div>
         {% endfor %}
-        </div>
     {% endfor %}
+    </div>
 </div>
 
 

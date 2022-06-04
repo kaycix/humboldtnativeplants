@@ -71,6 +71,7 @@ contact:
     email: "northcoastcnps@gmail.com"
     default_subject: "Nursery Inquiry"
     website: "https://northcoastcnps.org/index.php/nursery/native-plant-nursery"
+    website_name: "https://northcoastcnps.org"
 ---
 {% include feature_row id="intro" type="center" %}
 

@@ -496,43 +496,43 @@ input[type=checkbox]
     width: 30px;
 } 
 
-div.annual_herb {
+div.type_icon.annual_herb {
     background-color: $salmon-color;
     background-image: url("./../images/icons/annual_herb.png");
 }
 
-div.grass {
+div.type_icon.grass {
     background-color: #2d9c42;
     background-image: url("./../images/icons/grass.png");
 }
 
-div.tree {
+div.type_icon.tree {
     background-color: #278c20;
     background-image: url("./../images/icons/tree.png");
 }
 
-div.fern {
+div.type_icon.fern {
     background-color: #236013;
     background-image: url("./../images/icons/fern.png");
 }
 
 
-div.perennial_herb {
+div.type_icon.perennial_herb {
     background-color: #32198a;
     background-image: url("./../images/icons/perennial_herb.png");
 }
 
-div.shrub {
+div.type_icon.shrub {
     background-color: #223c8a;
     background-image: url("./../images/icons/shrub.png");
 }
 
-div.succulent {
+div.type_icon.succulent {
     background-color: #881c3f;
     background-image: url("./../images/icons/succulent.png");
 }
 
-div.vine {
+div.type_icon.vine {
     background-color: #65168a;
     background-image: url("./../images/icons/vine.png");
 }
@@ -637,8 +637,39 @@ table .sun_req div {
 
 .plant.card .header {
     background-color: #EEE;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
     font-size: 0.8rem;
+    font-weight: bold;
     padding: 6px 16px 6px;
+}
+
+.plant.card .header.annual_herb {
+    background-color: #faedea;
+}
+
+.plant.card .header.perennial_herb {
+    background-color: #ede9fb;
+}
+
+.plant.card .header.succulent {
+    background-color: #fbeaef;
+}
+
+.plant.card .header.tree {
+    background-color: #ebfaea;
+}
+
+.plant.card .header.fern {
+    background-color: #edfbea;
+}
+
+.plant.card .header.grass {
+    background-color: #ebf9ee;
+}
+
+.plant.card .header.shrub {
+    background-color: #ebeefa;
 }
 
 .plant.card .body {
