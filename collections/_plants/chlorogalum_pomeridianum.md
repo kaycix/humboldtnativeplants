@@ -30,6 +30,14 @@ icon_attribution:
 icon: "/assets/images/plants/chlorogalum_pomeridianum_icon.jpg"
  
 calscape_link: "https://calscape.org/Chlorogalum-pomeridianum-()"
+
+references:
+    - url: "https://calscape.org/Chlorogalum-pomeridianum-()"
+      title: "Calscape"
+
+gardens: [ 
+    arcata_community_center
+]
 ---
 
 

@@ -5,6 +5,9 @@ name:
     common: "Leather Fern"   
     scientific: "Polypodium scouleri"  
 
+type: "fern"
+native_to: "Humboldt"
+
 sun_requirements:
   - "Full Shade"
   - "Part Shade"
@@ -20,8 +23,9 @@ calscape_link: "https://calscape.org/Polypodium-scouleri-()"
 available: 
   - CNPS
 
-type: "fern"
-native_to: "Humboldt"
+gardens: [ 
+    arcata_community_center
+]
 
 categories: [humboldt_county_native,
        cnps_master_inventory

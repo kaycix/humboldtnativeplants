@@ -30,6 +30,9 @@ references:
     - url: "https://calscape.org/loc-California/Artemisia%20douglasiana(%20)" 
       title: "Calscape"
 
+gardens: [ 
+    arcata_community_center
+]
 
 categories: [
         humboldt_county_native

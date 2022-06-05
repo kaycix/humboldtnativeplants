@@ -33,12 +33,8 @@ icon: "/assets/images/plants/lonicera_hispidula_icon.jpg"
 
 calscape_link: "https://calscape.org/loc-California/Pink%20Honeysuckle%20(Lonicera%20hispidula)"
 
-observations: 
-  - location: "McKinleyville"
-    location_detail: "Azalea Reserve (Surrounding Areas)"
-    last_spotted: "Summer 2021"
-  - location: "Manila"
-    location_detail: "Ma-le'l Dunes"
-    last_spotted: "Winter 2021"
+gardens: [ 
+    arcata_community_center
+]
 ---
 

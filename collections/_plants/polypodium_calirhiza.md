@@ -32,7 +32,8 @@ icon: "/assets/images/plants/polypodium_calirhiza_icon.jpg"
 calscape_link: "https://calscape.org/Polypodium-calirhiza-()"
 
 gardens: [
-    cnps_demo
+    arcata_community_center
+    ,cnps_demo
     ,cnps_demo_riparian
 ]
 

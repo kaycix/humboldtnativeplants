@@ -30,7 +30,8 @@ icon: "/assets/images/plants/tellima_grandiflora_icon.jpg"
 calscape_link: "https://calscape.org/loc-California/Tellima%20grandiflora(%20)"
 
 gardens: [
-    cnps_demo
+    arcata_community_center
+    ,cnps_demo
     ,cnps_demo_redwood
     ,trinidad_museum
     ,trinidad_museum_woodland

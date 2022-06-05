@@ -28,5 +28,9 @@ icon_attribution:
     url  : ""
 icon:  "/assets/images/plants/gilia_tricolor_icon.jpg"
 calscape_link: "https://calscape.org/Gilia-tricolor-(Tricolor-Gilia)"
+
+gardens: [ 
+    arcata_community_center
+]
 ---
 
