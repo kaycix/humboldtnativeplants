@@ -18,8 +18,8 @@
         {% endfor %}
         
         // add plant data object, where key is plant_id
-        plant_data["{{plant.plant_id}}"] = { "common_name" : "{{plant.common_name}}",
-                          "scientific_name" : "{{plant.scientific_name}}",
+        plant_data["{{plant.plant_id}}"] = { "common_name" : "{{plant.name.common}}",
+                          "scientific_name" : "{{plant.name.scientific}}",
                           "id" : "{{plant.plant_id}}",
                           "icon" : "{{plant.icon | prepend:site.baseurl}}",
                           "type" : "{{plant.type}}",

@@ -7,9 +7,8 @@ custom_js:
     - util
     - plant_data_table
 ---
-{% assign plants_folder = site.pages | where_exp: "item" , "item.path contains '/plants/'" %}
 
-{% assign plants_map = plants_folder | group_by:"top_level_category" | sort:"name" %}
+{% assign plant_groups = site.plants | group_by:"type" %}
 
 <h1>Create a Plant List</h1>
 <div id="intense"></div>
@@ -18,7 +17,7 @@ custom_js:
 {% include getPlantData.html %}
 
 {% include plants.html 
-	plants= plants_folder 
+	plant_groups= plant_groups
     show_select = true
 %}
 

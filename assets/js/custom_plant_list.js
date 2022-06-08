@@ -3,7 +3,7 @@ $(function () {
     /** 
         @arg plant_data array of plant objects
      **/
-    
+ 
     // get encoded plant ids from Url, eg '1c4'
     const params = new URLSearchParams(window.location.search); //parse params
     const encoded_plants = params.get("encoded_plants"); //get q param
@@ -13,20 +13,20 @@ $(function () {
     var base64 = Util.base64_url_decode(encoded_plants);
     var plant_ids = Util.bitwise_decode_to_plant_ids(base64);
     console.log("decoded plant ids", plant_ids);
-
+    
      // dynamically build plant html
-     for (var i = 0; i < plant_data.length; i++) {
-        var current_id = parseInt(plant_data[i].id, 10);
+     for (var plant in plant_data) {
+        var current_id = parseInt(plant_data[plant].id, 10);
         
         var index = plant_ids.indexOf(current_id);    
         if (index != -1) {
-            console.log('plant common_name:', plant_data[i].common_name);
+            console.log('plant common_name:', plant_data[plant].common_name);
             var plant_info = "<div class='plant card'>" +
-                                "<img src='" + plant_data[i].icon + "' />" +   
+                                "<img src='" + plant_data[plant].icon + "' />" +   
                                 "<article>" + 
-                                    "<h3>" + plant_data[i].common_name + "</h3>" + 
-                                    "<div class='subtext'>" + plant_data[i].scientific_name + "</div>" +
-                                    "<div>Sun Requirements: " + plant_data[i].sun_requirements +  "</div>" + 
+                                    "<h3>" + plant_data[plant].common_name + "</h3>" + 
+                                    "<div class='subtext'>" + plant_data[plant].scientific_name + "</div>" +
+                                    "<div>Sun Requirements: " + plant_data[plant].sun_requirements +  "</div>" + 
                                 "</article>" + 
                              "<div>";
             $("#custom_plant_list").append(plant_info);

@@ -73,12 +73,12 @@
                 {% if include.show_select %}
                     <td>   
                         <!-- TODO retain state if checkbox is selected? --> 
-                        <input type="checkbox" name="test" value="{{plant.id}}" />
+                        <input type="checkbox" name="plant_id" value="{{plant.plant_id}}" />
                     </td>
                 {% endif %}
                 <td class="name">
                     {% if plant.icon %}
-                        <img src="{{ plant.icon | prepend: site.baseurl }}" alt="{{plant.common_name}}"/>
+                        <img src="{{ plant.icon | prepend: site.baseurl }}" alt="{{plant.name.common}}"/>
                     {% else %}
                         <div class="empty_icon">&nbsp;</div>
                     {% endif %}

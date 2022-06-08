@@ -6,9 +6,8 @@ custom_js:
     - util 
     - custom_plant_list
 ---
-{% assign plants_folder = site.pages | where_exp: "item" , "item.path contains '/plants/'" %}
 
-{% assign plants_map = plants_folder | group_by:"top_level_category" | sort:"name" %}
+{% assign plant_groups = site.plants | group_by:"type" %} 
 
 <input id="list_title" type="text" maxlength="100" placeholder="My Plant List" value="My Plant List" />
 <input type="text" placeholder="Add a brief description" maxlength="140" />
