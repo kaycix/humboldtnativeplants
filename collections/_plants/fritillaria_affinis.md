@@ -3,7 +3,7 @@ plant_id: 130
 
 name: 
     common:  "Checker Lily"   
-    scientific: Fritillaria affinis"   
+    scientific: "Fritillaria affinis"   
 
 type: "perennial herb"
 
