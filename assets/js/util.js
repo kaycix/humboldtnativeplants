@@ -15,16 +15,81 @@ var Util = (function() {
         return parseInt(input, 36);
     }
 
-    // Takes a list of plant ids and returns a string
+
+
+
+    // takes a list of integers and returns a string
+    Util.base64_url_encode_improved = function(list) {
+       var encodedData = ""
+
+       for (let i=0; i < list.length; i++) {
+          if (i > 0) {
+             encodedData = encodedData + ","
+          }
+          if (list[i]) {
+             encodedData = encodedData + list[i].toString(36);
+          }
+       }
+
+       return(encodedData); 
+        //.replace('+','.').replace('/','_').replace('=', '-'));
+    };
+
+    // takes a string and returns a list of integers 
+    Util.base64_url_decode_improved = function(input) {
+        //var processedString = input.replace('.','+').replace('_','/').replace('-','='); 
+
+        var decodedData = [];
+        var list = input.split(',');
+        for (let i=0; i < list.length; i++) {
+           decodedData[i] = parseInt(list[i], 36);
+        }
+
+        return decodedData;
+    }
+
+
+
+
+    // Takes a list of plant ids and returns a list of integers (bitflags)
+    Util.bitwise_encode_from_plant_ids_improved = function(list) {
+
+       // used for multiple 32-bit integer bitflags
+       output = [];
+
+       for (let i=0; i < list.length; i++) {
+          var quotient = Math.floor(list[i] / 32);
+          var remainder = list[i] % 32;
+
+          output[quotient] = output[quotient] | (1 << remainder);
+       }
+       return output 
+    };
+
+    Util.bitwise_decode_to_plant_ids_improved = function(input) {
+       output = [];
+
+       for (let multiple=0; multiple < input.length; multiple++) {
+          for (let i = 0; i < 32; i++) {
+             if ( (input[multiple] >> i) & 1 ) {
+                output.push(multiple*32 + i);
+             }
+          }
+       }
+       return output;
+    };
+
+
+    // Takes a list of plant ids and returns an integer (bitflag)
     Util.bitwise_encode_from_plant_ids = function(list) {
-       output=0; 
+       output=0;
        for (let i=0; i < list.length; i++) {
           output = output | (1 << list[i]);
        }
        return output 
     };
     
-    // Takes a string and returns a list of plant ids
+    // Takes a integer (bitflag) and returns a list of plant ids
     Util.bitwise_decode_to_plant_ids = function(input) {
        list = []
        for (let i = 0; i < 32; i++) {
@@ -33,6 +98,37 @@ var Util = (function() {
           }
        }
        return list
+    };
+
+    Util.testEncode = function () {
+        var plant_ids = [4, 25];
+        console.log("Encode and Decode with plant_ids:", plant_ids);
+        
+        var bitwise_encoding =  Util.bitwise_encode_from_plant_ids(plant_ids);
+        console.log("bitwise encoding", bitwise_encoding);
+        var encoded_plants = Util.base64_url_encode(bitwise_encoding);
+        console.log("encoded url", encoded_plants);
+
+        var base64 = Util.base64_url_decode(encoded_plants);
+        console.log("decoded url", base64);
+        var plant_ids = Util.bitwise_decode_to_plant_ids(base64);
+        console.log("decoded plant ids", plant_ids);
+
+        
+        var plant_ids_improved = [270, 4, 25, 32, 33, 42, 63, 72];
+        console.log("Improved: Encode and Decode with plant_ids:", plant_ids_improved);
+
+        var bitwise_encoding_improved =  Util.bitwise_encode_from_plant_ids_improved(plant_ids_improved);
+        var base64_encoding_improved = Util.base64_url_encode_improved(bitwise_encoding_improved);
+
+        console.log("Improved: base64 encoding of plant ids: ", base64_encoding_improved);
+
+        var base64_decoding_improved = Util.base64_url_decode_improved(base64_encoding_improved);
+        var plant_ids_decoded = Util.bitwise_decode_to_plant_ids_improved(base64_decoding_improved);
+
+        console.log("Improved: decoded base64 plant ids", plant_ids_decoded );
+        
+ 
     };
 
     // 
