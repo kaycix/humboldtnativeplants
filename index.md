@@ -15,6 +15,7 @@ header:
          - label: "Learn More"
            url: /intro
     excerpt: Native plants are beautiful, easy to grow, and provide a critical foundation for our local ecosystem. 
+seo_title: Humboldt Native Plants is your guide to finding beautiful and ecologically-important native plants for your yard. Help our planet today by planting native.
 
 browse_plants:
   - image_path: /assets/images/currant_small_feature_item.jpg 

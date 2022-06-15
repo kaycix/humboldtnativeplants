@@ -18,7 +18,7 @@ local_nurseries:
     url: "https://www.samararestoration.com/nursery/" 
     btn_label: "See Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/lost_foods_nursery.jpg 
+  - image_path: /assets/images/lost_foods/display_feature_item.jpg 
     alt: "Lost Foods Nursery" 
     title: "Lost Foods Nursery"
     excerpt: "3750 Harris Street, Gate 3<br/>Eureka, CA 95503. <br/><br/>Open Tu, Th, Sat afternoons." 
