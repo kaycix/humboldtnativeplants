@@ -67,6 +67,8 @@ contact:
     email: "luke@composttealab.com"
     youtube: "https://www.youtube.com/channel/UChS5TA7TuYKTJj_zHEsOw8g"
     youtube_name: "Adventures in Agriculture"
+    instagram: "https://www.instagram.com/adventures_in_ag/"
+    instagram_name: "@adventures_in_ag"
 ---
 {% include feature_row %}
 

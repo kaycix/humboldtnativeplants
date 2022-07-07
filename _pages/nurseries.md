@@ -38,12 +38,12 @@ local_vendors:
     title: "Wild Radish Farm Stand"
     excerpt: "Located at Freshwaters Farm Reserve in Eureka."
     url: "/nursery/wild-radish" 
-    btn_label: "See More"
+    btn_label: "More Information"
     btn_class: "btn--primary"
   - image_path: /assets/images/beresford_bulbs/iris.jpg 
     alt: "Beresford Bulbs" 
     title: "Beresford Bulbs"
-    excerpt: "Email <a href='mailto:northcoastcnps@gmail.com?subject=Beresford Bulbs Inquiry'>northcoastcnps@gmail.com</a> for more information."
+    excerpt: "Available at <a href='/nursery/northcoast-cnps'>CNPS Nursery</a> seasonal sales. <a href='mailto:northcoastcnps@gmail.com?subject=Beresford Bulbs Inquiry'>Email</a> for more information."
     url: "/category/beresford-bulbs-spring2022-inventory" 
     btn_label: "Browse Inventory"
     btn_class: "btn--primary"
@@ -86,7 +86,6 @@ These native plant nurseries carry hundreds of species of regional native plants
 <h2><a id="local_vendors">Local Native Plant Vendors</a></h2>
 
 <p>
-These vendors can be found at the Fall and Spring North Coast CNPS Nursery Sales. Contact them directly for inventory inquiries and purchasing information. 
 </p>
 {% include feature_row id="local_vendors" %}
 

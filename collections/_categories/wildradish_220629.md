@@ -14,7 +14,7 @@ header:
 tagline: "at the <a href='/nursery/wild-radish'>Wild Radish Farm Stand</a>"
 
 intro: 
-    - excerpt: "This is a list of plants currently available at the native plant stand at Wild Radish Farm Stand. Browse below or view the <a href='https://docs.google.com/spreadsheets/d/1TqizcEdsrBXeTRXbwR5ea8HT0gyPpdzM/edit#gid=1324451350' target='_blank'>spreadsheet</a> here. Last Updated: June 29, 2022."
+    - excerpt: "This is a list of plants currently available. Browse below or view the <a href='https://docs.google.com/spreadsheets/d/1TqizcEdsrBXeTRXbwR5ea8HT0gyPpdzM/edit#gid=1324451350' target='_blank'>Google spreadsheet</a>. Last Updated: July 6, 2022."
 
 ---
 
