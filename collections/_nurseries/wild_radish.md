@@ -58,11 +58,15 @@ feature_row:
   - image_path: /assets/images/wild_radish/native_plant_stand.jpg
     alt: "Native Plants"
     title: "Native Plants"
-    excerpt: "The farm stand carries a selection of native plants grown at the adjacent <a href='/nursery/northcoast-cnps'>North Coast CNPS Nusery</a>."
+    excerpt: "The farm stand carries a selection of native plants grown at the neighboring <a href='/nursery/northcoast-cnps'>North Coast CNPS Nusery</a> Click below to browse native plants available at the farm stand."
     url: "/category/wildradish-220629"
     btn_label: "Browse Plants"
     btn_class: "btn--primary"
 
+contact: 
+    email: "luke@composttealab.com"
+    youtube: "https://www.youtube.com/channel/UChS5TA7TuYKTJj_zHEsOw8g"
+    youtube_name: "Adventures in Agriculture"
 ---
 {% include feature_row %}
 
@@ -70,6 +74,7 @@ feature_row:
     address= page.address
     hours=page.hours
     hours_text=page.hours_text
+    contact= page.contact
 %}
 
 

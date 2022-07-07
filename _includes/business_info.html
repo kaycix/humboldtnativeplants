@@ -50,11 +50,15 @@
             Website: <a href="{{include.contact.website}}" target="_blank">{{include.contact.website_name}}</a>
             <br/>
         {% endif %}
+        {% if include.contact.instagram %}
+            Instagram: <a href="{{include.contact.instagram}}" target="_blank">{{include.contact.instagram}}</a>
+            <br/>
+        {% endif %}
+        {% if include.contact.youtube %}
+            YouTube: <a href="{{include.contact.youtube}}" target="_blank">{{include.contact.youtube_name}}</a>
+            <br/>
+        {% endif %}
     </div>
     {% endif %}
 </section>
 <div style="clear:both"></div>
-
-
-
-
