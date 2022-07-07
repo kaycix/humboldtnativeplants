@@ -33,6 +33,13 @@ local_nurseries:
     btn_label: "See Website"
     btn_class: "btn--primary"
 local_vendors:
+  - image_path: /assets/images/wild_radish/farm_stand_feature_item.jpg 
+    alt: "Wild Radish Farm Stand" 
+    title: "Wild Radish Farm Stand"
+    excerpt: "Located at Freshwaters Farm Reserve in Eureka."
+    url: "/nursery/wild-radish" 
+    btn_label: "See More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/beresford_bulbs/iris.jpg 
     alt: "Beresford Bulbs" 
     title: "Beresford Bulbs"
