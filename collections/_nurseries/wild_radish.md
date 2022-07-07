@@ -13,7 +13,7 @@ location: Eureka
 
 garden_tag_name: ""
 
-tagline: "View on <a href='https://www.instagram.com/adventures_in_ag/' target='_blank'>Instagram</a>"
+tagline: "Located at Freshwater Farms Reserve in Eureka, CA" #View on <a href='https://www.instagram.com/adventures_in_ag/' target='_blank'>Instagram</a>"
 
 website: 
     name: "Wild Radish Farm Stand"
@@ -55,12 +55,12 @@ hours_text: "Expanded hours coming soon!"
 phone: ""
 
 feature_row:
-  - image_path: /assets/images/cnps/nursery_brian_7.jpg
+  - image_path: /assets/images/wild_radish/native_plant_stand.jpg
     alt: "Native Plants"
     title: "Native Plants"
-    excerpt: "The farm stand carries a curated selection of native plants grown at the adjacent North Coast CNPS Native Plant Nusery."
+    excerpt: "The farm stand carries a selection of native plants grown at the adjacent <a href='/nursery/northcoast-cnps'>North Coast CNPS Nusery</a>."
     url: "/category/wildradish-220629"
-    btn_label: "Browse Inventory"
+    btn_label: "Browse Plants"
     btn_class: "btn--primary"
 
 ---

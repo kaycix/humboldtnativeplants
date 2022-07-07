@@ -923,3 +923,7 @@ nav.pagination {
     color: #FFF;
     background-color: $indigo-color;
 }
+
+.standalone-page .masthead {
+    display: none;
+}

@@ -12,7 +12,7 @@ header:
 tagline: "California Native Plant Society, North Coast Chapter: <a href='https://northcoastcnps.org'>See Website</a>"
 
 intro: 
-    - excerpt: "This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery additionally hosts two seasonal sales a year in the Fall and Spring in which hundreds of Humboldt County native and California native plants are offered."
+    - excerpt: "This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery hosts two seasonal sales a year in the Fall and Spring in which hundreds of Humboldt County native and California native plants are offered. A smaller selection of their native plants can be found year-round at the neighboring <a href='/nursery/wild-radish'>Wild Radish Farm Stand</a>."
 
 location: Eureka
 
