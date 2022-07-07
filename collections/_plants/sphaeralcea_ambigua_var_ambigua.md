@@ -31,9 +31,9 @@ plant_size:
     - 3.3
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon: ""
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=mg48719"
+icon: "/assets/images/plants/sphaeralcea_ambigua_v_ambigua_icon.jpg"
  
 calscape_link: "https://calscape.org/Sphaeralcea-ambigua-var.-ambigua-(Mountain-Apricot-Mallow)"
 
