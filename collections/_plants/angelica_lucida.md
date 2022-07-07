@@ -18,6 +18,9 @@ categories: [humboldt_county_native
         
         #wildlife
         ,butterfly
+        
+        #habitat
+        ,habitat_coastal
       ]
 
 sun_requirements:
@@ -44,18 +47,4 @@ gardens: [
     trinidad_museum
     ,trinidad_museum_coastal
         ]
-
-categories: [
-        humboldt_county_native
-        
-        # inventory
-        ,cnps_master_inventory
-        ,cnps_2022_spring
-        
-        # wildlife
-        ,butterfly
-    
-        #habitat
-        ,habitat_coastal
-      ]
 ---
