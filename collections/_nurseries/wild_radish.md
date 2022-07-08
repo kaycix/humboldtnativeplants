@@ -58,7 +58,7 @@ feature_row:
   - image_path: /assets/images/wild_radish/native_plant_stand.jpg
     alt: "Native Plants"
     title: "Native Plants"
-    excerpt: "The farm stand carries a selection of native plants grown at the neighboring <a href='/nursery/northcoast-cnps'>North Coast CNPS Nusery</a> Click below to browse native plants available at the farm stand."
+    excerpt: "The farm stand carries a selection of native plants grown at the neighboring <a href='/nursery/northcoast-cnps'>North Coast CNPS Nursery</a> Click below to browse the list of native plants currently available at the farm stand."
     url: "/category/wildradish-220629"
     btn_label: "Browse Plants"
     btn_class: "btn--primary"
