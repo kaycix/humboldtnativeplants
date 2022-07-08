@@ -12,7 +12,7 @@ categories: [
 
         # inventory
         cnps_master_inventory
-        ,wildradish_220629
+        ,wildradish
         
         # wildlife
         ,butterfly

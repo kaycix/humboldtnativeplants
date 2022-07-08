@@ -43,7 +43,7 @@ categories: [
         ,inventory_cnps_2022_05
         ,cnps_master_inventory
         ,cnps_2022_spring
-        ,wildradish_220629
+        ,wildradish
         
         # wildlife
         ,butterfly

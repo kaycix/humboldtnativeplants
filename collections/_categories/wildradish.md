@@ -4,7 +4,7 @@ layout: category
 # HACK other classes weren't being inherited so explicitly listing them out
 classes: standalone-page layout--splash category-page wide
 
-category_tag_name: "wildradish_220629"
+category_tag_name: "wildradish"
 
 header:
  overlay_color: "#000"

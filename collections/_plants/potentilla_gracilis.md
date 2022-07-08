@@ -14,7 +14,7 @@ categories: [humboldt_county_native
         ,inventory_cnps_2022_05
         ,cnps_master_inventory
         ,cnps_2022_winter
-        ,wildradish_220629
+        ,wildradish
       ]
 
 sun_requirements:

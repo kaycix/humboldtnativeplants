@@ -14,7 +14,7 @@ categories: [humboldt_county_native
         #inventory 
         ,inventory_cnps_2022_05
         ,cnps_master_inventory
-        ,wildradish_220629
+        ,wildradish
         
         ,butterfly
         ,bee
