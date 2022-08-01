@@ -42,15 +42,7 @@ address:
     line2: "Eureka, CA 95503" 
     map: "https://goo.gl/maps/RQ6yCXjFfFrzVMdU8"
 
-hours:
-    - day: "Wed"
-      time: " 1:00 p.m. - 6 p.m."
-    - day: "Th"
-      time: " 1:00 p.m. - 6 p.m."
-    - day: "Fri"
-      time: " 1:00 p.m. - 6 p.m."
-
-hours_text: "Expanded hours coming soon!"
+hours_text: "Please email for current hours."
 
 phone: ""
 
