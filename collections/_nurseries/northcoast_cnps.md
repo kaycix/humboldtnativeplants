@@ -9,7 +9,7 @@ header:
  overlay_filter: "0.5"
  overlay_image: /assets/images/cnps_nursery.jpg
 
-tagline: "California Native Plant Society, North Coast Chapter: <a href='https://northcoastcnps.org'>See Website</a>"
+tagline: "California Native Plant Society, North Coast Chapter"
 
 intro: 
     - excerpt: "This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery hosts two seasonal sales a year in the Fall and Spring in which hundreds of Humboldt County native and California native plants are offered." 
