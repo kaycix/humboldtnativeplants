@@ -33,9 +33,13 @@ feature_row:
     url: "/garden/arcata-community-center"
     btn_label: "See Details"
     btn_class: "btn--primary"
-#  - image_path: /assets/images/icons/coming-soon.jpg
-#    alt: "Sue-meg State Park"
-#    title: "Sue-meg State Park"
+  - image_path: /assets/images/suemeg/picnic.jpeg
+    alt: "Sue-meg State Park"
+    title: "Sue-meg State Park"
+    excerpt: "Located beside a reconstructed Yurok village, strolling through this native plant garden feels a bit like discovering a secret garden with its sprawling and somewhat overgrown vegetation."
+    url: "/garden/suemeg"
+    btn_label: "See Details"
+    btn_class: "btn--primary"
 #  - image_path: /assets/images/icons/coming-soon.jpg
 #    alt: "Humboldt Botanical Garden"
 #    title: "Humboldt Botanical Garden"
