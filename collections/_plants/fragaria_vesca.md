@@ -33,6 +33,10 @@ icon_attribution:
 icon: "/assets/images/plants/fragaria_vesca_icon.jpg"
  
 calscape_link: "https://calscape.org/loc-California/Fragaria%20vesca(%20)"
+
+gardens: [ 
+    suemeg 
+]
 ---
 
 

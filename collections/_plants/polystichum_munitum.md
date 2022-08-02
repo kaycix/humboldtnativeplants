@@ -32,6 +32,7 @@ references:
 gardens: [ 
     cnps_demo
     ,cnps_demo_riparian
+    ,suemeg
     ,trinidad_museum
     ,trinidad_museum_woodland
 ]

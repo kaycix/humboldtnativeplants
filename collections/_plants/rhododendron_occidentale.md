@@ -31,6 +31,7 @@ gardens: [
     arcata_marsh
     ,cnps_demo
     ,cnps_demo_redwood
+    ,suemeg
     ,trinidad_museum
     ,trinidad_museum_coastal
         ]

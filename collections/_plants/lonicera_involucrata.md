@@ -45,7 +45,8 @@ observations:
     last_spotted: "Summer 2021"
 
 gardens: [ 
-    trinidad_museum
+    suemeg
+    ,trinidad_museum
     ,trinidad_museum_coastal
         ]
 ---

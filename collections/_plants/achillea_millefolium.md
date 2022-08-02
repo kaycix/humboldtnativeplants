@@ -45,6 +45,7 @@ gardens: [
     arcata_community_center
     ,cnps_demo
     ,cnps_demo_grassland
+    ,suemeg
     ,trinidad_museum
     ,trinidad_museum_meadow
 ]

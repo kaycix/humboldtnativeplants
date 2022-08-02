@@ -39,6 +39,7 @@ calscape_link: "https://calscape.org/loc-California/Viola%20sempervirens(%20)"
 gardens: [
         cnps_demo
         ,cnps_demo_redwood
+        ,suemeg
         ,trinidad_museum
         ,trinidad_museum_woodland
         ]

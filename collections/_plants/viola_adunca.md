@@ -33,5 +33,6 @@ calscape_link: "https://calscape.org/Viola-adunca-(Dog-Violet)"
 gardens: [
     cnps_demo
     ,cnps_demo_redwood
+    ,suemeg
         ]
 ---
