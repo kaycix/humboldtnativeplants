@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/trinidad_museum/garden_pond_small.jpeg
     alt: "Trindad Museum Garden"
     title: "Trinidad Museum Garden"
-    excerpt: "The Trinidad Museum garden feels like a love song. This sweet haven includes a small pond, bee hotel and meandering paths."
+    excerpt: "The Trinidad Museum garden feels like a native plant love song. This sweet haven includes a small pond, bee hotel and meandering paths."
     url: "/garden/trinidad-museum"
     btn_label: "See Details"
     btn_class: "btn--primary"

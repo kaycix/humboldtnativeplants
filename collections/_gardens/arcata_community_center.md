@@ -32,10 +32,6 @@ gallery:
 garden_tag_name: "arcata_community_center"
 
 type: "demo"
-
-website: 
-    name: "Friends of the Arcata Marsh"
-    url: "https://www.arcatamarshfriends.org/amic-native-plant-garden/" 
 ---
 {% include feature_row id="intro" type="center" %}
 
