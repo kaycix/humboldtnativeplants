@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/trinidad_museum/garden_pond_small.jpeg
     alt: "Trindad Museum Garden"
     title: "Trinidad Museum Garden"
-    excerpt: "The Trinidad Museum garden includes a small pond, bee hotel and meandering paths."
+    excerpt: "The Trinidad Museum garden feels like a love song. This sweet haven includes a small pond, bee hotel and meandering paths."
     url: "/garden/trinidad-museum"
     btn_label: "See Details"
     btn_class: "btn--primary"
@@ -36,7 +36,7 @@ feature_row:
   - image_path: /assets/images/suemeg/picnic.jpeg
     alt: "Sue-meg State Park"
     title: "Sue-meg State Park"
-    excerpt: "Located beside a reconstructed Yurok village, strolling through this native plant garden feels a bit like discovering a secret garden with its sprawling and somewhat overgrown vegetation."
+    excerpt: "Strolling through this native plant garden feels a bit like discovering a secret garden with its lush, sprawling vegetation. Located beside a reconstructed Yurok village."
     url: "/garden/suemeg"
     btn_label: "See Details"
     btn_class: "btn--primary"

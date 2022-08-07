@@ -11,7 +11,7 @@ header:
 tagline: "Located at <a target='_blank' href=''>Sue-Meg State Park</a>" #Note: excerpt is printed twice unless tagline is specified
 
 intro: 
-    - excerpt: "Located beside a reconstructed Yurok village, strolling through this native plant garden feels a bit like discovering a secret garden with its sprawling and somewhat overgrown vegetation. Multiple walking paths meander through lush shaded walkways and past secluded sitting areas."
+    - excerpt: "Strolling through this native plant garden feels a bit like discovering a secret garden with its lush, sprawlingvegetation. Multiple walking paths meander through lush shaded walkways and past secluded sitting areas. Borders a reconstructed Yurok village for a complete time capsule effect."
 
 
 icon: ""
@@ -52,3 +52,8 @@ type: "demo"
 
 {% include gallery caption="" %}
 
+{% include plants_by_garden_category.html 
+           garden = page.garden_tag_name %}
+
+
+<!-- plant list: cow parsnip, wild cucumber (marah oreganus), rewood(sequoia sempervirens) -->
