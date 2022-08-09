@@ -8,7 +8,7 @@ title                    : "Humboldt Native Plants"
 name                     : "Humboldt Native Plants"
 #baseurl                  : /humboldtnativeplants
 include                  : ["_pages"]
-logo                     : "/assets/images/leaf-icon.png"
+logo                     : "/assets/images/logo/leaf-icon.png"
 collections_dir          : "collections"
 collections              : 
     plant_types:
@@ -60,6 +60,25 @@ defaults:
      classes: volunteer-page wide
      title: ""
      layout: splash
+footer:
+  links:
+    - label: "About Us"
+      icon: "fab fa-fw"
+      url: "/about"
+    - label: "Gardens"
+      icon: "fab"
+      url: "/gardens"
+    - label: "Nurseries"
+      icon: "fab fa-fw"
+      url: "/nurseries"
+    - label: "Volunteer Opportunities"
+      icon: "fab fa-fw"
+      url: "/connection/volunteer"
+    - label: "Powered by GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kaycix/humboldtnativeplants"
+atom_feed:
+  hide: true
 after_footer_scripts     : 
     - https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
     - https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js

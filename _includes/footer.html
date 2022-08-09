@@ -1,5 +1,8 @@
 <div class="page__footer-follow">
-  <!-- <ul class="social-icons">
+  <ul class="social-icons">
+    <li>
+    <img src="{{ '/assets/images/logo/leaf-icon-bw.png' | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
+    </li>
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
@@ -15,25 +18,7 @@
     {% unless site.atom_feed.hide %}
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
-  </ul> -->
-</div>
-
-<div>
-    <img src="{{ '/assets/images/logo/leaf-icon-bw.png' | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
-    <ul>
-        <li>
-            <a href="/about">About HNP</a>
-        </li>
-        <li>
-            <a href="/gardens">Gardens</a>
-        </li>
-        <li>
-            <a href="/nurseries">Nurseries</a>
-        </li>
-        <li>
-            <a href="/connection/volunteer">Conservation</a>
-        </li>
-    </ul>
+  </ul>
 </div>
 <br/>
 <br/>
