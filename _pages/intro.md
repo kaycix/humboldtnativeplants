@@ -39,7 +39,7 @@ The iconic redwood tree is a prime example of a Humboldt County native plant. Re
     </p>
     <h4>Ready to Get Started?</h4>
     <p>
-        Here are a few things you can do to get started planting native today: 
+        No matter what size your planting area is, it can have a positive effect on this planet! Here are a few things you can do to get started planting native today.  
         <ol style="list-style-type:disc">
             <li>
                 Read a book about native plants. Our local libraries carry several. Request one today!  
