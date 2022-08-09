@@ -2,12 +2,10 @@
 layout: single                                                            
 permalink: /intro
 
-title: "Learn More About Native Plants"
+title: "Getting Started with Native Plants"
 classes: wide 
 ---
 <div class="content" id="learn_more">
-    <!--from one Humboldt County resident to another-->
-
     <figure class="right">
         <img class="redwood" src="{{'/assets/images/redwood_pixabay.jpg' | prepend:site.baseurl}}" />
         <figcaption>Redwood by PixaBay</figcaption>
@@ -19,7 +17,7 @@ classes: wide
     <p>
 The iconic redwood tree is a prime example of a Humboldt County native plant. Redwood trees have evolved specifically for the soil, climate and wildlife of this specific region. The only place in the world that redwood trees grow naturally is along the coast of California and southern Oregon. But the redwood is only one of hundreds of species of native plants found in Humboldt County.
     </p>
-    <h4>Ecological Benefits of native plants.</h4>
+    <h4>Ecological Benefits</h4>
     <!--
     <figure class="right">
         <img class="butterfly" src="{{'/assets/images/butterfly_painted_lady_pixabay_sm.jpg' | prepend:site.baseurl}}" />
@@ -27,18 +25,43 @@ The iconic redwood tree is a prime example of a Humboldt County native plant. Re
     </figure>
     -->
     <p>
-    Many of us have heard of Monarch Butterflies and their dependency on milkweed as their host plant. However, most insects, not just Monarchs,  depend on a narrow range of plants for their survival. These insects can simply not substitute in non-native plants for their needs. They have evolved together for thousands of years.
+    Many of us have heard of Monarch Butterflies and their reliancy on milkweed as their host plant. However, most insects, not just Monarchs,  depend on a narrow range of plants for their survival. These insects cannot substitute in non-native plants for their needs. They have evolved together for thousands of years and depend on this symbiosis.
     </p>
     <p>
-    Planting native plants provides critical forage for our insects, which in turn provides food for birds and other wildlife that depends on them.
-    Supporting our local ecosystem can be as easy as planting a strip of native plants alongside your lawn or garden.    
+    Traditional lawns and popular non-native species simply cannot provide this foundation that our ecosystem needs. Planting native plants provides critical forage for our insects, which in turn provides food for birds and other wildlife that depend on them.
     </p>
     <h4>Ideal for Landscaping</h4>
     <p>
-    Native plants are naturally adapted to this region and often require less  maintanence. Native plants often need no water once established. There is also no need for the soil amendments, pesticides, herbicides that abound in traditional lawns and gardens.
+    Native plants are naturally adapted to this region, having evolved to local weather patterns and soil conditions. Native plants often need no water once established. There is also no need for the soil amendments, pesticides, and herbicides that abound in traditional lawns and gardens.
     </p>
     <p>
         Here in Humboldt, there are so many beautiful and varied native plants to choose from. Beach strawberry can be a fun no-mow lawn replacement that is also an important plant for moths and butterflies. The evergreen wax myrtle shrub forms an effective privacy hedge, and the fruit is valuable food for birds. Planting native plants does not have to compromise your landscaping needs. 
+    </p>
+    <h4>Ready to Get Started?</h4>
+    <p>
+        Here are a few things you can do to get started planting native today: 
+        <ol style="list-style-type:disc">
+            <li>
+                Read a book about native plants. Our local libraries carry several. Request one today!  
+            </li>
+            <li>
+                Have a smartphone? Arm yourself with an app like iNaturalist or Seek and start familiarizing yourself with the plants around you.
+            </li>
+            <li>
+               Replace some mindless Youtube videos with one on native plants. We recommend Tallamy to get started! 
+            </li>
+            <li>
+                Visit a native plant garden or nursery today for ideas!
+            </li>
+            <li>
+                Start planning how to incorporate natives into your landscaping next Fall or Spring. If you have a landscaper at your home or business, let them know you're interested in planting natives. 
+            </li>
+            <li>
+                Schedule a free native plant consultation, provided by the North Coast Native Plant Society. Email them today!
+            </li>
+        </ol> 
+    </p>
+    <p>
         <figure class="ceanothus left">
             <img class="ceanothus" src="{{'/assets/images/ceanothus_bee_pixabay_sm.jpg' | prepend:site.baseurl}}" />
             <figcaption>Ceanothus by Pixabay</figcaption>
