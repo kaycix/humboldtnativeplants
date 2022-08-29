@@ -47,10 +47,4 @@ gardens: [
     ,trinidad_museum
     ,trinidad_museum_woodland
 ]
-
-habitat: 
-    - name: woodland
-      source: 
-        - url : "https://www.calflora.org/app/taxon?crn=2711"
-          title: "Calflora"
 ---

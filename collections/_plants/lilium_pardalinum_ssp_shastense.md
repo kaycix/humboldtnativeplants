@@ -10,6 +10,7 @@ native_to: "CA"
 categories: [
         beresford_bulbs_spring2022_inventory
         ,cnps_master_inventory 
+        ,cnps_2022_fall
         ,cnps_2022_spring
         ,butterfly
         ,bird
