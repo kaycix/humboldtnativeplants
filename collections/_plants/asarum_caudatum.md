@@ -42,6 +42,7 @@ categories: [
         # inventory
         ,cnps_master_inventory
         ,cnps_2022_spring
+        ,cnps_2022_fall
         ,inventory_cnps_2022_05
         
         #landscaping
