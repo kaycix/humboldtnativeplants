@@ -13,6 +13,7 @@ categories: [
         inventory_cnps_2022_05
         ,cnps_master_inventory
         ,cnps_2022_spring
+        ,cnps_2022_fall
        
          ,butterfly
         ,bee

@@ -10,6 +10,7 @@ native_to: "Humboldt"
 
 categories: [
         beresford_bulbs_spring2022_inventory
+        ,cnps_2022_fall
         ,cnps_master_inventory
         ,humboldt_county_native
       ]

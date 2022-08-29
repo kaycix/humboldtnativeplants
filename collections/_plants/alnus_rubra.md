@@ -40,6 +40,7 @@ categories: [humboldt_county_native
         #inventory 
         ,inventory_cnps_2022_05
         ,cnps_master_inventory
+        ,cnps_2022_fall
         ,cnps_2022_spring
         ,robert_vogt_spring2022_inventory
         

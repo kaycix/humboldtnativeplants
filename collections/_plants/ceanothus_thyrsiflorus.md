@@ -9,16 +9,6 @@ type: "shrub"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
-       ,cnps_master_inventory
-        ,cnps_2022_spring
-       ,hedge
-        ,butterfly
-        ,bee
-        ,bird
-        ,beginner
-      ]
-
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -48,6 +38,7 @@ categories: [humboldt_county_native
 
         #inventory
        ,cnps_master_inventory
+        ,cnps_2022_fall
        ,cnps_2022_spring
         
         #landscaping

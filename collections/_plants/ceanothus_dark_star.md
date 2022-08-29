@@ -10,8 +10,9 @@ type: "shrub"
 native_to: ""
 
 
-categories: [cnps_master_inventory,
-             cultivar
+categories: [cnps_master_inventory
+            ,cultivar
+            ,cnps_2022_fall
       ]
 
 sun_requirements:

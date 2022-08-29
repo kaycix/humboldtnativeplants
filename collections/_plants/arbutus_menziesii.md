@@ -10,8 +10,9 @@ type: "tree"
 native_to: "Humboldt"
 
 categories: [
-       humboldt_county_native,
-       cnps_master_inventory
+       humboldt_county_native
+       ,cnps_2022_fall
+       ,cnps_master_inventory
       ]
 
 sun_requirements:

@@ -42,6 +42,7 @@ categories: [humboldt_county_native
         ,cnps_master_inventory
         ,cnps_2022_spring
         ,inventory_cnps_2022_05
+        ,cnps_2022_fall
         
         # wildlife
         ,butterfly

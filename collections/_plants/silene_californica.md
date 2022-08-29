@@ -44,6 +44,7 @@ gardens: [
 categories: [humboldt_county_native
         ,cnps_master_inventory
         ,cnps_2022_spring
+        ,cnps_2022_fall
         ,butterfly
          
         #landscaping

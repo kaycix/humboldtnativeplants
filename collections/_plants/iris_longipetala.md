@@ -14,6 +14,7 @@ categories: [
         
         #inventory 
         ,inventory_cnps_2022_05
+        ,cnps_2022_fall
        ,cnps_master_inventory
 
         ,butterfly

@@ -12,6 +12,7 @@ native_to: "Humboldt"
 categories: [humboldt_county_native
         
         #inventory 
+        ,cnps_2022_fall
         ,inventory_cnps_2022_05
         ,cnps_master_inventory
         ,robert_vogt_spring2022_inventory

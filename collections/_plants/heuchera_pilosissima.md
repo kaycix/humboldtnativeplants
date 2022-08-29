@@ -9,8 +9,9 @@ type: "perennial herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native,
-       cnps_master_inventory
+categories: [humboldt_county_native
+            ,cnps_2022_fall
+            ,cnps_master_inventory
       ]
 
 sun_requirements:
