@@ -15,6 +15,10 @@ categories: [cnps_master_inventory
       
             ,butterfly
             ,bird
+        
+        #habitat
+        ,habitat_woodland
+        ,habitat_meadow
     ]
 
 sun_requirements:
@@ -26,10 +30,14 @@ plant_size:
     - 35
     - 66
 
+bloom_calendar: 
+    - 2 #feb
+    - 3 #march
+
 icon_attribution: 
     name: "Calscape"
-    url: ""
-icon: ""
+    url: "https://calscape.org/photos/42?srchcr=sc630d7037ebc66"
+icon: "/assets/images/plants/acer_negundo_icon.jpg"
 
 calscape_link: "https://calscape.org/Acer-negundo-(Box-Elder)"
 ---

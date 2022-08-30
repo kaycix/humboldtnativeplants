@@ -26,9 +26,9 @@ plant_size:
     - 7
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon:  ""
+    name: "Calscape"
+    url: "https://calscape.org/photos/1488?srchcr=sc630d718d4d9e3"
+icon:  "/assets/images/plants/eriogonum_arborescens_icon.jpg"
 
 calscape_link: "https://calscape.org/Eriogonum-arborescens-(Santa-Cruz-Island-Buckwheat)"
 

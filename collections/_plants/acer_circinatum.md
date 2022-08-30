@@ -27,8 +27,8 @@ plant_size:
 
 icon_attribution: 
     name: "Calscape"
-    url: ""
-icon: ""
+    url: "https://calscape.org/photos/36?srchcr=sc630d6f115425d"
+icon: "/assets/images/plants/acer_circinatum_icon.jpg"
 
 calscape_link: "https://calscape.org/Acer-circinatum-()"
 ---

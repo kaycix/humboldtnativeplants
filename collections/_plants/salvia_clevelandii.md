@@ -16,7 +16,10 @@ categories: [cnps_master_inventory
             ,butterfly
             ,bird
             ,hummingbird
-      ]
+
+            ,habitat_chaparral
+            ,erosion_control
+       ]
 
 sun_requirements:
   - "Full Sun"
@@ -29,8 +32,8 @@ plant_size:
 
 icon_attribution: 
     name: "Calscape"
-    url: ""
-icon: ""
+    url: "https://calscape.org/photos/3358?srchcr=sc630d6dede551c"
+icon: "/assets/images/plants/salvia_clevelandii_icon.jpg" 
 
 calscape_link: "https://calscape.org/Salvia-clevelandii-(Cleveland-Sage)"
 ---
