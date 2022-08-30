@@ -14,7 +14,9 @@ categories: [
         ,cnps_2022_fall
         
         ,bird
-        ,butterfly  
+        ,butterfly 
+
+        ,habitat_riparian 
     ]
 
 sun_requirements:
@@ -25,9 +27,9 @@ plant_size:
     - 5
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon:  ""
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po193422"
+icon:  "/assets/images/plants/sidalcea_oregana_ssp_spicata_icon.jpg"
 
 calscape_link: "https://calscape.org/Sidalcea-oregana-ssp.-spicata-(Spicate-Checker-Mallow)"
 

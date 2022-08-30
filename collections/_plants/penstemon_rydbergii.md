@@ -12,9 +12,15 @@ native_to: "Humboldt"
 categories: [
         cnps_master_inventory
         ,cnps_2022_fall
+        
         ,bee
         ,butterfly
         ,hummingbird
+
+        ,habitat_riparian
+        ,habitat_meadow
+        ,habitat_woodland
+        ,habitat_chaparral
       ]
 
 sun_requirements:
@@ -26,10 +32,14 @@ plant_size:
     - 1
     - 3
 
+bloom_calendar: 
+    - 7 #july
+    - 8 #august
+
 icon_attribution: 
-    name: ""
-    url: ""
-icon:  ""
+    name: "Calscape"
+    url: "https://calscape.org/photos/2802?srchcr=sc630e483b5f32c"
+icon:  "/assets/images/plants/penstemon_rydbergii_icon.jpg"
 
 calscape_link: "https://calscape.org/Penstemon-rydbergii-()"
 

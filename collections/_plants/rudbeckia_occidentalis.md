@@ -22,10 +22,15 @@ plant_size:
     - 3.5
     - 7
 
+bloom_calendar: 
+    - 6 #june
+    - 7 #july
+    - 8 #august
+
 icon_attribution: 
-    name: ""
-    url: ""
-icon:  ""
+    name: "Calphotos"
+    url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0715+1726"
+icon:  "/assets/images/plants/rudbeckia_occidentalis_icon.jpg"
 
 calscape_link: "https://calscape.org/Rudbeckia-occidentalis-()"
 

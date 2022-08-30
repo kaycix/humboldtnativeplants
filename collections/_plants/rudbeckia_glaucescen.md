@@ -12,6 +12,8 @@ native_to: "Humboldt"
 categories: [
         cnps_master_inventory
         ,cnps_2022_fall
+
+        ,habitat_riparian
       ]
 
 sun_requirements:
@@ -24,9 +26,9 @@ plant_size:
     - 4
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon:  ""
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po91707"
+icon:  "/assets/images/plants/rudbeckia_glaucescens_icon.jpg"
 
 calscape_link: "https://calscape.org/Rudbeckia-glaucescens-(Waxy-Cone-flower)"
 
