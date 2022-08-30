@@ -27,9 +27,9 @@ plant_size:
     - 35
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon:  ""
+    name: "Calscape"
+    url: "https://calscape.org/view.php?pl=196&img=8250"
+icon:  "/assets/images/plants/amelanchier_alnifolia_icon.jpg"
 
 calscape_link: "https://calscape.org/Amelanchier-alnifolia-()"
 

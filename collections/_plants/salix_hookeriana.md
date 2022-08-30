@@ -17,9 +17,9 @@ plant_size:
     - 33
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon: ""
+    name: "Coastal Willow"
+    url: "https://calscape.org/view.php?pl=3329&img=23353"
+icon: "/assets/images/plants/salix_hookeriana_icon.jpg"
 
 #TBDeprecated
 calscape_link: "https://calscape.org/Salix-hookeriana-()"

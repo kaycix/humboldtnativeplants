@@ -24,9 +24,9 @@ plant_size:
     - 1.3
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon:  ""
+    name: "Calscape"
+    url: "https://calscape.org/photos/685?srchcr=sc630d8397f3a5c"
+icon:  "/assets/images/plants/calochortus_tolmiei_icon.jpg"
 
 calscape_link: "https://calscape.org/Calochortus-tolmiei-()"
 

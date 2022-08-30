@@ -31,9 +31,9 @@ plant_size:
     - 3
 
 icon_attribution: 
-    name: "Calflora"
-    url: ""
-icon: ""
+    name: "Calscape"
+    url: "https://calscape.org/view.php?pl=2526&img=19131"
+icon: "/assets/images/plants/mimulus_aurantiacus_var_pubescens_icon.jpg"
  
 calscape_link: "https://calscape.org/Mimulus-aurantiacus-var.-pubescens-()"
 

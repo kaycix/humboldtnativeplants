@@ -14,7 +14,6 @@ categories: [cnps_master_inventory
             ,cultivar
             ,cnps_2022_fall
       
-        
         ,bee
         ,bird
         ,butterfly  
@@ -32,9 +31,9 @@ plant_size:
     - 2
 
 icon_attribution: 
-    name: "Calscape"
+    name: ""
     url: ""
-icon: ""
+icon: "/assets/images/plants/mimulus_aurantiacus_var_puniceus_icon.jpg"
 
 calscape_link: "https://calscape.org/Mimulus-aurantiacus-var.-puniceus-(Red-Bush-Monkeyflower)"
 ---
