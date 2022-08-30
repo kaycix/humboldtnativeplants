@@ -18,9 +18,9 @@ plant_size:
     - 112
 
 icon_attribution: 
-    name: ""
-    url: ""
-icon: ""
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=mu18278"
+icon: "/assets/images/plants/pinus_contorta_icon.jpg"
 
 #TBDeprecated
 calscape_link: "https://calscape.org/Pinus-contorta-(Lodgepole-Pine)"

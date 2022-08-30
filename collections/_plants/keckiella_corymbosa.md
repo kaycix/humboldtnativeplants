@@ -7,11 +7,10 @@ name:
 
 type: "shrub"
 
-native_to: ""
+native_to: "Humboldt"
 
 
 categories: [cnps_master_inventory
-            ,cultivar
             ,cnps_2022_fall
       ]
 
@@ -25,10 +24,15 @@ plant_size:
     - 1
     - 2
 
+bloom_calendar: 
+    - 7 #july
+    - 8 #august
+    - 9 #september
+
 icon_attribution: 
-    name: "Calscape"
-    url: ""
-icon: ""
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po162138"
+icon: "/assets/images/plants/keckiella_corymbosa_icon.jpg"
 
 calscape_link: "https://calscape.org/Keckiella-corymbosa-(Keckiella)"
 ---

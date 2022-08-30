@@ -16,10 +16,15 @@ plant_size:
     - 30
     - 100
 
+bloom_calendar: 
+    - 2 #feb
+    - 3 #march
+    - 4 #april
+
 icon_attribution: 
-    name: ""
-    url: ""
-icon: ""
+    name: "Calflora"
+    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po149924"
+icon: "/assets/images/plants/populus_trichocarpa_icon.jpg"
 
 #TBDeprecated
 calscape_link: "https://calscape.org/Populus-trichocarpa-(Black-Cottonwood)"
@@ -40,5 +45,9 @@ categories: [humboldt_county_native
         # wildlife
         ,butterfly
         ,bird
+
+        ,habitat_meadow
+        ,habitat_woodland
+        ,habitat_chaparral
       ]
 ---

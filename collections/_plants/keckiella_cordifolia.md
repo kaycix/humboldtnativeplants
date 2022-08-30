@@ -31,6 +31,14 @@ plant_size:
     - 3 
     - 6.6
 
+bloom_calendar: 
+    - 3 #march
+    - 4 #april
+    - 5 #may
+    - 6 #june
+    - 7 #july
+    - 8 #august
+
 icon_attribution: 
     name: "Calflora"
     url: "https://www.calflora.org/entry/occdetail.html?seq_num=po92257"
