@@ -24,8 +24,8 @@ feature_row:
   - image_path: /assets/images/cnps/nursery_brian_7.jpg
     alt: "Browse Plants"
     title: "Browse Plants"
-    excerpt: "The nursery is open for shopping weekly during Volunteer Hours.<br/>Pricing is $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked. Cash or check only."
-    url: "/category/inventory-cnps-2022-05"
+    excerpt: "The nursery is currently closed to the public as it gears up for the Fall Sale. Browse Fall Sale inventory below.<br/>Pricing is $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked. Cash or check only."
+    url: "/category/cnps-2022-fall"
     #url: "/category/cnps-master-inventory"
     btn_label: "Browse Plants"
     btn_class: "btn--primary"
@@ -65,7 +65,7 @@ hours:
     - day: "Sun"
       time: "10:00 a.m. - 1:00 p.m."
 
-hours_text: "The nursery and demonstration garden are open to the public during Volunteer Hours."
+hours_text: "The demonstration garden is open to the public during Volunteer Hours. Nursery sales are currently closed until the Fall Sale (Sept 24 & 25, 2022)."
 
 contact:
     email: "northcoastcnps@gmail.com"
