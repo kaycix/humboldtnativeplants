@@ -11,9 +11,9 @@ category_tag_name: "cnps_2022_fall"
 <h1>Fall Native Plant Sale</h1>
 
 <p>
-    Saturday September 24, 9a - 4p & Sunday September 25, 9a - 3p.
+    Saturday Sept 24th, 9a - 4p & Sunday Sept 25th, 9a - 3p.
     <br/>
-    <!--<a href="https://www.signupgenius.com/go/904054da5a823a2f94-spring" target="_blank">Sign Up to Shop</a> via SignUp Genius. 25 Spots per half-hour time slots. -->
+    <a href="https://www.signupgenius.com/go/904054da5a823a2f94-fall" target="_blank">Sign Up to Shop</a> via SignUp Genius. 25 Spots per half-hour time slots.
     <br/>
     <br/>
      Pricing: $5 for 4-inch pots, $10-$12 for 1 gallon pots, $15 for 2 gallon pots.

@@ -22,12 +22,12 @@ subtext: "This nonprofit nursery is entirely by volunteers. It is open 3 days a 
 
 feature_row:
   - image_path: /assets/images/cnps/nursery_brian_7.jpg
-    alt: "Browse Plants"
-    title: "Browse Plants"
-    excerpt: "The nursery is currently closed to the public as it gears up for the Fall Sale. Browse Fall Sale inventory below.<br/>Pricing is $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked. Cash or check only."
+    alt: "Fall Sale"
+    title: "Fall Sale"
+    excerpt: "Plant sales at the nursery are currently on hold up to the Fall Sale - Sept 24 & Sept 25, 2022. Click below for more sale information and to browse Fall Sale inventory.<br/>Pricing is $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked."
     url: "/category/cnps-2022-fall"
     #url: "/category/cnps-master-inventory"
-    btn_label: "Browse Plants"
+    btn_label: "More Information"
     btn_class: "btn--primary"
   - image_path: /assets/images/cnps/garden/path_with_columbines.jpg
     alt: "Demonstration Garden"
