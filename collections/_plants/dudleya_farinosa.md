@@ -15,7 +15,8 @@ categories: [humboldt_county_native
         ,inventory_cnps_2022_05
         ,cnps_2022_spring
         ,cnps_2022_fall
-        
+
+        ,beginner        
         ,butterfly
         ,bird
         ,hummingbird

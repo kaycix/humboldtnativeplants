@@ -56,6 +56,7 @@ categories: [
         ,border
         ,drough_tolerant       
         ,container
+        ,beginner
         ,showy
  
         # wildlife

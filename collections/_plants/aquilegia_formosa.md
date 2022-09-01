@@ -54,6 +54,7 @@ categories: [
      
             #landscaping
             ,container
+            ,beginner
         
             #habitat
             ,habitat_chaparral

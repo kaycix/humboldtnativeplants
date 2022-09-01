@@ -17,9 +17,12 @@ categories: [humboldt_county_native
         ,cnps_2022_winter
         ,cnps_2022_fall
         ,cnps_2022_spring
+
         ,butterfly
         ,bird
         ,bee
+
+        ,beginner
         ]
 
 sun_requirements:

@@ -45,6 +45,7 @@ categories: [
         
         #landscaping
         ,drought_tolerant
+        ,beginner
     
         #habitat
         ,habitat_coastal
