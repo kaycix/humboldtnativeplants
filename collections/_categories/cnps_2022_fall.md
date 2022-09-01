@@ -5,7 +5,7 @@ layout: category
 category_tag_name: "cnps_2022_fall"
 ---
 <div class="main_icon_holder">
-    <img class="title_icon" src="{{'/assets/images/plants/sidalcea_oregana_promo.jpg' | prepend:site.baseurl }}">
+    <img class="title_icon" src="{{'/assets/images/plants/potentilla_gracilis_promo.jpg' | prepend:site.baseurl }}">
 </div>
 
 <h1>Fall Native Plant Sale</h1>
@@ -30,7 +30,7 @@ Public event by <a href="{{'/nursery/northcoast-cnps' | prepend:site.baseurl }}"
     <h3>
     Browse categories: 
     </h3>
-    <p>Not sure where to start? Check out these plant lists for ideas.</p>  
+    <p>Not sure where to start? Check out these plant lists for ideas and inspiration.</p>  
     <div class="list_categories">
         <div class="list_category">
             <a href="{{'/category/beginner' | prepend:site.baseurl }}">
@@ -38,18 +38,13 @@ Public event by <a href="{{'/nursery/northcoast-cnps' | prepend:site.baseurl }}"
             </a>
         </div>
         <div class="list_category">
-            <a href="{{'/category/hummingbird' | prepend:site.baseurl }}">
-            Hummingbird Gardens
+            <a href="{{'/gardens' | prepend:site.baseurl }}">
+            Local Native Plant Gardens
             </a>
         </div>
         <div class="list_category">
             <a href="{{'/category/butterfly' | prepend:site.baseurl }}">
            Butterfly Gardens
-            </a>
-        </div>
-        <div class="list_category">
-            <a href="{{'/category/container' | prepend:site.baseurl }}">
-            Container-Gardening
             </a>
         </div>
         <div class="list_category">
@@ -62,22 +57,12 @@ Public event by <a href="{{'/nursery/northcoast-cnps' | prepend:site.baseurl }}"
                 Groundcover Plants 
             </a>
         </div>
-        <div class="list_category">
-            <a href="{{'/category/hedge' | prepend:site.baseurl }}">
-            Hedge Plants
-            </a>
-        </div>
         <!--
         <li>    
             <a href="{{'/category/edible' | prepend:site.baseurl }}">
                 Edibles
             </a>
         </li>-->
-        <div class="list_category">
-            <a href="{{'/gardens' | prepend:site.baseurl }}">
-            Local Native Plant Gardens
-            </a>
-        </div>
     </div>
 </section>
 <div style="clear:both"></div>
