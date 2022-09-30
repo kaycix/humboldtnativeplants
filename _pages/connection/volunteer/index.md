@@ -33,6 +33,13 @@ feature_row:
     url: "https://www.friendsofthedunes.org/volunteer"
     btn_label: "See Website"
     btn_class: "btn--primary"
+  - image_path: /assets/images/wildlandsconservancy/wildlandsconservancylogo.jpg 
+    alt: "The Wildlands Conservancy"
+    title: "The Wildlands Conservancy"
+    excerpt: "Join Community Stewardship Days every fourth Sunday of the month to help staff restore habitat at beautiful Seawood Cape Preserve, located near Sue-meg State Park."
+    url: "https://wildlandsconservancy.org/preserves/seawoodcape/publicprograms"
+    btn_label: "See Website"
+    btn_class: "btn--primary"
   - image_path: /assets/images/trinidad_coastal_land_trust.png 
     alt: "Trinidad Coastal Land Trust"
     title: "Trinidad Coastal Land Trust"
