@@ -22,9 +22,9 @@ subtext: "This nonprofit nursery is entirely by volunteers. It is open 3 days a 
 
 feature_row:
   - image_path: /assets/images/cnps/nursery_brian_7.jpg
-    alt: "Fall Sale"
-    title: "Fall Sale"
-    excerpt: "Plant sales at the nursery are currently on hold up to the Fall Sale - Sept 24 & Sept 25, 2022. Click below for more sale information and to browse Fall Sale inventory.<br/>Pricing is $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked."
+    alt: "Plant Sale"
+    title: "Plant Sale"
+    excerpt: "Plant sales occur during Volunteer Hours on Wed, Fri, and Sun from 10a- 1p with bonus hours Sat 10a - 3p during the month of October 2022. See Facebook page for latest updates. <br/>Pricing is $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked."
     url: "/category/cnps-2022-fall"
     #url: "/category/cnps-master-inventory"
     btn_label: "More Information"
@@ -65,7 +65,7 @@ hours:
     - day: "Sun"
       time: "10:00 a.m. - 1:00 p.m."
 
-hours_text: "The demonstration garden is open to the public during Volunteer Hours. Nursery sales are currently closed until the Fall Sale (Sept 24 & 25, 2022)."
+hours_text: "The demonstration garden is open to the public during Volunteer Hours."
 
 contact:
     email: "northcoastcnps@gmail.com"
