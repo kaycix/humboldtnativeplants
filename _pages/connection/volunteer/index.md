@@ -5,24 +5,24 @@ title: "Volunteer Opportunities"
 classes: wide volunteer-page 
 
 feature_row:
-  - image_path: /assets/images/ca_department_of_parks_and_recreation.png
-    alt: "CA Dept of Parks and Recreation"
-    title: "CA Dept of Parks and Recreation"
-    excerpt: "Native plant management, invasive ivy removal, monitoring trails, trail cleanup, and more."
-    url: "https://www.parks.ca.gov/?page_id=30532"
-    btn_label: "See Website"
-    btn_class: "btn--primary"
   - image_path: /assets/images/trail_stewards.jpg
     alt: "Humboldt Trail Stewards"
     title: "Humboldt Trail Stewards"
-    excerpt: "Help maintain your favorite trails - report observations, perform trail maintenance and participate in work days."
+    excerpt: "Arcata Community Forest, Hammond Trail, and many more.<br/><br/>Help maintain your favorite trails - report observations, perform trail maintenance and participate in work days. There are plenty of opportunities to volunteer every month."
     url: "https://humtrails.org/volunteer/"
+    btn_label: "See Website"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/ca_department_of_parks_and_recreation.png
+    alt: "CA Dept of Parks and Recreation"
+    title: "CA Dept of Parks and Recreation"
+    excerpt: "Sue-meg State Park, Tolowa Dunes, and more.<br/><br/>Native plant management, invasive ivy removal, monitoring trails, trail cleanup, and more. Visit their website and Facebook page for upcoming volunteer events."
+    url: "https://www.parks.ca.gov/?page_id=30532"
     btn_label: "See Website"
     btn_class: "btn--primary"
   - image_path: /assets/images/cnps_northcoast.jpg 
     alt: "California Native Plant Society"
     title: "California Native Plant Society"
-    excerpt: "Propagate native plants and maintain the native plant living seed bank at the Nursery. Help out at seasonal sales and the Wildflower Show<br/>
+    excerpt: "Eureka, CA<br/><br/>Propagate native plants and maintain the native plant living seed bank at the Nursery. Help out at seasonal sales and the Wildflower Show<br/>
               <b>Volunteer Days:</b> Weekly (Wed, Fri, Sun) & Special Events"
     url: "/volunteer/cnps"
     btn_label: "More Information &#8594;"
