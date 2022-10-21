@@ -61,6 +61,13 @@ feature_row:
     url: "https://ncrlt.org/programs"
     btn_label: "See Website"
     btn_class: "btn--primary"
+  - image_path: /assets/images/eureka_sequoia_garden_club/eureka_zoo_header.jpg
+    alt: "Eureka Sequoia Garden Club"
+    title: "Eureka Sequoia Garden Club"
+    excerpt: "Eureka, CA<br/><br/>The ESGC Zoo Crew works at the Zoo maintaining native plants on Monday afternoons, weather permitting!"
+    url: "https://www.facebook.com/profile.php?id=100064616655462"
+    btn_label: "See Website"
+    btn_class: "btn--primary"
   - image_path: /assets/images/jacoby_creek_land_trust/header_with_logo.jpg
     alt: "Jacoby Creek Land Trust"
     title: "Jacoby Creek Land Trust"
