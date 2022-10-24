@@ -76,10 +76,17 @@ nurseries:
     url: "/nurseries"
     btn_label: "READ MORE &#8594;"
 
+education:
+  - image_path: /assets/images/education/book.jpg 
+    title: "Education Resources"
+    excerpt: "Books, videos, apps ... there are so many ways to learn about native plants. Watch a video, reserve a book at the library - your native plant education can start (or continue) at any moment."
+    url: "/education"
+    btn_label: "READ MORE &#8594;"
+
 volunteer:
-  - image_path: /assets/images/cnps/garden/volunteers_feature.jpg 
+  - image_path: /assets/images/redwoods.jpeg 
     title: "Join the Conservation Movement"
-    excerpt: "If you are interested in making a difference, consider lending your time and talents to a local volunteer organization. These organizations have such important missions but need the extra hands to enact them. Help to be a part of the change you want to see!"
+    excerpt: "There are so many opportunities for people of all ages and backgrounds to make a difference through volunteer programs. Learn about the natural world, save redwoods, spread native plants and make a positive impact on the world around us. Help to be a part of the change you want to see!"
     url: "/connection/volunteer"
     btn_label: "READ MORE &#8594;"
 
@@ -93,17 +100,15 @@ volunteer:
 
 {% include feature_row id="nurseries" type="right" %}
 
-<!--
-<div class="page__hero--overlay" style="background-color: #ebf1f4; background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('');">
-    <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">
+{% comment %}
+<p>
 &ldquo;What is nature’s best hope? <b>You.</b> There’s an Earth stewardship responsibility that we have as <b>citizens of the planet</b>. We can no longer leave conservation to the conservationists. There aren’t enough—<b>by far.</b>&rdquo;"
-        
-      </h1>
-        <p class="page__lead">— Douglas Tallemy —
 </p>
-    </div>
-</div>
--->
+<p class="page__lead">— Douglas Tallemy —</p>
+{% endcomment %}
 
 {% include feature_row id="volunteer" type="left" %}
+
+{% comment %}
+{% include feature_row id="education" type="right" %}
+{% endcomment %}
