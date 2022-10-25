@@ -1,7 +1,7 @@
 ---
 layout: single 
 permalink: /nurseries
-title: "Where to Purchase Native Plants"
+title: "Where to Buy Native Plants"
 classes: wide where-to-buy
 local_nurseries:
   - image_path: /assets/images/cnps/nursery/overview_feature_item.jpg

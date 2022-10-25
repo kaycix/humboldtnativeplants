@@ -49,7 +49,7 @@ public_gardens:
   - image_path: /assets/images/cnps/garden/flower.jpg
     image_caption: CK Photography
     title: "Visit Native Plant Gardens"
-    excerpt: "Browse pictures and plant lists from local native plant gardens for ideas and inspiration - from Eureka to Trinidad. Explore the wide variety of native plant landscapes that are sustainable and promote biodiversity, while still reflecting the unique preferences  of their creators."
+    excerpt: "Visit local native plant gardens for ideas and inspiration - from Eureka to Trinidad. These gardens can give you ideas for creating beautiful and beneficial landscapes with native plants."
     url: "/gardens"
     btn_label: "READ MORE &#8594;"
 
@@ -72,7 +72,7 @@ landscaping:
 nurseries:
   - image_path: /assets/images/cnps_northcoast_nursery.jpg 
     title: "Where to Buy Native Plants"
-    excerpt: "Get to know local nurseries that carry native plants and online sources for native seeds and plants."
+    excerpt: "Enhance your yard with drought-tolerant and pollinator-friendly native plants. Get to know our local nurseries that carry Humboldt County and California native plants. Find online sources for seeds and plants."
     url: "/nurseries"
     btn_label: "READ MORE &#8594;"
 
@@ -85,8 +85,8 @@ education:
 
 volunteer:
   - image_path: /assets/images/redwoods.jpeg 
-    title: "Join the Conservation Movement"
-    excerpt: "There are so many opportunities for people of all ages and backgrounds to make a difference through volunteer programs. Learn about the natural world, save redwoods, spread native plants and make a positive impact on the world around us. Help to be a part of the change you want to see!"
+    title: "Volunteer Opportunities"
+    excerpt: "Volunteers play a critical role in helping local organizations meet their conservation goals. There are opportunities for people of all ages and backgrounds to make a difference. Learn about the natural world, save redwoods, spread native plants and make a positive impact on the world around us. Help to be a part of the change you want to see!"
     url: "/connection/volunteer"
     btn_label: "READ MORE &#8594;"
 
