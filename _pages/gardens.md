@@ -40,6 +40,13 @@ feature_row:
     url: "/garden/suemeg"
     btn_label: "See Details"
     btn_class: "btn--primary"
+  - image_path: /assets/images/sequoia_park_zoo/gilia_bee.jpg
+    alt: "Sequoia Park Zoo"
+    title: "Sequoia Park Zoo"
+    excerpt: "Our local zoo's extensive commitment to native plants starts with a wonderful example of a native hedge all along W street."
+    url: "/garden/zoo"
+    btn_label: "See Details"
+    btn_class: "btn--primary"
 #  - image_path: /assets/images/icons/coming-soon.jpg
 #    alt: "Humboldt Botanical Garden"
 #    title: "Humboldt Botanical Garden"

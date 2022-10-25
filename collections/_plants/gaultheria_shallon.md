@@ -37,7 +37,8 @@ icon: "/assets/images/plants/gaultheria_shallon_icon.jpg"
 calscape_link: "https://calscape.org/Gaultheria-shallon-(Salal)"
 
 gardens: [
-    trinidad_museum
+    sequoia_park_zoo
+    ,trinidad_museum
     ,trinidad_museum_coastal
         ]
 ---

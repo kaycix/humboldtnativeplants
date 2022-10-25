@@ -35,6 +35,7 @@ calscape_link: "https://calscape.org/Arctostaphylos-uva-ursi-(Southern-Kinnikinn
 gardens: [ 
     arcata_community_center
     ,arcata_marsh
+    ,sequoia_park_zoo
     ,trinidad_museum
     ,trinidad_museum_coastal
         ]

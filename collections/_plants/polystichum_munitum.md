@@ -33,6 +33,7 @@ gardens: [
     cnps_demo
     ,cnps_demo_riparian
     ,suemeg
+    ,sequoia_park_zoo
     ,trinidad_museum
     ,trinidad_museum_woodland
 ]

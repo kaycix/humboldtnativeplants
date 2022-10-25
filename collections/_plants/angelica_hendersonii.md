@@ -42,6 +42,7 @@ habitat:
 
 gardens: [
     arcata_community_center
+    ,sequoia_park_zoo
         ]
 ---
 

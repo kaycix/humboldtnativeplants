@@ -37,6 +37,7 @@ calscape_link: "https://calscape.org/Gilia-capitata-(Blue-Field-Gilia)"
 
 gardens: [ 
     "arcata_marsh"
+    ,sequoia_park_zoo
         ]
 ---
 

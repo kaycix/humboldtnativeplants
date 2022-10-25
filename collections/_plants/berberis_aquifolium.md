@@ -42,6 +42,7 @@ calscape_link: https://calscape.org/Berberis-aquifolium-(Oregon-Grape)
 gardens: [
     arcata_community_center
     ,arcata_marsh
+    ,sequoia_park_zoo
         ]
 ---
 

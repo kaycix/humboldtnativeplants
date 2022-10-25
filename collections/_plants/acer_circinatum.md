@@ -31,4 +31,8 @@ icon_attribution:
 icon: "/assets/images/plants/acer_circinatum_icon.jpg"
 
 calscape_link: "https://calscape.org/Acer-circinatum-()"
+
+gardens: [ 
+    sequoia_park_zoo
+        ]
 ---

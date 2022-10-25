@@ -42,6 +42,10 @@ categories: [humboldt_county_native
         ,butterfly
         ,bird
       ]
+
+gardens: [ 
+    sequoia_park_zoo
+        ]
 ---
 
 

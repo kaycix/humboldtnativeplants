@@ -32,6 +32,7 @@ gardens: [
     arcata_community_center
     ,trinidad_museum
     ,trinidad_museum_coastal
+    ,sequoia_park_zoo
         ]
 
 categories: [humboldt_county_native

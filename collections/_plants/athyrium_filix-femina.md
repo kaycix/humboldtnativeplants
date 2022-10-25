@@ -35,6 +35,7 @@ calscape_link: "https://calscape.org/Athyrium-filix-femina-()"
 gardens: [
     cnps_demo
     ,cnps_demo_redwood
+    ,sequoia_park_zoo
     ,suemeg
     ,trinidad_museum
     ,trinidad_museum_woodland

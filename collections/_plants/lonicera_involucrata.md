@@ -49,6 +49,7 @@ gardens: [
     suemeg
     ,trinidad_museum
     ,trinidad_museum_coastal
+    ,sequoia_park_zoo
         ]
 ---
 

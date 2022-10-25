@@ -37,7 +37,8 @@ references:
       title: "Calflora"
 
 gardens: [
-    trinidad_museum
+    sequoia_park_zoo
+    ,trinidad_museum
     ,trinidad_museum_meadow
         ]
 

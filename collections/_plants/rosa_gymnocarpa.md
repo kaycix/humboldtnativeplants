@@ -35,5 +35,9 @@ native_to: "Humboldt"
 categories: [humboldt_county_native,
        cnps_master_inventory
       ]
+
+gardens: [ 
+    sequoia_park_zoo
+        ]
 ---
 

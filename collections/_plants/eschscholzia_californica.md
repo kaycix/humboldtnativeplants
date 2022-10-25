@@ -26,6 +26,7 @@ calscape_link: "https://calscape.org/Eschscholzia-californica-(California-Poppy)
 
 gardens: [ 
     arcata_community_center
+    ,sequoia_park_zoo
     ,trinidad_museum
     ,trinidad_museum_coastal
         ]

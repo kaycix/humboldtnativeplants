@@ -39,6 +39,7 @@ gardens: [
     ,arcata_marsh
     ,cnps_demo
     ,cnps_demo_redwood
+    ,sequoia_park_zoo
         ]
 
 categories: [

@@ -43,6 +43,7 @@ gardens: [
     ,cnps_demo
     ,cnps_demo_grassland
     ,cnps_demo_redwood
+    ,sequoia_park_zoo
     ,trinidad_museum
     ,trinidad_museum_coastal
         ]

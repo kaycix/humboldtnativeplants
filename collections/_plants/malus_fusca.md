@@ -36,7 +36,8 @@ icon: "/assets/images/plants/malus_fusca_icon.jpg"
 calscape_link: "https://calscape.org/Malus-fusca-(Oregon-Crab-Apple)"
 
 gardens: [
-    trinidad_museum
+    sequoia_park_zoo
+    ,trinidad_museum
     ,trinidad_museum_pond
         ]
 ---

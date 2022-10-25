@@ -42,5 +42,6 @@ gardens: [
     ,suemeg
     ,trinidad_museum
     ,trinidad_museum_woodland
+    ,sequoia_park_zoo
         ]
 ---

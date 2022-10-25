@@ -38,5 +38,6 @@ icon: "/assets/images/plants/cornus_sericea_icon.jpg"
 calscape_link: "https://calscape.org/Cornus-sericea-(Creek-Dogwood)"
 
 gardens: [
+    sequoia_park_zoo
         ]
 ---

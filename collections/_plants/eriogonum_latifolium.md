@@ -43,6 +43,7 @@ gardens: [
     "arcata_marsh" 
     ,cnps_demo
     ,cnps_demo_coastal
+    ,sequoia_park_zoo
     ,trinidad_museum
     ,trinidad_museum_coastal
 ]
