@@ -70,7 +70,7 @@ landscaping:
     btn_label: "READ MORE &#8594;"
 
 nurseries:
-  - image_path: /assets/images/cnps_northcoast_nursery.jpg 
+  - image_path: /assets/images/seaside_daisy.jpeg 
     title: "Where to Buy Native Plants"
     excerpt: "Enhance your yard with drought-tolerant and pollinator-friendly native plants. Get to know our local nurseries that carry Humboldt County and California native plants. Find online sources for seeds and plants."
     url: "/nurseries"
@@ -91,11 +91,6 @@ volunteer:
     btn_label: "READ MORE &#8594;"
 
 ---
-<div class="small_feature_row">
-<h2>Browse Plants by</h2>
-{% include feature_row id="browse_plants" %}
-</div>
-
 {% include feature_row id="public_gardens" type="left" %}
 
 {% include feature_row id="nurseries" type="right" %}
@@ -108,6 +103,12 @@ volunteer:
 {% endcomment %}
 
 {% include feature_row id="volunteer" type="left" %}
+
+<div class="small_feature_row">
+<h2>Browse Plants by</h2>
+{% include feature_row id="browse_plants" %}
+</div>
+
 
 {% comment %}
 {% include feature_row id="education" type="right" %}
