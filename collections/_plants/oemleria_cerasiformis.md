@@ -16,8 +16,11 @@ categories: [humboldt_county_native
         ,cnps_master_inventory
         ,cnps_2022_fall
         ,cnps_2022_spring
-        ,wildradish
         ,butterfly
+        
+        #habitat
+        ,habitat_chaparral
+        ,habitat_woodland
       ]
 
 sun_requirements:

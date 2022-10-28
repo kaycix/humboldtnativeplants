@@ -18,6 +18,7 @@ categories: [humboldt_county_native
         ,bird
         ,hummingbird 
         ,beginner
+        ,hedge
       ]
 
 sun_requirements:

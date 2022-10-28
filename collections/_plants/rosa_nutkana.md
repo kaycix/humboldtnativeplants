@@ -1,46 +1,47 @@
 ---
-plant_id: 298
+plant_id: 299
 
 name: 
-    common: "Toyon" 
-    scientific: "Heteromeles arbutifolia"
+    common: "Nootka Rose" 
+    scientific: "Rosa nutkana"
 
 type: "shrub"
 
 native_to: "Humboldt"
 
 categories: [humboldt_county_native
-        ,hedge
-        
+        ,bee 
         ,bird
         ,butterfly
         ,beginner
         
         #landscaping
-        ,drought_tolerant       
         ,showy   
     
         #habitat
-        ,habitat_chaparral
+        ,habitat_riparian
+        ,habitat_woodland
       ]
 
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
+  - "Full Shade"
 plant_size:
   - height: 
     - 6
-    - 30
+    - 10
 
 icon_attribution: 
     name: "Calscape"
-    url: "https://calscape.org/photos/1865?srchcr=sc635c2a300315f"
-icon: "/assets/images/plants/heteromeles_arbutifolia_icon.jpg" 
+    url: "https://calscape.org/view.php?pl=3262&img=23085"
+icon: "/assets/images/plants/rosa_nutkana_icon.jpg" 
 
-calscape_link: "https://calscape.org/Heteromeles-arbutifolia-(Toyon)"
+calscape_link: "https://calscape.org/Rosa-nutkana-(Nootka-Rose)"
 
 gardens: [ 
         ]
 ---
+
 
 
