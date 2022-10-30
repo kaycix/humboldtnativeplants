@@ -86,7 +86,7 @@ education:
 volunteer:
   - image_path: /assets/images/redwoods.jpeg 
     title: "Volunteer Opportunities"
-    excerpt: "Volunteers play a critical role in helping local organizations meet their conservation goals. There are opportunities for people of all ages and backgrounds to make a difference. Learn about the natural world, save redwoods, spread native plants and make a positive impact on the world around us. Help to be a part of the change you want to see!"
+    excerpt: "Volunteers play a critical role in helping local organizations meet their conservation goals. Learn about the natural world, save redwoods, spread native plants and make a positive impact on the world around us. Help to be a part of the change you want to see!"
     url: "/connection/volunteer"
     btn_label: "READ MORE &#8594;"
 

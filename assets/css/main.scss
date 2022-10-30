@@ -132,6 +132,11 @@ html .masthead #site-title {
     padding-top: 20px;
 }
 
+.archive__item-title a {
+    color: #000;
+    text-decoration: none;
+}
+
 .index-page p {
     font-size: 1.25rem;
 }
@@ -907,6 +912,11 @@ nav.pagination {
 .small_feature_row .feature__item h2 { 
     font-size: 1rem;
 }
+
+.small_feature_row a.btn {
+    display: none;
+}
+ 
 
 #footer {
     color: #FFF;
