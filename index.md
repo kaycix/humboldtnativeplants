@@ -9,7 +9,7 @@ title: "Native plants are <span class='animate'>better</span> for
              <div><div>the planet.</div></div>
          </div></div>"    
 header:
-    overlay_color: "#ebf1f4"
+    overlay_image: assets/images/redwood-needles.jpg
     overlay_filter: "0"
     actions:
          - label: "Learn More"
