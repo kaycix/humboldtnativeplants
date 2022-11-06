@@ -58,6 +58,10 @@
             YouTube: <a href="{{include.contact.youtube}}" target="_blank">{{include.contact.youtube_name}}</a>
             <br/>
         {% endif %}
+        {% if include.contact.misc %}
+            {{include.contact.misc}}
+            <br/>
+        {% endif %}
     </div>
     {% endif %}
 </section>

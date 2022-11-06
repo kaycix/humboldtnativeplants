@@ -12,7 +12,7 @@ header:
 tagline: "California Native Plant Society, North Coast Chapter"
 
 intro: 
-    - excerpt: "This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery hosts two seasonal sales a year in the Fall and Spring in which hundreds of Humboldt County native and California native plants are offered." 
+    - excerpt: "This non-profit volunteer-run nursery is open to the public for plant sales weekly during Volunteer Hours. The nursery additionally hosts two seasonal sales a year in the Fall and Spring. Free native plant consultations are also offered year-round." 
 
 location: Eureka
 
@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/cnps/nursery_brian_7.jpg
     alt: "Plant Sale"
     title: "Plant Sale"
-    excerpt: "Plant sales occur during Volunteer Hours on Wed, Fri, and Sun from 10a- 1p with bonus hours Sat 10a - 3p during the month of October 2022. See Facebook page for latest updates. <br/>Pricing is $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked."
+    excerpt: "Plant sales occur during Volunteer Hours on Wed, Fri, and Sun from 10a- 1p. See Facebook page for latest updates. <br/>Pricing is $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked."
     url: "/category/cnps-2022-fall"
     #url: "/category/cnps-master-inventory"
     btn_label: "More Information"
@@ -72,6 +72,7 @@ contact:
     default_subject: "Nursery Inquiry"
     website: "https://northcoastcnps.org/index.php/nursery/native-plant-nursery"
     website_name: "https://northcoastcnps.org"
+    misc: "<br/>To schedule a free native plant consultation, email <a href='mailto:nc.cnps.consult@gmail.com?subject=Native Plant Consultation'>nc.cnps.consult@gmail.com</a>"
 ---
 {% include feature_row id="intro" type="center" %}
 
@@ -82,4 +83,5 @@ contact:
     hours=page.hours
     hours_text=page.hours_text
     contact= page.contact
+    misc=page.contact.misc
 %}
