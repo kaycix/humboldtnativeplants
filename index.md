@@ -29,11 +29,18 @@ browse_plants:
     alt: "Wildlife"
     title: "Wildlife"
     url: "/wildlife"
-  - image_path: /assets/images/landscaping/groundcover_small_feature.jpg 
-    image_caption: "Trinidad Museum"
-    alt: "Landscaping Needs" 
-    title: "Landscaping Needs"
-    url: "/landscaping" 
+  - image_path: /assets/images/landscaping/hedge_small_feature.jpg
+    alt: "Hedge Plants"
+    title: "Hedge Plants"
+    url: "/category/hedge"
+  - image_path: /assets/images/landscaping/groundcover_small_feature.jpg
+    alt: "Groundcovers"
+    title: "Groundcover"
+    url: "/category/groundcover"
+  - image_path: /assets/images/landscaping/container_small_feature.jpg
+    alt: "Container"
+    title: "Container"
+    url: "/category/container"
   - image_path: /assets/images/arcata_marsh/garden/flower_small_feature_row.jpg 
     image_caption: "LJ Photography"
     alt: "Beginner-Friendly" 
