@@ -78,3 +78,26 @@ feature_row:
 ---
 {% include feature_row %}
 
+<h3>Other Notable Organizations, powered by Volunteers:</h3>
+<ul>
+<li>
+    <a href="https://keepeurekabeautiful.com" target="blank">
+        Keep Eureka Beautiful
+    </a>
+</li>
+<li>
+   <a href="https://pacoutgreenteam.org" target="_blank">
+     Pac Out Green Team
+    </a>
+</li>
+<li>
+    <a href="https://www.empowereureka.org" target="_blank">
+        Empower Eureka! 
+    </a>
+</li>
+<li>
+    <a href="https://zerowastehumboldt.org" target="_blank">
+        Zero Waste Humboldt
+    </a>
+</li>
+</ul>
