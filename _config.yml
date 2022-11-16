@@ -9,6 +9,7 @@ name                     : "Humboldt Native Plants"
 #baseurl                  : /humboldtnativeplants
 include                  : ["_pages"]
 logo                     : "/assets/images/logo/leaf-icon.png"
+search                   : true
 collections_dir          : "collections"
 collections              : 
     plant_types:
