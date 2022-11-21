@@ -12,10 +12,12 @@ classes: wide
     </figure>
     <h4>What are native plants?</h4>
     <p>
-    Native plants refer to plants that occur naturally in a specific geographic region.
+    Native plants refer to plants that occur naturally in a specific geographic region. But what does this mean? And why are they so important?
     </p>
     <p>
-The iconic redwood tree is a prime example of a Humboldt County native plant. Redwood trees have evolved specifically for the soil, climate and wildlife of this specific region. The only place in the world that redwood trees grow naturally is along the coast of California and southern Oregon. But the redwood is only one of hundreds of species of native plants found in Humboldt County.
+    Native plants have evolved for the soil, climate and wildlife of this specific region. An example of a Humboldt County native plant is our beautifully iconic redwood tree. The ONLY place in the world that redwood trees grow naturally is along the coast of California and souther Oregon. They simply wouldn't thrive anywhere else.
+    </p>
+    <p>But the redwood is only one of hundreds of species of native plants found in Humboldt County and each one plays its own important role in our complex and fragile ecosystem.
     </p>
     <h4>Ecological Benefits</h4>
     <!--
@@ -28,7 +30,7 @@ The iconic redwood tree is a prime example of a Humboldt County native plant. Re
     Many of us have heard of Monarch Butterflies and their reliancy on milkweed as their host plant. However, most insects, not just Monarchs,  depend on a narrow range of plants for their survival. These insects cannot substitute in non-native plants for their needs. They have evolved together for thousands of years and depend on this symbiosis.
     </p>
     <p>
-    Traditional lawns and popular non-native species simply cannot provide this foundation that our ecosystem needs. Planting native plants provides critical forage for our insects, which in turn provides food for birds and other wildlife that depend on them.
+    Traditional lawns and popular non-native species don't provide this foundation that our ecosystem needs. Planting native plants provides critical forage for our insects, which in turn provides food for birds and other wildlife that depend on them.
     </p>
     <h4>Ideal for Landscaping</h4>
     <p>
@@ -42,22 +44,22 @@ The iconic redwood tree is a prime example of a Humboldt County native plant. Re
         No matter what size your planting area is, it can have a positive effect on this planet! Here are a few things you can do to get started planting native today.  
         <ol style="list-style-type:disc">
             <li>
-                Read a book about native plants. Our local libraries carry several. Request one today!  
+                Read a book about native plants. Our local libraries carry several. <a href="https://libcat.co.humboldt.ca.us/search/Y?SEARCH=native+plants&searchscope=13&SORT=D" target="_blank">Request one today!</a>  
             </li>
             <li>
-                Have a smartphone? Arm yourself with an app like iNaturalist or Seek and start familiarizing yourself with the plants around you.
+                Have a smartphone? Arm yourself with an app like <a href="https://www.inaturalist.org" target="_blank">iNaturalist</a> or <a href="https://www.inaturalist.org/pages/seek_app" target="_blank">Seek</a> and start familiarizing yourself with the plants around you.
             </li>
             <li>
-               Replace some mindless Youtube videos with one on native plants. We recommend Tallamy to get started! 
+               Replace some mindless Youtube videos with one on native plants. We highly recommend <a href="https://www.youtube.com/results?search_query=doug+tallamy" target="_blank">Doug Tallamy</a> to get started! 
             </li>
             <li>
-                Visit a native plant garden or nursery today for ideas!
+                Visit a <a href="/gardens">native plant garden</a> or <a href="/nurseries">nursery</a> today for ideas.
             </li>
             <li>
                 Start planning how to incorporate natives into your landscaping next Fall or Spring. If you have a landscaper at your home or business, let them know you're interested in planting natives. 
             </li>
             <li>
-                Schedule a free native plant consultation, provided by the North Coast Native Plant Society. Email them today!
+                Schedule a free native plant consultation, provided by the <a href="https://northcoastcnps.org" target="_blank">North Coast Native Plant Society</a>. Email them today!
             </li>
         </ol> 
     </p>
