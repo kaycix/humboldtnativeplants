@@ -24,11 +24,11 @@ feature_row:
   - image_path: /assets/images/cnps/nursery_brian_7.jpg
     alt: "Plant Sale"
     title: "Plant Sale"
-    excerpt: "Plant sales occur during Volunteer Hours on Wed, Fri, and Sun from 10a- 1p. See Facebook page for latest updates. <br/>Pricing is $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked."
-    url: "/category/cnps-2022-fall"
+    excerpt: "Plant sales occur during Volunteer Hours on Wed, Fri, and Sun from 10a- 1p. See <a href='https://www.facebook.com/NorthCoastCNPS'>Facebook page</a> for latest updates. <br/>Pricing is $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked."
+    #url: "/category/cnps-2022-fall"
     #url: "/category/cnps-master-inventory"
-    btn_label: "More Information"
-    btn_class: "btn--primary"
+    #btn_label: "More Information"
+    #btn_class: "btn--primary"
   - image_path: /assets/images/cnps/garden/path_with_columbines.jpg
     alt: "Demonstration Garden"
     title: "Demonstration Garden"
