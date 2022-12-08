@@ -55,7 +55,7 @@ image: "/assets/images/cnps_nursery.jpg"
 address:
     line1: "5851 Myrtle Ave"
     line2: "Eureka, CA 95503" 
-    map: "https://goo.gl/maps/RQ6yCXjFfFrzVMdU8"
+    map: "/visit/northcoast-cnps"
 
 hours:
     - day: "Wed"

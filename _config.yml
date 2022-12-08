@@ -29,6 +29,9 @@ collections              :
     volunteer_opportunities: 
         output: true
         permalink: /volunteer/:name
+    directions: 
+        output: true
+        permalink: /visit/:name
 defaults:
  - scope:
      type: "plants"
@@ -51,6 +54,12 @@ defaults:
      layout: garden
  - scope:
      type: "nurseries"
+   values:
+     classes: nursery-page wide
+     title: ""
+     layout: nursery
+ - scope:
+     type: "directions"
    values:
      classes: nursery-page wide
      title: ""
