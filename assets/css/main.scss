@@ -923,6 +923,29 @@ nav.pagination {
 }
  
 
+body.education .feature__item {
+    border: none;
+}
+
+.education-module .archive__item {
+    background-color: $dark-blue-color;
+    border-radius: 24px; 
+}
+
+.education-module .archive__item-teaser {
+    margin-bottom: 0;
+}
+
+.education-module {
+    color: #FFF;
+
+    archive__item-title a, 
+    a:visited {
+        color: #FFF;
+    }
+
+} 
+
 #footer {
     color: #FFF;
     background-color: $indigo-color;

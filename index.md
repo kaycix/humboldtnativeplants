@@ -84,9 +84,9 @@ nurseries:
     btn_label: "READ MORE &#8594;"
 
 education:
-  - image_path: /assets/images/education/book.jpg 
+  - image_path: /assets/images/education/books_collage.jpg 
     title: "Education Resources"
-    excerpt: "Books, videos, apps ... there are so many ways to learn about native plants. Watch a video, reserve a book at the library - your native plant education can start (or continue) at any moment."
+    excerpt: "Discover books to guide you along your native plant education journey. The books listed are all available through the Humboldt County Library."
     url: "/education"
     btn_label: "READ MORE &#8594;"
 
@@ -116,7 +116,6 @@ volunteer:
 {% include feature_row id="browse_plants" %}
 </div>
 
-
-{% comment %}
-{% include feature_row id="education" type="right" %}
-{% endcomment %}
+<div class="education-module">
+{% include feature_row id="education" type="left" %}
+</div>
