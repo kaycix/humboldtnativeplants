@@ -77,6 +77,14 @@ books_reference:
       url: https://libcat.co.humboldt.ca.us/record=b1270478~S13 
       btn_label: "View at Humboldt County Library"
       btn_class: "btn--primary"
+    - image_path: /assets/images/education/book_climate_anxiety_sm.jpg
+      url: https://libcat.co.humboldt.ca.us/record=b1373637~S13 
+      btn_label: "View at Humboldt County Library"
+      btn_class: "btn--primary"
+    - image_path: /assets/images/education/book_pnw_medicinal_sm.jpg
+      url: https://libcat.co.humboldt.ca.us/record=b1340430~S13 
+      btn_label: "View at Humboldt County Library"
+      btn_class: "btn--primary"
     
 
 
@@ -87,5 +95,6 @@ websites:
 ---
 {% include feature_row id="books_conservation" %}
 
+{% include feature_row id="books_reference" %}
 
 
