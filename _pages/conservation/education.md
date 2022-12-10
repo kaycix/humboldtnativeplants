@@ -73,11 +73,11 @@ books_conservation:
       btn_class: "btn--primary"
 
 books_reference:
-    - image_path: /assets/images/education/book_embry_native_bees_sm.jpg
-      url: https://libcat.co.humboldt.ca.us/search~S13?/Yembry&searchscope=13&SORT=D/Yembry&searchscope=13&SORT=D&SUBKEY=embry/1%2C13%2C13%2CB/frameset&FF=Yembry&searchscope=13&SORT=D&1%2C1%2C 
+    - image_path: /assets/images/education/book_plants_pnw_coast_sm.jpg
+      url: https://libcat.co.humboldt.ca.us/record=b1270478~S13 
       btn_label: "View at Humboldt County Library"
       btn_class: "btn--primary"
-
+    
 
 
 websites:
@@ -86,5 +86,6 @@ websites:
 
 ---
 {% include feature_row id="books_conservation" %}
+
 
 
