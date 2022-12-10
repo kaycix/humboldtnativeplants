@@ -75,18 +75,22 @@ books_conservation:
 books_reference:
     - image_path: /assets/images/education/book_plants_pnw_coast_sm.jpg
       url: https://libcat.co.humboldt.ca.us/record=b1270478~S13 
-      btn_label: "View at Humboldt County Library"
-      btn_class: "btn--primary"
-    - image_path: /assets/images/education/book_climate_anxiety_sm.jpg
-      url: https://libcat.co.humboldt.ca.us/record=b1373637~S13 
-      btn_label: "View at Humboldt County Library"
+      btn_label: "Find it at the Library"
       btn_class: "btn--primary"
     - image_path: /assets/images/education/book_pnw_medicinal_sm.jpg
       url: https://libcat.co.humboldt.ca.us/record=b1340430~S13 
-      btn_label: "View at Humboldt County Library"
+      btn_label: "Find it at the Library"
       btn_class: "btn--primary"
     
-
+books_climate:
+    - image_path: /assets/images/education/book_climate_anxiety_sm.jpg
+      url: https://libcat.co.humboldt.ca.us/record=b1373637~S13 
+      btn_label: "Find it at the Library"
+      btn_class: "btn--primary"
+    - image_path: /assets/images/education/book_saving_us_sm.jpg
+      url: https://libcat.co.humboldt.ca.us/record=b1388794~S13 
+      btn_label: "Find it at the Library"
+      btn_class: "btn--primary"
 
 websites:
     - title : ""
@@ -96,5 +100,7 @@ websites:
 {% include feature_row id="books_conservation" %}
 
 {% include feature_row id="books_reference" %}
+
+{% include feature_row id="books_climate" %}
 
 
