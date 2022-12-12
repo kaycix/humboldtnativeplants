@@ -893,9 +893,18 @@ nav.pagination {
 
 .small_feature_row .feature__item { 
     float: left;
-    margin-left: 8px;
-    margin-right: 8px;
+    margin: 0 8px 8px;
     min-width: 200px;
+}
+
+.small_feature_row .feature__item .archive__item-body {
+    position: absolute;
+    top: 95px;
+    left: 5px;
+
+    a {
+        color: #FFF;
+    }
 }
 
 @media (max-width: 37.5em) {
