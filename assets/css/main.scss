@@ -119,6 +119,10 @@ html .masthead #site-title {
 .layout--splash.index-page .page__hero--overlay {
     padding-top: 2em;
     padding-bottom: 1.5em;
+
+    h1 a {
+        color: #000;
+    }
 }
 
 .layout--splash.index-page .wrapper {
@@ -236,10 +240,6 @@ html body .site-title {
 html .masthead {
 	background-color:#FFF;
     box-shadow: 0 2px 10px 0 rgba(0,0,0,0.1);
-}
-
-html .masthead .site-title-wrapper {
-	min-width: 250px;
 }
 
 html .masthead .visible-links {
