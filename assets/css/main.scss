@@ -939,6 +939,11 @@ body.education .feature__item {
 .education-module .archive__item {
     background-color: $dark-blue-color;
     border-radius: 24px; 
+    overflow: hidden;
+
+    .archive__item-teaser {
+        border-radius: 0;
+    }
 }
 
 .education-module .archive__item-teaser {
