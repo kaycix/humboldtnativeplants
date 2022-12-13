@@ -8,48 +8,62 @@ feature_row:
   - image_path: /assets/images/cnps/garden/path_small.jpg
     alt: "CNPS Demonstration Garden"
     title: "CNPS Demonstration Garden"
-    excerpt: "This small but ambitious garden is a valuable example of what homeowners can accomplish on a small suburban lot."
+    excerpt: "Eureka, CA <br/>This small but ambitious garden is a valuable example of what homeowners can accomplish on a small suburban lot."
     url: "/garden/cnps-demo"
     btn_label: "See Details"
     btn_class: "btn--primary"
   - image_path: /assets/images/arcata_marsh/garden/walkway_small.jpg
     alt: "Arcata Marsh Garden"
     title: "Arcata Marsh Garden"
-    excerpt: "This garden's well-defined walkways and clean lines demonstrate how a native plant landscape can still look tidy and well-maintained."
+    excerpt: "Arcata, CA <br/>This garden's well-defined walkways and clean lines demonstrate how a native plant landscape can still look tidy and well-maintained."
     url: "/garden/arcata-marsh"
     btn_label: "See Details"
     btn_class: "btn--primary"
   - image_path: /assets/images/trinidad_museum/garden_pond_small.jpeg
     alt: "Trindad Museum Garden"
     title: "Trinidad Museum Garden"
-    excerpt: "The Trinidad Museum garden feels like a native plant love song. This sweet haven includes a small pond, bee hotel and meandering paths."
+    excerpt: "Trinidad, CA<br/>The Trinidad Museum garden feels like a native plant love song. This sweet haven includes a small pond, bee hotel and meandering paths."
     url: "/garden/trinidad-museum"
     btn_label: "See Details"
     btn_class: "btn--primary"
   - image_path: /assets/images/arcata_community_center/feature_image.jpeg
     alt: "Arcata Community Center Garden"
     title: "Arcata Community Center Garden"
-    excerpt: "Practical low-maintenance native landscaping in an urban setting. This small oasis is a glimpse of how native landscaping should redefine the way we use public spaces."
+    excerpt: "Arcata, CA<br/>Practical low-maintenance native landscaping in an urban setting. This small oasis is a glimpse of how native landscaping should redefine the way we use public spaces."
     url: "/garden/arcata-community-center"
     btn_label: "See Details"
     btn_class: "btn--primary"
   - image_path: /assets/images/suemeg/picnic.jpeg
     alt: "Sue-meg State Park"
     title: "Sue-meg State Park"
-    excerpt: "Strolling through this native plant garden feels a bit like discovering a secret garden with its lush, sprawling vegetation. Located beside a reconstructed Yurok village."
+    excerpt: "Trinidad, CA<br/>Strolling through this native plant garden feels a bit like discovering a secret garden with its lush, sprawling vegetation. Located beside a reconstructed Yurok village."
     url: "/garden/suemeg"
     btn_label: "See Details"
     btn_class: "btn--primary"
   - image_path: /assets/images/sequoia_park_zoo/gilia_bee.jpg
     alt: "Sequoia Park Zoo"
     title: "Sequoia Park Zoo"
-    excerpt: "Our local zoo's extensive commitment to native plants starts with a wonderful example of a native hedge all along W street."
+    excerpt: "Eureka, CA<br/>Our local zoo's extensive commitment to native plants starts with a wonderful example of a native hedge all along W street."
     url: "/garden/zoo"
     btn_label: "See Details"
     btn_class: "btn--primary"
-#  - image_path: /assets/images/icons/coming-soon.jpg
-#    alt: "Humboldt Botanical Garden"
-#    title: "Humboldt Botanical Garden"
+
+  - image_path: /assets/images/icons/coming-soon.jpg
+    alt: "Humboldt Botanical Garden"
+    title: "Humboldt Botanical Garden"
+    excerpt: "Eureka, CA<br/>"
+  - image_path: /assets/images/icons/coming-soon.jpg
+    alt: "Hadley Gardens"
+    title: "Hadley Gardens"
+    excerpt: "Ferndale, CA<br/>"
+  - image_path: /assets/images/icons/coming-soon.jpg
+    alt: "Jefferson Community Center"
+    title: "Jefferson Community Center"
+    excerpt: "Eureka, CA<br/>"
+  - image_path: /assets/images/icons/coming-soon.jpg
+    alt: "Hiller Park Botanical Garden"
+    title: "Hiller Park Botanical Garden"
+    excerpt: "McKinleyville, CA<br/>"
 
 ---
 
