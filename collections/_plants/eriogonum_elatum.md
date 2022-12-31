@@ -18,6 +18,10 @@ categories: [
         # wildlife
         ,butterfly
         ,bee
+        
+        # habitat
+        ,habitat_chaparral
+        ,habitat_woodland
       ]
 
 sun_requirements:

@@ -18,11 +18,15 @@ categories: [humboldt_county_native
         ,cnps_2022_fall
         ,cnps_2022_spring
 
+        # wildlife
         ,butterfly
         ,bird
         ,bee
 
         ,beginner
+
+        #habitat
+        ,habitat_coastal
         ]
 
 sun_requirements:

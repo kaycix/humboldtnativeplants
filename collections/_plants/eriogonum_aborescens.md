@@ -15,6 +15,9 @@ categories: [
         ,butterfly
         ,bee
         ,bird
+        
+        # habitat
+        ,habitat_chaparral
       ]
 
 sun_requirements:

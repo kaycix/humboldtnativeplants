@@ -61,9 +61,9 @@ feature_row:
     title: "Jefferson Community Center"
     excerpt: "Eureka, CA<br/>"
   - image_path: /assets/images/icons/coming-soon.jpg
-    alt: "Hiller Park Botanical Garden"
-    title: "Hiller Park Botanical Garden"
-    excerpt: "McKinleyville, CA<br/>"
+    alt: "Hiller Park Botanical Garden (In Progress)"
+    title: "Hiller Park Botanical Garden (In Progress)"
+    excerpt: "McKinleyville, CA<br/>The existing botanical garden is getting a native plant overhaul. This effort began in Fall 2022 and will continue in 2023"
 
 ---
 

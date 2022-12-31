@@ -9,20 +9,29 @@ type: "perennial herb"
 
 native_to: "Humboldt"
 
-categories: [humboldt_county_native
+categories: [
+        humboldt_county_native
        
         #inventory 
         ,inventory_cnps_2022_05
         ,cnps_master_inventory
         ,cnps_2022_fall
         ,cnps_2022_spring
-        ,wildradish
+        
+        #landscaping
+        ,groundcover
 
+        # wildlife
         ,butterfly
+
+        # habitat
+        ,habitat_woodland
+        ,habitat_riparian
+        habitat_meadow
       ]
 
 sun_requirements:
-  - "Full Sun"
+  - "Shade"
   - "Part Shade"
 # min then max in feet
 plant_size:

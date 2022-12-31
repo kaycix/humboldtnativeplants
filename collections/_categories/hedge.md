@@ -11,4 +11,3 @@ header:
 intro: 
     - excerpt: "Planting a native hedgerow will add functional beauty and biodiversity to your yard. A hedgerow can be created with various groupings of native plants in a layered canopy. They can also look like a more traditional monoculture. These are a few of our go-to recommendations for adding some privacy to yard. Plant data from <a href='/nursery/northcoast-cnps'>North Coast CNPS Nursery Committee</a>"
 ---
-

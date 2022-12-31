@@ -16,11 +16,15 @@ categories: [humboldt_county_native
         ,cnps_2022_spring
         ,cnps_2022_fall
 
+        # wildlife
         ,beginner        
         ,butterfly
         ,bird
         ,hummingbird
         ,container  
+
+        #habitat
+        ,habitat_coastal
     ]
 
 sun_requirements:

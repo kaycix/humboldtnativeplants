@@ -19,6 +19,10 @@ categories: [
         ,cnps_2022_fall
         ,butterfly
         ,bee
+
+
+        #habitat
+        ,habitat_woodland
       ]
 
 sun_requirements:

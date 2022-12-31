@@ -19,6 +19,8 @@ categories: [
         ,butterfly
         ,groundcover
         ,edible
+        
+        # habitat
         ,habitat_woodland
         ,habitat_chaparral
       ]

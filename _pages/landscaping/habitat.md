@@ -41,17 +41,17 @@ feature_row:
     url: "/category/habitat-chapparal"
     btn_label: "View Plants"
     btn_class: "btn--primary"
-  #- image_path: /assets/images/habitat/riparian_feature_item.jpg 
-  #  image_caption: "Photo by PixaBay"
-  #  # image source: https://pixabay.com/photos/skunk-cabbage-marsh-plant-1368182/
-  #  alt: "Riparian"
-  #  title: "Riparian"
-  #  url: "/category/habitat-riparian"
-  #  btn_label: "View Plants"
-  #  btn_class: "btn--primary"
+  - image_path: /assets/images/habitat/riparian_feature_item.jpg 
+    image_caption: "Photo by PixaBay"
+    # image source: https://pixabay.com/photos/skunk-cabbage-marsh-plant-1368182/
+    alt: "Riparian"
+    title: "Riparian"
+    url: "/category/habitat-riparian"
+    btn_label: "View Plants"
+    btn_class: "btn--primary"
 
 ---
-<div class="notice--info">This page is currently under construction - please check back for updates.</div>
+<!-- <div class="notice--info">This page is currently under construction - please check back for updates.</div> -->
 {% include feature_row %}
 
 
