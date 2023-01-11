@@ -97,10 +97,13 @@ websites:
       excerpt: ""
 
 ---
+<h2>Conservation</h2> 
 {% include feature_row id="books_conservation" %}
 
+<h2>Reference</h2>
 {% include feature_row id="books_reference" %}
 
+<h2>Climate Change</h2>
 {% include feature_row id="books_climate" %}
 
 
