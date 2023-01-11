@@ -81,6 +81,10 @@ books_reference:
       url: https://libcat.co.humboldt.ca.us/record=b1340430~S13 
       btn_label: "Find it at the Library"
       btn_class: "btn--primary"
+    - image_path: /assets/images/education/book_ca_native_plants_garden_sm.jpg
+      url: https://libcat.co.humboldt.ca.us/record=b1203730~S13 
+      btn_label: "Find it at the Library"
+      btn_class: "btn--primary"
     
 books_climate:
     - image_path: /assets/images/education/book_climate_anxiety_sm.jpg
