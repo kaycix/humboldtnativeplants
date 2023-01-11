@@ -20,7 +20,6 @@ categories: [humboldt_county_native
         # habitat
         ,habitat_coastal
       ]
-      ]
 
 sun_requirements:
   - "Full Sun"
