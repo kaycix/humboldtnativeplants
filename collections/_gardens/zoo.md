@@ -16,24 +16,26 @@ intro:
 location: Arcata
 
 gallery:
-  - url: /assets/images/arcata_community_center/walkway.jpeg
-    image_path: /assets/images/arcata_community_center/walkway.jpeg
-    alt: "Arcata Community Center Native Plant Garden."
-    title: "Arcata Community Center Plant Garden."
-  - url: /assets/images/arcata_community_center/field.jpeg
-    image_path: /assets/images/arcata_community_center/field.jpeg
-    alt: "Arcata Community Center Native Plant Garden."
-    title: "Arcata Community Center Plant Garden."
-  - url: /assets/images/arcata_community_center/sign.jpeg
-    image_path: /assets/images/arcata_community_center/sign.jpeg
-    alt: "Arcata Community Center Native Plant Garden."
-    title: "Arcata Community Center Plant Garden."
+  - url: /assets/images/sequoia_park_zoo/sign.jpeg
+    image_path: /assets/images/sequoia_park_zoo/sign.jpeg
+    alt: ""
+    title: ""
+  - url: /assets/images/sequoia_park_zoo/silk_tassel.jpeg
+    image_path: /assets/images/sequoia_park_zoo/silk_tassel.jpeg
+    alt: "Coast Silk Tassel in bloom"
+    title: "Coast Silk Tassel in bloom "
+  - url: /assets/images/sequoia_park_zoo/oregon_grape.jpeg
+    image_path: /assets/images/sequoia_park_zoo/oregon_grape.jpeg
+    alt: "Ferns and Oregon Grape along the otter exhibit."
+    title: "Ferns and Oregon Grape along the otter exhibit."
 
 garden_tag_name: "sequoia_park_zoo"
 
 type: "demo"
 ---
 {% include feature_row id="intro" type="center" %}
+
+{% include gallery caption="" %}
 
 {% include plants_by_garden_category.html 
            garden = page.garden_tag_name %}
