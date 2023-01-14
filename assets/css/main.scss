@@ -27,7 +27,8 @@ html h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.75em;
+    font-weight: 400;
     margin: 0;
 }
 
@@ -900,6 +901,7 @@ nav.pagination {
     position: absolute;
     bottom: 6px;
     left: 8px;
+    font-weight: 700;
 
     a {
         color: #FFF;

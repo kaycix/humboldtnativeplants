@@ -55,8 +55,8 @@ browse_plants:
 public_gardens:
   - image_path: /assets/images/cnps/garden/flower.jpg
     image_caption: CK Photography
-    title: "Visit Native Plant Gardens"
-    excerpt: "Visit local native plant gardens for ideas and inspiration - from Eureka to Trinidad. These gardens can give you ideas for creating beautiful and beneficial landscapes with native plants."
+    title: "Gardens near you"
+    excerpt: "Visit local native plant gardens for ideas and inspiration. These gardens demonstrate that landscaping can be both beautiful and beneficial."
     url: "/gardens"
     btn_label: "READ MORE &#8594;"
 
@@ -78,8 +78,8 @@ landscaping:
 
 nurseries:
   - image_path: /assets/images/seaside_daisy.jpeg 
-    title: "Where to Buy Native Plants"
-    excerpt: "Enhance your yard with drought-tolerant and pollinator-friendly native plants. Get to know our local nurseries that carry Humboldt County and California native plants. Find online sources for seeds and plants."
+    title: "Purchase native plants"
+    excerpt: "Enhance your yard with drought-tolerant and pollinator-friendly native plants. Get to know our local nurseries that carry Humboldt County and California native plants."
     url: "/nurseries"
     btn_label: "READ MORE &#8594;"
 
@@ -92,8 +92,8 @@ education:
 
 volunteer:
   - image_path: /assets/images/redwoods.jpeg 
-    title: "Volunteer Opportunities"
-    excerpt: "Volunteers play a critical role in helping local organizations meet their conservation goals. Learn about the natural world, save redwoods, spread native plants and make a positive impact on the world around us. Help to be a part of the change you want to see!"
+    title: "Volunteer opportunities"
+    excerpt: "Learn about the natural world while saving redwoods, spreading native plants and making a positive impact on the world around us."
     url: "/connection/volunteer"
     btn_label: "READ MORE &#8594;"
 
